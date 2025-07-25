@@ -1,0 +1,5519 @@
+{
+  "lastUpdated": "2025-07-25T21:28:51.986Z",
+  "totalInjuries": 251,
+  "league": "MLB",
+  "injuries": [
+    {
+      "playerId": "dd788cd1-076e-48a7-912a-89508baeb58a",
+      "playerName": "Gavin Stone",
+      "firstName": "Gavin",
+      "lastName": "Stone",
+      "position": "P",
+      "jersey": "35",
+      "team": {
+        "id": "ef64da7f-cfaf-4300-87b0-9313386b977c",
+        "name": "Dodgers",
+        "market": "Los Angeles"
+      },
+      "injury": {
+        "id": "001a1227-b51c-4459-ba45-0a99d3627e55",
+        "status": "D60",
+        "startDate": "2025-02-11",
+        "description": "Shoulder",
+        "comment": "The Los Angeles Dodgers placed RHP Gavin Stone on the 60-day injured list as he undergone right shoulder surgery, and is likely to miss the entire 2025 season.",
+        "updateDate": "2025-02-11"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.964Z"
+    },
+    {
+      "playerId": "3db92c3c-bf71-40f8-89a7-f6361af5c6e7",
+      "playerName": "Evan Phillips",
+      "firstName": "Evan",
+      "lastName": "Phillips",
+      "position": "P",
+      "jersey": "59",
+      "team": {
+        "id": "ef64da7f-cfaf-4300-87b0-9313386b977c",
+        "name": "Dodgers",
+        "market": "Los Angeles"
+      },
+      "injury": {
+        "id": "0482f8a8-4754-47b4-b032-a2b8fa9a6491",
+        "status": "D60",
+        "startDate": "2025-05-07",
+        "description": "forearm",
+        "comment": "The Los Angeles Dodgers transferred RHP Evan Phillips to the 60-day injured list due to right forearm discomfort.",
+        "updateDate": "2025-05-29"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "c144f063-3940-472c-b607-9e5359844431",
+      "playerName": "Tony Gonsolin",
+      "firstName": "Anthony",
+      "lastName": "Gonsolin",
+      "position": "P",
+      "jersey": "26",
+      "team": {
+        "id": "ef64da7f-cfaf-4300-87b0-9313386b977c",
+        "name": "Dodgers",
+        "market": "Los Angeles"
+      },
+      "injury": {
+        "id": "42ebefd4-cf05-4288-8eef-c0043e52bdac",
+        "status": "D60",
+        "startDate": "2025-06-07",
+        "description": "Elbow",
+        "comment": "The Los Angeles Dodgers transferred RHP Tony Gonsolin to the 60-day injured list with a right elbow discomfort.",
+        "updateDate": "2025-06-19"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "43862b88-c119-4625-b138-f3c5ea1b8b06",
+      "playerName": "Brusdar Graterol",
+      "firstName": "Brusdar",
+      "lastName": "Graterol",
+      "position": "P",
+      "jersey": "48",
+      "team": {
+        "id": "ef64da7f-cfaf-4300-87b0-9313386b977c",
+        "name": "Dodgers",
+        "market": "Los Angeles"
+      },
+      "injury": {
+        "id": "453cf86a-b13f-4281-987e-cd25ea708986",
+        "status": "D60",
+        "startDate": "2025-03-17",
+        "description": "Shoulder",
+        "comment": "The Los Angeles Dodgers placed RHP Brusdar Graterol on the 60-day injured list as he recovers from right shoulder surgery.",
+        "updateDate": "2025-03-17"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "71030153-fc1d-4d95-97c9-bad577a41b6c",
+      "playerName": "Michael Grove",
+      "firstName": "Michael",
+      "lastName": "Grove",
+      "position": "P",
+      "jersey": "29",
+      "team": {
+        "id": "ef64da7f-cfaf-4300-87b0-9313386b977c",
+        "name": "Dodgers",
+        "market": "Los Angeles"
+      },
+      "injury": {
+        "id": "6364ea12-2260-4d64-8f5d-1f0e4bb99b98",
+        "status": "D60",
+        "startDate": "2025-03-17",
+        "description": "Shoulder",
+        "comment": "The Los Angeles Dodgers placed RHP Michael Grove on the 60-day injured list as he recovers from right shoulder surgery.",
+        "updateDate": "2025-03-17"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "b1164821-c03e-4826-89ba-94891d44c2d5",
+      "playerName": "Kyle Hurt",
+      "firstName": "Kyle",
+      "lastName": "Hurt",
+      "position": "P",
+      "jersey": "63",
+      "team": {
+        "id": "ef64da7f-cfaf-4300-87b0-9313386b977c",
+        "name": "Dodgers",
+        "market": "Los Angeles"
+      },
+      "injury": {
+        "id": "6eb6e012-2dc7-4ddf-ab30-a3f15225b105",
+        "status": "D60",
+        "startDate": "2025-03-17",
+        "description": "Elbow",
+        "comment": "The Los Angeles Dodgers transferred SP Kyle Hurt from the 15-day injured list to the 60-day injured list as he recovers from Tommy John surgery.",
+        "updateDate": "2025-04-02"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "998eaf5a-e1b2-4baa-af3c-2fb4e8ded567",
+      "playerName": "Michael Kopech",
+      "firstName": "Michael",
+      "lastName": "Kopech",
+      "position": "P",
+      "jersey": "45",
+      "team": {
+        "id": "ef64da7f-cfaf-4300-87b0-9313386b977c",
+        "name": "Dodgers",
+        "market": "Los Angeles"
+      },
+      "injury": {
+        "id": "7383992d-6cab-4c36-bc70-407f090af9a2",
+        "status": "D60",
+        "startDate": "2025-07-01",
+        "description": "Knee",
+        "comment": "The Los Angeles Dodgers transferred RHP Michael Kopech from the 15-day injured list to the 60-day injured list with right knee inflammation.",
+        "updateDate": "2025-07-09"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "abf9a77c-6b7f-40f8-a0ea-df8353ae7a8b",
+      "playerName": "Blake Treinen",
+      "firstName": "Blake",
+      "lastName": "Treinen",
+      "position": "P",
+      "jersey": "49",
+      "team": {
+        "id": "ef64da7f-cfaf-4300-87b0-9313386b977c",
+        "name": "Dodgers",
+        "market": "Los Angeles"
+      },
+      "injury": {
+        "id": "7626733f-e1cf-4cd6-aa7c-e60348ca2a8d",
+        "status": "D60",
+        "startDate": "2025-04-19",
+        "description": "Forearm",
+        "comment": "The Los Angeles Dodgers transferred RHP Blake Treinen to the 60-day injured list with forearm tightness.",
+        "updateDate": "2025-05-01"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "1af59804-5b77-4d6f-98f7-23e97a400a1b",
+      "playerName": "Roki Sasaki",
+      "firstName": "Roki",
+      "lastName": "Sasaki",
+      "position": "P",
+      "jersey": "11",
+      "team": {
+        "id": "ef64da7f-cfaf-4300-87b0-9313386b977c",
+        "name": "Dodgers",
+        "market": "Los Angeles"
+      },
+      "injury": {
+        "id": "98842774-fdcb-4c12-b1c6-4192d1405522",
+        "status": "D60",
+        "startDate": "2025-05-13",
+        "description": "Shoulder",
+        "comment": "The Los Angeles Dodgers placed RHP Roki Sasaki on the 60-day injured list with right shoulder impingement.",
+        "updateDate": "2025-06-20"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "8a7b7092-4e7b-4112-92bf-fc5d72a83d17",
+      "playerName": "Enrique Hernández",
+      "firstName": "Enrique",
+      "lastName": "Hernández",
+      "position": "IF",
+      "jersey": "8",
+      "team": {
+        "id": "ef64da7f-cfaf-4300-87b0-9313386b977c",
+        "name": "Dodgers",
+        "market": "Los Angeles"
+      },
+      "injury": {
+        "id": "a7dfb1d2-fbb4-47cf-b06a-563dc0f27017",
+        "status": "D10",
+        "startDate": "2025-07-06",
+        "description": "Elbow",
+        "comment": "The Los Angeles Dodgers placed INF Enrique Hernández on the 10-day injured list with left elbow inflammation.",
+        "updateDate": "2025-07-07"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "d692c6b5-5895-4b72-8a46-d9b9594defb6",
+      "playerName": "Max Muncy",
+      "firstName": "Maxwell",
+      "lastName": "Muncy",
+      "position": "IF",
+      "jersey": "13",
+      "team": {
+        "id": "ef64da7f-cfaf-4300-87b0-9313386b977c",
+        "name": "Dodgers",
+        "market": "Los Angeles"
+      },
+      "injury": {
+        "id": "b5c8332d-0140-4738-9641-4886286d125b",
+        "status": "D10",
+        "startDate": "2025-07-02",
+        "description": "Knee",
+        "comment": "The Los Angeles Dodgers placed INF Max Muncy on the 10-day injured list with a left knee bone bruise.",
+        "updateDate": "2025-07-03"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "717049f1-2d45-43af-895c-bd7990080775",
+      "playerName": "River Ryan",
+      "firstName": "River",
+      "lastName": "Ryan",
+      "position": "P",
+      "jersey": "77",
+      "team": {
+        "id": "ef64da7f-cfaf-4300-87b0-9313386b977c",
+        "name": "Dodgers",
+        "market": "Los Angeles"
+      },
+      "injury": {
+        "id": "c104479b-ad2a-40bb-93ac-5f57d165c189",
+        "status": "D60",
+        "startDate": "2025-02-13",
+        "description": "Elbow",
+        "comment": "The Los Angeles Dodgers placed RHP River Ryan on the 60-day injured list as he recovers from Tommy John surgery.",
+        "updateDate": "2025-02-13"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "011cefa8-4e1f-410e-a9e1-49d55b2d276a",
+      "playerName": "Ben Casparius",
+      "firstName": "Benjamin",
+      "lastName": "Casparius",
+      "position": "P",
+      "jersey": "78",
+      "team": {
+        "id": "ef64da7f-cfaf-4300-87b0-9313386b977c",
+        "name": "Dodgers",
+        "market": "Los Angeles"
+      },
+      "injury": {
+        "id": "d845135e-5e59-4bf0-b9ad-417af47b961b",
+        "status": "Day-to-Day",
+        "startDate": "2025-07-22",
+        "description": "Calf",
+        "comment": "Casparius is not in the starting lineup for Friday's (Jul. 25) game against the Red Sox.",
+        "updateDate": "2025-07-25"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "1a191c8a-25d8-4c89-8f54-5817cc666a64",
+      "playerName": "Blake Snell",
+      "firstName": "Blake",
+      "lastName": "Snell",
+      "position": "P",
+      "jersey": "7",
+      "team": {
+        "id": "ef64da7f-cfaf-4300-87b0-9313386b977c",
+        "name": "Dodgers",
+        "market": "Los Angeles"
+      },
+      "injury": {
+        "id": "f31e32aa-569d-4f4b-8c87-a14c8293a91a",
+        "status": "D60",
+        "startDate": "2025-04-06",
+        "description": "Shoulder",
+        "comment": "The Los Angeles Dodgers transferred LHP Blake Snell to the 60-day injured list due to a shoulder inflammation.",
+        "updateDate": "2025-05-17"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "9e883466-7d2d-45a0-a509-44c14aeff967",
+      "playerName": "Tanner Scott",
+      "firstName": "Tanner",
+      "lastName": "Scott",
+      "position": "P",
+      "jersey": "66",
+      "team": {
+        "id": "ef64da7f-cfaf-4300-87b0-9313386b977c",
+        "name": "Dodgers",
+        "market": "Los Angeles"
+      },
+      "injury": {
+        "id": "f84350d2-eac5-4234-a0c6-32084b5f20bb",
+        "status": "D15",
+        "startDate": "2025-07-22",
+        "description": "Elbow",
+        "comment": "The Los Angeles Dodgers placed LHP Tanner Scott on the 15-day injured list with left elbow inflammation.",
+        "updateDate": "2025-07-22"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "168e458f-a73b-4361-b25b-31fe1eb50e61",
+      "playerName": "Josh Winckowski",
+      "firstName": "Joshua",
+      "lastName": "Winckowski",
+      "position": "P",
+      "jersey": "25",
+      "team": {
+        "id": "93941372-eb4c-4c40-aced-fe3267174393",
+        "name": "Red Sox",
+        "market": "Boston"
+      },
+      "injury": {
+        "id": "0147e6e8-eb2b-4fa8-babe-f53f684d8a78",
+        "status": "D60",
+        "startDate": "2025-06-07",
+        "description": "Elbow",
+        "comment": "The Boston Red Sox placed RHP Josh Winckowski on the 60-day injured list as he recovers from elbow inflammation in mid-May.",
+        "updateDate": "2025-06-07"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "28199545-5889-459a-bae2-4052a3409db9",
+      "playerName": "Luis Guerrero",
+      "firstName": "Luis",
+      "lastName": "Guerrero",
+      "position": "P",
+      "jersey": "99",
+      "team": {
+        "id": "93941372-eb4c-4c40-aced-fe3267174393",
+        "name": "Red Sox",
+        "market": "Boston"
+      },
+      "injury": {
+        "id": "0501e10d-17d3-4d63-89eb-246874911c8e",
+        "status": "D15",
+        "startDate": "2025-06-28",
+        "description": "Elbow",
+        "comment": "The Boston Red Sox placed RHP Luis Guerrero on the 15-day injured list due to a right elbow strain.",
+        "updateDate": "2025-06-28"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "1b0ad742-0bc5-49b0-abe0-005e8581b1d3",
+      "playerName": "Tanner Houck",
+      "firstName": "Tanner",
+      "lastName": "Houck",
+      "position": "P",
+      "jersey": "89",
+      "team": {
+        "id": "93941372-eb4c-4c40-aced-fe3267174393",
+        "name": "Red Sox",
+        "market": "Boston"
+      },
+      "injury": {
+        "id": "40883add-53e3-43fb-8eb3-fa510dceb6ca",
+        "status": "D15",
+        "startDate": "2025-05-13",
+        "description": "Flexor",
+        "comment": "The Boston Red Sox placed RHP Tanner Houck on the 15-day injured list with a right flexor pronator strain, retroactive to May 13.",
+        "updateDate": "2025-05-14"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "f9b432ce-f49c-4da0-8970-d3654041ea28",
+      "playerName": "Marcelo Mayer",
+      "firstName": "Marcelo",
+      "lastName": "Mayer",
+      "position": "IF",
+      "jersey": "39",
+      "team": {
+        "id": "93941372-eb4c-4c40-aced-fe3267174393",
+        "name": "Red Sox",
+        "market": "Boston"
+      },
+      "injury": {
+        "id": "4b96a53e-2ee8-4b33-a98c-5bbd2d53e0c8",
+        "status": "D10",
+        "startDate": "2025-07-23",
+        "description": "Wrist",
+        "comment": "The Red Sox placed INF Marcelo Mayer on the 10-day injured list due to a sprained right wrist.",
+        "updateDate": "2025-07-25"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "f69252fd-0aa5-4043-9875-d0aa4915056a",
+      "playerName": "Patrick Sandoval",
+      "firstName": "Patrick",
+      "lastName": "Sandoval",
+      "position": "P",
+      "jersey": "43",
+      "team": {
+        "id": "93941372-eb4c-4c40-aced-fe3267174393",
+        "name": "Red Sox",
+        "market": "Boston"
+      },
+      "injury": {
+        "id": "61083a39-baf2-479f-8889-585f31d33bda",
+        "status": "D60",
+        "startDate": "2025-02-15",
+        "description": "Elbow",
+        "comment": "The Boston Red Sox placed LHP Patrick Sandoval on the 60-day injured list as he recovers from his Tommy John surgery.",
+        "updateDate": "2025-02-15"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "9032d213-22a1-43b9-be80-96f04c50d422",
+      "playerName": "Nick Burdi",
+      "firstName": "Nicholas",
+      "lastName": "Burdi",
+      "position": "P",
+      "jersey": "68",
+      "team": {
+        "id": "93941372-eb4c-4c40-aced-fe3267174393",
+        "name": "Red Sox",
+        "market": "Boston"
+      },
+      "injury": {
+        "id": "70a38770-7db8-42f5-9810-19fe2ec3adf2",
+        "status": "D60",
+        "startDate": "2025-06-03",
+        "description": "Knee",
+        "comment": "The Boston Red Sox transferred RHP Nick Burdi to the 60-day injured list with a right foot contusion.",
+        "updateDate": "2025-07-09"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "1d2d4e69-08fb-4f8a-98bb-839344561807",
+      "playerName": "Liam Hendriks",
+      "firstName": "Liam",
+      "lastName": "Hendriks",
+      "position": "P",
+      "jersey": "31",
+      "team": {
+        "id": "93941372-eb4c-4c40-aced-fe3267174393",
+        "name": "Red Sox",
+        "market": "Boston"
+      },
+      "injury": {
+        "id": "732e3aae-70de-4d08-9209-76d3c35dfce4",
+        "status": "D60",
+        "startDate": "2025-05-28",
+        "description": "Hip",
+        "comment": "The Boston Red Sox transferred RHP Liam Hendriks to the 60-day injured list with right hip inflammation.",
+        "updateDate": "2025-07-08"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "d548d8c4-f974-4ee8-873f-16b72429d2c3",
+      "playerName": "Kutter Crawford",
+      "firstName": "Kutter",
+      "lastName": "Crawford",
+      "position": "P",
+      "jersey": "50",
+      "team": {
+        "id": "93941372-eb4c-4c40-aced-fe3267174393",
+        "name": "Red Sox",
+        "market": "Boston"
+      },
+      "injury": {
+        "id": "93b00e94-5c36-4976-b6a7-3eb0c08a46bd",
+        "status": "D60",
+        "startDate": "2025-03-24",
+        "description": "Knee",
+        "comment": "The Boston Red Sox placed RHP Kutter Crawford on the 60-day injured list as he recovers from right patellar tendinopathy. Crawford will undergo what will likely be season-ending surgery on his right wrist as reported on (Jun. 25) Wednesday.",
+        "updateDate": "2025-05-16"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "9d251d7a-c88a-481c-be6a-22fdfc7a1cfe",
+      "playerName": "Justin Slaten",
+      "firstName": "Justin",
+      "lastName": "Slaten",
+      "position": "P",
+      "jersey": "63",
+      "team": {
+        "id": "93941372-eb4c-4c40-aced-fe3267174393",
+        "name": "Red Sox",
+        "market": "Boston"
+      },
+      "injury": {
+        "id": "bc28e12e-963f-4841-8947-8c4623a2f7ad",
+        "status": "D60",
+        "startDate": "2025-05-29",
+        "description": "Shoulder",
+        "comment": "The Boston Red Sox transferred RHP Justin Slaten from the 15-day injured list to the 60-day injured list with right shoulder inflammation.",
+        "updateDate": "2025-06-28"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "df569e68-70ff-479b-8839-554ebd6ea2fb",
+      "playerName": "Hunter Dobbins",
+      "firstName": "Hunter",
+      "lastName": "Dobbins",
+      "position": "P",
+      "jersey": "73",
+      "team": {
+        "id": "93941372-eb4c-4c40-aced-fe3267174393",
+        "name": "Red Sox",
+        "market": "Boston"
+      },
+      "injury": {
+        "id": "c006e0c5-7736-4efd-b0c9-61fa1ebdf65e",
+        "status": "D15",
+        "startDate": "2025-07-11",
+        "description": "ACL",
+        "comment": "The Boston Red Sox placed RHP Hunter Dobbins on the 15-day injured list with a right ACL tear..",
+        "updateDate": "2025-07-12"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "075288e5-b3f7-455d-88b6-79a37a0986e6",
+      "playerName": "Zack Kelly",
+      "firstName": "Zachery",
+      "lastName": "Kelly",
+      "position": "P",
+      "jersey": "76",
+      "team": {
+        "id": "93941372-eb4c-4c40-aced-fe3267174393",
+        "name": "Red Sox",
+        "market": "Boston"
+      },
+      "injury": {
+        "id": "c00d3a29-213e-4990-9ee6-dcf71164eeff",
+        "status": "D15",
+        "startDate": "2025-07-04",
+        "description": "Oblique",
+        "comment": "The Boston Red Sox placed RHP Zack Kelly on the 15-day injured list due to an oblique injury.",
+        "updateDate": "2025-07-04"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "3a1835ea-ac3e-4a62-a5ef-7705c26dd802",
+      "playerName": "Triston Casas",
+      "firstName": "Triston",
+      "lastName": "Casas",
+      "position": "IF",
+      "jersey": "36",
+      "team": {
+        "id": "93941372-eb4c-4c40-aced-fe3267174393",
+        "name": "Red Sox",
+        "market": "Boston"
+      },
+      "injury": {
+        "id": "dddd85b5-b0ac-4424-9f11-ae32ccc6d872",
+        "status": "D60",
+        "startDate": "2025-05-02",
+        "description": "Knee",
+        "comment": "The Boston Red Sox transferred INF Triston Casas to the 60-day injured list due to a left patellar tendon rupture. Casas will be off crutches in two weeks and expects to be ready for Opening Day next season, Jen McCaffrey of The Athletic reports.",
+        "updateDate": "2025-06-03"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "22dabc06-611e-4d36-81af-7153e7ba86e6",
+      "playerName": "Paul Sewald",
+      "firstName": "Paul",
+      "lastName": "Sewald",
+      "position": "P",
+      "jersey": "34",
+      "team": {
+        "id": "80715d0d-0d2a-450f-a970-1b9a3b18c7e7",
+        "name": "Guardians",
+        "market": "Cleveland"
+      },
+      "injury": {
+        "id": "04173cc4-65a1-4eaa-94e2-49cf9786f06a",
+        "status": "D15",
+        "startDate": "2025-07-12",
+        "description": "Shoulder",
+        "comment": "The Cleveland Guardians placed RHP Paul Sewald on the 15-day injured list with a right shoulder strain.",
+        "updateDate": "2025-07-15"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "2f674dee-9b74-4058-851c-9219c807ecee",
+      "playerName": "Andrew Walters",
+      "firstName": "Andrew",
+      "lastName": "Walters",
+      "position": "P",
+      "jersey": "91",
+      "team": {
+        "id": "80715d0d-0d2a-450f-a970-1b9a3b18c7e7",
+        "name": "Guardians",
+        "market": "Cleveland"
+      },
+      "injury": {
+        "id": "1e8c91d1-cc2c-4ef0-8568-b7e307849f6b",
+        "status": "D60",
+        "startDate": "2025-05-31",
+        "description": "Lat",
+        "comment": "The Cleveland Guardians transferred RHP Andrew Walters to the 60-day injured list with a right lat strain.",
+        "updateDate": "2025-06-06"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "19531254-3669-4d66-a1ac-c1264e6cb3bb",
+      "playerName": "Sam Hentges",
+      "firstName": "Sam D.",
+      "lastName": "Hentges",
+      "position": "P",
+      "jersey": "31",
+      "team": {
+        "id": "80715d0d-0d2a-450f-a970-1b9a3b18c7e7",
+        "name": "Guardians",
+        "market": "Cleveland"
+      },
+      "injury": {
+        "id": "3285e840-10e2-4f76-b34f-ba6c1d1e5558",
+        "status": "D60",
+        "startDate": "2025-02-16",
+        "description": "Shoulder",
+        "comment": "The Cleveland Guardians placed LHP Sam Hentges on the 60-day injured list as he recovers from shoulder capsule repair.",
+        "updateDate": "2025-02-16"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "d6c41179-8aef-407c-843d-225a397935f0",
+      "playerName": "John Means",
+      "firstName": "John",
+      "lastName": "Means",
+      "position": "P",
+      "jersey": "47",
+      "team": {
+        "id": "80715d0d-0d2a-450f-a970-1b9a3b18c7e7",
+        "name": "Guardians",
+        "market": "Cleveland"
+      },
+      "injury": {
+        "id": "54a1d2b1-a4bc-42f3-8a33-0aae52ee46f8",
+        "status": "D60",
+        "startDate": "2025-03-27",
+        "description": "Elbow",
+        "comment": "The Cleveland Guardians transferred LHP John Means from the 15-day injured list to the 60-day injured list as he recovers from UCL revision.",
+        "updateDate": "2025-04-08"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "197d4140-84fd-43d4-b9ee-4506549c3be9",
+      "playerName": "Trevor Stephan",
+      "firstName": "Trevor",
+      "lastName": "Stephan",
+      "position": "P",
+      "jersey": "37",
+      "team": {
+        "id": "80715d0d-0d2a-450f-a970-1b9a3b18c7e7",
+        "name": "Guardians",
+        "market": "Cleveland"
+      },
+      "injury": {
+        "id": "65a6a73d-4a16-4562-9650-ea91f4cee83a",
+        "status": "D60",
+        "startDate": "2025-03-27",
+        "description": "Elbow",
+        "comment": "The Cleveland Guardians transferred RHP Trevor Stephan from the 15-day injured list to the 60-day injured list due to a UCL reconstruction.",
+        "updateDate": "2025-04-22"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "32a615d1-9a88-4cd0-be2f-d8f1d731715e",
+      "playerName": "Ben Lively",
+      "firstName": "Edward",
+      "lastName": "Lively",
+      "position": "P",
+      "jersey": "39",
+      "team": {
+        "id": "80715d0d-0d2a-450f-a970-1b9a3b18c7e7",
+        "name": "Guardians",
+        "market": "Cleveland"
+      },
+      "injury": {
+        "id": "8504b0c3-5541-4b4f-a12c-8893eededa93",
+        "status": "D60",
+        "startDate": "2025-05-12",
+        "description": "Forearm",
+        "comment": "The Cleveland Guardians transferred C Max Stassi from the 15-day injured list to the 60-day injured list. Lively is set to undergo season-ending UCL surgery and will miss the remainder of the season.",
+        "updateDate": "2025-05-30"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "73c62d3d-8dbc-465f-8dc6-0d0c2f40e4b2",
+      "playerName": "Gabriel Arias",
+      "firstName": "Gabriel",
+      "lastName": "Arias",
+      "position": "IF",
+      "jersey": "13",
+      "team": {
+        "id": "80715d0d-0d2a-450f-a970-1b9a3b18c7e7",
+        "name": "Guardians",
+        "market": "Cleveland"
+      },
+      "injury": {
+        "id": "be78ac6b-428c-4a64-8120-5880f66574eb",
+        "status": "D10",
+        "startDate": "2025-06-30",
+        "description": "Ankle",
+        "comment": "The Cleveland Guardians placed INF Gabriel Arias on the 10-day injured list with a sprained left ankle.",
+        "updateDate": "2025-07-01"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "5a6d40fb-f37a-415d-bae6-83fd66bb3322",
+      "playerName": "Shane Bieber",
+      "firstName": "Shane",
+      "lastName": "Bieber",
+      "position": "P",
+      "jersey": "57",
+      "team": {
+        "id": "80715d0d-0d2a-450f-a970-1b9a3b18c7e7",
+        "name": "Guardians",
+        "market": "Cleveland"
+      },
+      "injury": {
+        "id": "c22869d7-fc10-4829-99c2-638e81109a46",
+        "status": "D60",
+        "startDate": "2025-03-27",
+        "description": "Elbow",
+        "comment": "The Cleveland Guardians placed RHP Shane Bieber on the 60-day injured list as he recovers from Tommy John surgery.",
+        "updateDate": "2025-04-29"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "3dbbc8ce-7069-4da4-be4f-6fbee631d8a7",
+      "playerName": "Will Brennan",
+      "firstName": "William",
+      "lastName": "Brennan",
+      "position": "OF",
+      "jersey": "17",
+      "team": {
+        "id": "80715d0d-0d2a-450f-a970-1b9a3b18c7e7",
+        "name": "Guardians",
+        "market": "Cleveland"
+      },
+      "injury": {
+        "id": "c584783a-257f-4423-960e-f54484e85955",
+        "status": "D60",
+        "startDate": "2025-05-22",
+        "description": "Forearm",
+        "comment": "The Cleveland Guardians placed OF Will Brennan on the 60-day injured list with left forearm inflammation.",
+        "updateDate": "2025-06-27"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "182d02a7-c606-4a85-a635-89dd1afdac6f",
+      "playerName": "Lane Thomas",
+      "firstName": "Lane",
+      "lastName": "Thomas",
+      "position": "OF",
+      "jersey": "8",
+      "team": {
+        "id": "80715d0d-0d2a-450f-a970-1b9a3b18c7e7",
+        "name": "Guardians",
+        "market": "Cleveland"
+      },
+      "injury": {
+        "id": "f6abb44c-c032-4ef8-be0a-7bb5e8efa5ea",
+        "status": "D10",
+        "startDate": "2025-07-04",
+        "description": "Foot",
+        "comment": "The Cleveland Guardians placed OF Lane Thomas on the 10-day injured list with a right plantar fasciitis.",
+        "updateDate": "2025-07-06"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "e96d88f5-3593-48fb-b1fd-840b41c08cc5",
+      "playerName": "Jordan Montgomery",
+      "firstName": "Jordan",
+      "lastName": "Montgomery",
+      "position": "P",
+      "jersey": "52",
+      "team": {
+        "id": "25507be1-6a68-4267-bd82-e097d94b359b",
+        "name": "Diamondbacks",
+        "market": "Arizona"
+      },
+      "injury": {
+        "id": "0428bcdb-0288-48c3-95d2-3ac879826891",
+        "status": "D60",
+        "startDate": "2025-03-26",
+        "description": "Elbow",
+        "comment": "The Arizona Diamondbacks placed LHP Jordan Montgomery on the 60-day injured list due to UCL sprain.",
+        "updateDate": "2025-03-26"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "41de1f31-e472-4fdc-a0e3-082f81a51cef",
+      "playerName": "Cristian Mena",
+      "firstName": "Cristian",
+      "lastName": "Mena",
+      "position": "P",
+      "jersey": "64",
+      "team": {
+        "id": "25507be1-6a68-4267-bd82-e097d94b359b",
+        "name": "Diamondbacks",
+        "market": "Arizona"
+      },
+      "injury": {
+        "id": "4a03fdb1-7cbf-46d6-8f57-89ce34b07c09",
+        "status": "D60",
+        "startDate": "2025-06-07",
+        "description": "Shoulder",
+        "comment": "The Arizona Diamondbacks transferred RHP Cristian Mena from the 15-day injured list to the 60-day injured list with a right shoulder strain.",
+        "updateDate": "2025-06-10"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "049a45ca-5327-4e58-bb85-87c707389d30",
+      "playerName": "Ildemaro Vargas",
+      "firstName": "Ildemaro",
+      "lastName": "Vargas",
+      "position": "IF",
+      "jersey": "6",
+      "team": {
+        "id": "25507be1-6a68-4267-bd82-e097d94b359b",
+        "name": "Diamondbacks",
+        "market": "Arizona"
+      },
+      "injury": {
+        "id": "595a9107-934c-4a89-80c0-99ea3549dcbd",
+        "status": "D10",
+        "startDate": "2025-06-24",
+        "description": "Foot",
+        "comment": "The Arizona Diamondbacks placed INF Ildemaro Vargas on the 10-day injured list with a fractured fifth metatarsal in his right foot.",
+        "updateDate": "2025-06-25"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "f83736c4-6587-438f-af93-bb880f0763c5",
+      "playerName": "Shelby Miller",
+      "firstName": "Shelby",
+      "lastName": "Miller",
+      "position": "P",
+      "jersey": "18",
+      "team": {
+        "id": "25507be1-6a68-4267-bd82-e097d94b359b",
+        "name": "Diamondbacks",
+        "market": "Arizona"
+      },
+      "injury": {
+        "id": "5ef6234b-24b5-4455-b87e-968335b73506",
+        "status": "D15",
+        "startDate": "2025-07-07",
+        "description": "Forearm",
+        "comment": "The Arizona Diamondbacks placed RHP Shelby Miller on the 15-day injured list with a right forearm strain.",
+        "updateDate": "2025-07-07"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "3ce2509f-eec9-4d02-aa76-0dce03029347",
+      "playerName": "Corbin Burnes",
+      "firstName": "Corbin",
+      "lastName": "Burnes",
+      "position": "P",
+      "jersey": "39",
+      "team": {
+        "id": "25507be1-6a68-4267-bd82-e097d94b359b",
+        "name": "Diamondbacks",
+        "market": "Arizona"
+      },
+      "injury": {
+        "id": "6241cb53-b548-4599-8f07-1a0de03097bb",
+        "status": "D60",
+        "startDate": "2025-06-02",
+        "description": "Elbow",
+        "comment": "The Arizona Diamondbacks transferred RHP Corbin Burnes to the 60-day injured list with right elbow inflammation.",
+        "updateDate": "2025-06-07"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "0e9eddf6-e2b9-48e0-9f34-98e7f0c37988",
+      "playerName": "Pavin Smith",
+      "firstName": "Pavin",
+      "lastName": "Smith",
+      "position": "OF",
+      "jersey": "26",
+      "team": {
+        "id": "25507be1-6a68-4267-bd82-e097d94b359b",
+        "name": "Diamondbacks",
+        "market": "Arizona"
+      },
+      "injury": {
+        "id": "725c8d51-3693-4930-b210-d86426839264",
+        "status": "D10",
+        "startDate": "2025-07-06",
+        "description": "Oblique",
+        "comment": "The Arizona Diamondbacks placed OF Pavin Smith on the 10-day injured list due to a right oblique strain.",
+        "updateDate": "2025-07-06"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "05b5805b-3b4e-40f6-982b-03081465c961",
+      "playerName": "Ryan Thompson",
+      "firstName": "Ryan",
+      "lastName": "Thompson",
+      "position": "P",
+      "jersey": "81",
+      "team": {
+        "id": "25507be1-6a68-4267-bd82-e097d94b359b",
+        "name": "Diamondbacks",
+        "market": "Arizona"
+      },
+      "injury": {
+        "id": "856c566a-478a-4453-a64d-325074849e7a",
+        "status": "D15",
+        "startDate": "2025-07-05",
+        "description": "Scapular Strain",
+        "comment": "The Arizona Diamondbacks placed RHP Ryan Thompson on the 15-day injured list with a right scapular strain.",
+        "updateDate": "2025-07-06"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "47bbd747-6edc-4d0e-a976-5228f5003fbd",
+      "playerName": "Gabriel Moreno",
+      "firstName": "Gabriel",
+      "lastName": "Moreno",
+      "position": "C",
+      "jersey": "14",
+      "team": {
+        "id": "25507be1-6a68-4267-bd82-e097d94b359b",
+        "name": "Diamondbacks",
+        "market": "Arizona"
+      },
+      "injury": {
+        "id": "94035114-4b66-4f95-be45-5a18936d9026",
+        "status": "D60",
+        "startDate": "2025-06-17",
+        "description": "Hand",
+        "comment": "The Arizona Diamondbacks transferred C Gabriel Moreno to the 60-day injured list with right hand contusion.",
+        "updateDate": "2025-07-18"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "0b72206e-0b85-43b9-a836-8a538269c2e1",
+      "playerName": "Christian Montes De Oca",
+      "firstName": "Christian",
+      "lastName": "Montes De Oca",
+      "position": "P",
+      "jersey": "59",
+      "team": {
+        "id": "25507be1-6a68-4267-bd82-e097d94b359b",
+        "name": "Diamondbacks",
+        "market": "Arizona"
+      },
+      "injury": {
+        "id": "962e04b0-d96c-49b6-a80c-0b8097290556",
+        "status": "D60",
+        "startDate": "2025-06-10",
+        "description": "Elbow",
+        "comment": "The Arizona Diamondbacks transferred RHP Christian Montes De Oca from the 15-day injured list to the 60-day injured list with a right elbow inflammation.",
+        "updateDate": "2025-06-19"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "c55e9b75-ed61-4ea6-8cad-ff10854f7c80",
+      "playerName": "Blake Walston",
+      "firstName": "Matthew",
+      "lastName": "Walston",
+      "position": "P",
+      "jersey": "48",
+      "team": {
+        "id": "25507be1-6a68-4267-bd82-e097d94b359b",
+        "name": "Diamondbacks",
+        "market": "Arizona"
+      },
+      "injury": {
+        "id": "b637023b-b347-4439-898f-b0bb2e93efa2",
+        "status": "D60",
+        "startDate": "2025-03-23",
+        "description": "Elbow",
+        "comment": "The Arizona Diamondbacks placed LHP Blake Walston on the 60-day injured list as he recovers from Tommy John surgery. He's expected to miss the 2025 season.",
+        "updateDate": "2025-03-23"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "7a0da377-a34c-42ba-ac84-5815ad1c0aae",
+      "playerName": "Tommy Henry",
+      "firstName": "Thomas",
+      "lastName": "Henry",
+      "position": "P",
+      "jersey": "47",
+      "team": {
+        "id": "25507be1-6a68-4267-bd82-e097d94b359b",
+        "name": "Diamondbacks",
+        "market": "Arizona"
+      },
+      "injury": {
+        "id": "c6d39806-8dce-4cfd-9a7b-4f585bf0c7d1",
+        "status": "D60",
+        "startDate": "2025-07-06",
+        "description": "Elbow",
+        "comment": "The Arizona Diamondbacks placed LHP Tommy Henry on the 60-day injured list due to left ulnar collateral ligament surgery.",
+        "updateDate": "2025-07-06"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "d4bf1d64-870f-40fc-95a6-45ed8c1b8696",
+      "playerName": "A.J. Puk",
+      "firstName": "Andrew",
+      "lastName": "Puk",
+      "position": "P",
+      "jersey": "33",
+      "team": {
+        "id": "25507be1-6a68-4267-bd82-e097d94b359b",
+        "name": "Diamondbacks",
+        "market": "Arizona"
+      },
+      "injury": {
+        "id": "c83a0670-f576-4716-a9da-bd65749c4135",
+        "status": "D60",
+        "startDate": "2025-04-19",
+        "description": "Elbow",
+        "comment": "The Arizona Diamondbacks transferred LHP A.J. Puk from the 15-day injured list to the 60-day injured list with a left elbow inflammation.",
+        "updateDate": "2025-05-01"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "4c8f7362-8eb9-4b8f-b7d7-1f414a8a81ce",
+      "playerName": "Jalen Beeks",
+      "firstName": "Jalen",
+      "lastName": "Beeks",
+      "position": "P",
+      "jersey": "68",
+      "team": {
+        "id": "25507be1-6a68-4267-bd82-e097d94b359b",
+        "name": "Diamondbacks",
+        "market": "Arizona"
+      },
+      "injury": {
+        "id": "f0b3cb96-48b5-4f19-862d-d37cd1f45279",
+        "status": "D15",
+        "startDate": "2025-07-11",
+        "description": "Back",
+        "comment": "The Arizona Diamondbacks placed LHP Jalen Beeks on the 15-day injured list with lower back inflammation.",
+        "updateDate": "2025-07-11"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "049f14e2-3e08-4485-8019-a3891d30501b",
+      "playerName": "Justin Martinez",
+      "firstName": "Justin",
+      "lastName": "Martinez",
+      "position": "P",
+      "jersey": "63",
+      "team": {
+        "id": "25507be1-6a68-4267-bd82-e097d94b359b",
+        "name": "Diamondbacks",
+        "market": "Arizona"
+      },
+      "injury": {
+        "id": "fcca8574-d2f6-4a78-9bc1-24c04e378a8f",
+        "status": "D60",
+        "startDate": "2025-06-09",
+        "description": "Elbow",
+        "comment": "The Arizona Diamondbacks placed RHP Justin Martinez on the 60-day injured list with a right UCL sprain.",
+        "updateDate": "2025-06-15"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "06cbe7dd-d36e-4823-9149-2b54dd351128",
+      "playerName": "Garrett Mitchell",
+      "firstName": "Garrett",
+      "lastName": "Mitchell",
+      "position": "OF",
+      "jersey": "5",
+      "team": {
+        "id": "dcfd5266-00ce-442c-bc09-264cd20cf455",
+        "name": "Brewers",
+        "market": "Milwaukee"
+      },
+      "injury": {
+        "id": "06442a1f-fdb9-4d37-82cc-976e90090b7c",
+        "status": "D60",
+        "startDate": "2025-04-26",
+        "description": "Oblique",
+        "comment": "The Milwaukee Brewers transferred OF Garrett Mitchell from the 10-day injured list to the 60-day injured list due to a left oblique strain.",
+        "updateDate": "2025-07-06"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "a1704355-e66f-451e-9633-6514e073622d",
+      "playerName": "Rob Zastryzny",
+      "firstName": "Robert",
+      "lastName": "Zastryzny",
+      "position": "P",
+      "jersey": "58",
+      "team": {
+        "id": "dcfd5266-00ce-442c-bc09-264cd20cf455",
+        "name": "Brewers",
+        "market": "Milwaukee"
+      },
+      "injury": {
+        "id": "15c85ed6-c183-411f-ba2f-6a8233ddb438",
+        "status": "D15",
+        "startDate": "2025-06-27",
+        "description": "Ribs",
+        "comment": "The Milwaukee Brewers placed LHP Rob Zastryzny on the 15-day injured list with ribs stress reaction.",
+        "updateDate": "2025-07-01"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "ba4aa21b-081c-4ce4-a3db-b1ddf6a08c4c",
+      "playerName": "Nestor Cortes",
+      "firstName": "Nestor",
+      "lastName": "Cortes",
+      "position": "P",
+      "jersey": "65",
+      "team": {
+        "id": "dcfd5266-00ce-442c-bc09-264cd20cf455",
+        "name": "Brewers",
+        "market": "Milwaukee"
+      },
+      "injury": {
+        "id": "5e42b48d-6465-49fa-aef2-756adb4d144b",
+        "status": "D60",
+        "startDate": "2025-04-04",
+        "description": "Elbow",
+        "comment": "The Milwaukee Brewers transferred LHP Nestor Cortes from the 10-day injured list to the 60-day injured list with a left elbow flexor strain. Expected to return on all start break and In the midst of an endurance throwing program as of May 19.",
+        "updateDate": "2025-05-20"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "9eba9dc1-2787-4f16-92f9-2e3eda145d66",
+      "playerName": "Robert Gasser",
+      "firstName": "Robert",
+      "lastName": "Gasser",
+      "position": "P",
+      "jersey": "75",
+      "team": {
+        "id": "dcfd5266-00ce-442c-bc09-264cd20cf455",
+        "name": "Brewers",
+        "market": "Milwaukee"
+      },
+      "injury": {
+        "id": "6192860f-07fc-4253-84c3-1305af764f7e",
+        "status": "D60",
+        "startDate": "2025-02-12",
+        "description": "Elbow",
+        "comment": "The Milwaukee Brewers placed LHP Robert Gasser on the 60-day injured list with a flexor tendon injury.",
+        "updateDate": "2025-02-12"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "aa24e775-28b9-4e84-9157-e69d8517cb6c",
+      "playerName": "Sal Frelick",
+      "firstName": "Salvatore",
+      "lastName": "Frelick",
+      "position": "OF",
+      "jersey": "10",
+      "team": {
+        "id": "dcfd5266-00ce-442c-bc09-264cd20cf455",
+        "name": "Brewers",
+        "market": "Milwaukee"
+      },
+      "injury": {
+        "id": "d04d5305-0b2a-4aa5-bc8a-0f343449a75d",
+        "status": "D10",
+        "startDate": "2025-07-13",
+        "description": "Hamstring",
+        "comment": "The Milwaukee Brewers placed OF Sal Frelick on the 10-day injured list with a left Grade 1 hamstring strain.",
+        "updateDate": "2025-07-18"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "171b88ff-8043-4895-9e37-cc550071816e",
+      "playerName": "Rhys Hoskins",
+      "firstName": "Rhys",
+      "lastName": "Hoskins",
+      "position": "IF",
+      "jersey": "12",
+      "team": {
+        "id": "dcfd5266-00ce-442c-bc09-264cd20cf455",
+        "name": "Brewers",
+        "market": "Milwaukee"
+      },
+      "injury": {
+        "id": "d7921379-4911-4adb-95ec-8b99e4c1385b",
+        "status": "D10",
+        "startDate": "2025-07-06",
+        "description": "Thumb",
+        "comment": "The Milwaukee Brewers placed INF Rhys Hoskins on the 10-day injured list with a sprained left thumb.",
+        "updateDate": "2025-07-07"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "4f278e0d-ab63-4c05-906e-5a876497c0f2",
+      "playerName": "Jake Bauers",
+      "firstName": "Jakob",
+      "lastName": "Bauers",
+      "position": "IF",
+      "jersey": "9",
+      "team": {
+        "id": "dcfd5266-00ce-442c-bc09-264cd20cf455",
+        "name": "Brewers",
+        "market": "Milwaukee"
+      },
+      "injury": {
+        "id": "ea135d92-53ed-4d33-82e0-89d5fee392e9",
+        "status": "D10",
+        "startDate": "2025-07-20",
+        "description": "Shoulder",
+        "comment": "The Milwaukee Brewers placed INF Jake Bauers on the 10-day injured list with left shoulder impingement.",
+        "updateDate": "2025-07-20"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "1b31bb53-d0f6-439b-85e1-d4c263a33e80",
+      "playerName": "Connor Thomas",
+      "firstName": "Sidney",
+      "lastName": "Thomas",
+      "position": "P",
+      "jersey": "57",
+      "team": {
+        "id": "dcfd5266-00ce-442c-bc09-264cd20cf455",
+        "name": "Brewers",
+        "market": "Milwaukee"
+      },
+      "injury": {
+        "id": "eb3b41c9-7eef-4848-8683-2a97fa4af8f7",
+        "status": "D60",
+        "startDate": "2025-04-08",
+        "description": "Elbow",
+        "comment": "The Milwaukee Brewers transferred LHP Connor Thomas from the 15-day injured list to the 60-day injured list due to left elbow arthritis.",
+        "updateDate": "2025-05-18"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "8adff54a-cb4b-4692-b18c-e9aaa9a8e076",
+      "playerName": "Michael King",
+      "firstName": "Michael",
+      "lastName": "King",
+      "position": "P",
+      "jersey": "34",
+      "team": {
+        "id": "d52d5339-cbdd-43f3-9dfa-a42fd588b9a3",
+        "name": "Padres",
+        "market": "San Diego"
+      },
+      "injury": {
+        "id": "06605b76-4fe8-4ae4-94c9-b321f98781d0",
+        "status": "D60",
+        "startDate": "2025-05-24",
+        "description": "Shoulder",
+        "comment": "The San Diego Padres transferred RHP Michael King to the 60-day injured list.",
+        "updateDate": "2025-07-07"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "9c12832b-c487-40d4-915b-e44097632d7c",
+      "playerName": "Joe Musgrove",
+      "firstName": "Joseph",
+      "lastName": "Musgrove",
+      "position": "P",
+      "jersey": "44",
+      "team": {
+        "id": "d52d5339-cbdd-43f3-9dfa-a42fd588b9a3",
+        "name": "Padres",
+        "market": "San Diego"
+      },
+      "injury": {
+        "id": "499e3279-8da5-497a-845e-e17986f6b3e7",
+        "status": "D60",
+        "startDate": "2025-03-20",
+        "description": "Elbow",
+        "comment": "The San Diego Padres placed RHP Joe Musgrove on the 60-day injured list as he recovers from Tommy John surgery.",
+        "updateDate": "2025-03-20"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "d6d28d10-085a-4122-86c0-2886b5ec362a",
+      "playerName": "Jhony Brito",
+      "firstName": "Jhony",
+      "lastName": "Brito",
+      "position": "P",
+      "jersey": "76",
+      "team": {
+        "id": "d52d5339-cbdd-43f3-9dfa-a42fd588b9a3",
+        "name": "Padres",
+        "market": "San Diego"
+      },
+      "injury": {
+        "id": "c72e133d-ddb5-43ef-8db0-e5a803198b6e",
+        "status": "D60",
+        "startDate": "2025-03-27",
+        "description": "Forearm",
+        "comment": "The San Diego Padres transferred RHP Jhony Brito from the 15-day injured list to the 60-day injured list due to a forearm strain. Brito underwent a UCL and will miss the entire 2025 season.",
+        "updateDate": "2025-05-12"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "d596dae4-f972-444d-9db0-4efd47b0fb44",
+      "playerName": "Bailey Ober",
+      "firstName": "John",
+      "lastName": "Ober",
+      "position": "P",
+      "jersey": "17",
+      "team": {
+        "id": "aa34e0ed-f342-4ec6-b774-c79b47b60e2d",
+        "name": "Twins",
+        "market": "Minnesota"
+      },
+      "injury": {
+        "id": "075e7d43-c074-4086-8b5c-a7cb076289ad",
+        "status": "D15",
+        "startDate": "2025-06-29",
+        "description": "Hip",
+        "comment": "The Minnesota Twins said that RHP Bailey Ober  continues to throw while on the injured list and has received medicine to eliminate inflammation in his injured left hip, per Dan Hayes of The Athletic",
+        "updateDate": "2025-07-04"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "fcdbd238-6f12-44ef-a0e0-c7b9edd14d89",
+      "playerName": "David Festa",
+      "firstName": "David",
+      "lastName": "Festa",
+      "position": "P",
+      "jersey": "58",
+      "team": {
+        "id": "aa34e0ed-f342-4ec6-b774-c79b47b60e2d",
+        "name": "Twins",
+        "market": "Minnesota"
+      },
+      "injury": {
+        "id": "107323ae-6c11-4415-9f7c-c952d5e59386",
+        "status": "D15",
+        "startDate": "2025-07-22",
+        "description": "Shoulder",
+        "comment": "The Minnesota Twins placed RHP David Festa on the 15-day injured list with right shoulder inflammation.",
+        "updateDate": "2025-07-23"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "9b9541eb-9f25-4a16-a97e-842ec2403ba3",
+      "playerName": "Anthony Misiewicz",
+      "firstName": "Anthony",
+      "lastName": "Misiewicz",
+      "position": "P",
+      "jersey": "57",
+      "team": {
+        "id": "aa34e0ed-f342-4ec6-b774-c79b47b60e2d",
+        "name": "Twins",
+        "market": "Minnesota"
+      },
+      "injury": {
+        "id": "985d61c1-e57c-4ffe-8d45-bbc0acb33ecc",
+        "status": "D15",
+        "startDate": "2025-07-25",
+        "description": "Shoulder",
+        "comment": "The Minnesota Twins placed RHP Anthony Misiewicz on the 15-day injured list.",
+        "updateDate": "2025-07-25"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "2d8de314-4980-4f1a-97b5-279261ceb111",
+      "playerName": "Pablo López",
+      "firstName": "Pablo",
+      "lastName": "López",
+      "position": "P",
+      "jersey": "49",
+      "team": {
+        "id": "aa34e0ed-f342-4ec6-b774-c79b47b60e2d",
+        "name": "Twins",
+        "market": "Minnesota"
+      },
+      "injury": {
+        "id": "cb47a348-3632-4153-aaba-6fee45081015",
+        "status": "D60",
+        "startDate": "2025-06-03",
+        "description": "Shoulder",
+        "comment": "The Minnesota Twins said that RHP Pablo López still has several hurdles left to clear before a timetable comes into focus, per Twins head athletic trainer Nick Paparesta told the Minneapolis Star Tribune. ",
+        "updateDate": "2025-07-04"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "00ce18c4-c489-4350-a550-06a6d3948581",
+      "playerName": "Luke Keaschall",
+      "firstName": "Luke",
+      "lastName": "Keaschall",
+      "position": "IF",
+      "jersey": "15",
+      "team": {
+        "id": "aa34e0ed-f342-4ec6-b774-c79b47b60e2d",
+        "name": "Twins",
+        "market": "Minnesota"
+      },
+      "injury": {
+        "id": "e8f3c121-a680-47d8-b3c3-c05b9f4d6679",
+        "status": "D60",
+        "startDate": "2025-04-26",
+        "description": "Forearm",
+        "comment": "The Minnesota Twins said that INF Luke Keaschall needs a lengthy rehab assignment, so it looks like he could return in late July or early August at this point, per Dan Hayes of The Athletic.",
+        "updateDate": "2025-07-04"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "3e72c29b-c305-4e6b-8311-0bec2e447b72",
+      "playerName": "Bryce Miller",
+      "firstName": "Bryce",
+      "lastName": "Miller",
+      "position": "P",
+      "jersey": "50",
+      "team": {
+        "id": "43a39081-52b4-4f93-ad29-da7f329ea960",
+        "name": "Mariners",
+        "market": "Seattle"
+      },
+      "injury": {
+        "id": "089dcb64-224f-433f-92e8-c10c2c3cdd3f",
+        "status": "D15",
+        "startDate": "2025-06-07",
+        "description": "Elbow",
+        "comment": "The Seattle Mariners placed RHP Bryce Miller on the 15-day injured list with a right elbow inflammation.",
+        "updateDate": "2025-06-10"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "00da9f39-6e9a-4065-9a33-00e560258266",
+      "playerName": "Collin Snider",
+      "firstName": "Collin",
+      "lastName": "Snider",
+      "position": "P",
+      "jersey": "52",
+      "team": {
+        "id": "43a39081-52b4-4f93-ad29-da7f329ea960",
+        "name": "Mariners",
+        "market": "Seattle"
+      },
+      "injury": {
+        "id": "25eed0ee-411a-4adc-9a95-2979cf32b1d8",
+        "status": "D15",
+        "startDate": "2025-06-05",
+        "description": "Forearm",
+        "comment": "The Seattle Mariners placed RHP Collin Snider on the 15-day injured list with a right forearm flexor strain.",
+        "updateDate": "2025-06-04"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "de342f88-03b5-4dcf-9107-9e5527cd4bde",
+      "playerName": "Victor Robles",
+      "firstName": "Victor",
+      "lastName": "Robles",
+      "position": "OF",
+      "jersey": "10",
+      "team": {
+        "id": "43a39081-52b4-4f93-ad29-da7f329ea960",
+        "name": "Mariners",
+        "market": "Seattle"
+      },
+      "injury": {
+        "id": "66db122b-b06d-495f-9639-cb494d6e1947",
+        "status": "D60",
+        "startDate": "2025-04-23",
+        "description": "Shoulder",
+        "comment": "The Seattle Mariners transferred OF Victor Robles to the 60-day injured list due to a fracture left shoulder.",
+        "updateDate": "2025-04-23"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "dda82083-4140-40e9-addf-99c70a3c24d8",
+      "playerName": "Ryan Bliss",
+      "firstName": "Ryan",
+      "lastName": "Bliss",
+      "position": "IF",
+      "jersey": "1",
+      "team": {
+        "id": "43a39081-52b4-4f93-ad29-da7f329ea960",
+        "name": "Mariners",
+        "market": "Seattle"
+      },
+      "injury": {
+        "id": "8ab851d7-ec81-4007-9d3d-7c1c16337726",
+        "status": "D60",
+        "startDate": "2025-04-09",
+        "description": "Biceps",
+        "comment": "The Seattle Mariners transferred INF Ryan Bliss to the 60-day injured list with a left biceps tear.",
+        "updateDate": "2025-04-13"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "cb8fc26c-77fa-46fe-b9da-0bf7df7cd721",
+      "playerName": "Gregory Santos",
+      "firstName": "Gregory",
+      "lastName": "Santos",
+      "position": "P",
+      "jersey": "48",
+      "team": {
+        "id": "43a39081-52b4-4f93-ad29-da7f329ea960",
+        "name": "Mariners",
+        "market": "Seattle"
+      },
+      "injury": {
+        "id": "a8d04dab-97a4-4da7-864d-339672967ac4",
+        "status": "D60",
+        "startDate": "2025-04-25",
+        "description": "Knee",
+        "comment": "The Seattle Mariners placed RHP Gregory Santos on the 60-day injured list as he deals with right knee inflammation.",
+        "updateDate": "2025-04-29"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "483b2453-dac3-493b-8d1c-eab6dec40787",
+      "playerName": "Mark Canha",
+      "firstName": "Mark",
+      "lastName": "Canha",
+      "position": "OF",
+      "jersey": "21",
+      "team": {
+        "id": "833a51a9-0d84-410f-bd77-da08c3e5e26e",
+        "name": "Royals",
+        "market": "Kansas City"
+      },
+      "injury": {
+        "id": "08f3fe5b-5ce7-421c-9984-a3105f669892",
+        "status": "D10",
+        "startDate": "2025-07-08",
+        "description": "Elbow",
+        "comment": "The Kansas City Royals placed OF Mark Canha on the 10-day injured list with left elbow epicondylitis. Received an injection July 8 to help elbow soreness and got back to throwing after the All-Star break, but he has not been hitting yet.",
+        "updateDate": "2025-07-18"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "3beb4f90-3b36-4fce-8c70-c8f154ce2b82",
+      "playerName": "Alec Marsh",
+      "firstName": "Alec",
+      "lastName": "Marsh",
+      "position": "P",
+      "jersey": "48",
+      "team": {
+        "id": "833a51a9-0d84-410f-bd77-da08c3e5e26e",
+        "name": "Royals",
+        "market": "Kansas City"
+      },
+      "injury": {
+        "id": "0dc24b3c-9e68-4338-9ae7-dbfdc3d546a8",
+        "status": "D60",
+        "startDate": "2025-03-25",
+        "description": "Shoulder",
+        "comment": "The Kansas City Royals placed RHP Alec Marsh on the 60-day injured list while rehabbing his injured right shoulder. Has been shut down since end of June with more shoulder soreness and will receive an injection week of July 21.",
+        "updateDate": "2025-07-18"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "e04a083b-9558-4e64-a494-5aae432bb792",
+      "playerName": "James McArthur",
+      "firstName": "James",
+      "lastName": "McArthur",
+      "position": "P",
+      "jersey": "66",
+      "team": {
+        "id": "833a51a9-0d84-410f-bd77-da08c3e5e26e",
+        "name": "Royals",
+        "market": "Kansas City"
+      },
+      "injury": {
+        "id": "27e16386-7a2f-46e8-96dd-b7539416e025",
+        "status": "D60",
+        "startDate": "2025-03-25",
+        "description": "Elbow",
+        "comment": "The Kansas City Royals transferred RHP James McArthur to the 60-day injured list due to an elbow olecranon surgery. Suffered setback in July when he underwent another procedure to remove the second screw that was put in during offseason elbow surgery.",
+        "updateDate": "2025-07-18"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "9941a844-9315-4f2f-9fc2-533c07b625f2",
+      "playerName": "Cole Ragans",
+      "firstName": "Cole",
+      "lastName": "Ragans",
+      "position": "P",
+      "jersey": "55",
+      "team": {
+        "id": "833a51a9-0d84-410f-bd77-da08c3e5e26e",
+        "name": "Royals",
+        "market": "Kansas City"
+      },
+      "injury": {
+        "id": "2aa9443e-34bf-44ca-8612-b11c0eb6e717",
+        "status": "D60",
+        "startDate": "2025-06-08",
+        "description": "Rotator Cuff",
+        "comment": "The Kansas City Royals transferred LHP Cole Ragans to the 60-day injured list with a left rotator cuff strain. Ragans is on a consistent throwing program in Kansas City, with everything feeling well so far.",
+        "updateDate": "2025-07-18"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "d2cf2da2-3691-41cd-91cd-d8691269bfea",
+      "playerName": "Michael Massey",
+      "firstName": "Michael",
+      "lastName": "Massey",
+      "position": "IF",
+      "jersey": "19",
+      "team": {
+        "id": "833a51a9-0d84-410f-bd77-da08c3e5e26e",
+        "name": "Royals",
+        "market": "Kansas City"
+      },
+      "injury": {
+        "id": "8e0b5aff-1b37-467b-9fa0-1e7f658fb7d0",
+        "status": "D10",
+        "startDate": "2025-06-08",
+        "description": "Ankle",
+        "comment": "The Kansas City Royals placed INF Michael Massey on the 10-day injured list due to a left ankle sprain. Pain symptoms from wrist injury have decreased, so focus is on getting timing back with his swing.",
+        "updateDate": "2025-07-18"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "efc03ee4-4b93-48c1-bc90-059e319d9f30",
+      "playerName": "Daniel Lynch IV",
+      "firstName": "Daniel A.",
+      "lastName": "Lynch",
+      "position": "P",
+      "jersey": "41",
+      "team": {
+        "id": "833a51a9-0d84-410f-bd77-da08c3e5e26e",
+        "name": "Royals",
+        "market": "Kansas City"
+      },
+      "injury": {
+        "id": "9fca960e-07d3-4f0f-88fe-b21935483b7a",
+        "status": "D15",
+        "startDate": "2025-07-06",
+        "description": "Elbow",
+        "comment": "The Kansas City Royals placed LHP Daniel Lynch on the 15-day injured list with a left elbow nerve irritation. Threw a bullpen session on July 18 in Kansas City, with another scheduled either July 20 or 21 as he continues his throwing progression.",
+        "updateDate": "2025-07-18"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "4150b3f7-beb3-4fbc-a947-933d45d20bfe",
+      "playerName": "Michael Lorenzen",
+      "firstName": "Michael",
+      "lastName": "Lorenzen",
+      "position": "P",
+      "jersey": "24",
+      "team": {
+        "id": "833a51a9-0d84-410f-bd77-da08c3e5e26e",
+        "name": "Royals",
+        "market": "Kansas City"
+      },
+      "injury": {
+        "id": "c6ec979c-0768-4db1-bfb8-8d98ba267577",
+        "status": "D15",
+        "startDate": "2025-07-11",
+        "description": "Oblique",
+        "comment": "The Kansas City Royals placed RHP Michael Lorenzen on the 15-day injured list with a left oblique strain. He played catch July 18 and is expected to miss one to two starts.",
+        "updateDate": "2025-07-18"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "00d968a4-d1ae-4433-8d00-ca4646d945d6",
+      "playerName": "Nick Loftin",
+      "firstName": "Nicholas",
+      "lastName": "Loftin",
+      "position": "IF",
+      "jersey": "12",
+      "team": {
+        "id": "833a51a9-0d84-410f-bd77-da08c3e5e26e",
+        "name": "Royals",
+        "market": "Kansas City"
+      },
+      "injury": {
+        "id": "fe4814e2-b45b-4a62-b651-f45888938812",
+        "status": "D7",
+        "startDate": "2025-07-23",
+        "description": "Concussion",
+        "comment": "The Kansas City Royals placed INF Nick Loftin on the 7-day injured list due to concussion.",
+        "updateDate": "2025-07-23"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "66c43b7f-760a-446c-9f50-671915570227",
+      "playerName": "Chris Sale",
+      "firstName": "Christopher",
+      "lastName": "Sale",
+      "position": "P",
+      "jersey": "51",
+      "team": {
+        "id": "12079497-e414-450a-8bf2-29f91de646bf",
+        "name": "Braves",
+        "market": "Atlanta"
+      },
+      "injury": {
+        "id": "09a5b31d-9c02-43db-a53e-48708e6ad23c",
+        "status": "D60",
+        "startDate": "2025-06-19",
+        "description": "Rib",
+        "comment": "The Atlanta Braves transferred LHP Chris Sale to the 60-day injured list due to a fractured left ribcage, retroactive to Jun. 19.",
+        "updateDate": "2025-07-01"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "49812b41-643c-4356-b6eb-ffd29df4f653",
+      "playerName": "Joe Jiménez",
+      "firstName": "Joe",
+      "lastName": "Jiménez",
+      "position": "P",
+      "jersey": "77",
+      "team": {
+        "id": "12079497-e414-450a-8bf2-29f91de646bf",
+        "name": "Braves",
+        "market": "Atlanta"
+      },
+      "injury": {
+        "id": "a694bc9e-157f-4daa-8713-7ee187f60d55",
+        "status": "D60",
+        "startDate": "2025-03-24",
+        "description": "Knee",
+        "comment": "The Atlanta Braves transferred RHP Joe Jiménez from 15-day injured list to the 60-day injured list as he recovers from knee surgery.",
+        "updateDate": "2025-03-31"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "942dc231-6052-4410-9bad-e94e465bc914",
+      "playerName": "Reynaldo López",
+      "firstName": "Reynaldo",
+      "lastName": "López",
+      "position": "P",
+      "jersey": "40",
+      "team": {
+        "id": "12079497-e414-450a-8bf2-29f91de646bf",
+        "name": "Braves",
+        "market": "Atlanta"
+      },
+      "injury": {
+        "id": "ac0e8a6e-43ea-4877-96bf-eb0a7c4dbe56",
+        "status": "D60",
+        "startDate": "2025-03-31",
+        "description": "Shoulder",
+        "comment": "The Atlanta Braves transferred RHP Reynaldo López to the 60-day injured list as he recovers from arthroscopic shoulder surgery.",
+        "updateDate": "2025-04-03"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "5ca58873-9c77-4e87-bcdb-63b818a84864",
+      "playerName": "Spencer Schwellenbach",
+      "firstName": "Spencer",
+      "lastName": "Schwellenbach",
+      "position": "P",
+      "jersey": "56",
+      "team": {
+        "id": "12079497-e414-450a-8bf2-29f91de646bf",
+        "name": "Braves",
+        "market": "Atlanta"
+      },
+      "injury": {
+        "id": "e01381b4-0551-458a-bd2d-1f40491179c7",
+        "status": "D60",
+        "startDate": "2025-06-29",
+        "description": "Elbow",
+        "comment": "The Atlanta Braves transferred RHP Spencer Schwellenbach from the 15-day injured list to the 60-day injured list with a fractured right elbow.",
+        "updateDate": "2025-07-06"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "d9026eb2-ed6d-427e-87e1-eaa4dbd82d70",
+      "playerName": "AJ Smith-Shawver",
+      "firstName": "AJ",
+      "lastName": "Smith-Shawver",
+      "position": "P",
+      "jersey": "32",
+      "team": {
+        "id": "12079497-e414-450a-8bf2-29f91de646bf",
+        "name": "Braves",
+        "market": "Atlanta"
+      },
+      "injury": {
+        "id": "e6461c78-49d2-4c84-a394-6c4265cb40ca",
+        "status": "D60",
+        "startDate": "2025-05-29",
+        "description": "Calf/Elbow",
+        "comment": "The Atlanta Braves transferred RHP AJ Smith-Shawver on the 15-day injured list to the 60-day injured list due to a strained right elbow.\r\nSmith-Shawver underwent Tommy John surgery and will miss the remainder of the 2025 season.",
+        "updateDate": "2025-06-09"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "b383a233-3917-4371-9c49-683505c980d8",
+      "playerName": "Zach Dezenzo",
+      "firstName": "Zachary",
+      "lastName": "Dezenzo",
+      "position": "IF",
+      "jersey": "9",
+      "team": {
+        "id": "eb21dadd-8f10-4095-8bf3-dfb3b779f107",
+        "name": "Astros",
+        "market": "Houston"
+      },
+      "injury": {
+        "id": "0abfd9db-92bd-40ad-8ed1-b5d9880a01a7",
+        "status": "D60",
+        "startDate": "2025-05-31",
+        "description": "Hand",
+        "comment": "The Houston Astros placed INF Zach Dezenzo on the 60-day injured list with a left hand inflammation.",
+        "updateDate": "2025-07-11"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "8d9cf2ab-c06c-4ca9-96c0-8c17ef83b591",
+      "playerName": "Ronel Blanco",
+      "firstName": "Ronel",
+      "lastName": "Blanco",
+      "position": "P",
+      "jersey": "56",
+      "team": {
+        "id": "eb21dadd-8f10-4095-8bf3-dfb3b779f107",
+        "name": "Astros",
+        "market": "Houston"
+      },
+      "injury": {
+        "id": "160fb300-8bef-4700-967d-d304e5c171f9",
+        "status": "D60",
+        "startDate": "2025-05-22",
+        "description": "Elbow",
+        "comment": "The Houston Astros transferred RHP Ronel Blanco to the 60-day injured list with a right elbow inflammation.",
+        "updateDate": "2025-06-01"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "9051bae8-47d4-4821-83a1-93e80c633fc9",
+      "playerName": "Jeremy Peña",
+      "firstName": "Jeremy",
+      "lastName": "Peña",
+      "position": "IF",
+      "jersey": "3",
+      "team": {
+        "id": "eb21dadd-8f10-4095-8bf3-dfb3b779f107",
+        "name": "Astros",
+        "market": "Houston"
+      },
+      "injury": {
+        "id": "36b0d561-bab1-435c-8b40-af5635b20c2a",
+        "status": "D10",
+        "startDate": "2025-06-28",
+        "description": "Rib",
+        "comment": "The Houston Astros placed INF Jeremy Peña on the 10-day injured list with a small fracture in one of the ribs on his left.",
+        "updateDate": "2025-06-30"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "42258713-4e3e-4fdb-9604-ee1560adb523",
+      "playerName": "Jake Meyers",
+      "firstName": "Jacob",
+      "lastName": "Meyers",
+      "position": "OF",
+      "jersey": "6",
+      "team": {
+        "id": "eb21dadd-8f10-4095-8bf3-dfb3b779f107",
+        "name": "Astros",
+        "market": "Houston"
+      },
+      "injury": {
+        "id": "4c9c0c32-a269-40c6-aa3a-0b4b7297dabf",
+        "status": "D10",
+        "startDate": "2025-07-09",
+        "description": "Calf",
+        "comment": "The Houston Astros placed OF Jake Meyers on the 10-day injured list with a right calf strain.",
+        "updateDate": "2025-07-11"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "d325e56e-b13e-4678-a230-4df2c8539f21",
+      "playerName": "Pedro León",
+      "firstName": "Pedro",
+      "lastName": "León",
+      "position": "OF",
+      "jersey": "4",
+      "team": {
+        "id": "eb21dadd-8f10-4095-8bf3-dfb3b779f107",
+        "name": "Astros",
+        "market": "Houston"
+      },
+      "injury": {
+        "id": "53463378-ec99-4451-bb20-cfa4f51978c3",
+        "status": "D60",
+        "startDate": "2025-03-27",
+        "description": "Knee",
+        "comment": "The Houston Astros transferred OF Pedro León to the 60-day injured list due to a Grade 1 MCL strain.",
+        "updateDate": "2025-06-24"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "1b2d6c3b-5c96-45fd-bce6-2a31a28cfe48",
+      "playerName": "Shawn Dubin",
+      "firstName": "Shawn",
+      "lastName": "Dubin",
+      "position": "P",
+      "jersey": "66",
+      "team": {
+        "id": "eb21dadd-8f10-4095-8bf3-dfb3b779f107",
+        "name": "Astros",
+        "market": "Houston"
+      },
+      "injury": {
+        "id": "687a8555-1de7-4485-8478-37b74fac73a7",
+        "status": "D15",
+        "startDate": "2025-06-21",
+        "description": "Forearm",
+        "comment": "The Houston Astros placed RHP Shawn Dubin on the 15-day injured list due to a right forearm strain.",
+        "updateDate": "2025-06-24"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "00a81b80-a20f-4fb7-894f-23b4d1a63941",
+      "playerName": "Cristian Javier",
+      "firstName": "Cristian",
+      "lastName": "Javier",
+      "position": "P",
+      "jersey": "53",
+      "team": {
+        "id": "eb21dadd-8f10-4095-8bf3-dfb3b779f107",
+        "name": "Astros",
+        "market": "Houston"
+      },
+      "injury": {
+        "id": "852ae154-6390-4b8d-995e-8d5970e77398",
+        "status": "D60",
+        "startDate": "2025-03-27",
+        "description": "Elbow",
+        "comment": "The Houston Astros placed RHP Cristian Javier on the 60-day injured list as he works his way back from a Tommy John Surgery.",
+        "updateDate": "2025-04-01"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "9abb6e65-1134-4d45-a6bb-461802610bca",
+      "playerName": "Luis Garcia",
+      "firstName": "Luis",
+      "lastName": "Garcia",
+      "position": "P",
+      "jersey": "77",
+      "team": {
+        "id": "eb21dadd-8f10-4095-8bf3-dfb3b779f107",
+        "name": "Astros",
+        "market": "Houston"
+      },
+      "injury": {
+        "id": "8810ab65-f3e6-43cc-8c12-444d3c70e3ac",
+        "status": "D60",
+        "startDate": "2025-03-27",
+        "description": "Elbow",
+        "comment": "The Houston Astros transferred RHP Luis Garcia from the 15-day injured list to the 60-day injured list to an elbow inflammation.",
+        "updateDate": "2025-04-07"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "cdf1abd4-753d-4e58-843f-ca5d5bb25ee5",
+      "playerName": "Isaac Paredes",
+      "firstName": "Isaac",
+      "lastName": "Paredes",
+      "position": "IF",
+      "jersey": "15",
+      "team": {
+        "id": "eb21dadd-8f10-4095-8bf3-dfb3b779f107",
+        "name": "Astros",
+        "market": "Houston"
+      },
+      "injury": {
+        "id": "99d01793-c562-4c2d-b324-9f616d82c1f0",
+        "status": "D10",
+        "startDate": "2025-07-20",
+        "description": "Hamstring",
+        "comment": "The Houston Astros placed INF Isaac Paredes on the 10-day injured list with right hamstring strain.",
+        "updateDate": "2025-07-20"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "f03fe236-d3b8-4bfd-b08b-963fd5c4391a",
+      "playerName": "J.P. France",
+      "firstName": "Jonathan",
+      "lastName": "France",
+      "position": "P",
+      "jersey": "68",
+      "team": {
+        "id": "eb21dadd-8f10-4095-8bf3-dfb3b779f107",
+        "name": "Astros",
+        "market": "Houston"
+      },
+      "injury": {
+        "id": "9c14a534-d176-470c-80cc-69e24dcb5853",
+        "status": "D60",
+        "startDate": "2025-03-27",
+        "description": "Shoulder",
+        "comment": "The Houston Astros placed RHP J.P. France on the 60-day injured list due to a right shoulder inflammation.",
+        "updateDate": "2025-03-27"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "07e64bda-3dd4-4634-84ff-1a2693ea6c76",
+      "playerName": "Hayden Wesneski",
+      "firstName": "Hayden",
+      "lastName": "Wesneski",
+      "position": "P",
+      "jersey": "39",
+      "team": {
+        "id": "eb21dadd-8f10-4095-8bf3-dfb3b779f107",
+        "name": "Astros",
+        "market": "Houston"
+      },
+      "injury": {
+        "id": "b0ef3d7e-1b23-4e7b-bc50-5f705d62753e",
+        "status": "D60",
+        "startDate": "2025-05-09",
+        "description": "Elbow",
+        "comment": "The Houston Astros transferred RHP Hayden Wesneski to the 60-day injured list from the 15-day injured list with right elbow inflammation.",
+        "updateDate": "2025-05-20"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "e93e2dc2-c54f-4c11-8536-a4e52dfdbafb",
+      "playerName": "Luis Guillorme",
+      "firstName": "Luis",
+      "lastName": "Guillorme",
+      "position": "IF",
+      "jersey": "0",
+      "team": {
+        "id": "eb21dadd-8f10-4095-8bf3-dfb3b779f107",
+        "name": "Astros",
+        "market": "Houston"
+      },
+      "injury": {
+        "id": "b46c3851-1a17-43c8-85b5-f3b7ef65c40a",
+        "status": "D10",
+        "startDate": "2025-07-02",
+        "description": "Hamstring",
+        "comment": "The Houston Astros placed INF Luis Guillorme on the 10-day injured list due to a right hamstring strain.",
+        "updateDate": "2025-07-02"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "21d20dee-78af-4fc3-b8ec-ed6fe31c0efa",
+      "playerName": "Spencer Arrighetti",
+      "firstName": "Spencer",
+      "lastName": "Arrighetti",
+      "position": "P",
+      "jersey": "41",
+      "team": {
+        "id": "eb21dadd-8f10-4095-8bf3-dfb3b779f107",
+        "name": "Astros",
+        "market": "Houston"
+      },
+      "injury": {
+        "id": "b9a46aa1-1167-461c-954e-7ff3a4d8c935",
+        "status": "D60",
+        "startDate": "2025-04-07",
+        "description": "Thumb",
+        "comment": "The Houston Astros transferred RHP Spencer Arrighetti from the 15-day injured list to the 60-day injured list due to a broken right thumb.",
+        "updateDate": "2025-06-14"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "82b61fd5-aff1-4281-a471-b21fee6c6e8e",
+      "playerName": "Jacob Melton",
+      "firstName": "Jacob",
+      "lastName": "Melton",
+      "position": "OF",
+      "jersey": "31",
+      "team": {
+        "id": "eb21dadd-8f10-4095-8bf3-dfb3b779f107",
+        "name": "Astros",
+        "market": "Houston"
+      },
+      "injury": {
+        "id": "bb371ab0-c558-4e15-a2a1-7b45168995da",
+        "status": "D10",
+        "startDate": "2025-06-13",
+        "description": "Ankle",
+        "comment": "The Houston Astros placed OF Jacob Melton on the 10-day injured list with an ankle injury.",
+        "updateDate": "2025-06-14"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "fc552e8f-e5e0-4060-b018-6babc108507b",
+      "playerName": "Lance McCullers Jr.",
+      "firstName": "Lance",
+      "lastName": "McCullers",
+      "position": "P",
+      "jersey": "43",
+      "team": {
+        "id": "eb21dadd-8f10-4095-8bf3-dfb3b779f107",
+        "name": "Astros",
+        "market": "Houston"
+      },
+      "injury": {
+        "id": "d080ce8e-1ac8-4243-a9fe-6266b8b95e7d",
+        "status": "D15",
+        "startDate": "2025-07-20",
+        "description": "Finger",
+        "comment": "The Houston Astros placed RHP Lance McCullers on the 15-day injured list with a right finger blister.",
+        "updateDate": "2025-07-22"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "f4cba601-78ab-4c0a-8cc8-4236c6050480",
+      "playerName": "Brandon Walter",
+      "firstName": "Brandon",
+      "lastName": "Walter",
+      "position": "P",
+      "jersey": "60",
+      "team": {
+        "id": "eb21dadd-8f10-4095-8bf3-dfb3b779f107",
+        "name": "Astros",
+        "market": "Houston"
+      },
+      "injury": {
+        "id": "d1fe16d0-9e21-4a94-b340-0450c5bb489b",
+        "status": "D15",
+        "startDate": "2025-07-25",
+        "description": "Elbow",
+        "comment": "The Houston Astros placed LHP Brandon Walter on the 15-day injured list with a left elbow inflammation.",
+        "updateDate": "2025-07-25"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "52cc8d0b-6e9d-4324-a385-758ca6433e66",
+      "playerName": "Brendan Rodgers",
+      "firstName": "Brendan",
+      "lastName": "Rodgers",
+      "position": "IF",
+      "jersey": "1",
+      "team": {
+        "id": "eb21dadd-8f10-4095-8bf3-dfb3b779f107",
+        "name": "Astros",
+        "market": "Houston"
+      },
+      "injury": {
+        "id": "d6636340-a365-46aa-90ab-93a4084ccd41",
+        "status": "D60",
+        "startDate": "2025-06-15",
+        "description": "Oblique",
+        "comment": "The Houston Astros transferred INF Brendan Rodgers to the 60-day injured list due to left oblique strain.",
+        "updateDate": "2025-07-20"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "fdc9c3af-4ad2-43b1-8537-10732d013ed8",
+      "playerName": "Yordan Alvarez",
+      "firstName": "Yordan",
+      "lastName": "Alvarez",
+      "position": "OF",
+      "jersey": "44",
+      "team": {
+        "id": "eb21dadd-8f10-4095-8bf3-dfb3b779f107",
+        "name": "Astros",
+        "market": "Houston"
+      },
+      "injury": {
+        "id": "de154761-cba5-446f-bed5-b01b67c920c7",
+        "status": "D60",
+        "startDate": "2025-05-03",
+        "description": "Hand",
+        "comment": "The Houston Astros transferred OF Yordan Alvarez to the 60-day injured list due to a right hand inflammation.",
+        "updateDate": "2025-07-02"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "02a63222-ca50-46b8-b4a3-5c6c37076849",
+      "playerName": "Brandon Waddell",
+      "firstName": "Brandon",
+      "lastName": "Waddell",
+      "position": "P",
+      "jersey": "82",
+      "team": {
+        "id": "f246a5e5-afdb-479c-9aaa-c68beeda7af6",
+        "name": "Mets",
+        "market": "New York"
+      },
+      "injury": {
+        "id": "0b773a22-b1e2-4871-a27a-6039270bfb15",
+        "status": "D15",
+        "startDate": "2025-07-19",
+        "description": "Hip",
+        "comment": "The New York Mets placed LHP Brandon Waddell on the 15-day injured list due to right hip impingement.",
+        "updateDate": "2025-07-22"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "75147a4e-9c8c-4f58-8b38-a4d2847ff108",
+      "playerName": "Tylor Megill",
+      "firstName": "Tylor",
+      "lastName": "Megill",
+      "position": "P",
+      "jersey": "38",
+      "team": {
+        "id": "f246a5e5-afdb-479c-9aaa-c68beeda7af6",
+        "name": "Mets",
+        "market": "New York"
+      },
+      "injury": {
+        "id": "2d7c24ec-84fe-4f93-9b58-b9a0a9a5831f",
+        "status": "D60",
+        "startDate": "2025-06-15",
+        "description": "Elbow",
+        "comment": "The New York Mets transferred RHP Tylor Megill from the 15-day injured list to the 60-day injured list due to elbow inflammation.",
+        "updateDate": "2025-07-08"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "470b008b-639b-4f14-975b-1eb51d918358",
+      "playerName": "Griffin Canning",
+      "firstName": "Griffin",
+      "lastName": "Canning",
+      "position": "P",
+      "jersey": "46",
+      "team": {
+        "id": "f246a5e5-afdb-479c-9aaa-c68beeda7af6",
+        "name": "Mets",
+        "market": "New York"
+      },
+      "injury": {
+        "id": "3443bc29-317f-4a02-b1fc-1abb1c19e6b4",
+        "status": "D60",
+        "startDate": "2025-06-26",
+        "description": "Achilles",
+        "comment": "The New York Mets placed RHP Griffin Canning on the 60-day injured list with a ruptured achilles.",
+        "updateDate": "2025-06-27"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "c967b600-efdf-46ae-bb37-f4940fa29b2a",
+      "playerName": "Paul Blackburn",
+      "firstName": "Paul",
+      "lastName": "Blackburn",
+      "position": "P",
+      "jersey": "58",
+      "team": {
+        "id": "f246a5e5-afdb-479c-9aaa-c68beeda7af6",
+        "name": "Mets",
+        "market": "New York"
+      },
+      "injury": {
+        "id": "4bb8ee9c-b1b0-443d-991d-ce07ea2902c7",
+        "status": "D15",
+        "startDate": "2025-06-30",
+        "description": "Shoulder",
+        "comment": "The New York Mets placed RHP Paul Blackburn on the 15-day injured list due to a right shoulder impingement.",
+        "updateDate": "2025-06-30"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "e25f4bdb-6de3-4628-930f-dc860183fc0b",
+      "playerName": "Jesse Winker",
+      "firstName": "Jesse",
+      "lastName": "Winker",
+      "position": "OF",
+      "jersey": "3",
+      "team": {
+        "id": "f246a5e5-afdb-479c-9aaa-c68beeda7af6",
+        "name": "Mets",
+        "market": "New York"
+      },
+      "injury": {
+        "id": "4fe3907e-a5f8-4781-a0d7-6ebcf7d0f576",
+        "status": "D10",
+        "startDate": "2025-07-10",
+        "description": "Back",
+        "comment": "The New York Mets placed OF Jesse Winker on the 10-day injured list with back inflammation.",
+        "updateDate": "2025-07-11"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "7945584c-94fe-49e4-9d85-ad3ccd6b8617",
+      "playerName": "Christian Scott",
+      "firstName": "Christian",
+      "lastName": "Scott",
+      "position": "P",
+      "jersey": "45",
+      "team": {
+        "id": "f246a5e5-afdb-479c-9aaa-c68beeda7af6",
+        "name": "Mets",
+        "market": "New York"
+      },
+      "injury": {
+        "id": "51d08ac8-cf79-4df5-afd5-a6f100710b71",
+        "status": "D60",
+        "startDate": "2025-02-26",
+        "description": "Elbow",
+        "comment": "The New York Mets placed RHP Christian Scott on the 60-day injured list as he recovers from UCL sprain.",
+        "updateDate": "2025-02-26"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "f824c28f-19a6-468a-9e28-274c01534e5b",
+      "playerName": "Max Kranick",
+      "firstName": "Max",
+      "lastName": "Kranick",
+      "position": "P",
+      "jersey": "32",
+      "team": {
+        "id": "f246a5e5-afdb-479c-9aaa-c68beeda7af6",
+        "name": "Mets",
+        "market": "New York"
+      },
+      "injury": {
+        "id": "63911ac2-3148-45ee-9624-b4e59bafc0a2",
+        "status": "D60",
+        "startDate": "2025-06-19",
+        "description": "Elbow",
+        "comment": "The New York Mets placed RHP Max Kranick on the 60-day injured list with a right elbow strain.",
+        "updateDate": "2025-07-25"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "d940d087-acf8-4776-bc26-3807a3a72e9d",
+      "playerName": "Drew Smith",
+      "firstName": "Andrew",
+      "lastName": "Smith",
+      "position": "P",
+      "team": {
+        "id": "f246a5e5-afdb-479c-9aaa-c68beeda7af6",
+        "name": "Mets",
+        "market": "New York"
+      },
+      "injury": {
+        "id": "684be502-5640-4459-adec-079df9650803",
+        "status": "D60",
+        "startDate": "2025-02-13",
+        "description": "Elbow",
+        "comment": "The New York Mets placed RHP Drew Smith on the 60-day injured list as he recovers from torn achilles tendon.",
+        "updateDate": "2025-02-13"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "131182ce-81e4-410b-aaba-4a4fc6b7676b",
+      "playerName": "Jose Siri",
+      "firstName": "Jose",
+      "lastName": "Siri",
+      "position": "OF",
+      "jersey": "19",
+      "team": {
+        "id": "f246a5e5-afdb-479c-9aaa-c68beeda7af6",
+        "name": "Mets",
+        "market": "New York"
+      },
+      "injury": {
+        "id": "80180644-a782-45f8-9696-b5c7f4afbe01",
+        "status": "D60",
+        "startDate": "2025-04-12",
+        "description": "Shin",
+        "comment": "The New York Mets transferred OF Jose Siri from the 10-day injured list to the 60-day injured list due to a left tibia fracture.",
+        "updateDate": "2025-06-23"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "e1cbb2df-986d-4fab-bf1e-7192c54bdae9",
+      "playerName": "A.J. Minter",
+      "firstName": "Alex",
+      "lastName": "Minter",
+      "position": "P",
+      "jersey": "33",
+      "team": {
+        "id": "f246a5e5-afdb-479c-9aaa-c68beeda7af6",
+        "name": "Mets",
+        "market": "New York"
+      },
+      "injury": {
+        "id": "913a3153-1be8-4802-a4ea-6d82a40bf648",
+        "status": "D60",
+        "startDate": "2025-04-26",
+        "description": "Lat",
+        "comment": "The New York Mets transferred LHP A.J. Minter from the 15-day injured list to the 60-day injured list due to a left lat strain.",
+        "updateDate": "2025-05-01"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "04bbd2cb-cc77-41da-8550-e332c2da0cf1",
+      "playerName": "Nick Madrigal",
+      "firstName": "Nicklaus",
+      "lastName": "Madrigal",
+      "position": "IF",
+      "jersey": "11",
+      "team": {
+        "id": "f246a5e5-afdb-479c-9aaa-c68beeda7af6",
+        "name": "Mets",
+        "market": "New York"
+      },
+      "injury": {
+        "id": "d300fd2b-e0b1-477d-8582-f6d3fa3a5a0f",
+        "status": "D60",
+        "startDate": "2025-02-24",
+        "description": "Shoulder",
+        "comment": "The New York Mets placed INF Nick Madrigal on the 60-day injured list. Madrigal will likely miss the entire season as he recovers from fractured left shoulder. ",
+        "updateDate": "2025-02-24"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "6b4fd26d-3a3d-4aed-8f5a-36a91bd98861",
+      "playerName": "Dedniel Núñez",
+      "firstName": "Dedniel",
+      "lastName": "Núñez",
+      "position": "P",
+      "jersey": "72",
+      "team": {
+        "id": "f246a5e5-afdb-479c-9aaa-c68beeda7af6",
+        "name": "Mets",
+        "market": "New York"
+      },
+      "injury": {
+        "id": "df5ce335-6fdf-4633-9ecc-212e9278a4dc",
+        "status": "D60",
+        "startDate": "2025-07-03",
+        "description": "Elbow",
+        "comment": "The New York Mets transferred RHP Dedniel Núñez from the 15-day injured list to the 60-day injured list due to his right elbow.",
+        "updateDate": "2025-07-21"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "a37a751b-8a72-4bfc-8ac4-d980e97575e0",
+      "playerName": "Danny Young",
+      "firstName": "Daniel",
+      "lastName": "Young",
+      "position": "P",
+      "jersey": "81",
+      "team": {
+        "id": "f246a5e5-afdb-479c-9aaa-c68beeda7af6",
+        "name": "Mets",
+        "market": "New York"
+      },
+      "injury": {
+        "id": "ff7e4520-7eeb-43a7-9e39-641339c94ecd",
+        "status": "D60",
+        "startDate": "2025-04-27",
+        "description": "Elbow",
+        "comment": "The New York Mets transferred LHP Danny Young from the 15-day injured list to the 60-day injured list due to a left elbow sprain.",
+        "updateDate": "2025-05-04"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "660eaf2b-18dd-417d-9a19-873eda064463",
+      "playerName": "Carson Spiers",
+      "firstName": "William",
+      "lastName": "Spiers",
+      "position": "P",
+      "jersey": "68",
+      "team": {
+        "id": "c874a065-c115-4e7d-b0f0-235584fb0e6f",
+        "name": "Reds",
+        "market": "Cincinnati"
+      },
+      "injury": {
+        "id": "12c0a029-a1e5-4628-bdd2-0cad1b849ee6",
+        "status": "D60",
+        "startDate": "2025-04-20",
+        "description": "Shoulder",
+        "comment": "The Cincinnati Reds transferred RHP Carson Spiers from the 15-day injured list to the 60-day injured list as he recovers from a right shoulder impingement.",
+        "updateDate": "2025-05-23"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "1207034c-28e9-40f0-8411-3c0768807b09",
+      "playerName": "Julian Aguiar",
+      "firstName": "Julian",
+      "lastName": "Aguiar",
+      "position": "P",
+      "jersey": "39",
+      "team": {
+        "id": "c874a065-c115-4e7d-b0f0-235584fb0e6f",
+        "name": "Reds",
+        "market": "Cincinnati"
+      },
+      "injury": {
+        "id": "20de0dc7-0627-4d40-94d6-543baff75246",
+        "status": "D60",
+        "startDate": "2025-02-13",
+        "description": "Elbow",
+        "comment": "The Cincinnati Reds placed RHP Julian Aguiar on the 60-day injured list as he recovers from Tommy John surgery. Aguiar will miss the entire 2025 season after undergoing Tommy John surgery, Mark Sheldon of MLB.com reports.",
+        "updateDate": "2025-02-13"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "926bfea7-9993-4019-b3e1-58e7d03f9b4b",
+      "playerName": "Ian Gibaut",
+      "firstName": "Ian",
+      "lastName": "Gibaut",
+      "position": "P",
+      "jersey": "79",
+      "team": {
+        "id": "c874a065-c115-4e7d-b0f0-235584fb0e6f",
+        "name": "Reds",
+        "market": "Cincinnati"
+      },
+      "injury": {
+        "id": "4e093d04-701a-485c-b9f4-c41d0d354311",
+        "status": "D15",
+        "startDate": "2025-06-30",
+        "description": "Shoulder",
+        "comment": "The Cincinnati Reds placed RHP Ian Gibaut on the 15-day injured list with right shoulder impingement.",
+        "updateDate": "2025-06-30"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "d8326a8e-0f8a-49dc-b3a9-610ddfdc53b7",
+      "playerName": "Wade Miley",
+      "firstName": "Wade",
+      "lastName": "Miley",
+      "position": "P",
+      "jersey": "22",
+      "team": {
+        "id": "c874a065-c115-4e7d-b0f0-235584fb0e6f",
+        "name": "Reds",
+        "market": "Cincinnati"
+      },
+      "injury": {
+        "id": "4e9e4236-3259-402d-8e7d-d870122e21b4",
+        "status": "D15",
+        "startDate": "2025-06-17",
+        "description": "Flexor",
+        "comment": "The Cincinnati Reds placed LHP Wade Miley on the 15-day injured list with a flexor strain.",
+        "updateDate": "2025-06-20"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "f8de6e52-8105-4fca-8062-0d024fab1449",
+      "playerName": "Tyler Callihan",
+      "firstName": "Tyler",
+      "lastName": "Callihan",
+      "position": "OF",
+      "jersey": "32",
+      "team": {
+        "id": "c874a065-c115-4e7d-b0f0-235584fb0e6f",
+        "name": "Reds",
+        "market": "Cincinnati"
+      },
+      "injury": {
+        "id": "780600eb-baae-4229-b4ab-83a0b21636fc",
+        "status": "D60",
+        "startDate": "2025-05-05",
+        "description": "Forearm",
+        "comment": "The Cincinnati Reds placed INF Tyler Callihan on the 60-day injured list with a left forearm fracture.",
+        "updateDate": "2025-05-09"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "7abdea2a-e3d9-4458-a044-0b6d989065cd",
+      "playerName": "Hunter Greene",
+      "firstName": "Christian",
+      "lastName": "Greene",
+      "position": "P",
+      "jersey": "21",
+      "team": {
+        "id": "c874a065-c115-4e7d-b0f0-235584fb0e6f",
+        "name": "Reds",
+        "market": "Cincinnati"
+      },
+      "injury": {
+        "id": "a1bf3699-ed85-4899-8131-8624a34ffd9d",
+        "status": "D15",
+        "startDate": "2025-06-04",
+        "description": "Groin",
+        "comment": "The Cincinnati Reds placed RHP Hunter Greene on the 15-day injured list with right groin strain.",
+        "updateDate": "2025-06-04"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "65e665b2-cd64-4bfe-a7c5-2afa492e7eff",
+      "playerName": "Rhett Lowder",
+      "firstName": "Rhett",
+      "lastName": "Lowder",
+      "position": "P",
+      "jersey": "25",
+      "team": {
+        "id": "c874a065-c115-4e7d-b0f0-235584fb0e6f",
+        "name": "Reds",
+        "market": "Cincinnati"
+      },
+      "injury": {
+        "id": "b2607033-baaa-4c31-926e-40ec90cc9180",
+        "status": "D60",
+        "startDate": "2025-03-26",
+        "description": "Forearm",
+        "comment": "The Cincinnati Reds transferred RHP Rhett Lowder from the 15-day injured list to the 60-day injured list with a right forearm strain.",
+        "updateDate": "2025-06-04"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "45b2906b-e65a-450e-aefd-035284937324",
+      "playerName": "Brandon Williamson",
+      "firstName": "Brandon",
+      "lastName": "Williamson",
+      "position": "P",
+      "jersey": "65",
+      "team": {
+        "id": "c874a065-c115-4e7d-b0f0-235584fb0e6f",
+        "name": "Reds",
+        "market": "Cincinnati"
+      },
+      "injury": {
+        "id": "d197f83e-f20a-4593-a99a-ef1ee1604494",
+        "status": "D60",
+        "startDate": "2025-03-26",
+        "description": "Elbow",
+        "comment": "The Cincinnati Reds placed LHP Brandon Williamson on the 60-day injured list with a left elbow strain.",
+        "updateDate": "2025-03-26"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "2f30fa8d-c4f7-42c2-8509-1a4feb3daa04",
+      "playerName": "Sean Guenther",
+      "firstName": "Sean",
+      "lastName": "Guenther",
+      "position": "P",
+      "jersey": "73",
+      "team": {
+        "id": "575c19b7-4052-41c2-9f0a-1c5813d02f99",
+        "name": "Tigers",
+        "market": "Detroit"
+      },
+      "injury": {
+        "id": "15ab5798-f365-4994-b362-db6887984e8e",
+        "status": "D60",
+        "startDate": "2025-07-06",
+        "description": "Hip",
+        "comment": "The Detroit Tigers placed LHP Sean Guenther on the 60-day injured list as he recovers from a left hip arthroscopy.",
+        "updateDate": "2025-07-06"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "6886b386-f632-4ce4-86f4-e4f3f12d7671",
+      "playerName": "Kerry Carpenter",
+      "firstName": "Kerry",
+      "lastName": "Carpenter",
+      "position": "OF",
+      "jersey": "30",
+      "team": {
+        "id": "575c19b7-4052-41c2-9f0a-1c5813d02f99",
+        "name": "Tigers",
+        "market": "Detroit"
+      },
+      "injury": {
+        "id": "6c2ac1aa-f862-4d57-b788-8a440e6e39ae",
+        "status": "D10",
+        "startDate": "2025-07-01",
+        "description": "Hamstring",
+        "comment": "The Detroit Tigers placed OF Kerry Carpenter on the 10-day injured list due to a hamstring.",
+        "updateDate": "2025-07-01"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "0a47ba20-bda0-4f94-a93a-6c07144f70ac",
+      "playerName": "Sawyer Gipson-Long",
+      "firstName": "Sawyer",
+      "lastName": "Gipson-Long",
+      "position": "P",
+      "jersey": "66",
+      "team": {
+        "id": "575c19b7-4052-41c2-9f0a-1c5813d02f99",
+        "name": "Tigers",
+        "market": "Detroit"
+      },
+      "injury": {
+        "id": "7863ee00-88d6-48f3-951a-b079660c858e",
+        "status": "D15",
+        "startDate": "2025-06-29",
+        "description": "Neck",
+        "comment": "The Detroit Tigers placed RHP Sawyer Gipson-Long on the 15-day injured list due to neck stiffness.",
+        "updateDate": "2025-07-02"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "6ac810f6-694e-48b9-a7d8-1cc43a98206b",
+      "playerName": "Jackson Jobe",
+      "firstName": "Jackson",
+      "lastName": "Jobe",
+      "position": "P",
+      "jersey": "21",
+      "team": {
+        "id": "575c19b7-4052-41c2-9f0a-1c5813d02f99",
+        "name": "Tigers",
+        "market": "Detroit"
+      },
+      "injury": {
+        "id": "87c6f68b-1975-4f2b-8d66-20813b441855",
+        "status": "D60",
+        "startDate": "2025-05-30",
+        "description": "Flexor",
+        "comment": "The Detroit Tigers placed RHP Jackson Jobe on the 60-day injured list with a flexor strain.",
+        "updateDate": "2025-06-12"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "9026cf57-637f-421c-803b-43652550abc8",
+      "playerName": "Alex Lange",
+      "firstName": "Alexander",
+      "lastName": "Lange",
+      "position": "P",
+      "jersey": "55",
+      "team": {
+        "id": "575c19b7-4052-41c2-9f0a-1c5813d02f99",
+        "name": "Tigers",
+        "market": "Detroit"
+      },
+      "injury": {
+        "id": "a33e5ee2-3315-425b-baec-dde8b3b65814",
+        "status": "D60",
+        "startDate": "2025-02-12",
+        "description": "Lat",
+        "comment": "The Detroit Tigers placed RHP Alex Lange on the 60-day injured list as he recovers from surgery.",
+        "updateDate": "2025-02-12"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "f216c7d9-7eca-466f-af1d-41a12887a7b1",
+      "playerName": "Ty Madden",
+      "firstName": "Tyler",
+      "lastName": "Madden",
+      "position": "P",
+      "jersey": "36",
+      "team": {
+        "id": "575c19b7-4052-41c2-9f0a-1c5813d02f99",
+        "name": "Tigers",
+        "market": "Detroit"
+      },
+      "injury": {
+        "id": "b1e09cf1-c5e8-476d-a06b-9223cf49c1ce",
+        "status": "D60",
+        "startDate": "2025-03-27",
+        "description": "Shoulder",
+        "comment": "The Detroit Tigers placed RHP Ty Madden on the 60-day injured list with a right shoulder inflammation.",
+        "updateDate": "2025-03-28"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "5f333b4b-e361-4705-8741-0c0f0dd1a4f7",
+      "playerName": "Jason Foley",
+      "firstName": "Jason",
+      "lastName": "Foley",
+      "position": "P",
+      "jersey": "68",
+      "team": {
+        "id": "575c19b7-4052-41c2-9f0a-1c5813d02f99",
+        "name": "Tigers",
+        "market": "Detroit"
+      },
+      "injury": {
+        "id": "b8903fb1-6025-4494-b1a0-756641720316",
+        "status": "D60",
+        "startDate": "2025-06-04",
+        "description": "Shoulder",
+        "comment": "The Detroit Tigers placed RHP Jason Foley on the 60-day injured list due to a shoulder strain. Foley underwent season-ending shoulder surgery, Cody Stavenhagen of The Athletic reports.",
+        "updateDate": "2025-06-04"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "54a4a196-9a19-4af0-954e-f8d337542ecd",
+      "playerName": "José Urquidy",
+      "firstName": "José",
+      "lastName": "Urquidy",
+      "position": "P",
+      "jersey": "65",
+      "team": {
+        "id": "575c19b7-4052-41c2-9f0a-1c5813d02f99",
+        "name": "Tigers",
+        "market": "Detroit"
+      },
+      "injury": {
+        "id": "bad45710-341a-47eb-a2aa-78664f7dcbc7",
+        "status": "D60",
+        "startDate": "2025-03-24",
+        "description": "Elbow",
+        "comment": "The Detroit Tigers placed RHP José Urquidy on the 60-day injured list as he recovers from Tommy John surgery.",
+        "updateDate": "2025-03-24"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "d2c5e643-fe5d-4ece-8f1e-560d6b2048ed",
+      "playerName": "Alex Cobb",
+      "firstName": "Alexander",
+      "lastName": "Cobb",
+      "position": "P",
+      "jersey": "38",
+      "team": {
+        "id": "575c19b7-4052-41c2-9f0a-1c5813d02f99",
+        "name": "Tigers",
+        "market": "Detroit"
+      },
+      "injury": {
+        "id": "d57fc11a-72fe-4d93-ba4d-909d157af4e4",
+        "status": "D60",
+        "startDate": "2025-03-27",
+        "description": "Hip",
+        "comment": "The Detroit Tigers transferred RHP Alex Cobb to the 60-day injured list due to right hip inflammation.",
+        "updateDate": "2025-05-30"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "122f24b5-913e-4abd-90ca-62b1d7519665",
+      "playerName": "Tyler Mahle",
+      "firstName": "Tyler",
+      "lastName": "Mahle",
+      "position": "P",
+      "jersey": "51",
+      "team": {
+        "id": "d99f919b-1534-4516-8e8a-9cd106c6d8cd",
+        "name": "Rangers",
+        "market": "Texas"
+      },
+      "injury": {
+        "id": "18cf0360-7d1b-42ad-86d2-d18bfe6755e0",
+        "status": "D60",
+        "startDate": "2025-06-12",
+        "description": "Shoulder",
+        "comment": "The Texas Rangers transferred RHP Tyler Mahle to the 60-day injured list with right shoulder fatigue.",
+        "updateDate": "2025-07-01"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "43a9d631-5673-4059-9b25-d59290bc32c3",
+      "playerName": "Joc Pederson",
+      "firstName": "Joc",
+      "lastName": "Pederson",
+      "position": "IF",
+      "jersey": "4",
+      "team": {
+        "id": "d99f919b-1534-4516-8e8a-9cd106c6d8cd",
+        "name": "Rangers",
+        "market": "Texas"
+      },
+      "injury": {
+        "id": "1e852c18-11be-4ed0-afd6-118cccf8459c",
+        "status": "D10",
+        "startDate": "2025-05-24",
+        "description": "Hand",
+        "comment": "The Texas Rangers placed INF Joc Pederson on the 10-day injured list due to a fractured right hand when it was hit by a pitch.",
+        "updateDate": "2025-05-25"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "83224cde-72e0-416c-8d4b-fe83f5729451",
+      "playerName": "Sam Haggerty",
+      "firstName": "Samuel",
+      "lastName": "Haggerty",
+      "position": "OF",
+      "jersey": "0",
+      "team": {
+        "id": "d99f919b-1534-4516-8e8a-9cd106c6d8cd",
+        "name": "Rangers",
+        "market": "Texas"
+      },
+      "injury": {
+        "id": "2d899dbc-479e-4e29-a803-d083a6161352",
+        "status": "D10",
+        "startDate": "2025-07-15",
+        "description": "Ankle",
+        "comment": "The Texas Rangers placed OF Sam Haggerty on the 10-day injured list due to left ankle inflammation.",
+        "updateDate": "2025-07-18"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "4e52e687-a91b-40ca-9ebd-1bf8006a6d53",
+      "playerName": "Chris Martin",
+      "firstName": "Christopher",
+      "lastName": "Martin",
+      "position": "P",
+      "jersey": "55",
+      "team": {
+        "id": "d99f919b-1534-4516-8e8a-9cd106c6d8cd",
+        "name": "Rangers",
+        "market": "Texas"
+      },
+      "injury": {
+        "id": "32ebfe92-5eb6-4359-9f80-e9d39cd960c7",
+        "status": "D15",
+        "startDate": "2025-07-20",
+        "description": "Calf",
+        "comment": "The Texas Rangers placed RHP Chris Martin on the 15-day injured list with a left calf strain.",
+        "updateDate": "2025-07-21"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "5cc6bf5e-80b0-42ef-8735-1f1df4af3a12",
+      "playerName": "Josh Sborz",
+      "firstName": "Joshua",
+      "lastName": "Sborz",
+      "position": "P",
+      "jersey": "66",
+      "team": {
+        "id": "d99f919b-1534-4516-8e8a-9cd106c6d8cd",
+        "name": "Rangers",
+        "market": "Texas"
+      },
+      "injury": {
+        "id": "47c2bb08-296d-4256-81bc-02b4ec197df0",
+        "status": "D60",
+        "startDate": "2025-02-17",
+        "description": "Shoulder",
+        "comment": "The Texas Rangers placed RHP Josh Sborz on the 60-day injured list to right shoulder surgery.",
+        "updateDate": "2025-02-17"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "0feb47d0-1eac-4553-9a83-5926f9cc795b",
+      "playerName": "Cody Bradford",
+      "firstName": "Cody",
+      "lastName": "Bradford",
+      "position": "P",
+      "jersey": "61",
+      "team": {
+        "id": "d99f919b-1534-4516-8e8a-9cd106c6d8cd",
+        "name": "Rangers",
+        "market": "Texas"
+      },
+      "injury": {
+        "id": "782ece19-eccc-4746-8d0a-1c71f1c7f8b4",
+        "status": "D60",
+        "startDate": "2025-03-27",
+        "description": "Elbow",
+        "comment": "The Texas Rangers placed LHP Cody Bradford to the 60-day injured list with a left elbow sprain.",
+        "updateDate": "2025-04-08"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "85554a9a-0ff8-4886-844c-9b440ed94d61",
+      "playerName": "Kyle Higashioka",
+      "firstName": "Kyle",
+      "lastName": "Higashioka",
+      "position": "C",
+      "jersey": "11",
+      "team": {
+        "id": "d99f919b-1534-4516-8e8a-9cd106c6d8cd",
+        "name": "Rangers",
+        "market": "Texas"
+      },
+      "injury": {
+        "id": "d81479c4-c710-4a47-9e31-dcac1cd4e728",
+        "status": "Day-to-Day",
+        "startDate": "2025-07-22",
+        "description": "Hamstring",
+        "comment": "Higashioka is not in the lineup for Wednesday's (Jul. 23) game against the Athletics.",
+        "updateDate": "2025-07-23"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "f2b87eb7-b609-4f58-840d-d28844be3f2c",
+      "playerName": "Jake Burger",
+      "firstName": "Jacob",
+      "lastName": "Burger",
+      "position": "IF",
+      "jersey": "21",
+      "team": {
+        "id": "d99f919b-1534-4516-8e8a-9cd106c6d8cd",
+        "name": "Rangers",
+        "market": "Texas"
+      },
+      "injury": {
+        "id": "fb84ee7a-1632-49fb-b96c-3413b48deb02",
+        "status": "D10",
+        "startDate": "2025-07-13",
+        "description": "Quadriceps",
+        "comment": "The Texas Rangers placed INF Jake Burger on the 10-day injured list.",
+        "updateDate": "2025-07-16"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "9fc34f7c-7d68-4d82-9460-0b12f3e728b5",
+      "playerName": "Ryan Mountcastle",
+      "firstName": "Ryan",
+      "lastName": "Mountcastle",
+      "position": "IF",
+      "jersey": "6",
+      "team": {
+        "id": "75729d34-bca7-4a0f-b3df-6f26c6ad3719",
+        "name": "Orioles",
+        "market": "Baltimore"
+      },
+      "injury": {
+        "id": "19acf7f1-70ef-4e57-8da9-5102083d2b37",
+        "status": "D60",
+        "startDate": "2025-05-31",
+        "description": "Hamstring",
+        "comment": "The Baltimore Orioles transferred INF Ryan Mountcastle from the 10-day injured list to the 60-day injured list due to a right hamstring strain.",
+        "updateDate": "2025-06-23"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "7a30920a-f304-458b-a06c-89c68e873f80",
+      "playerName": "Chadwick Tromp",
+      "firstName": "Chadwick",
+      "lastName": "Tromp",
+      "position": "C",
+      "jersey": "41",
+      "team": {
+        "id": "75729d34-bca7-4a0f-b3df-6f26c6ad3719",
+        "name": "Orioles",
+        "market": "Baltimore"
+      },
+      "injury": {
+        "id": "26639687-b031-45bc-9b07-0b9780017db5",
+        "status": "D10",
+        "startDate": "2025-06-30",
+        "description": "Back",
+        "comment": "The Baltimore Orioles placed C Chadwick Tromp on the 10-day injured list with Lower back strain.",
+        "updateDate": "2025-07-01"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.985Z"
+    },
+    {
+      "playerId": "8450f368-0e7a-4be6-9996-aba9248a7a8e",
+      "playerName": "Albert Suárez",
+      "firstName": "Albert",
+      "lastName": "Suárez",
+      "position": "P",
+      "jersey": "49",
+      "team": {
+        "id": "75729d34-bca7-4a0f-b3df-6f26c6ad3719",
+        "name": "Orioles",
+        "market": "Baltimore"
+      },
+      "injury": {
+        "id": "2d1c4139-811b-4303-9e3e-3d22a4a8f57c",
+        "status": "D60",
+        "startDate": "2025-03-29",
+        "description": "Shoulder",
+        "comment": "The Baltimore Orioles transferred RHP Albert Suárez from the 15-day injured list to the 60-day injured list with a right shoulder inflammation.",
+        "updateDate": "2025-04-07"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "b9ee6cb0-733c-4f27-88bf-847c42a6236d",
+      "playerName": "Gary Sánchez",
+      "firstName": "Gary",
+      "lastName": "Sánchez",
+      "position": "C",
+      "jersey": "99",
+      "team": {
+        "id": "75729d34-bca7-4a0f-b3df-6f26c6ad3719",
+        "name": "Orioles",
+        "market": "Baltimore"
+      },
+      "injury": {
+        "id": "33ab4a4f-aadf-45b9-9ae6-6cb7279220b4",
+        "status": "D10",
+        "startDate": "2025-07-05",
+        "description": "Knee",
+        "comment": "The Baltimore Orioles placed C Gary Sánchez on the 10-day injured list due to a right knee sprain.",
+        "updateDate": "2025-07-06"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "ac593ed6-be4c-46be-b1ab-9a18da4338cf",
+      "playerName": "Kyle Bradish",
+      "firstName": "Kyle",
+      "lastName": "Bradish",
+      "position": "P",
+      "jersey": "38",
+      "team": {
+        "id": "75729d34-bca7-4a0f-b3df-6f26c6ad3719",
+        "name": "Orioles",
+        "market": "Baltimore"
+      },
+      "injury": {
+        "id": "3a7d98db-7985-44ae-8345-2f5b72361a3a",
+        "status": "D60",
+        "startDate": "2025-03-21",
+        "description": "Elbow",
+        "comment": "The Baltimore Orioles placed RHP Kyle Bradish on the 60-day injured list as he recovers from Tommy John surgery.",
+        "updateDate": "2025-03-21"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "6d3c33e8-1ef8-4f53-b5a2-cf226b53fe86",
+      "playerName": "Scott Blewett",
+      "firstName": "Scott",
+      "lastName": "Blewett",
+      "position": "P",
+      "jersey": "67",
+      "team": {
+        "id": "75729d34-bca7-4a0f-b3df-6f26c6ad3719",
+        "name": "Orioles",
+        "market": "Baltimore"
+      },
+      "injury": {
+        "id": "42ec8c39-e7d7-44d0-a70f-f716c6dfc35e",
+        "status": "D15",
+        "startDate": "2025-07-13",
+        "description": "Elbow",
+        "comment": "The Baltimore Orioles placed RHP Scott Blewett on the 15-day injured list with a right elbow discomfort.",
+        "updateDate": "2025-07-13"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "e52a94fe-804e-4d9a-bd4e-dbe3bb7148e5",
+      "playerName": "Tyler Wells",
+      "firstName": "Tyler",
+      "lastName": "Wells",
+      "position": "P",
+      "jersey": "68",
+      "team": {
+        "id": "75729d34-bca7-4a0f-b3df-6f26c6ad3719",
+        "name": "Orioles",
+        "market": "Baltimore"
+      },
+      "injury": {
+        "id": "68158a35-e730-4f8a-8e7d-0d4ab609ef4b",
+        "status": "D60",
+        "startDate": "2025-03-23",
+        "description": "Elbow",
+        "comment": "The Baltimore Orioles placed RHP Tyler Wells on the 60-day injured list as he recovers from UCL surgery in June of 2024.",
+        "updateDate": "2025-03-23"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "9b8a295d-bae1-4684-bf38-9f64dc0fd22e",
+      "playerName": "Jorge Mateo",
+      "firstName": "Jorge",
+      "lastName": "Mateo",
+      "position": "IF",
+      "jersey": "3",
+      "team": {
+        "id": "75729d34-bca7-4a0f-b3df-6f26c6ad3719",
+        "name": "Orioles",
+        "market": "Baltimore"
+      },
+      "injury": {
+        "id": "728cd1d8-0a00-4cd8-af91-b46a9289e65a",
+        "status": "D60",
+        "startDate": "2025-06-07",
+        "description": "Elbow",
+        "comment": "The Baltimore Orioles transferred INF Jorge Mateo from the 10-day injured list to the 60-day injured list with a left elbow inflammation.",
+        "updateDate": "2025-07-06"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "7960a26a-3ee0-4c7a-bc10-585cf71b02a5",
+      "playerName": "Keegan Akin",
+      "firstName": "Keegan",
+      "lastName": "Akin",
+      "position": "P",
+      "jersey": "45",
+      "team": {
+        "id": "75729d34-bca7-4a0f-b3df-6f26c6ad3719",
+        "name": "Orioles",
+        "market": "Baltimore"
+      },
+      "injury": {
+        "id": "8c8aa294-05cd-4526-a231-2325303a4fa9",
+        "status": "D15",
+        "startDate": "2025-07-01",
+        "description": "Shoulder",
+        "comment": "The Baltimore Orioles placed LHP Keegan Akin on the 15-day injured list due to a left shoulder inflammation.",
+        "updateDate": "2025-07-02"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "e1aabb4c-3fa9-4053-b2a7-29a05607df88",
+      "playerName": "Adley Rutschman",
+      "firstName": "Adley",
+      "lastName": "Rutschman",
+      "position": "C",
+      "jersey": "35",
+      "team": {
+        "id": "75729d34-bca7-4a0f-b3df-6f26c6ad3719",
+        "name": "Orioles",
+        "market": "Baltimore"
+      },
+      "injury": {
+        "id": "8e591da0-17cc-4428-8698-d664bafbe292",
+        "status": "D10",
+        "startDate": "2025-06-20",
+        "description": "Oblique",
+        "comment": "The Baltimore Orioles placed C Adley Rutschman on the 10-day injured list due to a left oblique strain.",
+        "updateDate": "2025-06-21"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "d94f854a-4eaf-4fe9-82c7-973ea01ec739",
+      "playerName": "Cade Povich",
+      "firstName": "Cade",
+      "lastName": "Povich",
+      "position": "P",
+      "jersey": "37",
+      "team": {
+        "id": "75729d34-bca7-4a0f-b3df-6f26c6ad3719",
+        "name": "Orioles",
+        "market": "Baltimore"
+      },
+      "injury": {
+        "id": "a09b9710-5394-4952-9e03-dbcc6b770909",
+        "status": "D15",
+        "startDate": "2025-06-16",
+        "description": "Hip",
+        "comment": "The Baltimore Orioles said that LHP Cade Povich is playing catch, but there's no timetable yet for his return.",
+        "updateDate": "2025-07-05"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "c254c484-513b-40e5-90b2-196b0bc6295d",
+      "playerName": "Maverick Handley",
+      "firstName": "Maverick",
+      "lastName": "Handley",
+      "position": "C",
+      "jersey": "98",
+      "team": {
+        "id": "75729d34-bca7-4a0f-b3df-6f26c6ad3719",
+        "name": "Orioles",
+        "market": "Baltimore"
+      },
+      "injury": {
+        "id": "a8d0e667-f70d-464b-9bc2-37aecaab0db0",
+        "status": "D10",
+        "startDate": "2025-06-22",
+        "description": "Head",
+        "comment": "The Baltimore Orioles transferred C Maverick Handley to the 10-day injury list due to a concussion.",
+        "updateDate": "2025-06-23"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "f9ab5bbf-bb91-4a1a-9fe7-c8dd4eb9022f",
+      "playerName": "Félix Bautista",
+      "firstName": "Félix",
+      "lastName": "Bautista",
+      "position": "P",
+      "jersey": "74",
+      "team": {
+        "id": "75729d34-bca7-4a0f-b3df-6f26c6ad3719",
+        "name": "Orioles",
+        "market": "Baltimore"
+      },
+      "injury": {
+        "id": "e16f48a4-0b9e-4fdc-9ce8-c0971245d8f0",
+        "status": "D15",
+        "startDate": "2025-07-21",
+        "description": "Shoulder",
+        "comment": "The Baltimore Orioles placed RHP Félix Bautista on the 15-day injured list with right shoulder discomfort.",
+        "updateDate": "2025-07-24"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "fe85cdd5-32b3-4c92-bad1-7e8c48f580fb",
+      "playerName": "Cody Poteet",
+      "firstName": "Cody",
+      "lastName": "Poteet",
+      "position": "P",
+      "jersey": "53",
+      "team": {
+        "id": "75729d34-bca7-4a0f-b3df-6f26c6ad3719",
+        "name": "Orioles",
+        "market": "Baltimore"
+      },
+      "injury": {
+        "id": "e4e0814d-8cac-44d5-aadc-833894c16745",
+        "status": "D60",
+        "startDate": "2025-04-21",
+        "description": "Shoulder",
+        "comment": "The Baltimore Orioles said that RHP Cody Poteet got an injection for his shoulder injury and will start throwing in the next few days.",
+        "updateDate": "2025-07-05"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "8e17fe93-87da-4a6c-a63e-32a8083470cc",
+      "playerName": "Grayson Rodriguez",
+      "firstName": "Grayson",
+      "lastName": "Rodriguez",
+      "position": "P",
+      "jersey": "30",
+      "team": {
+        "id": "75729d34-bca7-4a0f-b3df-6f26c6ad3719",
+        "name": "Orioles",
+        "market": "Baltimore"
+      },
+      "injury": {
+        "id": "fe2ff1e3-e352-4bff-a08f-5268796bef6c",
+        "status": "D60",
+        "startDate": "2025-03-27",
+        "description": "Elbow",
+        "comment": "The Baltimore Orioles transferred RHP Chayce McDermott to the 60-day injured list with right elbow inflammation.",
+        "updateDate": "2025-03-27"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "da51f68b-8ee3-45b1-ae3c-af89ab6b176d",
+      "playerName": "Tim Elko",
+      "firstName": "Timothy",
+      "lastName": "Elko",
+      "position": "IF",
+      "jersey": "30",
+      "team": {
+        "id": "47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8",
+        "name": "White Sox",
+        "market": "Chicago"
+      },
+      "injury": {
+        "id": "1e524671-6132-45be-9310-1f3f0aa1d7d7",
+        "status": "D10",
+        "startDate": "2025-07-11",
+        "description": "Knee",
+        "comment": "The Chicago White Sox placed INF Tim Elko on the 10-day injured list with a right knee sprain.",
+        "updateDate": "2025-07-11"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "205f6104-6a51-4200-ade8-0b7ded90ae9d",
+      "playerName": "Prelander Berroa",
+      "firstName": "Prelander",
+      "lastName": "Berroa",
+      "position": "P",
+      "team": {
+        "id": "47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8",
+        "name": "White Sox",
+        "market": "Chicago"
+      },
+      "injury": {
+        "id": "2190f23d-c46e-43fc-9d08-8106ba8179ec",
+        "status": "D60",
+        "startDate": "2025-03-23",
+        "description": "Elbow",
+        "comment": "The Chicago White Sox placed RHP Prelander Berroa on the 60-day injured list as he recovers from Tommy John surgery. He's expected to miss the 2025 season.",
+        "updateDate": "2025-03-23"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "7f5b4d55-78a3-44c6-a970-d7d9a2907391",
+      "playerName": "Ryan Noda",
+      "firstName": "Ryan",
+      "lastName": "Noda",
+      "position": "IF",
+      "jersey": "29",
+      "team": {
+        "id": "47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8",
+        "name": "White Sox",
+        "market": "Chicago"
+      },
+      "injury": {
+        "id": "4e86e348-836b-4aed-8806-266d323b835d",
+        "status": "D10",
+        "startDate": "2025-07-07",
+        "description": "Quad",
+        "comment": "The Chicago White Sox placed INF Ryan Noda on the 10-day injured list with a right quad strain.",
+        "updateDate": "2025-07-07"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "f7588c07-8ad8-4791-a223-ad5f7243aa0f",
+      "playerName": "Jesse Scholtens",
+      "firstName": "Jesse",
+      "lastName": "Scholtens",
+      "position": "P",
+      "jersey": "62",
+      "team": {
+        "id": "47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8",
+        "name": "White Sox",
+        "market": "Chicago"
+      },
+      "injury": {
+        "id": "6114a541-3086-44e7-9d71-995a1c75c1c8",
+        "status": "D60",
+        "startDate": "2025-02-12",
+        "description": "Elbow",
+        "comment": "The Chicago White Sox placed RHP Jesse Scholtens on the 60-day injured list as he recovers from Tommy John surgery.",
+        "updateDate": "2025-02-12"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "aa0edc16-ae30-4789-a70f-00f010d112cb",
+      "playerName": "Ky Bush",
+      "firstName": "Kyler",
+      "lastName": "Bush",
+      "position": "P",
+      "team": {
+        "id": "47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8",
+        "name": "White Sox",
+        "market": "Chicago"
+      },
+      "injury": {
+        "id": "6e37d10c-c38e-4bc4-bf97-060934b05254",
+        "status": "D60",
+        "startDate": "2025-02-17",
+        "description": "Elbow",
+        "comment": "The Chicago White Sox placed LHP Ky Bush on the 60-day injured list as he recovers from Tommy John surgery.",
+        "updateDate": "2025-02-17"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "9012e198-9f53-4885-8b24-402e51524e82",
+      "playerName": "Martín Pérez",
+      "firstName": "Martín",
+      "lastName": "Pérez",
+      "position": "P",
+      "jersey": "54",
+      "team": {
+        "id": "47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8",
+        "name": "White Sox",
+        "market": "Chicago"
+      },
+      "injury": {
+        "id": "7b1f07b5-7d8d-4340-aa94-58ee0be02e0d",
+        "status": "D60",
+        "startDate": "2025-04-18",
+        "description": "Forearm",
+        "comment": "The Chicago White Sox transferred LHP Martín Pérez from the 10-day injured list to the 60-day injured list due to left flexor strain.",
+        "updateDate": "2025-04-21"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "213bd941-37dc-40a1-ab22-1d62cebb6bc1",
+      "playerName": "Luis Robert Jr.",
+      "firstName": "Luis",
+      "lastName": "Robert",
+      "position": "OF",
+      "jersey": "88",
+      "team": {
+        "id": "47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8",
+        "name": "White Sox",
+        "market": "Chicago"
+      },
+      "injury": {
+        "id": "98a50e9f-05f5-4d38-a38b-70d637df42fc",
+        "status": "Day-to-Day",
+        "startDate": "2025-07-25",
+        "description": "Groin",
+        "comment": "Robert Jr. is out of Friday's (Jul. 25) starting lineup due to groin tightness according to Jesse Rogers of ESPN.",
+        "updateDate": "2025-07-25"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "7d2708e6-b548-4ca8-8c71-98c8a685df7f",
+      "playerName": "Drew Thorpe",
+      "firstName": "Andrew",
+      "lastName": "Thorpe",
+      "position": "P",
+      "jersey": "33",
+      "team": {
+        "id": "47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8",
+        "name": "White Sox",
+        "market": "Chicago"
+      },
+      "injury": {
+        "id": "b816e016-3fb5-45d4-afab-4c00e9d79752",
+        "status": "D60",
+        "startDate": "2025-03-27",
+        "description": "Elbow",
+        "comment": "The Chicago White Sox placed RHP Drew Thorpe on the 60-day injured list as he recovers from Tommy John surgery. He's expected to miss the 2025 season.",
+        "updateDate": "2025-03-27"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "6f5cf903-eca7-4619-84b6-8f269f0bc347",
+      "playerName": "Shane Smith",
+      "firstName": "Shane",
+      "lastName": "Smith",
+      "position": "P",
+      "jersey": "64",
+      "team": {
+        "id": "47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8",
+        "name": "White Sox",
+        "market": "Chicago"
+      },
+      "injury": {
+        "id": "bdc9bf81-34e4-4b9b-b27d-b806364a08b3",
+        "status": "D15",
+        "startDate": "2025-07-19",
+        "description": "Ankle",
+        "comment": "The Chicago White Sox placed RHP Shane Smith on the 15-day injured list with a left ankle sprain.",
+        "updateDate": "2025-07-19"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "57f8351b-3fbc-402f-a6c7-9a6a37f03f8e",
+      "playerName": "Jared Shuster",
+      "firstName": "Jared",
+      "lastName": "Shuster",
+      "position": "P",
+      "jersey": "51",
+      "team": {
+        "id": "47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8",
+        "name": "White Sox",
+        "market": "Chicago"
+      },
+      "injury": {
+        "id": "df52f4a4-e683-4edc-85ff-4858d8336558",
+        "status": "D15",
+        "startDate": "2025-06-05",
+        "description": "Hand",
+        "comment": "The Chicago White Sox placed LHP Jared Shuster on the 15-day injured list with a blister on his left hand.",
+        "updateDate": "2025-06-08"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "a8b37789-7620-414c-a5a4-c0eac1bb76a0",
+      "playerName": "Miguel Castro",
+      "firstName": "Miguel",
+      "lastName": "Castro",
+      "position": "P",
+      "jersey": "60",
+      "team": {
+        "id": "47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8",
+        "name": "White Sox",
+        "market": "Chicago"
+      },
+      "injury": {
+        "id": "f49f7ca3-7fa3-4a11-9307-36551b1fb49b",
+        "status": "D60",
+        "startDate": "2025-05-29",
+        "description": "Knee",
+        "comment": "The Chicago White Sox transferred RHP Miguel Castro to the 60-day injured list with a patellar tendon tear in his right knee.",
+        "updateDate": "2025-06-04"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "a1c17043-1ed2-4a69-ad8a-adf0d334715d",
+      "playerName": "Manuel Rodríguez",
+      "firstName": "Manuel",
+      "lastName": "Rodríguez",
+      "position": "P",
+      "jersey": "39",
+      "team": {
+        "id": "bdc11650-6f74-49c4-875e-778aeb7632d9",
+        "name": "Rays",
+        "market": "Tampa Bay"
+      },
+      "injury": {
+        "id": "23cf34c4-8dfe-44c5-9eb2-47d7aba0d8e0",
+        "status": "D60",
+        "startDate": "2025-06-10",
+        "description": "Forearm",
+        "comment": "The Tampa Bay Rays transferred RHP Manuel Rodríguez from the 15-day injured list to the 60-day injured list with right forearm strain.",
+        "updateDate": "2025-06-22"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "089d380d-ad85-4a1d-bb1d-c38bd7c345b7",
+      "playerName": "Hunter Bigge",
+      "firstName": "Hunter",
+      "lastName": "Bigge",
+      "position": "P",
+      "jersey": "43",
+      "team": {
+        "id": "bdc11650-6f74-49c4-875e-778aeb7632d9",
+        "name": "Rays",
+        "market": "Tampa Bay"
+      },
+      "injury": {
+        "id": "2e73a9cd-80ed-425f-9ff2-676e863f6dae",
+        "status": "D60",
+        "startDate": "2025-05-02",
+        "description": "Lat",
+        "comment": "The Tampa Bay Rays transferred RHP Hunter Bigge from the 15-day injured list to the 60-day injured list due to a right lat strain.",
+        "updateDate": "2025-07-17"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "13812850-d32a-4e0a-9132-a3db2272834d",
+      "playerName": "Shane McClanahan",
+      "firstName": "Shane",
+      "lastName": "McClanahan",
+      "position": "P",
+      "jersey": "18",
+      "team": {
+        "id": "bdc11650-6f74-49c4-875e-778aeb7632d9",
+        "name": "Rays",
+        "market": "Tampa Bay"
+      },
+      "injury": {
+        "id": "56d3e841-5bb0-403e-966a-4273ccce5b50",
+        "status": "D60",
+        "startDate": "2025-03-26",
+        "description": "Triceps",
+        "comment": "The Tampa Bay Rays transferred LHP Shane McClanahan to the 60-day injured list due to triceps nerve irritation.",
+        "updateDate": "2025-04-26"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "981dbdba-601a-4917-95d7-7ecdcaf7eaa5",
+      "playerName": "Nate Lavender",
+      "firstName": "Nathan",
+      "lastName": "Lavender",
+      "position": "P",
+      "jersey": "64",
+      "team": {
+        "id": "bdc11650-6f74-49c4-875e-778aeb7632d9",
+        "name": "Rays",
+        "market": "Tampa Bay"
+      },
+      "injury": {
+        "id": "56e2f6b0-c9e8-4ec4-b8e3-5c0ce5eb791d",
+        "status": "D60",
+        "startDate": "2025-02-12",
+        "description": "Elbow",
+        "comment": "The Tampa Bay Rays placed LHP Nate Lavender on the 60-day injured list as he recovers from an internal brace procedure on his left elbow.",
+        "updateDate": "2025-02-12"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "b6fd7474-ab43-4715-a08f-bdaa4ac5798b",
+      "playerName": "Stuart Fairchild",
+      "firstName": "Stuart",
+      "lastName": "Fairchild",
+      "position": "OF",
+      "jersey": "20",
+      "team": {
+        "id": "bdc11650-6f74-49c4-875e-778aeb7632d9",
+        "name": "Rays",
+        "market": "Tampa Bay"
+      },
+      "injury": {
+        "id": "6be44664-53dc-4da5-bf52-3459370598a8",
+        "status": "D10",
+        "startDate": "2025-07-23",
+        "description": "Oblique",
+        "comment": "The Tampa Bay Rays placed OF Stuart Fairchild on the 10-day injured list due to a right oblique strain.",
+        "updateDate": "2025-07-23"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "d5c9ae13-0a9e-42cd-8d74-6b7797cef34c",
+      "playerName": "Ha-Seong Kim",
+      "firstName": "Ha-Seong",
+      "lastName": "Kim",
+      "position": "IF",
+      "jersey": "7",
+      "team": {
+        "id": "bdc11650-6f74-49c4-875e-778aeb7632d9",
+        "name": "Rays",
+        "market": "Tampa Bay"
+      },
+      "injury": {
+        "id": "79f0e236-403c-4a2f-9304-c8a41156dfc1",
+        "status": "Day-to-Day",
+        "startDate": "2025-07-21",
+        "description": "Back",
+        "comment": "Kim is not in the lineup for Friday's (Jul. 25) game against Cincinnati.",
+        "updateDate": "2025-07-25"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "24887442-7de5-4d3d-ab41-3a95e68828ec",
+      "playerName": "Richie Palacios",
+      "firstName": "Richard",
+      "lastName": "Palacios",
+      "position": "IF",
+      "jersey": "1",
+      "team": {
+        "id": "bdc11650-6f74-49c4-875e-778aeb7632d9",
+        "name": "Rays",
+        "market": "Tampa Bay"
+      },
+      "injury": {
+        "id": "7b14b2ef-fcc9-402e-879f-8232a7b257d5",
+        "status": "D60",
+        "startDate": "2025-04-18",
+        "description": "Knee",
+        "comment": "The Tampa Bay Rays transferred INF Richie Palacios from the 10-day injured list to the 60-day injured list with a right knee sprain.",
+        "updateDate": "2025-07-10"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "cafd29c0-91ac-4472-819c-c6dfb04bad71",
+      "playerName": "Brandon Lowe",
+      "firstName": "Brandon",
+      "lastName": "Lowe",
+      "position": "IF",
+      "jersey": "8",
+      "team": {
+        "id": "bdc11650-6f74-49c4-875e-778aeb7632d9",
+        "name": "Rays",
+        "market": "Tampa Bay"
+      },
+      "injury": {
+        "id": "adff616c-56ab-4f6b-bdff-ff9798e056f4",
+        "status": "D10",
+        "startDate": "2025-07-20",
+        "description": "Foot",
+        "comment": "The Tampa Bay Rays placed INF Brandon Lowe on the 10-day injured list due to left ankle/foot tendinitis.",
+        "updateDate": "2025-07-22"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "6506c668-01ec-4f16-b00b-768f1a199b07",
+      "playerName": "Alex Faedo",
+      "firstName": "Alexander",
+      "lastName": "Faedo",
+      "position": "P",
+      "jersey": "31",
+      "team": {
+        "id": "bdc11650-6f74-49c4-875e-778aeb7632d9",
+        "name": "Rays",
+        "market": "Tampa Bay"
+      },
+      "injury": {
+        "id": "da067649-d88f-4ca3-a4ac-1a497fcd1d8f",
+        "status": "D60",
+        "startDate": "2025-03-27",
+        "description": "Shoulder",
+        "comment": "The Tampa Bay Rays placed RHP Alex Faedo on the 60-day injured list with right shoulder inflammation.",
+        "updateDate": "2025-04-18"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "911b89ab-11fc-433f-9a4d-3befcd3dc471",
+      "playerName": "Jonny DeLuca",
+      "firstName": "Jonathan",
+      "lastName": "DeLuca",
+      "position": "OF",
+      "jersey": "21",
+      "team": {
+        "id": "bdc11650-6f74-49c4-875e-778aeb7632d9",
+        "name": "Rays",
+        "market": "Tampa Bay"
+      },
+      "injury": {
+        "id": "fad197e5-762e-4d62-82d4-4a88cdae5b65",
+        "status": "D60",
+        "startDate": "2025-04-08",
+        "description": "Shoulder",
+        "comment": "The Tampa Bay Rays transferred OF Jonny DeLuca from the 10-day injured list to the 60-day injured as he recovers from a right shoulder strain.",
+        "updateDate": "2025-05-27"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "ee949b74-4692-44ae-8c82-a3217439ab4a",
+      "playerName": "Braxton Garrett",
+      "firstName": "Braxton",
+      "lastName": "Garrett",
+      "position": "P",
+      "jersey": "29",
+      "team": {
+        "id": "03556285-bdbb-4576-a06d-42f71f46ddc5",
+        "name": "Marlins",
+        "market": "Miami"
+      },
+      "injury": {
+        "id": "244646ad-4c3c-4c72-aabb-83846ef8d1e4",
+        "status": "D60",
+        "startDate": "2025-02-12",
+        "description": "Elbow",
+        "comment": "The Miami Marlins placed LHP Braxton Garrett on the 60-day injured list as he recovers from left elbow UCL revision surgery.",
+        "updateDate": "2025-02-12"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "142c92e7-07bd-4461-ad2e-c2430ffa9c8d",
+      "playerName": "Griffin Conine",
+      "firstName": "Griffin",
+      "lastName": "Conine",
+      "position": "OF",
+      "jersey": "18",
+      "team": {
+        "id": "03556285-bdbb-4576-a06d-42f71f46ddc5",
+        "name": "Marlins",
+        "market": "Miami"
+      },
+      "injury": {
+        "id": "2c87f7f3-f34e-4e8f-83db-f54e021cc9a3",
+        "status": "D60",
+        "startDate": "2025-04-19",
+        "description": "Arm",
+        "comment": "The Miami Marlins placed OF Griffin Conine on the 60-day injured list due to left shoulder dislocation and will miss the remainder of the 2025 season following shoulder surgery.",
+        "updateDate": "2025-04-30"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "0e91e466-7117-4aaa-b03c-6284fd024f92",
+      "playerName": "Derek Hill",
+      "firstName": "Derek",
+      "lastName": "Hill",
+      "position": "OF",
+      "jersey": "3",
+      "team": {
+        "id": "03556285-bdbb-4576-a06d-42f71f46ddc5",
+        "name": "Marlins",
+        "market": "Miami"
+      },
+      "injury": {
+        "id": "55460546-5915-401c-b94d-d85d416f9b56",
+        "status": "D10",
+        "startDate": "2025-07-22",
+        "description": "Finger",
+        "comment": "The Miami Marlins placed OF Derek Hill on the 10-day injured list due to a sprained left middle finger.",
+        "updateDate": "2025-07-22"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "fa55a6a7-b9b6-48a9-80cf-1a3deb797c79",
+      "playerName": "Jesús Tinoco",
+      "firstName": "Jesús",
+      "lastName": "Tinoco",
+      "position": "P",
+      "jersey": "38",
+      "team": {
+        "id": "03556285-bdbb-4576-a06d-42f71f46ddc5",
+        "name": "Marlins",
+        "market": "Miami"
+      },
+      "injury": {
+        "id": "708acf41-a4ae-407f-b40a-9fbfe9994093",
+        "status": "D60",
+        "startDate": "2025-06-06",
+        "description": "Forearm",
+        "comment": "The Miami Marlins transferred RHP Jesús Tinoco to the 60-day injured list with right forearm strain.",
+        "updateDate": "2025-07-16"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "1e0a56f9-8b82-4e03-9921-a587e317fcf9",
+      "playerName": "Connor Norby",
+      "firstName": "Connor",
+      "lastName": "Norby",
+      "position": "IF",
+      "jersey": "1",
+      "team": {
+        "id": "03556285-bdbb-4576-a06d-42f71f46ddc5",
+        "name": "Marlins",
+        "market": "Miami"
+      },
+      "injury": {
+        "id": "8746d48e-64e5-4a0e-8113-ef65c8d6539a",
+        "status": "D10",
+        "startDate": "2025-07-12",
+        "description": "Wrist",
+        "comment": "The Miami Marlins placed INF Connor Norby on the 10-day injured list with left wrist inflammation.",
+        "updateDate": "2025-07-13"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "29a89587-5c16-4166-a620-6ba2d48691fd",
+      "playerName": "Ryan Weathers",
+      "firstName": "Ryan",
+      "lastName": "Weathers",
+      "position": "P",
+      "jersey": "35",
+      "team": {
+        "id": "03556285-bdbb-4576-a06d-42f71f46ddc5",
+        "name": "Marlins",
+        "market": "Miami"
+      },
+      "injury": {
+        "id": "908e4533-4da2-44ba-a13c-f77dcd6920cd",
+        "status": "D60",
+        "startDate": "2025-06-09",
+        "description": "Lat",
+        "comment": "The Miami Marlins placed LHP Ryan Weathers on the 60-day injured list with a left lat strain.",
+        "updateDate": "2025-06-09"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "badcb851-f368-44a7-9eae-b0d5678825a4",
+      "playerName": "Andrew Nardi",
+      "firstName": "Andrew",
+      "lastName": "Nardi",
+      "position": "P",
+      "jersey": "43",
+      "team": {
+        "id": "03556285-bdbb-4576-a06d-42f71f46ddc5",
+        "name": "Marlins",
+        "market": "Miami"
+      },
+      "injury": {
+        "id": "94eee8a1-de7a-416d-aa10-466fe6281804",
+        "status": "D60",
+        "startDate": "2025-03-15",
+        "description": "Back",
+        "comment": "The Miami Marlins placed LHP Andrew Nardi on the 60-day injured list with a lower-back inflammation.",
+        "updateDate": "2025-03-15"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "a42f123a-4a4b-4af3-92f2-4fdea542680b",
+      "playerName": "Max Meyer",
+      "firstName": "Max",
+      "lastName": "Meyer",
+      "position": "P",
+      "jersey": "23",
+      "team": {
+        "id": "03556285-bdbb-4576-a06d-42f71f46ddc5",
+        "name": "Marlins",
+        "market": "Miami"
+      },
+      "injury": {
+        "id": "98081798-3f1f-41dc-945d-10ef656aa201",
+        "status": "D60",
+        "startDate": "2025-06-03",
+        "description": "Hip",
+        "comment": "The Miami Marlins transferred RHP Max Meyer to the 60-day injured list with a left hip impingement.",
+        "updateDate": "2025-07-01"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "f2c55fb7-f18f-44ab-80a0-7e5d8ee165cc",
+      "playerName": "Oswaldo Cabrera",
+      "firstName": "Oswaldo",
+      "lastName": "Cabrera",
+      "position": "IF",
+      "jersey": "95",
+      "team": {
+        "id": "a09ec676-f887-43dc-bbb3-cf4bbaee9a18",
+        "name": "Yankees",
+        "market": "New York"
+      },
+      "injury": {
+        "id": "2585eff8-0d28-4740-bcfb-a0e4c1517a7a",
+        "status": "D60",
+        "startDate": "2025-05-13",
+        "description": "Ankle",
+        "comment": "The New York Yankees transferred INF Oswaldo Cabrera from the 10-day injured list to the 60-day injured list with a left ankle fracture.",
+        "updateDate": "2025-06-19"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "eebc991a-23ea-4f1c-ba3b-37ff21ee1603",
+      "playerName": "Gerrit Cole",
+      "firstName": "Gerrit",
+      "lastName": "Cole",
+      "position": "P",
+      "jersey": "45",
+      "team": {
+        "id": "a09ec676-f887-43dc-bbb3-cf4bbaee9a18",
+        "name": "Yankees",
+        "market": "New York"
+      },
+      "injury": {
+        "id": "4b0498db-1c5e-43e7-a16e-cb8f41315d64",
+        "status": "D60",
+        "startDate": "2025-03-22",
+        "description": "Elbow",
+        "comment": "The New York Yankees placed RHP Gerrit Cole on the 60-day injured list as he recovers from Tommy John surgery. He's expected to miss the entire 2025 season.",
+        "updateDate": "2025-03-22"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "98382676-6df3-4b1f-9bc8-8c2f1fd28621",
+      "playerName": "Clarke Schmidt",
+      "firstName": "Clarke",
+      "lastName": "Schmidt",
+      "position": "P",
+      "jersey": "36",
+      "team": {
+        "id": "a09ec676-f887-43dc-bbb3-cf4bbaee9a18",
+        "name": "Yankees",
+        "market": "New York"
+      },
+      "injury": {
+        "id": "4ba5aba7-ca32-4de2-a5a8-4472ec01fc29",
+        "status": "D15",
+        "startDate": "2025-07-03",
+        "description": "Forearm",
+        "comment": "Schmidt shared on a personal social media account that he had a successful Tommy John surgery last 11).",
+        "updateDate": "2025-07-16"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "14a96f5a-b925-497b-abd1-bac8ac355f48",
+      "playerName": "Fernando Cruz",
+      "firstName": "Fernando",
+      "lastName": "Cruz",
+      "position": "P",
+      "jersey": "63",
+      "team": {
+        "id": "a09ec676-f887-43dc-bbb3-cf4bbaee9a18",
+        "name": "Yankees",
+        "market": "New York"
+      },
+      "injury": {
+        "id": "7b6934ec-ab58-47bc-bc73-392bda316fe0",
+        "status": "D15",
+        "startDate": "2025-06-30",
+        "description": "Oblique",
+        "comment": "The New York Yankees placed RHP Fernando Cruz on the 15-day injured list with a left oblique strain.",
+        "updateDate": "2025-06-30"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "dfc35421-2c21-40db-bc7d-895ef8d79b02",
+      "playerName": "Jake Cousins",
+      "firstName": "Jake O.",
+      "lastName": "Cousins",
+      "position": "P",
+      "jersey": "61",
+      "team": {
+        "id": "a09ec676-f887-43dc-bbb3-cf4bbaee9a18",
+        "name": "Yankees",
+        "market": "New York"
+      },
+      "injury": {
+        "id": "a4e66250-85aa-4654-9033-55261278a159",
+        "status": "D60",
+        "startDate": "2025-03-27",
+        "description": "Elbow",
+        "comment": "The New York Yankees placed RHP Jake Cousins on the 60-day injured list on Thursday (Mar. 27). Cousins underwent Tommy John surgery on Thursday (Jun. 18) and is now on the way to recovery. ",
+        "updateDate": "2025-06-18"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "dae38ebc-f1dc-4b47-a8b6-9bee0fc2a2dd",
+      "playerName": "Ryan Yarbrough",
+      "firstName": "Ryan",
+      "lastName": "Yarbrough",
+      "position": "P",
+      "jersey": "33",
+      "team": {
+        "id": "a09ec676-f887-43dc-bbb3-cf4bbaee9a18",
+        "name": "Yankees",
+        "market": "New York"
+      },
+      "injury": {
+        "id": "acfa57c6-2853-401b-a468-7f6bf0ec1112",
+        "status": "D15",
+        "startDate": "2025-06-20",
+        "description": "Oblique",
+        "comment": "The New York Yankees placed LHP Ryan Yarbrough on the 15-day injured list with a right oblique strain.",
+        "updateDate": "2025-06-22"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "7c294690-f28f-4cda-97fb-26f2a83938b8",
+      "playerName": "Yerry De Los Santos",
+      "firstName": "Yerry",
+      "lastName": "De Los Santos",
+      "position": "P",
+      "jersey": "73",
+      "team": {
+        "id": "a09ec676-f887-43dc-bbb3-cf4bbaee9a18",
+        "name": "Yankees",
+        "market": "New York"
+      },
+      "injury": {
+        "id": "b1f4b01e-ae34-4913-953f-b0663a4ed1e8",
+        "status": "D15",
+        "startDate": "2025-06-19",
+        "description": "Elbow",
+        "comment": "The New York Yankees placed RHP Yerry De Los Santos on the 15-day injured list due to a right elbow discomfort.",
+        "updateDate": "2025-06-19"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "ce54a1d6-ada3-48be-8980-127ad43957e1",
+      "playerName": "Luis Gil",
+      "firstName": "Luis",
+      "lastName": "Gil",
+      "position": "P",
+      "jersey": "81",
+      "team": {
+        "id": "a09ec676-f887-43dc-bbb3-cf4bbaee9a18",
+        "name": "Yankees",
+        "market": "New York"
+      },
+      "injury": {
+        "id": "b8351d1b-32ec-49e5-87c4-3537181cf45f",
+        "status": "D60",
+        "startDate": "2025-03-24",
+        "description": "Back",
+        "comment": "The New York Yankees placed RHP Luis Gil on the 60-day injured list with a right lat strain.",
+        "updateDate": "2025-03-24"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "3f24039c-5b79-4724-9db7-31609917c462",
+      "playerName": "Mark Leiter Jr.",
+      "firstName": "Mark",
+      "lastName": "Leiter",
+      "position": "P",
+      "jersey": "56",
+      "team": {
+        "id": "a09ec676-f887-43dc-bbb3-cf4bbaee9a18",
+        "name": "Yankees",
+        "market": "New York"
+      },
+      "injury": {
+        "id": "c67d2a7a-f115-4a3d-b2e5-cadae646bc14",
+        "status": "D15",
+        "startDate": "2025-07-07",
+        "description": "Fubular",
+        "comment": "The New York Yankees placed RHP Mark Leiter on the 15-day injured list with a left fibular head stress fracture.",
+        "updateDate": "2025-07-08"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "1944cfd4-9767-45bf-bb80-954a3ef08f14",
+      "playerName": "Paxton Schultz",
+      "firstName": "Paxton",
+      "lastName": "Schultz",
+      "position": "P",
+      "jersey": "65",
+      "team": {
+        "id": "1d678440-b4b1-4954-9b39-70afb3ebbcfa",
+        "name": "Blue Jays",
+        "market": "Toronto"
+      },
+      "injury": {
+        "id": "26a3456a-0743-4398-ad06-c9509a59bd64",
+        "status": "D15",
+        "startDate": "2025-06-29",
+        "description": "Middle Finger",
+        "comment": "The Toronto Blue Jays placed RHP Paxton Schultz on the 15-day injured list.",
+        "updateDate": "2025-06-29"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "4d568c58-5600-406f-8c67-6d7197e25976",
+      "playerName": "Daulton Varsho",
+      "firstName": "Daulton",
+      "lastName": "Varsho",
+      "position": "OF",
+      "jersey": "5",
+      "team": {
+        "id": "1d678440-b4b1-4954-9b39-70afb3ebbcfa",
+        "name": "Blue Jays",
+        "market": "Toronto"
+      },
+      "injury": {
+        "id": "42968455-7c56-4849-9f19-d5cdbacc8e38",
+        "status": "D10",
+        "startDate": "2025-05-31",
+        "description": "Hamstring",
+        "comment": "The Toronto Blue Jays placed OF Daulton Varsho on the 10-day injured list with left hamstring strain.",
+        "updateDate": "2025-06-01"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "3731cc61-f348-4155-bccc-a46a2a7edbf3",
+      "playerName": "Yimi García",
+      "firstName": "Yimi",
+      "lastName": "García",
+      "position": "P",
+      "jersey": "93",
+      "team": {
+        "id": "1d678440-b4b1-4954-9b39-70afb3ebbcfa",
+        "name": "Blue Jays",
+        "market": "Toronto"
+      },
+      "injury": {
+        "id": "5a9ccd9e-1d2a-4719-b413-4f78c11a97d2",
+        "status": "D15",
+        "startDate": "2025-07-05",
+        "description": "Ankle",
+        "comment": "The Toronto Blue Jays placed RHP Yimi García on the 15-day injured list due to a left ankle injury.",
+        "updateDate": "2025-07-05"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "19d60d81-45c2-4b26-927f-8d541158d482",
+      "playerName": "Alek Manoah",
+      "firstName": "Alek",
+      "lastName": "Manoah",
+      "position": "P",
+      "jersey": "6",
+      "team": {
+        "id": "1d678440-b4b1-4954-9b39-70afb3ebbcfa",
+        "name": "Blue Jays",
+        "market": "Toronto"
+      },
+      "injury": {
+        "id": "6237ce8f-a815-4c1d-8f5e-20e4dcbfa53f",
+        "status": "D60",
+        "startDate": "2025-03-17",
+        "description": "Elbow",
+        "comment": "The Toronto Blue Jays placed RHP Alek Manoah on the 60-day injured list as he recovers from Tommy John surgery. He's expected to return in the summer of the 2025 season.",
+        "updateDate": "2025-03-17"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "33d74b50-ee53-42d2-8556-0d77e2c4a148",
+      "playerName": "Bowden Francis",
+      "firstName": "Bowden",
+      "lastName": "Francis",
+      "position": "P",
+      "jersey": "44",
+      "team": {
+        "id": "1d678440-b4b1-4954-9b39-70afb3ebbcfa",
+        "name": "Blue Jays",
+        "market": "Toronto"
+      },
+      "injury": {
+        "id": "7ee0b348-3818-41c0-88c5-bc35cf186528",
+        "status": "D15",
+        "startDate": "2025-06-15",
+        "description": "Shoulder",
+        "comment": "The Toronto Blue Jays placed RHP Bowden Francis on the 15-day injured list with right shoulder impingement.",
+        "updateDate": "2025-06-17"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "1458283f-6a58-4f58-9bbb-7160086b9bc8",
+      "playerName": "Nick Sandlin",
+      "firstName": "Nick",
+      "lastName": "Sandlin",
+      "position": "P",
+      "jersey": "52",
+      "team": {
+        "id": "1d678440-b4b1-4954-9b39-70afb3ebbcfa",
+        "name": "Blue Jays",
+        "market": "Toronto"
+      },
+      "injury": {
+        "id": "85ef07f6-196e-43ec-9943-1de1fec1feb5",
+        "status": "D15",
+        "startDate": "2025-07-08",
+        "description": "Elbow",
+        "comment": "The Toronto Blue Jays placed RHP Nick Sandlin on the 15-day injured list with right elbow inflammation.",
+        "updateDate": "2025-07-08"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "747e416f-2731-46e1-9b46-2d309d9781e9",
+      "playerName": "Ryan Burr",
+      "firstName": "Ryan",
+      "lastName": "Burr",
+      "position": "P",
+      "jersey": "43",
+      "team": {
+        "id": "1d678440-b4b1-4954-9b39-70afb3ebbcfa",
+        "name": "Blue Jays",
+        "market": "Toronto"
+      },
+      "injury": {
+        "id": "a6347bd6-f422-46da-8c95-48cba3f46870",
+        "status": "D60",
+        "startDate": "2025-07-09",
+        "description": "Shoulder",
+        "comment": "The Toronto Blue Jays placed RHP Ryan Burr on the 60-day injured list with a right shoulder rotator cuff strain.",
+        "updateDate": "2025-07-11"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "99395094-1353-4c1f-81ad-7022b7d38bc0",
+      "playerName": "Angel Bastardo",
+      "firstName": "Angel",
+      "lastName": "Bastardo",
+      "position": "P",
+      "jersey": "66",
+      "team": {
+        "id": "1d678440-b4b1-4954-9b39-70afb3ebbcfa",
+        "name": "Blue Jays",
+        "market": "Toronto"
+      },
+      "injury": {
+        "id": "b82cee81-cc25-4a9b-a794-b3a6942e22d7",
+        "status": "D60",
+        "startDate": "2025-03-12",
+        "description": "Elbow",
+        "comment": "The Toronto Blue Jays placed RHP Angel Bastardo on the 60-day injured list as he recovers from Tommy John surgery.",
+        "updateDate": "2025-03-12"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "d4bc8879-c7dc-430f-bcb8-e932b21a2e7c",
+      "playerName": "Anthony Santander",
+      "firstName": "Anthony",
+      "lastName": "Santander",
+      "position": "OF",
+      "jersey": "25",
+      "team": {
+        "id": "1d678440-b4b1-4954-9b39-70afb3ebbcfa",
+        "name": "Blue Jays",
+        "market": "Toronto"
+      },
+      "injury": {
+        "id": "bdf78b25-cefd-45f6-9cb4-03242f5ac678",
+        "status": "D60",
+        "startDate": "2025-05-30",
+        "description": "Shoulder",
+        "comment": "The Toronto Blue Jays placed OF Anthony Santander on the 60-day injured list as he recovers his shoulder issue.",
+        "updateDate": "2025-07-04"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "0d84b0e6-869f-4b15-8eea-0d8444c49906",
+      "playerName": "Andrés Giménez",
+      "firstName": "Andrés",
+      "lastName": "Giménez",
+      "position": "IF",
+      "jersey": "0",
+      "team": {
+        "id": "1d678440-b4b1-4954-9b39-70afb3ebbcfa",
+        "name": "Blue Jays",
+        "market": "Toronto"
+      },
+      "injury": {
+        "id": "fd313859-9f24-4531-9a06-ab59b3c89001",
+        "status": "D10",
+        "startDate": "2025-07-05",
+        "description": "Ankle",
+        "comment": "The Toronto Blue Jays placed INF Andrés Giménez on the 10-day injured list with a left ankle sprain.",
+        "updateDate": "2025-07-06"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "c8d0fd09-f338-4dc3-afef-cb77b72f2867",
+      "playerName": "Dylan Crews",
+      "firstName": "Dylan",
+      "lastName": "Crews",
+      "position": "OF",
+      "jersey": "3",
+      "team": {
+        "id": "d89bed32-3aee-4407-99e3-4103641b999a",
+        "name": "Nationals",
+        "market": "Washington"
+      },
+      "injury": {
+        "id": "291f988f-8d04-4ae5-893c-cc393d085db4",
+        "status": "D60",
+        "startDate": "2025-05-20",
+        "description": "Back",
+        "comment": "The Washington Nationals transferred OF Dylan Crews from the 10-day injured list to the 60-day injured list with a left oblique strain.",
+        "updateDate": "2025-07-22"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "58ed579a-6d32-4fbf-80d0-bcfc5a5e5c18",
+      "playerName": "Josiah Gray",
+      "firstName": "Josiah",
+      "lastName": "Gray",
+      "position": "P",
+      "jersey": "40",
+      "team": {
+        "id": "d89bed32-3aee-4407-99e3-4103641b999a",
+        "name": "Nationals",
+        "market": "Washington"
+      },
+      "injury": {
+        "id": "31f93ba6-609a-4f4c-b0c8-224ffe1ccdd3",
+        "status": "D60",
+        "startDate": "2025-02-16",
+        "description": "Elbow",
+        "comment": "The Washington Nationals placed RHP Josiah Gray on the 60-day injured list as he recovers from Tommy John surgery.",
+        "updateDate": "2025-02-16"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "92defc55-fd9c-4069-b0a1-8cef9326753a",
+      "playerName": "Keibert Ruiz",
+      "firstName": "Keibert",
+      "lastName": "Ruiz",
+      "position": "C",
+      "jersey": "20",
+      "team": {
+        "id": "d89bed32-3aee-4407-99e3-4103641b999a",
+        "name": "Nationals",
+        "market": "Washington"
+      },
+      "injury": {
+        "id": "3d884f14-ebe7-4f75-8521-227f7287b9e4",
+        "status": "D7",
+        "startDate": "2025-07-06",
+        "description": "Concussion",
+        "comment": "The Washington Nationals placed C Keibert Ruiz on the 7-day injured list, renewed symptoms will force him to remain on the injured list through the All-Star break.",
+        "updateDate": "2025-07-08"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "15d508ea-ad13-48c5-ac31-79c8c246b8e5",
+      "playerName": "DJ Herz",
+      "firstName": "Davidjohn",
+      "lastName": "Herz",
+      "position": "P",
+      "jersey": "77",
+      "team": {
+        "id": "d89bed32-3aee-4407-99e3-4103641b999a",
+        "name": "Nationals",
+        "market": "Washington"
+      },
+      "injury": {
+        "id": "aad8feea-7a42-45ff-a91b-f6765a0a37f9",
+        "status": "D60",
+        "startDate": "2025-03-24",
+        "description": "Elbow",
+        "comment": "The Washington Nationals placed LHP DJ Herz on the 60-day injured list as he recovers from Tommy John surgery.",
+        "updateDate": "2025-03-26"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "e40d5150-268a-4af2-99cc-dae6e3e1a016",
+      "playerName": "Trevor Williams",
+      "firstName": "Trevor",
+      "lastName": "Williams",
+      "position": "P",
+      "jersey": "32",
+      "team": {
+        "id": "d89bed32-3aee-4407-99e3-4103641b999a",
+        "name": "Nationals",
+        "market": "Washington"
+      },
+      "injury": {
+        "id": "c21ec749-cdd9-4a59-b370-b6a107ae4ac7",
+        "status": "D60",
+        "startDate": "2025-07-04",
+        "description": "Elbow",
+        "comment": "The Washington Nationals transferred RHP Trevor Williams to the 60-day injured list due to a right elbow sprain.",
+        "updateDate": "2025-07-08"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "4b3f17a9-80c5-4a06-87b6-c515f3c34c42",
+      "playerName": "Derek Law",
+      "firstName": "Derek",
+      "lastName": "Law",
+      "position": "P",
+      "jersey": "58",
+      "team": {
+        "id": "d89bed32-3aee-4407-99e3-4103641b999a",
+        "name": "Nationals",
+        "market": "Washington"
+      },
+      "injury": {
+        "id": "d459bb49-7458-4022-9a9d-1f5ac8459b65",
+        "status": "D60",
+        "startDate": "2025-03-26",
+        "description": "Forearm",
+        "comment": "The Washington Nationals reported on Friday (Jul. 18) that RHP Derek Law has a partial tear of his flexor tendon and will undergo surgery to repair it. Expects to be ready mid-season 2026. ",
+        "updateDate": "2025-07-18"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "a75a7e3e-81b2-449a-8364-eb73b1c39d1f",
+      "playerName": "Luis Medina",
+      "firstName": "Luis",
+      "lastName": "Medina",
+      "position": "P",
+      "jersey": "46",
+      "team": {
+        "id": "27a59d3b-ff7c-48ea-b016-4798f560f5e1",
+        "name": "Athletics"
+      },
+      "injury": {
+        "id": "3ae0e43f-4724-410a-8cd7-2d3875aa151f",
+        "status": "D60",
+        "startDate": "2025-02-17",
+        "description": "Elbow",
+        "comment": "The  Athletics placed RHP Luis Medina on the 60-day injured list as he recovers from Tommy John surgery.",
+        "updateDate": "2025-02-17"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "f70d92f0-3419-4cf2-9d26-e8aec852deb1",
+      "playerName": "Brady Basso",
+      "firstName": "Brady",
+      "lastName": "Basso",
+      "position": "P",
+      "jersey": "66",
+      "team": {
+        "id": "27a59d3b-ff7c-48ea-b016-4798f560f5e1",
+        "name": "Athletics"
+      },
+      "injury": {
+        "id": "4626a93f-783d-4721-a2db-bd9cc4fdbd7e",
+        "status": "D60",
+        "startDate": "2025-03-27",
+        "description": "Shoulder",
+        "comment": "The  Athletics transfered LHP Brady Basso from the 15-day injured list to the 60-day injured list due to a left shoulder strain recovery.",
+        "updateDate": "2025-04-07"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "63498196-df7c-4523-a31e-68e74ba67a52",
+      "playerName": "Denzel Clarke",
+      "firstName": "Denzel",
+      "lastName": "Clarke",
+      "position": "OF",
+      "jersey": "1",
+      "team": {
+        "id": "27a59d3b-ff7c-48ea-b016-4798f560f5e1",
+        "name": "Athletics"
+      },
+      "injury": {
+        "id": "85fd1b32-1337-405f-9775-4d318d267b4d",
+        "status": "D10",
+        "startDate": "2025-07-21",
+        "description": "Abductor",
+        "comment": "The  Athletics placed OF Denzel Clarke on the 10-day injured list with a Grade 2 right adductor strain.",
+        "updateDate": "2025-07-22"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "4b98b85a-fd70-4a4b-bbb8-da11780db3c7",
+      "playerName": "Gunnar Hoglund",
+      "firstName": "Gunnar",
+      "lastName": "Hoglund",
+      "position": "P",
+      "jersey": "53",
+      "team": {
+        "id": "27a59d3b-ff7c-48ea-b016-4798f560f5e1",
+        "name": "Athletics"
+      },
+      "injury": {
+        "id": "a83684b0-1de0-4606-a149-827580eb9f4b",
+        "status": "D60",
+        "startDate": "2025-06-01",
+        "description": "Hip",
+        "comment": "The Athletics transferred RHP Gunnar Hoglund to the 60-day injured list with a left hip impingement. He is undergoing surgery Friday (Jun. 13) and is expected to miss the rest of the 2025 season, Hoglund's agent announced.",
+        "updateDate": "2025-06-22"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "8ed9e7bf-cd90-4fd5-b38e-d0b653c025ac",
+      "playerName": "Grant Holman",
+      "firstName": "Grant",
+      "lastName": "Holman",
+      "position": "P",
+      "jersey": "67",
+      "team": {
+        "id": "27a59d3b-ff7c-48ea-b016-4798f560f5e1",
+        "name": "Athletics"
+      },
+      "injury": {
+        "id": "dd1c7f41-fd87-46e7-b50f-8dee34f23595",
+        "status": "D60",
+        "startDate": "2025-06-16",
+        "description": "Shoulder",
+        "comment": "The Athletics transferred RHP Grant Holman to the 60-day injured list due to a right shoulder rotator cuff tendinitis.",
+        "updateDate": "2025-07-15"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "8cbfa7fd-773c-4e8a-acc6-68142a8ccf60",
+      "playerName": "Max Muncy",
+      "firstName": "Maxwell",
+      "lastName": "Muncy",
+      "position": "IF",
+      "jersey": "10",
+      "team": {
+        "id": "27a59d3b-ff7c-48ea-b016-4798f560f5e1",
+        "name": "Athletics"
+      },
+      "injury": {
+        "id": "ee0435b1-4ffb-4814-982c-12b3baa37c0c",
+        "status": "D10",
+        "startDate": "2025-07-21",
+        "description": "Hand",
+        "comment": "The  Athletics placed INF Max Muncy on the 10-day injured list dua to a hand Injury.",
+        "updateDate": "2025-07-22"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "36033e23-516d-48fb-90d3-4309e329fca5",
+      "playerName": "José Leclerc",
+      "firstName": "José",
+      "lastName": "Leclerc",
+      "position": "P",
+      "jersey": "37",
+      "team": {
+        "id": "27a59d3b-ff7c-48ea-b016-4798f560f5e1",
+        "name": "Athletics"
+      },
+      "injury": {
+        "id": "f7a75236-a109-4ea3-bef5-293894422ada",
+        "status": "D60",
+        "startDate": "2025-04-22",
+        "description": "Shoulder",
+        "comment": "The Athletics transferred RHP José Leclerc from the 15-day injured list to the 60-day injured list due to a right lat strain.",
+        "updateDate": "2025-04-30"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "7bc80ba7-450a-40b0-8864-0e0138b61ede",
+      "playerName": "Ben Joyce",
+      "firstName": "Benjamin",
+      "lastName": "Joyce",
+      "position": "P",
+      "jersey": "44",
+      "team": {
+        "id": "4f735188-37c8-473d-ae32-1f7e34ccf892",
+        "name": "Angels",
+        "market": "Los Angeles"
+      },
+      "injury": {
+        "id": "3e202182-e38c-4daf-8972-997afb108994",
+        "status": "D60",
+        "startDate": "2025-04-11",
+        "description": "Shoulder",
+        "comment": "The Los Angeles Angels placed RHP Ben Joyce on the 60-day injured list as he reported a shoulder discomfort during a round of catch. Joyce underwent season-ending shoulder surgery today, the Angels announced.",
+        "updateDate": "2025-05-14"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "78712aa3-b342-48ee-a0cc-ab90d5dd3618",
+      "playerName": "Anthony Rendon",
+      "firstName": "Anthony",
+      "lastName": "Rendon",
+      "position": "IF",
+      "jersey": "6",
+      "team": {
+        "id": "4f735188-37c8-473d-ae32-1f7e34ccf892",
+        "name": "Angels",
+        "market": "Los Angeles"
+      },
+      "injury": {
+        "id": "5dc4f6d0-42d5-4ef0-baee-7b68849c4b07",
+        "status": "D60",
+        "startDate": "2025-02-15",
+        "description": "Hip",
+        "comment": "The Los Angeles Angels placed INF Anthony Rendon on the 60-day injured list as he undergone hip surgery.",
+        "updateDate": "2025-02-15"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "fba71c66-344e-44b7-a5b8-1b67f6a3c767",
+      "playerName": "Robert Stephenson",
+      "firstName": "Robert",
+      "lastName": "Stephenson",
+      "position": "P",
+      "jersey": "24",
+      "team": {
+        "id": "4f735188-37c8-473d-ae32-1f7e34ccf892",
+        "name": "Angels",
+        "market": "Los Angeles"
+      },
+      "injury": {
+        "id": "63f560cb-3e41-4ea7-993a-fd31cdb5cee2",
+        "status": "D60",
+        "startDate": "2025-05-31",
+        "description": "Bicep",
+        "comment": "The Los Angeles Angels placed RHP Robert Stephenson on the 60-day injured list with right shoulder inflammation.",
+        "updateDate": "2025-07-24"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "360f8bcb-3e8e-4209-b0fa-b001af57db39",
+      "playerName": "Christian Moore",
+      "firstName": "Christian",
+      "lastName": "Moore",
+      "position": "IF",
+      "jersey": "4",
+      "team": {
+        "id": "4f735188-37c8-473d-ae32-1f7e34ccf892",
+        "name": "Angels",
+        "market": "Los Angeles"
+      },
+      "injury": {
+        "id": "6dbf2332-c76b-48be-80ee-646291279b0c",
+        "status": "D10",
+        "startDate": "2025-07-03",
+        "description": "Thumb",
+        "comment": "The Los Angeles Angels placed INF Christian Moore on the 10-day injured list with a left thumb sprain.",
+        "updateDate": "2025-07-03"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "4eba23e5-b274-4a2b-a3c7-fe2009a90619",
+      "playerName": "Jorge Soler",
+      "firstName": "Jorge",
+      "lastName": "Soler",
+      "position": "OF",
+      "jersey": "12",
+      "team": {
+        "id": "4f735188-37c8-473d-ae32-1f7e34ccf892",
+        "name": "Angels",
+        "market": "Los Angeles"
+      },
+      "injury": {
+        "id": "9d990cc0-ad2a-4757-bf32-44013263bd5c",
+        "status": "Day-to-Day",
+        "startDate": "2025-07-23",
+        "description": "Back",
+        "comment": "Soler is not in the starting lineup for Thursday's (Jul. 24) game against Seattle.",
+        "updateDate": "2025-07-24"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "62d08991-cdca-41a8-ac74-dbc4be778c4f",
+      "playerName": "Hunter Strickland",
+      "firstName": "Hunter",
+      "lastName": "Strickland",
+      "position": "P",
+      "jersey": "60",
+      "team": {
+        "id": "4f735188-37c8-473d-ae32-1f7e34ccf892",
+        "name": "Angels",
+        "market": "Los Angeles"
+      },
+      "injury": {
+        "id": "fd73e19e-cc00-4efc-b55a-2df45ae19047",
+        "status": "D60",
+        "startDate": "2025-07-07",
+        "description": "Shoulder",
+        "comment": "The Los Angeles Angels transferred RHP Hunter Strickland to the 60-day injured list with right shoulder inflammation.",
+        "updateDate": "2025-07-09"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "b8dbec1d-4f7b-46d0-942a-61df9d8341d0",
+      "playerName": "Miguel Amaya",
+      "firstName": "Miguel",
+      "lastName": "Amaya",
+      "position": "C",
+      "jersey": "9",
+      "team": {
+        "id": "55714da8-fcaf-4574-8443-59bfb511a524",
+        "name": "Cubs",
+        "market": "Chicago"
+      },
+      "injury": {
+        "id": "4222a1c0-0f91-40d8-acec-6c388c958a35",
+        "status": "D10",
+        "startDate": "2025-05-25",
+        "description": "Oblique",
+        "comment": "The Chicago Cubs placed C Miguel Amaya on the 10-day injured list with a left oblique strain.",
+        "updateDate": "2025-05-25"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "d7ef5d66-3914-4a6a-bf41-1b77369a58a6",
+      "playerName": "Eli Morgan",
+      "firstName": "Elijah",
+      "lastName": "Morgan",
+      "position": "P",
+      "jersey": "33",
+      "team": {
+        "id": "55714da8-fcaf-4574-8443-59bfb511a524",
+        "name": "Cubs",
+        "market": "Chicago"
+      },
+      "injury": {
+        "id": "9ea82c21-77e4-47fe-950e-ad2c5858e7b0",
+        "status": "D60",
+        "startDate": "2025-04-15",
+        "description": "Elbow",
+        "comment": "The Chicago Cubs transferred RHP Eli Morgan to the 60-day injured list with a right elbow impingement.",
+        "updateDate": "2025-05-10"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "0b4c4345-7609-4ab1-9aaa-41d56d7f1fda",
+      "playerName": "Jameson Taillon",
+      "firstName": "Jameson",
+      "lastName": "Taillon",
+      "position": "P",
+      "jersey": "50",
+      "team": {
+        "id": "55714da8-fcaf-4574-8443-59bfb511a524",
+        "name": "Cubs",
+        "market": "Chicago"
+      },
+      "injury": {
+        "id": "afb9ecda-cac5-4f17-8ca8-33be8f7f6371",
+        "status": "D15",
+        "startDate": "2025-07-04",
+        "description": "Calf",
+        "comment": "The Chicago Cubs placed RHP Jameson Taillon on the 15-day injured list with a strained right calf.",
+        "updateDate": "2025-07-04"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "70f7f1a5-e82d-45c9-8fb1-7ba495797690",
+      "playerName": "Justin Steele",
+      "firstName": "Justin",
+      "lastName": "Steele",
+      "position": "P",
+      "jersey": "35",
+      "team": {
+        "id": "55714da8-fcaf-4574-8443-59bfb511a524",
+        "name": "Cubs",
+        "market": "Chicago"
+      },
+      "injury": {
+        "id": "c8950cb4-dc71-4c7d-9208-45b66e26b4a5",
+        "status": "D60",
+        "startDate": "2025-04-09",
+        "description": "Elbow",
+        "comment": "The Chicago Cubs transferred LHP Justin Steele from the 15-day injured list to the 60-day injured list and will undergo season-ending surgery to repair his flexor tendon and address UCL damage in his left elbow.",
+        "updateDate": "2025-04-23"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "b1f42a52-bd6a-40d2-8bec-4b6ea12fef28",
+      "playerName": "Porter Hodge",
+      "firstName": "Porter",
+      "lastName": "Hodge",
+      "position": "P",
+      "jersey": "37",
+      "team": {
+        "id": "55714da8-fcaf-4574-8443-59bfb511a524",
+        "name": "Cubs",
+        "market": "Chicago"
+      },
+      "injury": {
+        "id": "d18fe9af-277f-4160-9a86-da19f1245187",
+        "status": "D15",
+        "startDate": "2025-07-09",
+        "description": "Shoulder",
+        "comment": "The Chicago Cubs placed RHP Porter Hodge on the 15-day injured list due to a right shoulder impingement.",
+        "updateDate": "2025-07-09"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "564bb787-e788-4acf-9dab-1da0e14578e0",
+      "playerName": "Javier Assad",
+      "firstName": "Javier",
+      "lastName": "Assad",
+      "position": "P",
+      "jersey": "72",
+      "team": {
+        "id": "55714da8-fcaf-4574-8443-59bfb511a524",
+        "name": "Cubs",
+        "market": "Chicago"
+      },
+      "injury": {
+        "id": "f8becfda-ebbe-4e9d-997a-99eb957f35c2",
+        "status": "D60",
+        "startDate": "2025-03-17",
+        "description": "Oblique",
+        "comment": "The Chicago Cubs transferred RHP Javier Assad to the 60-day injured list with a left oblique strain.",
+        "updateDate": "2025-04-30"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "ee9f4e66-0978-4bc2-af4a-ff3a32762ab4",
+      "playerName": "Tom Murphy",
+      "firstName": "Thomas",
+      "lastName": "Murphy",
+      "position": "C",
+      "jersey": "19",
+      "team": {
+        "id": "a7723160-10b7-4277-a309-d8dd95a8ae65",
+        "name": "Giants",
+        "market": "San Francisco"
+      },
+      "injury": {
+        "id": "5bf1cb9d-492e-4c93-86d7-e8464feed459",
+        "status": "D60",
+        "startDate": "2025-03-26",
+        "description": "Back",
+        "comment": "The San Francisco Giants placed C Tom Murphy on the 60-day injured list due to mid-back disc herniation.",
+        "updateDate": "2025-03-26"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "3f1a41fe-5bdf-42f6-b827-7b76fdb46e48",
+      "playerName": "Christian Koss",
+      "firstName": "Christian",
+      "lastName": "Koss",
+      "position": "IF",
+      "jersey": "50",
+      "team": {
+        "id": "a7723160-10b7-4277-a309-d8dd95a8ae65",
+        "name": "Giants",
+        "market": "San Francisco"
+      },
+      "injury": {
+        "id": "a8eac23d-fa76-4dbb-a573-b9919f4faa67",
+        "status": "D10",
+        "startDate": "2025-07-01",
+        "description": "Hamstring",
+        "comment": "The San Francisco Giants placed INF Christian Koss on the 10-day injured list with a left hamstring strain.",
+        "updateDate": "2025-07-01"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "c8f8b052-65b5-4212-bc68-a3c4e56e0e40",
+      "playerName": "Jerar Encarnación",
+      "firstName": "Jerar",
+      "lastName": "Encarnación",
+      "position": "OF",
+      "jersey": "59",
+      "team": {
+        "id": "a7723160-10b7-4277-a309-d8dd95a8ae65",
+        "name": "Giants",
+        "market": "San Francisco"
+      },
+      "injury": {
+        "id": "b5163e4c-f1af-49a7-bc98-07c5ce867def",
+        "status": "D10",
+        "startDate": "2025-06-17",
+        "description": "Oblique",
+        "comment": "The San Francisco Giants placed OF Jerar Encarnación on the 10-day injured list due to a left oblique strain. ",
+        "updateDate": "2025-06-17"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "1108c644-ff76-487f-a568-ee5c49e71f28",
+      "playerName": "Erik Miller",
+      "firstName": "Erik",
+      "lastName": "Miller",
+      "position": "P",
+      "jersey": "68",
+      "team": {
+        "id": "a7723160-10b7-4277-a309-d8dd95a8ae65",
+        "name": "Giants",
+        "market": "San Francisco"
+      },
+      "injury": {
+        "id": "deb5ec0e-59fc-4a23-9503-953c2830dca1",
+        "status": "D15",
+        "startDate": "2025-07-05",
+        "description": "Elbow",
+        "comment": "The San Francisco Giants placed LHP Erik Miller on the 15-day injured list with a left elbow sprain.",
+        "updateDate": "2025-07-05"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "490a7926-88a2-4d53-b9c6-24be8882703a",
+      "playerName": "Jared Jones",
+      "firstName": "Jared",
+      "lastName": "Jones",
+      "position": "P",
+      "jersey": "37",
+      "team": {
+        "id": "481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd",
+        "name": "Pirates",
+        "market": "Pittsburgh"
+      },
+      "injury": {
+        "id": "6bfec6ff-ed91-4635-add5-9dcba1dce26e",
+        "status": "D60",
+        "startDate": "2025-03-26",
+        "description": "Elbow",
+        "comment": "The Pittsburgh Pirates transferred RHP Jared Jones to the 60-Day injured list with a right elbow UCL sprain.",
+        "updateDate": "2025-03-31"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "4b62bcd4-079c-4dd2-8631-296ce8e76180",
+      "playerName": "Chase Shugart",
+      "firstName": "Chase",
+      "lastName": "Shugart",
+      "position": "P",
+      "jersey": "55",
+      "team": {
+        "id": "481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd",
+        "name": "Pirates",
+        "market": "Pittsburgh"
+      },
+      "injury": {
+        "id": "71c00546-3cb1-4058-976b-373808a765b5",
+        "status": "D15",
+        "startDate": "2025-07-08",
+        "description": "Knee",
+        "comment": "The Pittsburgh Pirates placed RHP Chase Shugart on the 15-day injured list with left knee inflammation.",
+        "updateDate": "2025-07-08"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "f7a9c3be-c466-4ada-9146-f1c5137b5436",
+      "playerName": "Endy Rodríguez",
+      "firstName": "Endy",
+      "lastName": "Rodríguez",
+      "position": "C",
+      "jersey": "5",
+      "team": {
+        "id": "481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd",
+        "name": "Pirates",
+        "market": "Pittsburgh"
+      },
+      "injury": {
+        "id": "7c92b6a2-bab6-433b-9e88-1132af69e339",
+        "status": "D60",
+        "startDate": "2025-06-06",
+        "description": "Elbow",
+        "comment": "The Pittsburgh Pirates transferred C Endy Rodríguez to the 60-day injured list with a right elbow inflammation.",
+        "updateDate": "2025-06-13"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "2945b9fb-77ed-4e60-a63d-0c4eb2feb458",
+      "playerName": "Ryan Borucki",
+      "firstName": "Ryan",
+      "lastName": "Borucki",
+      "position": "P",
+      "jersey": "43",
+      "team": {
+        "id": "481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd",
+        "name": "Pirates",
+        "market": "Pittsburgh"
+      },
+      "injury": {
+        "id": "a3969ca2-4dbc-416c-82b9-f9bfcb056a9a",
+        "status": "D15",
+        "startDate": "2025-06-21",
+        "description": "Back",
+        "comment": "The Pittsburgh Pirates placed LHP Ryan Borucki on the 15-day injured list due to a low back inflammation.",
+        "updateDate": "2025-06-21"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "3ebc6d31-8050-43d2-9f0f-b74bb1f2e018",
+      "playerName": "Tim Mayza",
+      "firstName": "Timothy",
+      "lastName": "Mayza",
+      "position": "P",
+      "jersey": "18",
+      "team": {
+        "id": "481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd",
+        "name": "Pirates",
+        "market": "Pittsburgh"
+      },
+      "injury": {
+        "id": "abc9c76c-eece-468e-969f-afdf0361bdd5",
+        "status": "D60",
+        "startDate": "2025-04-19",
+        "description": "Shoulder",
+        "comment": "The Pittsburgh Pirates transferred LHP Tim Mayza from the 15-day injured list to the 60-day injured list due to a left shoulder lat muscle strain.",
+        "updateDate": "2025-04-24"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "37f33376-ea29-4a8b-8acf-963af66bf126",
+      "playerName": "Enmanuel Valdez",
+      "firstName": "Enmanuel",
+      "lastName": "Valdez",
+      "position": "IF",
+      "jersey": "48",
+      "team": {
+        "id": "481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd",
+        "name": "Pirates",
+        "market": "Pittsburgh"
+      },
+      "injury": {
+        "id": "b95ab066-ca18-448c-b5af-d9eab9afb679",
+        "status": "D60",
+        "startDate": "2025-05-09",
+        "description": "Shoulder",
+        "comment": "The Pittsburgh Pirates transferred INF Enmanuel Valdez from the 10-day injured list to the 60-day injured list with left shoulder inflammation. Valdez recently underwent season-ending surgery on his dislocated left shoulder.",
+        "updateDate": "2025-05-14"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "6ce6294d-4f56-4cd1-999f-09bc96297c23",
+      "playerName": "Justin Lawrence",
+      "firstName": "Justin",
+      "lastName": "Lawrence",
+      "position": "P",
+      "jersey": "61",
+      "team": {
+        "id": "481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd",
+        "name": "Pirates",
+        "market": "Pittsburgh"
+      },
+      "injury": {
+        "id": "cc4c8db5-9d03-4fbc-a7d4-a264947981a5",
+        "status": "D60",
+        "startDate": "2025-04-23",
+        "description": "Elbow",
+        "comment": "The Pittsburgh Pirates transferred RHP Justin Lawrence to the 60-day injured list due to right elbow inflammation.",
+        "updateDate": "2025-05-03"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "a0c056de-bbc2-4370-a0d7-f503ddccc847",
+      "playerName": "Johan Oviedo",
+      "firstName": "Johan",
+      "lastName": "Oviedo",
+      "position": "P",
+      "jersey": "24",
+      "team": {
+        "id": "481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd",
+        "name": "Pirates",
+        "market": "Pittsburgh"
+      },
+      "injury": {
+        "id": "e58598e8-3747-4e8d-9692-28e8514ca254",
+        "status": "D60",
+        "startDate": "2025-03-03",
+        "description": "Elbow",
+        "comment": "The Pittsburgh Pirates placed RHP Johan Oviedo on the 60-day injured list with a right lat mustle injury.",
+        "updateDate": "2025-03-03"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "862615a7-5f5f-45f7-bb55-d774f97da6a2",
+      "playerName": "Nolan Gorman",
+      "firstName": "Nolan",
+      "lastName": "Gorman",
+      "position": "IF",
+      "jersey": "16",
+      "team": {
+        "id": "44671792-dc02-4fdd-a5ad-f5f17edaa9d7",
+        "name": "Cardinals",
+        "market": "St. Louis"
+      },
+      "injury": {
+        "id": "6d277ab9-d4f3-4615-a49e-2a0d1cfafb94",
+        "status": "D10",
+        "startDate": "2025-07-18",
+        "description": "Back",
+        "comment": "The St. Louis Cardinals placed INF Nolan Gorman on the 10-day injured list with a lower back pain.",
+        "updateDate": "2025-07-19"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "c8f9ffa5-d070-4c45-b415-c6331e0f3f7a",
+      "playerName": "Zack Thompson",
+      "firstName": "Zachary",
+      "lastName": "Thompson",
+      "position": "P",
+      "jersey": "57",
+      "team": {
+        "id": "44671792-dc02-4fdd-a5ad-f5f17edaa9d7",
+        "name": "Cardinals",
+        "market": "St. Louis"
+      },
+      "injury": {
+        "id": "77ca72ee-e52f-4d87-9e79-1c2d122119fc",
+        "status": "D60",
+        "startDate": "2025-03-23",
+        "description": "Lat",
+        "comment": "The St. Louis Cardinals transferred LHP Zack Thompson from the 15-day injured list to the 60-day injured list with a tear in the left side lat muscle.",
+        "updateDate": "2025-04-07"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "99518b96-7d38-4f19-8c49-cafbac98ea74",
+      "playerName": "Lars Nootbaar",
+      "firstName": "Lars",
+      "lastName": "Nootbaar",
+      "position": "OF",
+      "jersey": "21",
+      "team": {
+        "id": "44671792-dc02-4fdd-a5ad-f5f17edaa9d7",
+        "name": "Cardinals",
+        "market": "St. Louis"
+      },
+      "injury": {
+        "id": "8b28bac5-8de9-4c78-a7d8-6b9d945ba349",
+        "status": "D10",
+        "startDate": "2025-07-12",
+        "description": "Ribs",
+        "comment": "The St. Louis Cardinals placed OF Lars Nootbaar on the 10-day injured list with a left costochondral sprain.",
+        "updateDate": "2025-07-13"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "4c9f42d0-e2e6-411f-b590-00aafb055de2",
+      "playerName": "Joe Ross",
+      "firstName": "Joseph",
+      "lastName": "Ross",
+      "position": "P",
+      "jersey": "41",
+      "team": {
+        "id": "2142e1ba-3b40-445c-b8bb-f1f8b1054220",
+        "name": "Phillies",
+        "market": "Philadelphia"
+      },
+      "injury": {
+        "id": "740ac157-7e4b-48f8-b9de-a0a74e6b2def",
+        "status": "D15",
+        "startDate": "2025-07-21",
+        "description": "Back",
+        "comment": "The Philadelphia Phillies placed RHP Joe Ross on the 15-day injured list with back spasms.",
+        "updateDate": "2025-07-22"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "93102f45-b65e-4512-bb76-c6ca023dc7db",
+      "playerName": "Alec Bohm",
+      "firstName": "Alec",
+      "lastName": "Bohm",
+      "position": "IF",
+      "jersey": "28",
+      "team": {
+        "id": "2142e1ba-3b40-445c-b8bb-f1f8b1054220",
+        "name": "Phillies",
+        "market": "Philadelphia"
+      },
+      "injury": {
+        "id": "ad041a33-f64b-46aa-8bab-0f55cc3ddcbf",
+        "status": "D10",
+        "startDate": "2025-07-19",
+        "description": "Ribcage",
+        "comment": "The Philadelphia Phillies placed INF Alec Bohm on the 10-day injured list with a fractured left rib.",
+        "updateDate": "2025-07-19"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "ded1b30d-52ca-4eec-bce6-251b15b085ac",
+      "playerName": "Aaron Nola",
+      "firstName": "Aaron",
+      "lastName": "Nola",
+      "position": "P",
+      "jersey": "27",
+      "team": {
+        "id": "2142e1ba-3b40-445c-b8bb-f1f8b1054220",
+        "name": "Phillies",
+        "market": "Philadelphia"
+      },
+      "injury": {
+        "id": "b7b9aa0c-a21c-448d-b43d-612b48ca4c06",
+        "status": "D60",
+        "startDate": "2025-05-15",
+        "description": "Ankle",
+        "comment": "The Philadelphia Phillies transferred RHP Aaron Nola from the 15-day injured list to the 60-day injured list with a right ankle sprain.",
+        "updateDate": "2025-06-19"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "163de0a1-a550-437d-a099-bd4c05b9826f",
+      "playerName": "Jeff Criswell",
+      "firstName": "Jeffrey",
+      "lastName": "Criswell",
+      "position": "P",
+      "jersey": "46",
+      "team": {
+        "id": "29dd9a87-5bcc-4774-80c3-7f50d985068b",
+        "name": "Rockies",
+        "market": "Colorado"
+      },
+      "injury": {
+        "id": "90b189ee-fb76-4afa-8a44-a35fb2331807",
+        "status": "D60",
+        "startDate": "2025-03-02",
+        "description": "Elbow",
+        "comment": "The Colorado Rockies transferred RHP Jeff Criswell to the 60-day injured list as he recovers from Tommy John surgery. He's expected to miss the 2025 season.",
+        "updateDate": "2025-04-14"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "2764f896-603a-42bb-b031-f50893d42a63",
+      "playerName": "Germán Márquez",
+      "firstName": "Germán",
+      "lastName": "Márquez",
+      "position": "P",
+      "jersey": "48",
+      "team": {
+        "id": "29dd9a87-5bcc-4774-80c3-7f50d985068b",
+        "name": "Rockies",
+        "market": "Colorado"
+      },
+      "injury": {
+        "id": "9c74f0f2-0502-40fe-a862-bf131b90e86f",
+        "status": "D15",
+        "startDate": "2025-07-21",
+        "description": "Shoulder",
+        "comment": "The Colorado Rockies placed RHP Germán Márquez on the 15-day injured list due to right bicep tendinitis.",
+        "updateDate": "2025-07-23"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "e1633ff9-8c46-4698-9bea-3eecd478fa94",
+      "playerName": "Kris Bryant",
+      "firstName": "Kristopher",
+      "lastName": "Bryant",
+      "position": "OF",
+      "jersey": "23",
+      "team": {
+        "id": "29dd9a87-5bcc-4774-80c3-7f50d985068b",
+        "name": "Rockies",
+        "market": "Colorado"
+      },
+      "injury": {
+        "id": "e0f905a6-a5e6-43cd-9b3f-b908b5aa96b3",
+        "status": "D60",
+        "startDate": "2025-04-14",
+        "description": "Lumbar",
+        "comment": "The Colorado Rockies transferred OF Kris Bryant from the 10-day injured list to the 60-day injured list with lumbar degenerative disk disease.",
+        "updateDate": "2025-05-11"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    },
+    {
+      "playerId": "73c479dc-65b2-45dd-bf54-3283fc78ef0a",
+      "playerName": "Ryan Ritter",
+      "firstName": "Ryan",
+      "lastName": "Ritter",
+      "position": "IF",
+      "jersey": "8",
+      "team": {
+        "id": "29dd9a87-5bcc-4774-80c3-7f50d985068b",
+        "name": "Rockies",
+        "market": "Colorado"
+      },
+      "injury": {
+        "id": "e2c33b8d-5b02-438a-8ba0-d5d5e2cd36e6",
+        "status": "D10",
+        "startDate": "2025-07-19",
+        "description": "Finger",
+        "comment": "The Colorado Rockies placed INF Ryan Ritter on the 10-day injured list with right middle finger laceration.",
+        "updateDate": "2025-07-20"
+      },
+      "lastUpdated": "2025-07-25T21:28:51.986Z"
+    }
+  ]
+}
