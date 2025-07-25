@@ -1,9 +1,67 @@
 {
-  "lastUpdated": "2025-07-25T19:40:54.967Z",
-  "totalGames": 0,
-  "dateRange": {
-    "start": "2025/07/18",
-    "end": "2025/07/25"
-  },
-  "boxscores": []
+  "lastUpdated": "2025-07-25T21:52:44.035Z",
+  "totalGames": 2,
+  "season": "2024-25",
+  "note": "Recent playoff/season games",
+  "searchedDates": [
+    "2025/06/15",
+    "2025/06/10",
+    "2025/06/05",
+    "2025/05/30",
+    "2025/05/25"
+  ],
+  "boxscores": [
+    {
+      "gameId": "2288617a-4a44-440a-ae72-88928d36c637",
+      "date": "2025-06-06T00:30:00Z",
+      "homeTeam": {
+        "name": "Oklahoma City Thunder",
+        "id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+        "alias": "OKC"
+      },
+      "awayTeam": {
+        "name": "Indiana Pacers",
+        "id": "583ec7cd-fb46-11e1-82cb-f4ce4684ea4c",
+        "alias": "IND"
+      },
+      "finalScore": {
+        "home": 110,
+        "away": 111
+      },
+      "homeStats": null,
+      "awayStats": null,
+      "topPerformers": {
+        "home": null,
+        "away": null
+      },
+      "venue": "Paycom Center",
+      "lastUpdated": "2025-07-25T21:52:30.141Z"
+    },
+    {
+      "gameId": "c228ef43-e90b-4341-97bd-054b85df49ec",
+      "date": "2025-05-26T00:00:00Z",
+      "homeTeam": {
+        "name": "Indiana Pacers",
+        "id": "583ec7cd-fb46-11e1-82cb-f4ce4684ea4c",
+        "alias": "IND"
+      },
+      "awayTeam": {
+        "name": "New York Knicks",
+        "id": "583ec70e-fb46-11e1-82cb-f4ce4684ea4c",
+        "alias": "NYK"
+      },
+      "finalScore": {
+        "home": 100,
+        "away": 106
+      },
+      "homeStats": null,
+      "awayStats": null,
+      "topPerformers": {
+        "home": null,
+        "away": null
+      },
+      "venue": "Gainbridge Fieldhouse",
+      "lastUpdated": "2025-07-25T21:52:39.033Z"
+    }
+  ]
 }
