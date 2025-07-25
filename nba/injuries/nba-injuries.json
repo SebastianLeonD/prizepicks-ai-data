@@ -1,0 +1,337 @@
+{
+  "lastUpdated": "2025-07-25T21:49:45.582Z",
+  "totalInjuries": 15,
+  "league": "NBA",
+  "injuries": [
+    {
+      "playerId": "3e492a6a-ed3c-499d-b3f5-ff68ca16f6fd",
+      "playerName": "Jaren Jackson Jr.",
+      "firstName": "Jaren",
+      "lastName": "Jackson",
+      "position": "F-C",
+      "jersey": "8",
+      "team": {
+        "id": "583eca88-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Grizzlies",
+        "market": "Memphis"
+      },
+      "injury": {
+        "id": "19e4c9eb-9b61-4a73-914a-a3adc74e4803",
+        "status": "Out",
+        "startDate": "2025-07-02",
+        "description": "Toe",
+        "comment": "The Memphis Grizzlies announced Wednesday (Jul. 2) that Jackson underwent a procedure to repair a turf toe injury in his right foot and will be out re-evaluated in approximately 12 weeks.",
+        "updateDate": "2025-07-02"
+      },
+      "lastUpdated": "2025-07-25T21:49:45.580Z"
+    },
+    {
+      "playerId": "4ea56b9e-562d-4f19-a0e1-ea0e1da19688",
+      "playerName": "Zach Edey",
+      "firstName": "Zach",
+      "lastName": "Edey",
+      "position": "C",
+      "jersey": "14",
+      "team": {
+        "id": "583eca88-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Grizzlies",
+        "market": "Memphis"
+      },
+      "injury": {
+        "id": "4d3f413a-e61a-4344-96da-62726284bb17",
+        "status": "Out",
+        "startDate": "2025-06-07",
+        "description": "Ankle",
+        "comment": "Edey underwent successful surgery Tuesday (Jun. 10) to re-stabilize his sprained left ankle and will be re-evaluated in four months, according to NBA reporter Marc Stein.",
+        "updateDate": "2025-06-10"
+      },
+      "lastUpdated": "2025-07-25T21:49:45.581Z"
+    },
+    {
+      "playerId": "59209028-6712-47ef-b87c-bdb19f91523b",
+      "playerName": "Grant Williams",
+      "firstName": "Grant",
+      "lastName": "Williams",
+      "position": "F",
+      "jersey": "2",
+      "team": {
+        "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hornets",
+        "market": "Charlotte"
+      },
+      "injury": {
+        "id": "1a4e377f-9157-4d27-b104-2636a360c67c",
+        "status": "Out",
+        "startDate": "2024-11-24",
+        "description": "ACL",
+        "comment": "The Hornets announced on Wednesday (Dec. 11) that Williams underwent successful surgery to repair multiple tears in his knee, including the ACL, per ESPN's Shams Charania. He is expected to return in 9 to 12 months.",
+        "updateDate": "2024-12-11"
+      },
+      "lastUpdated": "2025-07-25T21:49:45.581Z"
+    },
+    {
+      "playerId": "bda65c13-f2d4-43ec-b058-b7807bec4867",
+      "playerName": "Josh Green",
+      "firstName": "Josh",
+      "lastName": "Green",
+      "position": "G",
+      "jersey": "10",
+      "team": {
+        "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hornets",
+        "market": "Charlotte"
+      },
+      "injury": {
+        "id": "cc644e1e-2d64-4663-9fc5-dc638506f1e7",
+        "status": "Out",
+        "startDate": "2025-06-20",
+        "description": "Shoulder",
+        "comment": "Green underwent surgery Friday (Jun. 20) to address the instability in his left shoulder and has no timetable for his return, according to Roderick Boone of The Charlotte Observer.",
+        "updateDate": "2025-06-20"
+      },
+      "lastUpdated": "2025-07-25T21:49:45.581Z"
+    },
+    {
+      "playerId": "be53f27f-c666-4bd2-8fcd-0713f963aa2b",
+      "playerName": "LaMelo Ball",
+      "firstName": "LaMelo",
+      "lastName": "Ball",
+      "position": "G",
+      "jersey": "1",
+      "team": {
+        "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hornets",
+        "market": "Charlotte"
+      },
+      "injury": {
+        "id": "e0aee56d-2f26-426d-9f2f-006cc851554d",
+        "status": "Out",
+        "startDate": "2025-03-27",
+        "description": "Ankle",
+        "comment": "The Hornets announced Wednesday (Apr. 2) that Ball has undergone successful surgeries on his right wrist and right ankle, according to Roderick Boone of The Charlotte Observer.",
+        "updateDate": "2025-04-02"
+      },
+      "lastUpdated": "2025-07-25T21:49:45.581Z"
+    },
+    {
+      "playerId": "a4de5912-bd72-4993-ac93-fb65d2164660",
+      "playerName": "Derik Queen",
+      "firstName": "Derik",
+      "lastName": "Queen",
+      "position": "C",
+      "jersey": "22",
+      "team": {
+        "id": "583ecc9a-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Pelicans",
+        "market": "New Orleans"
+      },
+      "injury": {
+        "id": "2cf19ad8-6450-492b-82b1-71a6d2c54c07",
+        "status": "Out",
+        "startDate": "2025-07-18",
+        "description": "Wrist",
+        "comment": "The Pelicans reported on Friday (Jul. 18) that Queen underwent surgery to repair a torn scapholunate ligament in his left wrist and will be re-evaluated in 12 weeks, per ESPN's Shams Charania.",
+        "updateDate": "2025-07-18"
+      },
+      "lastUpdated": "2025-07-25T21:49:45.581Z"
+    },
+    {
+      "playerId": "51b62fe8-1e5c-4c65-8ad3-2ad06e749b70",
+      "playerName": "Trey Murphy III",
+      "firstName": "Trey",
+      "lastName": "Murphy",
+      "position": "F",
+      "jersey": "25",
+      "team": {
+        "id": "583ecc9a-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Pelicans",
+        "market": "New Orleans"
+      },
+      "injury": {
+        "id": "3caf77c1-dfaa-4a8a-ae5c-25ed724cacf9",
+        "status": "Out",
+        "startDate": "2025-03-17",
+        "description": "Shoulder",
+        "comment": "The Pelicans announced on Monday (Mar. 17) that Murphy III has been diagnosed with a torn labrum and partial tear of the rotator cuff in his right shoulder and will miss the remainder of the 2024-25 season.",
+        "updateDate": "2025-03-17"
+      },
+      "lastUpdated": "2025-07-25T21:49:45.581Z"
+    },
+    {
+      "playerId": "7d27ec3b-1e31-4b0f-abcf-e12039a0e27b",
+      "playerName": "Dejounte Murray",
+      "firstName": "Dejounte",
+      "lastName": "Murray",
+      "position": "G",
+      "jersey": "5",
+      "team": {
+        "id": "583ecc9a-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Pelicans",
+        "market": "New Orleans"
+      },
+      "injury": {
+        "id": "a3070ef9-ad58-49e8-8540-b27ae38a33b7",
+        "status": "Out",
+        "startDate": "2025-01-31",
+        "description": "Leg",
+        "comment": "Murray suffered a torn right Achilles tendon during Friday's (Jan. 31) game against the Celtics and will now miss the rest of the season, per Shams Charania of ESPN.com.",
+        "updateDate": "2025-01-31"
+      },
+      "lastUpdated": "2025-07-25T21:49:45.581Z"
+    },
+    {
+      "playerId": "067d9f05-a6b8-4a4b-854c-3364234e62b1",
+      "playerName": "Isaiah Jackson",
+      "firstName": "Isaiah",
+      "lastName": "Jackson",
+      "position": "F",
+      "jersey": "22",
+      "team": {
+        "id": "583ec7cd-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Pacers",
+        "market": "Indiana"
+      },
+      "injury": {
+        "id": "36b231b5-4d9d-4a4f-8e3e-44c809b9a888",
+        "status": "Out",
+        "startDate": "2024-11-01",
+        "description": "Calf",
+        "comment": "The Indiana Pacers announced C Isaiah Jackson has sustained a torn right Achilles tendon in Friday's (Nov. 1) game versus the Pelicans and will be out for the remainder of the season, per Shams Charania of ESPN.",
+        "updateDate": "2024-11-02"
+      },
+      "lastUpdated": "2025-07-25T21:49:45.581Z"
+    },
+    {
+      "playerId": "254e42d7-df01-4c68-9264-bca06c83c2c1",
+      "playerName": "Tyrese Haliburton",
+      "firstName": "Tyrese",
+      "lastName": "Haliburton",
+      "position": "G",
+      "jersey": "0",
+      "team": {
+        "id": "583ec7cd-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Pacers",
+        "market": "Indiana"
+      },
+      "injury": {
+        "id": "c77f3cf2-6c87-4224-8f18-a0d11908a5b6",
+        "status": "Out For Season",
+        "startDate": "2025-06-22",
+        "description": "Achilles",
+        "comment": "The Pacers confirmed that Haliburton will miss the 2025-2026 season as he recovers from a torn Achilles.",
+        "updateDate": "2025-07-07"
+      },
+      "lastUpdated": "2025-07-25T21:49:45.582Z"
+    },
+    {
+      "playerId": "98136da3-452f-49dc-a794-1ee9c76443f2",
+      "playerName": "Jayson Tatum",
+      "firstName": "Jayson",
+      "lastName": "Tatum",
+      "position": "F-G",
+      "jersey": "0",
+      "team": {
+        "id": "583eccfa-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Celtics",
+        "market": "Boston"
+      },
+      "injury": {
+        "id": "52b224f4-610e-4927-b98e-dd9258d484e1",
+        "status": "Out",
+        "startDate": "2025-05-12",
+        "description": "Achilles",
+        "comment": "Tatum will miss the rest of the season after undergoing surgery to repair a torn left Achilles tendon Tuesday (May. 13), Shams Charania of ESPN reports.",
+        "updateDate": "2025-05-13"
+      },
+      "lastUpdated": "2025-07-25T21:49:45.582Z"
+    },
+    {
+      "playerId": "b79b88e1-35ef-4947-8a61-f6ec631a1e15",
+      "playerName": "Darius Garland",
+      "firstName": "Darius",
+      "lastName": "Garland",
+      "position": "G",
+      "jersey": "10",
+      "team": {
+        "id": "583ec773-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Cavaliers",
+        "market": "Cleveland"
+      },
+      "injury": {
+        "id": "52c7e5e3-b533-4148-b571-d11f4a50a009",
+        "status": "Out",
+        "startDate": "2025-06-09",
+        "description": "Toe",
+        "comment": "Cleveland Cavaliers star Darius Garland underwent surgery to repair great toe injury and is likely to miss time to start the 2025-26 season, According to Shams Charania.",
+        "updateDate": "2025-06-09"
+      },
+      "lastUpdated": "2025-07-25T21:49:45.582Z"
+    },
+    {
+      "playerId": "dd146010-902b-4ad7-b98c-650d0363a2f0",
+      "playerName": "Kyrie Irving",
+      "firstName": "Kyrie",
+      "lastName": "Irving",
+      "position": "G",
+      "jersey": "11",
+      "team": {
+        "id": "583ecf50-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Mavericks",
+        "market": "Dallas"
+      },
+      "injury": {
+        "id": "819d93be-5ff2-4bd3-8181-7aa182fe3e50",
+        "status": "Out",
+        "startDate": "2025-03-03",
+        "description": "Knee",
+        "comment": "The Mavericks have optimism that Irving could be ready to make his 2025-26 debut in January, Shams Charania of ESPN reports.",
+        "updateDate": "2025-04-16"
+      },
+      "lastUpdated": "2025-07-25T21:49:45.582Z"
+    },
+    {
+      "playerId": "fb6e5496-cfa5-42c2-bbfa-f776734a25a8",
+      "playerName": "Taylor Hendricks",
+      "firstName": "Taylor",
+      "lastName": "Hendricks",
+      "position": "F",
+      "jersey": "0",
+      "team": {
+        "id": "583ece50-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Jazz",
+        "market": "Utah"
+      },
+      "injury": {
+        "id": "ba7e741f-a5d8-47df-8c9c-4684d58f8bc3",
+        "status": "Out",
+        "startDate": "2024-10-28",
+        "description": "Fibula",
+        "comment": "Hendricks underwent surgery on Wednesday (Nov. 6) to repair a fractured right fibula and dislocated right ankle, per Andy Larsen of The Salt Lake Tribune.",
+        "updateDate": "2024-11-06"
+      },
+      "lastUpdated": "2025-07-25T21:49:45.582Z"
+    },
+    {
+      "playerId": "d222539f-fa52-4070-807f-d3aba372f46d",
+      "playerName": "Jalen Johnson",
+      "firstName": "Jalen",
+      "lastName": "Johnson",
+      "position": "F",
+      "jersey": "1",
+      "team": {
+        "id": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hawks",
+        "market": "Atlanta"
+      },
+      "injury": {
+        "id": "ea01aadb-534f-496f-8458-07067386fbd2",
+        "status": "Out",
+        "startDate": "2025-01-23",
+        "description": "Shoulder",
+        "comment": "Johnson was diagnosed on Wednesday (Jan. 29) with a torn labrum in his left shoulder and will miss the rest of the season, league sources tell NBA reporter Chris Haynes.",
+        "updateDate": "2025-01-29"
+      },
+      "lastUpdated": "2025-07-25T21:49:45.582Z"
+    }
+  ]
+}
