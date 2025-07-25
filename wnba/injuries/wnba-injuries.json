@@ -1,0 +1,227 @@
+{
+  "lastUpdated": "2025-07-25T21:18:40.210Z",
+  "totalInjuries": 10,
+  "league": "WNBA",
+  "injuries": [
+    {
+      "playerId": "88429de7-5dc4-471a-98cd-bc13b057db36",
+      "playerName": "Maddy Siegrist",
+      "firstName": "Maddy",
+      "lastName": "Siegrist",
+      "position": "F",
+      "jersey": "20",
+      "team": {
+        "id": "5f0b5caf-708b-4300-92f2-53b51d83ec06",
+        "name": "Wings",
+        "market": "Dallas"
+      },
+      "injury": {
+        "id": "15b4306a-5979-4a04-8097-6b2a38b70744",
+        "status": "Out",
+        "startDate": "2025-06-11",
+        "description": "Knee",
+        "comment": "The Wings reported that Siegrist is OUT for Friday's (Jul. 25) game against the Valkyries.",
+        "updateDate": "2025-07-24"
+      },
+      "lastUpdated": "2025-07-25T21:18:40.209Z"
+    },
+    {
+      "playerId": "96f429a5-5b23-4edf-90b1-642d7f036118",
+      "playerName": "Tyasha Harris",
+      "firstName": "Tyasha",
+      "lastName": "Harris",
+      "position": "G",
+      "jersey": "52",
+      "team": {
+        "id": "5f0b5caf-708b-4300-92f2-53b51d83ec06",
+        "name": "Wings",
+        "market": "Dallas"
+      },
+      "injury": {
+        "id": "be1980e4-f5cb-492b-b32f-bc6489b9556e",
+        "status": "Out For Season",
+        "startDate": "2025-06-07",
+        "description": "Knee",
+        "comment": "The Wings reported on Tuesday (Jun. 10) that Harris will miss the rest of the 2025 WNBA season after undergoing a procedure on her left knee, according to Grant Afseth of The Next.",
+        "updateDate": "2025-06-10"
+      },
+      "lastUpdated": "2025-07-25T21:18:40.210Z"
+    },
+    {
+      "playerId": "ab39141d-852e-4308-8b5d-8d06441ffbbd",
+      "playerName": "Rhyne Howard",
+      "firstName": "Rhyne",
+      "lastName": "Howard",
+      "position": "G",
+      "jersey": "10",
+      "team": {
+        "id": "5d70a9af-8c2b-4aec-9e68-9acc6ddb93e4",
+        "name": "Dream",
+        "market": "Atlanta"
+      },
+      "injury": {
+        "id": "2a3b7636-28f2-4c82-a524-fda151f0e9cb",
+        "status": "Out",
+        "startDate": "2025-07-14",
+        "description": "Knee",
+        "comment": "The Dream reported on Monday (Jul. 14) that Howard is out for the remainder of July, and there's no clear timeline for her return to game action, per Khristina Williams of MSG Network.",
+        "updateDate": "2025-07-14"
+      },
+      "lastUpdated": "2025-07-25T21:18:40.210Z"
+    },
+    {
+      "playerId": "2d21f497-2795-432d-b254-5ae9fbbd0096",
+      "playerName": "Caitlin Clark",
+      "firstName": "Caitlin",
+      "lastName": "Clark",
+      "position": "G",
+      "jersey": "22",
+      "team": {
+        "id": "f073a15f-0486-4179-b0a3-dfd0294eb595",
+        "name": "Fever",
+        "market": "Indiana"
+      },
+      "injury": {
+        "id": "3e3e83bc-d097-4e15-8f37-f90d883f5dec",
+        "status": "Out",
+        "startDate": "2025-07-17",
+        "description": "Groin",
+        "comment": "Clark who has been ruled out for Thursday's (Jul. 24) game against the Aces, doesn't yet have a timetable to return, per Tony East of The Next.",
+        "updateDate": "2025-07-24"
+      },
+      "lastUpdated": "2025-07-25T21:18:40.210Z"
+    },
+    {
+      "playerId": "7709c3e4-3fcb-4483-95b5-ba433eab864a",
+      "playerName": "Georgia Amoore",
+      "firstName": "Georgia",
+      "lastName": "Amoore",
+      "position": "G",
+      "jersey": "8",
+      "team": {
+        "id": "5c0d47fe-8539-47b0-9f36-d0b3609ca89b",
+        "name": "Mystics",
+        "market": "Washington"
+      },
+      "injury": {
+        "id": "522b3737-6651-46e4-b9ed-7f9fe4d4623f",
+        "status": "Out For Season",
+        "startDate": "2025-04-30",
+        "description": "ACL",
+        "comment": "The Mystics reported on Friday (May 16) that Amoore underwent successful surgery to repair a right ACL injury. She will miss the 2025 WNBA season.",
+        "updateDate": "2025-05-16"
+      },
+      "lastUpdated": "2025-07-25T21:18:40.210Z"
+    },
+    {
+      "playerId": "7a46f116-94ed-4d89-b585-fa41cf41862c",
+      "playerName": "Kayla Thornton",
+      "firstName": "Kayla",
+      "lastName": "Thornton",
+      "position": "F",
+      "jersey": "5",
+      "team": {
+        "id": "4f57ec40-0d35-4b59-bea0-9d040f0d2292",
+        "name": "Valkyries",
+        "market": "Golden State"
+      },
+      "injury": {
+        "id": "6fb142e8-4743-49d9-8361-6a08c9136475",
+        "status": "Out For Season",
+        "startDate": "2025-07-25",
+        "description": "Knee",
+        "comment": "The Valkyries announced that Thornton underwent season-ending knee surgery.",
+        "updateDate": "2025-07-25"
+      },
+      "lastUpdated": "2025-07-25T21:18:40.210Z"
+    },
+    {
+      "playerId": "4a97e708-71e5-4d58-b1e8-883adf027925",
+      "playerName": "Cheyenne Parker-Tyus",
+      "firstName": "Cheyenne",
+      "lastName": "Parker-Tyus",
+      "position": "F",
+      "jersey": "32",
+      "team": {
+        "id": "171b097d-01db-4ae8-9d56-035689402ec6",
+        "name": "Aces",
+        "market": "Las Vegas"
+      },
+      "injury": {
+        "id": "7d34023c-1382-415a-b8b9-584c9bc76a40",
+        "status": "Out",
+        "startDate": "2025-04-04",
+        "description": "Personal",
+        "comment": "The Las Vegas Aces reported that Parker-Tyus hopes to return for the WNBA playoffs, per Callie Fin of the Las Vegas Review-Journal.",
+        "updateDate": "2025-07-24"
+      },
+      "lastUpdated": "2025-07-25T21:18:40.210Z"
+    },
+    {
+      "playerId": "b61f397f-0cb5-49db-9e88-f91991757203",
+      "playerName": "Courtney Vandersloot",
+      "firstName": "Courtney",
+      "lastName": "Vandersloot",
+      "position": "G",
+      "jersey": "22",
+      "team": {
+        "id": "3c409388-ab73-4c7f-953d-3a71062240f6",
+        "name": "Sky",
+        "market": "Chicago"
+      },
+      "injury": {
+        "id": "ba3b46ff-d588-4f36-bbce-f0ab39af029d",
+        "status": "Out For Season",
+        "startDate": "2025-06-07",
+        "description": "ACL",
+        "comment": "The Sky reported on Tuesday (Jun. 24) that Vandersloot underwent successful surgery on a torn right anterior cruciate ligament. She remains out for the rest of the 2025 season.",
+        "updateDate": "2025-06-24"
+      },
+      "lastUpdated": "2025-07-25T21:18:40.210Z"
+    },
+    {
+      "playerId": "29a8b1d2-db3b-4035-a635-9d559bc51a8a",
+      "playerName": "Katie Lou Samuelson",
+      "firstName": "Katie Lou",
+      "lastName": "Samuelson",
+      "position": "F",
+      "jersey": "33",
+      "team": {
+        "id": "d6a012ed-84aa-48d3-8265-2d3f3ff2199a",
+        "name": "Storm",
+        "market": "Seattle"
+      },
+      "injury": {
+        "id": "cf4084de-cc9d-43ff-91af-9380e2659e22",
+        "status": "Out For Season",
+        "startDate": "2025-05-03",
+        "description": "Knee",
+        "comment": "The Storm reported that Samuelson suffered a torn ACL in her right knee in Thursday's (May 1) practice, which will likely result in being ruled out for the season, per Meghan L. Hall of USA Today.",
+        "updateDate": "2025-05-03"
+      },
+      "lastUpdated": "2025-07-25T21:18:40.210Z"
+    },
+    {
+      "playerId": "7aab70d6-2179-4389-a30e-e3da9c6a1713",
+      "playerName": "Karlie Samuelson",
+      "firstName": "Karlie",
+      "lastName": "Samuelson",
+      "position": "G",
+      "jersey": "44",
+      "team": {
+        "id": "6f017f37-be96-4bdc-b6d3-0a0429c72e89",
+        "name": "Lynx",
+        "market": "Minnesota"
+      },
+      "injury": {
+        "id": "ebcbee41-c798-40c1-8201-25088b083521",
+        "status": "Out For Season",
+        "startDate": "2025-06-30",
+        "description": "Foot",
+        "comment": "The Lynx announced on Friday (Jul. 4) that Samuelson will undergo surgery and miss the remainder of the 2025 season.",
+        "updateDate": "2025-07-04"
+      },
+      "lastUpdated": "2025-07-25T21:18:40.210Z"
+    }
+  ]
+}
