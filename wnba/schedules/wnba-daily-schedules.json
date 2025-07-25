@@ -1,0 +1,80 @@
+{
+  "lastUpdated": "2025-07-25T21:19:11.909Z",
+  "date": "2025/07/25",
+  "totalGames": 3,
+  "league": "WNBA",
+  "games": [
+    {
+      "id": "0141c94b-0923-4c3f-8e2f-50513198e128",
+      "scheduled": "2025-07-25T23:30:00Z",
+      "status": "scheduled",
+      "coverage": "full",
+      "homeTeam": {
+        "id": "6f017f37-be96-4bdc-b6d3-0a0429c72e89",
+        "name": "Minnesota Lynx",
+        "alias": "MIN"
+      },
+      "awayTeam": {
+        "id": "171b097d-01db-4ae8-9d56-035689402ec6",
+        "name": "Las Vegas Aces",
+        "alias": "LVA"
+      },
+      "venue": {
+        "id": "7aed802e-3562-5b73-af1b-3859529f9b95",
+        "name": "Target Center",
+        "city": "Minneapolis",
+        "state": "MN"
+      },
+      "broadcast": null,
+      "lastUpdated": "2025-07-25T21:19:11.901Z"
+    },
+    {
+      "id": "886f70ad-6601-4949-8361-19950f284336",
+      "scheduled": "2025-07-25T23:30:00Z",
+      "status": "scheduled",
+      "coverage": "full",
+      "homeTeam": {
+        "id": "08ed8274-e29f-4248-bc2e-83cc8ed18d75",
+        "name": "New York Liberty",
+        "alias": "NYL"
+      },
+      "awayTeam": {
+        "id": "0699edf3-5993-4182-b9b4-ec935cbd4fcc",
+        "name": "Phoenix Mercury",
+        "alias": "PHX"
+      },
+      "venue": {
+        "id": "7a330bcd-ac0f-50ca-bc29-2460e5c476b3",
+        "name": "Barclays Center",
+        "city": "Brooklyn",
+        "state": "NY"
+      },
+      "broadcast": null,
+      "lastUpdated": "2025-07-25T21:19:11.909Z"
+    },
+    {
+      "id": "d417a7b2-8eca-4edd-9e75-7875ed550fdd",
+      "scheduled": "2025-07-26T02:00:00Z",
+      "status": "scheduled",
+      "coverage": "full",
+      "homeTeam": {
+        "id": "4f57ec40-0d35-4b59-bea0-9d040f0d2292",
+        "name": "Golden State Valkyries",
+        "alias": "GSV"
+      },
+      "awayTeam": {
+        "id": "5f0b5caf-708b-4300-92f2-53b51d83ec06",
+        "name": "Dallas Wings",
+        "alias": "DAL"
+      },
+      "venue": {
+        "id": "938016dc-9e1d-4abc-88f5-3a7d772332e6",
+        "name": "Chase Center",
+        "city": "San Francisco",
+        "state": "CA"
+      },
+      "broadcast": null,
+      "lastUpdated": "2025-07-25T21:19:11.909Z"
+    }
+  ]
+}
