@@ -1,0 +1,909 @@
+{
+  "lastUpdated": "2025-07-25T21:49:32.659Z",
+  "season": "2025",
+  "seasonType": "REG",
+  "league": "NBA",
+  "totalTeams": 30,
+  "standings": [
+    {
+      "teamId": "583eccfa-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Celtics",
+      "teamMarket": "Boston",
+      "conference": "EASTERN CONFERENCE",
+      "division": "Atlantic",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.578Z"
+    },
+    {
+      "teamId": "583ec87d-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "76ers",
+      "teamMarket": "Philadelphia",
+      "conference": "EASTERN CONFERENCE",
+      "division": "Atlantic",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.578Z"
+    },
+    {
+      "teamId": "583ecda6-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Raptors",
+      "teamMarket": "Toronto",
+      "conference": "EASTERN CONFERENCE",
+      "division": "Atlantic",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.578Z"
+    },
+    {
+      "teamId": "583ec9d6-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Nets",
+      "teamMarket": "Brooklyn",
+      "conference": "EASTERN CONFERENCE",
+      "division": "Atlantic",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.578Z"
+    },
+    {
+      "teamId": "583ec70e-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Knicks",
+      "teamMarket": "New York",
+      "conference": "EASTERN CONFERENCE",
+      "division": "Atlantic",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.578Z"
+    },
+    {
+      "teamId": "583ec7cd-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Pacers",
+      "teamMarket": "Indiana",
+      "conference": "EASTERN CONFERENCE",
+      "division": "Central",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.553Z"
+    },
+    {
+      "teamId": "583ec5fd-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Bulls",
+      "teamMarket": "Chicago",
+      "conference": "EASTERN CONFERENCE",
+      "division": "Central",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.577Z"
+    },
+    {
+      "teamId": "583ec773-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Cavaliers",
+      "teamMarket": "Cleveland",
+      "conference": "EASTERN CONFERENCE",
+      "division": "Central",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.578Z"
+    },
+    {
+      "teamId": "583ec928-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Pistons",
+      "teamMarket": "Detroit",
+      "conference": "EASTERN CONFERENCE",
+      "division": "Central",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.578Z"
+    },
+    {
+      "teamId": "583ecefd-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Bucks",
+      "teamMarket": "Milwaukee",
+      "conference": "EASTERN CONFERENCE",
+      "division": "Central",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.578Z"
+    },
+    {
+      "teamId": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Wizards",
+      "teamMarket": "Washington",
+      "conference": "EASTERN CONFERENCE",
+      "division": "Southeast",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.578Z"
+    },
+    {
+      "teamId": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Hornets",
+      "teamMarket": "Charlotte",
+      "conference": "EASTERN CONFERENCE",
+      "division": "Southeast",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.578Z"
+    },
+    {
+      "teamId": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Hawks",
+      "teamMarket": "Atlanta",
+      "conference": "EASTERN CONFERENCE",
+      "division": "Southeast",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.578Z"
+    },
+    {
+      "teamId": "583ecea6-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Heat",
+      "teamMarket": "Miami",
+      "conference": "EASTERN CONFERENCE",
+      "division": "Southeast",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.578Z"
+    },
+    {
+      "teamId": "583ed157-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Magic",
+      "teamMarket": "Orlando",
+      "conference": "EASTERN CONFERENCE",
+      "division": "Southeast",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.578Z"
+    },
+    {
+      "teamId": "583ece50-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Jazz",
+      "teamMarket": "Utah",
+      "conference": "WESTERN CONFERENCE",
+      "division": "Northwest",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.578Z"
+    },
+    {
+      "teamId": "583ed102-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Nuggets",
+      "teamMarket": "Denver",
+      "conference": "WESTERN CONFERENCE",
+      "division": "Northwest",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.578Z"
+    },
+    {
+      "teamId": "583ed056-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Trail Blazers",
+      "teamMarket": "Portland",
+      "conference": "WESTERN CONFERENCE",
+      "division": "Northwest",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.578Z"
+    },
+    {
+      "teamId": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Thunder",
+      "teamMarket": "Oklahoma City",
+      "conference": "WESTERN CONFERENCE",
+      "division": "Northwest",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.578Z"
+    },
+    {
+      "teamId": "583eca2f-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Timberwolves",
+      "teamMarket": "Minnesota",
+      "conference": "WESTERN CONFERENCE",
+      "division": "Northwest",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.578Z"
+    },
+    {
+      "teamId": "583ed0ac-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Kings",
+      "teamMarket": "Sacramento",
+      "conference": "WESTERN CONFERENCE",
+      "division": "Pacific",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.578Z"
+    },
+    {
+      "teamId": "583ecae2-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Lakers",
+      "teamMarket": "Los Angeles",
+      "conference": "WESTERN CONFERENCE",
+      "division": "Pacific",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.578Z"
+    },
+    {
+      "teamId": "583ecfa8-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Suns",
+      "teamMarket": "Phoenix",
+      "conference": "WESTERN CONFERENCE",
+      "division": "Pacific",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.578Z"
+    },
+    {
+      "teamId": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Clippers",
+      "teamMarket": "LA",
+      "conference": "WESTERN CONFERENCE",
+      "division": "Pacific",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.578Z"
+    },
+    {
+      "teamId": "583ec825-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Warriors",
+      "teamMarket": "Golden State",
+      "conference": "WESTERN CONFERENCE",
+      "division": "Pacific",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.578Z"
+    },
+    {
+      "teamId": "583ecb3a-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Rockets",
+      "teamMarket": "Houston",
+      "conference": "WESTERN CONFERENCE",
+      "division": "Southwest",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.578Z"
+    },
+    {
+      "teamId": "583ecc9a-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Pelicans",
+      "teamMarket": "New Orleans",
+      "conference": "WESTERN CONFERENCE",
+      "division": "Southwest",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.578Z"
+    },
+    {
+      "teamId": "583eca88-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Grizzlies",
+      "teamMarket": "Memphis",
+      "conference": "WESTERN CONFERENCE",
+      "division": "Southwest",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.578Z"
+    },
+    {
+      "teamId": "583ecf50-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Mavericks",
+      "teamMarket": "Dallas",
+      "conference": "WESTERN CONFERENCE",
+      "division": "Southwest",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.578Z"
+    },
+    {
+      "teamId": "583ecd4f-fb46-11e1-82cb-f4ce4684ea4c",
+      "teamName": "Spurs",
+      "teamMarket": "San Antonio",
+      "conference": "WESTERN CONFERENCE",
+      "division": "Southwest",
+      "wins": 0,
+      "losses": 0,
+      "winPct": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "pointDifferential": 0,
+      "homeRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "awayRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "conferenceRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "divisionRecord": {
+        "wins": 0,
+        "losses": 0
+      },
+      "lastUpdated": "2025-07-25T21:49:32.578Z"
+    }
+  ]
+}
