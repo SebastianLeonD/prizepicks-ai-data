@@ -1,0 +1,47 @@
+{
+  "lastUpdated": "2025-07-26T16:45:20.971Z",
+  "date": "2025-07-26",
+  "totalGames": 2,
+  "games": [
+    {
+      "id": "b1e3f299-f65d-4dad-be45-f936a6d7278f",
+      "scheduled": "2025-07-26T23:00:00Z",
+      "status": "scheduled",
+      "venue": {
+        "name": "Barclays Center",
+        "city": "Brooklyn",
+        "state": "NY"
+      },
+      "home": {
+        "id": "08ed8274-e29f-4248-bc2e-83cc8ed18d75",
+        "name": "New York Liberty",
+        "alias": "NYL"
+      },
+      "away": {
+        "id": "0a5ad38d-2fe3-43ba-894b-1ba3d5042ea9",
+        "name": "Los Angeles Sparks",
+        "alias": "LAS"
+      }
+    },
+    {
+      "id": "a4cfb5be-1674-4ee4-af01-a984647aadea",
+      "scheduled": "2025-07-26T23:30:00Z",
+      "status": "scheduled",
+      "venue": {
+        "name": "CareFirst Arena",
+        "city": "Washington",
+        "state": "DC"
+      },
+      "home": {
+        "id": "5c0d47fe-8539-47b0-9f36-d0b3609ca89b",
+        "name": "Washington Mystics",
+        "alias": "WAS"
+      },
+      "away": {
+        "id": "d6a012ed-84aa-48d3-8265-2d3f3ff2199a",
+        "name": "Seattle Storm",
+        "alias": "SEA"
+      }
+    }
+  ]
+}
