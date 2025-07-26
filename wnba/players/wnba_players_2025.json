@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "sport": "WNBA",
+    "season": 2025,
+    "seasonType": "REG",
+    "lastUpdated": "2025-07-26T03:18:27.869Z",
+    "dataSource": "SportRadar API",
+    "totalPlayers": 0,
+    "totalTeams": 0,
+    "purpose": "Player roster with IDs for detailed stats collection"
+  },
+  "season": {
+    "year": 2025,
+    "type": "REG"
+  },
+  "teams": [],
+  "players": [],
+  "summary": {
+    "totalPlayers": 0,
+    "totalTeams": 0,
+    "averagePlayersPerTeam": "NaN",
+    "positionBreakdown": {},
+    "conferenceBreakdown": {},
+    "experienceBreakdown": {
+      "rookies": 0,
+      "veterans": 0,
+      "unknown": 0
+    }
+  }
+}
