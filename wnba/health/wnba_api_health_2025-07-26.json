@@ -1,0 +1,99 @@
+{
+  "timestamp": "2025-07-26T17:18:53.466Z",
+  "overall": "degraded",
+  "apis": {
+    "SportRadar_League_Hierarchy": {
+      "status": "healthy",
+      "responseTime": 740,
+      "httpStatus": 200,
+      "details": "",
+      "dataSize": 12346,
+      "endpoint": "/league/hierarchy.json"
+    },
+    "SportRadar_Daily_Schedule": {
+      "status": "healthy",
+      "responseTime": 544,
+      "httpStatus": 200,
+      "details": "",
+      "dataSize": 2212,
+      "endpoint": "/games/2025/07/26/schedule.json"
+    },
+    "SportRadar_Injuries": {
+      "status": "degraded",
+      "responseTime": 171,
+      "httpStatus": 429,
+      "details": "Rate limited",
+      "dataSize": 0,
+      "endpoint": "/league/injuries.json"
+    },
+    "SportRadar_Standings": {
+      "status": "degraded",
+      "responseTime": 344,
+      "httpStatus": 429,
+      "details": "Rate limited",
+      "dataSize": 0,
+      "endpoint": "/seasons/2025/REG/standings.json"
+    },
+    "SportRadar_Team_Profile": {
+      "status": "degraded",
+      "responseTime": 142,
+      "httpStatus": 429,
+      "details": "Rate limited",
+      "dataSize": 0,
+      "endpoint": "/teams/171b097d-01db-4ae8-9d56-035689402ec6/profile.json"
+    },
+    "SportRadar_Player_Profile": {
+      "status": "degraded",
+      "responseTime": 249,
+      "httpStatus": 429,
+      "details": "Rate limited",
+      "dataSize": 0,
+      "endpoint": "/players/b2bb37a6-6879-4c1f-ae20-5f6492bef87a/profile.json"
+    },
+    "GitHub_Players_Data": {
+      "status": "healthy",
+      "responseTime": 699,
+      "fileSize": 104892,
+      "details": "",
+      "lastModified": "c729b0ec4069d2d21ae59e5389908beab040cd85"
+    },
+    "GitHub_Stats_Data": {
+      "status": "healthy",
+      "responseTime": 162,
+      "fileSize": 131514,
+      "details": "",
+      "lastModified": "c67d88e20749699da135433fefa48935cf0cc7ca"
+    },
+    "GitHub_Schedule_Data": {
+      "status": "healthy",
+      "responseTime": 237,
+      "fileSize": 1156,
+      "details": "",
+      "lastModified": "f32f50b2579feaca610d394fa046ac35ddf4a924"
+    },
+    "GitHub_Processed_Data": {
+      "status": "healthy",
+      "responseTime": 291,
+      "fileSize": 247844,
+      "details": "",
+      "lastModified": "3d8d6877d85f7286b6d3723178f68c0b00a79ed7"
+    },
+    "GitHub_Extension_Data": {
+      "status": "healthy",
+      "responseTime": 216,
+      "fileSize": 243825,
+      "details": "",
+      "lastModified": "d3040a6136c5a8590a090436bbb49c362d1c9904"
+    }
+  },
+  "summary": {
+    "total": 11,
+    "healthy": 7,
+    "degraded": 4,
+    "failed": 0
+  },
+  "recommendations": [
+    "4 API(s) degraded - monitor performance",
+    "SportRadar API experiencing issues - check API key and rate limits"
+  ]
+}
