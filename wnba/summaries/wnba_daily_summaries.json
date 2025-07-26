@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "sport": "WNBA",
+    "season": 2025,
+    "endpoint": "https://api.sportradar.com/wnba/trial/v8/en/games/2025/07/24/summary.json",
+    "date": "2025-07-24",
+    "lastUpdated": "2025-07-26T02:57:46.493Z",
+    "dataSource": "SportRadar API",
+    "gameCount": 0
+  },
+  "date": "2025-07-24",
+  "summaries": [],
+  "dayStatistics": {
+    "games": {
+      "total": 0,
+      "overtime": 0,
+      "blowouts": 0,
+      "closeGames": 0,
+      "competitive": 0
+    },
+    "scoring": {
+      "totalPoints": 0,
+      "averagePointsPerGame": 0,
+      "highestScoringGame": null,
+      "lowestScoringGame": null
+    },
+    "competitiveness": {
+      "blowoutPercentage": 0,
+      "closeGamePercentage": 0,
+      "overtimePercentage": 0
+    },
+    "message": "No games played on this date"
+  }
+}
