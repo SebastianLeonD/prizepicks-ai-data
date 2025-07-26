@@ -1,0 +1,96 @@
+{
+  "timestamp": "2025-07-26T18:16:53.438Z",
+  "overall": "degraded",
+  "apis": {
+    "SportRadar_League_Hierarchy": {
+      "status": "healthy",
+      "responseTime": 314,
+      "httpStatus": 200,
+      "details": "",
+      "dataSize": 29350,
+      "endpoint": "/league/hierarchy.json"
+    },
+    "SportRadar_Daily_Schedule": {
+      "status": "healthy",
+      "responseTime": 237,
+      "httpStatus": 200,
+      "details": "",
+      "dataSize": 114,
+      "endpoint": "/games/2025/07/26/schedule.json"
+    },
+    "SportRadar_Injuries": {
+      "status": "healthy",
+      "responseTime": 260,
+      "httpStatus": 200,
+      "details": "",
+      "dataSize": 9709,
+      "endpoint": "/league/injuries.json"
+    },
+    "SportRadar_Standings": {
+      "status": "healthy",
+      "responseTime": 167,
+      "httpStatus": 200,
+      "details": "",
+      "dataSize": 71273,
+      "endpoint": "/seasons/2024/REG/standings.json"
+    },
+    "SportRadar_Team_Profile": {
+      "status": "healthy",
+      "responseTime": 401,
+      "httpStatus": 200,
+      "details": "",
+      "dataSize": 8757,
+      "endpoint": "/teams/171b097d-01db-4ae8-9d56-035689402ec6/profile.json"
+    },
+    "SportRadar_Player_Profile": {
+      "status": "healthy",
+      "responseTime": 374,
+      "httpStatus": 200,
+      "details": "",
+      "dataSize": 22893,
+      "endpoint": "/players/b2bb37a6-6879-4c1f-ae20-5f6492bef87a/profile.json"
+    },
+    "GitHub_Players_Data": {
+      "status": "failed",
+      "responseTime": 107,
+      "error": "Not Found - https://docs.github.com/rest/repos/contents#get-repository-content"
+    },
+    "GitHub_Stats_Data": {
+      "status": "failed",
+      "responseTime": 99,
+      "error": "Not Found - https://docs.github.com/rest/repos/contents#get-repository-content"
+    },
+    "GitHub_Schedule_Data": {
+      "status": "healthy",
+      "responseTime": 124,
+      "fileSize": 105,
+      "details": "",
+      "lastModified": "85896fa08cd7a8fc714403ee845cfbbfaa091124"
+    },
+    "GitHub_Processed_Data": {
+      "status": "healthy",
+      "responseTime": 125,
+      "fileSize": 22757,
+      "details": "",
+      "lastModified": "bfff331f84dc11d51fddeb07384e8e88cbb706ff"
+    },
+    "GitHub_Extension_Data": {
+      "status": "healthy",
+      "responseTime": 144,
+      "fileSize": 6430,
+      "details": "",
+      "lastModified": "24862cf4106e9d70fe3ab7c2f16680b749faad96"
+    }
+  },
+  "summary": {
+    "total": 11,
+    "healthy": 9,
+    "degraded": 0,
+    "failed": 2
+  },
+  "recommendations": [
+    "Verify extension data contains all players and props",
+    "2 API(s) completely failed - investigate immediately",
+    "GitHub API/data issues - verify repository access and file structure"
+  ]
+}
