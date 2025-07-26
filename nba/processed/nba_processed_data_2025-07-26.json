@@ -1,0 +1,758 @@
+{
+  "metadata": {
+    "generatedAt": "2025-07-26T18:16:43.459Z",
+    "date": "2025-07-26",
+    "totalPlayers": 0,
+    "totalGames": 0,
+    "dataVersion": "1.0",
+    "propTypesSupported": {
+      "individual": [
+        "points",
+        "rebounds",
+        "assists",
+        "threePtMade",
+        "steals",
+        "blocks",
+        "defensiveRebounds",
+        "offensiveRebounds",
+        "freeThrowsMade",
+        "fieldGoalAttempted",
+        "threePtAttempted",
+        "turnovers"
+      ],
+      "combinations": [
+        "ptsRebsAsts",
+        "ptsAsts",
+        "rebsAsts",
+        "ptsRebs",
+        "blksStls"
+      ],
+      "combo": [
+        "pointsCombo",
+        "threePtMadeCombo",
+        "assistsCombo",
+        "reboundsCombo"
+      ],
+      "special": [
+        "fantasyScore"
+      ]
+    }
+  },
+  "players": {},
+  "todaysGames": [],
+  "standings": {
+    "lastUpdated": "2025-07-26T18:16:40.710Z",
+    "season": {
+      "year": 2024,
+      "type": "REG"
+    },
+    "conferences": [
+      {
+        "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+        "name": "WESTERN CONFERENCE",
+        "alias": "WESTERN",
+        "teams": []
+      },
+      {
+        "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+        "name": "EASTERN CONFERENCE",
+        "alias": "EASTERN",
+        "teams": []
+      }
+    ]
+  },
+  "propTypes": {
+    "individual": [
+      "points",
+      "rebounds",
+      "assists",
+      "threePtMade",
+      "steals",
+      "blocks",
+      "defensiveRebounds",
+      "offensiveRebounds",
+      "freeThrowsMade",
+      "fieldGoalAttempted",
+      "threePtAttempted",
+      "turnovers"
+    ],
+    "combinations": [
+      "ptsRebsAsts",
+      "ptsAsts",
+      "rebsAsts",
+      "ptsRebs",
+      "blksStls"
+    ],
+    "combo": [
+      "pointsCombo",
+      "threePtMadeCombo",
+      "assistsCombo",
+      "reboundsCombo"
+    ],
+    "special": [
+      "fantasyScore"
+    ]
+  },
+  "teams": {
+    "445dd038-f82e-4d33-936c-f480f11079ba": {
+      "id": "445dd038-f82e-4d33-936c-f480f11079ba",
+      "name": "36ers",
+      "alias": "ADL",
+      "market": "Adelaide",
+      "fullName": "Adelaide 36ers",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.443Z"
+    },
+    "583ec87d-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583ec87d-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "76ers",
+      "alias": "PHI",
+      "market": "Philadelphia",
+      "fullName": "Philadelphia 76ers",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.466Z"
+    },
+    "7c2943d4-0438-434e-abbb-6b2e9acb1b87": {
+      "id": "7c2943d4-0438-434e-abbb-6b2e9acb1b87",
+      "name": "Baloncesto",
+      "alias": "RMD",
+      "market": "Madrid",
+      "fullName": "Madrid Baloncesto",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.466Z"
+    },
+    "94c1a8d8-fc5f-470f-8807-80c4686d3986": {
+      "id": "94c1a8d8-fc5f-470f-8807-80c4686d3986",
+      "name": "Barry",
+      "alias": "BAR",
+      "market": "Team",
+      "fullName": "Team Barry",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.466Z"
+    },
+    "e3568832-fb2e-4b12-9858-71e6a91d51fd": {
+      "id": "e3568832-fb2e-4b12-9858-71e6a91d51fd",
+      "name": "Breakers",
+      "alias": "NZB",
+      "market": "New Zealand",
+      "fullName": "New Zealand Breakers",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.466Z"
+    },
+    "583ecefd-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583ecefd-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Bucks",
+      "alias": "MIL",
+      "market": "Milwaukee",
+      "fullName": "Milwaukee Bucks",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "076e6e4e-db27-4974-8df5-c4afca57b516": {
+      "id": "076e6e4e-db27-4974-8df5-c4afca57b516",
+      "name": "Bullets",
+      "alias": "BNE",
+      "market": "Brisbane",
+      "fullName": "Brisbane Bullets",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "583ec5fd-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583ec5fd-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Bulls",
+      "alias": "CHI",
+      "market": "Chicago",
+      "fullName": "Chicago Bulls",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "f2db3457-2abd-45e0-b284-2afd75f0f70c": {
+      "id": "f2db3457-2abd-45e0-b284-2afd75f0f70c",
+      "name": "C",
+      "alias": "TMC",
+      "market": "Team",
+      "fullName": "Team C",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "583ec773-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583ec773-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Cavaliers",
+      "alias": "CLE",
+      "market": "Cleveland",
+      "fullName": "Cleveland Cavaliers",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "583eccfa-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583eccfa-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Celtics",
+      "alias": "BOS",
+      "market": "Boston",
+      "fullName": "Boston Celtics",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Clippers",
+      "alias": "LAC",
+      "market": "LA",
+      "fullName": "LA Clippers",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "d64e9292-0b2b-4c21-a623-fcadad5496f5": {
+      "id": "d64e9292-0b2b-4c21-a623-fcadad5496f5",
+      "name": "Detlef",
+      "alias": "DLF",
+      "market": "Team",
+      "fullName": "Team Detlef",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "5e527e87-3873-45b6-b25a-ea3417a9ac1f": {
+      "id": "5e527e87-3873-45b6-b25a-ea3417a9ac1f",
+      "name": "Ducks",
+      "alias": "BJD",
+      "market": "Beijing",
+      "fullName": "Beijing Ducks",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "592d3144-895b-43e9-ab15-e84666a845d5": {
+      "id": "592d3144-895b-43e9-ab15-e84666a845d5",
+      "name": "East NBA All Stars",
+      "alias": "EST",
+      "fullName": "undefined East NBA All Stars",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "575588a6-6e2e-4129-a8c6-ed2fd6fee32d": {
+      "id": "575588a6-6e2e-4129-a8c6-ed2fd6fee32d",
+      "name": "Flamengo",
+      "alias": "FLA",
+      "market": "Flamengo",
+      "fullName": "Flamengo Flamengo",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "0164819d-9edd-4397-8edf-692ef3275435": {
+      "id": "0164819d-9edd-4397-8edf-692ef3275435",
+      "name": "Franca",
+      "alias": "FRA",
+      "market": "Franca",
+      "fullName": "Franca Franca",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "45952536-9154-43ba-a280-555ac1b469e4": {
+      "id": "45952536-9154-43ba-a280-555ac1b469e4",
+      "name": "G League",
+      "alias": "TMG",
+      "market": "Team",
+      "fullName": "Team G League",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "9501f713-da56-4126-9d64-b689a6143200": {
+      "id": "9501f713-da56-4126-9d64-b689a6143200",
+      "name": "Giannis",
+      "alias": "GNS",
+      "market": "Team",
+      "fullName": "Team Giannis",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "bf127c7a-9add-4b38-b1c2-26d737b9adeb": {
+      "id": "bf127c7a-9add-4b38-b1c2-26d737b9adeb",
+      "name": "Global Stars",
+      "alias": "CHK",
+      "fullName": "undefined Global Stars",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "583eca88-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583eca88-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Grizzlies",
+      "alias": "MEM",
+      "market": "Memphis",
+      "fullName": "Memphis Grizzlies",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "520d6b2a-af1e-4f35-b51e-4264ec6ab878": {
+      "id": "520d6b2a-af1e-4f35-b51e-4264ec6ab878",
+      "name": "Haifa",
+      "alias": "MAC",
+      "market": "Maccabi",
+      "fullName": "Maccabi Haifa",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Hawks",
+      "alias": "ATL",
+      "market": "Atlanta",
+      "fullName": "Atlanta Hawks",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "583ecea6-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583ecea6-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Heat",
+      "alias": "MIA",
+      "market": "Miami",
+      "fullName": "Miami Heat",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "583ec97e-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Hornets",
+      "alias": "CHA",
+      "market": "Charlotte",
+      "fullName": "Charlotte Hornets",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "aa98f081-3622-49bc-863d-2d647712543b": {
+      "id": "aa98f081-3622-49bc-863d-2d647712543b",
+      "name": "Isiah",
+      "alias": "IAH",
+      "market": "Team",
+      "fullName": "Team Isiah",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "739e187c-5d96-477d-a2fb-5f40439138fc": {
+      "id": "739e187c-5d96-477d-a2fb-5f40439138fc",
+      "name": "Jalen",
+      "alias": "JAL",
+      "market": "Team",
+      "fullName": "Team Jalen",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "583ece50-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583ece50-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Jazz",
+      "alias": "UTA",
+      "market": "Utah",
+      "fullName": "Utah Jazz",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "583ed0ac-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583ed0ac-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Kings",
+      "alias": "SAC",
+      "market": "Sacramento",
+      "fullName": "Sacramento Kings",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "72f294e0-397d-472e-953c-b37eac9010db": {
+      "id": "72f294e0-397d-472e-953c-b37eac9010db",
+      "name": "Kings",
+      "alias": "SYD",
+      "market": "Sydney",
+      "fullName": "Sydney Kings",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "583ec70e-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583ec70e-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Knicks",
+      "alias": "NYK",
+      "market": "New York",
+      "fullName": "New York Knicks",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "583ecae2-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583ecae2-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Lakers",
+      "alias": "LAL",
+      "market": "Los Angeles",
+      "fullName": "Los Angeles Lakers",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "9a1f6434-9dcb-4613-aa9b-5ff3a2de5eba": {
+      "id": "9a1f6434-9dcb-4613-aa9b-5ff3a2de5eba",
+      "name": "LeBron",
+      "alias": "LBN",
+      "market": "Team",
+      "fullName": "Team LeBron",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "c60455d9-3549-4054-8ea0-ed9dba2607fa": {
+      "id": "c60455d9-3549-4054-8ea0-ed9dba2607fa",
+      "name": "Long-Lions",
+      "alias": "GUA",
+      "market": "Guangzhou",
+      "fullName": "Guangzhou Long-Lions",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "4ceaa336-bbb0-4cf1-9232-339e26ab8921": {
+      "id": "4ceaa336-bbb0-4cf1-9232-339e26ab8921",
+      "name": "M",
+      "alias": "TMM",
+      "market": "Team",
+      "fullName": "Team M",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "583ed157-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583ed157-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Magic",
+      "alias": "ORL",
+      "market": "Orlando",
+      "fullName": "Orlando Magic",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "583ecf50-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583ecf50-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Mavericks",
+      "alias": "DAL",
+      "market": "Dallas",
+      "fullName": "Dallas Mavericks",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "583ec9d6-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583ec9d6-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Nets",
+      "alias": "BKN",
+      "market": "Brooklyn",
+      "fullName": "Brooklyn Nets",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "583ed102-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583ed102-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Nuggets",
+      "alias": "DEN",
+      "market": "Denver",
+      "fullName": "Denver Nuggets",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "8342b4c4-2822-4b8e-8227-8de20add74bf": {
+      "id": "8342b4c4-2822-4b8e-8227-8de20add74bf",
+      "name": "OGs",
+      "alias": "SHQ",
+      "fullName": "undefined OGs",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "583ec7cd-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583ec7cd-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Pacers",
+      "alias": "IND",
+      "market": "Indiana",
+      "fullName": "Indiana Pacers",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "849c6b54-2cdc-4242-b194-7f7edd2ee341": {
+      "id": "849c6b54-2cdc-4242-b194-7f7edd2ee341",
+      "name": "Pau",
+      "alias": "PAU",
+      "market": "Team",
+      "fullName": "Team Pau",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "5a6bb22b-40bf-4626-8342-4cb39dcafa0d": {
+      "id": "5a6bb22b-40bf-4626-8342-4cb39dcafa0d",
+      "name": "Payton",
+      "alias": "PAY",
+      "market": "Team",
+      "fullName": "Team Payton",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "583ecc9a-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583ecc9a-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Pelicans",
+      "alias": "NOP",
+      "market": "New Orleans",
+      "fullName": "New Orleans Pelicans",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "928c5a99-4bcc-4679-97cc-0f960d67dbfe": {
+      "id": "928c5a99-4bcc-4679-97cc-0f960d67dbfe",
+      "name": "Phoenix",
+      "alias": "SEM",
+      "market": "South East Melbourne",
+      "fullName": "South East Melbourne Phoenix",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "583ec928-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583ec928-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Pistons",
+      "alias": "DET",
+      "market": "Detroit",
+      "fullName": "Detroit Pistons",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "1943b687-8f7c-4a85-af80-fabfa15d75d3": {
+      "id": "1943b687-8f7c-4a85-af80-fabfa15d75d3",
+      "name": "Ra'anana",
+      "alias": "MRA",
+      "market": "Maccabi",
+      "fullName": "Maccabi Ra'anana",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "583ecda6-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583ecda6-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Raptors",
+      "alias": "TOR",
+      "market": "Toronto",
+      "fullName": "Toronto Raptors",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "a54e2633-0500-4e1f-9f8c-2d5f55674aee": {
+      "id": "a54e2633-0500-4e1f-9f8c-2d5f55674aee",
+      "name": "Ratiopharm",
+      "alias": "ULM",
+      "market": "Ulm",
+      "fullName": "Ulm Ratiopharm",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "ba3b4d5a-7f5b-400d-b8b3-67cf85ce7df6": {
+      "id": "ba3b4d5a-7f5b-400d-b8b3-67cf85ce7df6",
+      "name": "Rising Stars",
+      "alias": "CAN",
+      "fullName": "undefined Rising Stars",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "583ecb3a-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583ecb3a-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Rockets",
+      "alias": "HOU",
+      "market": "Houston",
+      "fullName": "Houston Rockets",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "6b2d9651-4ff1-4f38-b5c4-5ce46fabc0b8": {
+      "id": "6b2d9651-4ff1-4f38-b5c4-5ce46fabc0b8",
+      "name": "San Lorenzo",
+      "alias": "SLA",
+      "market": "Buenas Aires",
+      "fullName": "Buenas Aires San Lorenzo",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "f129a9c9-c5d5-4701-8115-a921e3b5b2c1": {
+      "id": "f129a9c9-c5d5-4701-8115-a921e3b5b2c1",
+      "name": "Sharks",
+      "alias": "SDS",
+      "market": "Shanghai",
+      "fullName": "Shanghai Sharks",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "583ecd4f-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583ecd4f-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Spurs",
+      "alias": "SAS",
+      "market": "San Antonio",
+      "fullName": "San Antonio Spurs",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "583ecfa8-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583ecfa8-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Suns",
+      "alias": "PHX",
+      "market": "Phoenix",
+      "fullName": "Phoenix Suns",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "01c73901-2094-4458-872a-794829cc1a7b": {
+      "id": "01c73901-2094-4458-872a-794829cc1a7b",
+      "name": "T",
+      "alias": "TMT",
+      "market": "Team",
+      "fullName": "Team T",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "907dc4e5-6957-4d19-b7d4-b1b7003b91e6": {
+      "id": "907dc4e5-6957-4d19-b7d4-b1b7003b91e6",
+      "name": "TBD",
+      "alias": "TBD",
+      "market": "Team",
+      "fullName": "Team TBD",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "ead65d00-f2eb-45fe-90c5-3db78fe1a904": {
+      "id": "ead65d00-f2eb-45fe-90c5-3db78fe1a904",
+      "name": "Taipans",
+      "alias": "CNS",
+      "market": "Cairns",
+      "fullName": "Cairns Taipans",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "2674a061-2cb1-4a0b-b0b6-e237ff267f45": {
+      "id": "2674a061-2cb1-4a0b-b0b6-e237ff267f45",
+      "name": "Tamika",
+      "alias": "TAM",
+      "market": "Team",
+      "fullName": "Team Tamika",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "40c84241-d030-4816-bf9b-80df3514c354": {
+      "id": "40c84241-d030-4816-bf9b-80df3514c354",
+      "name": "Team Durant East",
+      "alias": "DRT",
+      "fullName": "undefined Team Durant East",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "cb51f332-f19a-4941-b0c0-d02d74d9c49f": {
+      "id": "cb51f332-f19a-4941-b0c0-d02d74d9c49f",
+      "name": "Team LeBron East",
+      "alias": "LBN",
+      "fullName": "undefined Team LeBron East",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "1d12f1f2-fb48-4f6a-8424-4a2cccdf1b18": {
+      "id": "1d12f1f2-fb48-4f6a-8424-4a2cccdf1b18",
+      "name": "Team Stephen West",
+      "alias": "STP",
+      "fullName": "undefined Team Stephen West",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "fa69b5b1-3861-47e9-8d6b-366000133ef9": {
+      "id": "fa69b5b1-3861-47e9-8d6b-366000133ef9",
+      "name": "Team USA",
+      "alias": "USA",
+      "fullName": "undefined Team USA",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "0eae5d80-a7a7-4921-9d1a-f8bad67756fd": {
+      "id": "0eae5d80-a7a7-4921-9d1a-f8bad67756fd",
+      "name": "Team World",
+      "alias": "WLD",
+      "fullName": "undefined Team World",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "583ecfff-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Thunder",
+      "alias": "OKC",
+      "market": "Oklahoma City",
+      "fullName": "Oklahoma City Thunder",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "583eca2f-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583eca2f-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Timberwolves",
+      "alias": "MIN",
+      "market": "Minnesota",
+      "fullName": "Minnesota Timberwolves",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "583ed056-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583ed056-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Trail Blazers",
+      "alias": "POR",
+      "market": "Portland",
+      "fullName": "Portland Trail Blazers",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "3bf4047b-ef03-42d4-848e-84bc7307958d": {
+      "id": "3bf4047b-ef03-42d4-848e-84bc7307958d",
+      "name": "United",
+      "alias": "MEL",
+      "market": "Melbourne",
+      "fullName": "Melbourne United",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "583ec825-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583ec825-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Warriors",
+      "alias": "GSW",
+      "market": "Golden State",
+      "fullName": "Golden State Warriors",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "787ff06f-f0cc-484e-8114-04e0cdc444fa": {
+      "id": "787ff06f-f0cc-484e-8114-04e0cdc444fa",
+      "name": "West NBA All Stars",
+      "alias": "WST",
+      "fullName": "undefined West NBA All Stars",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "37d929d8-758f-4db7-bb94-10eb42048fbe": {
+      "id": "37d929d8-758f-4db7-bb94-10eb42048fbe",
+      "name": "Wildcats",
+      "alias": "PER",
+      "market": "Perth",
+      "fullName": "Perth Wildcats",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c": {
+      "id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Wizards",
+      "alias": "WAS",
+      "market": "Washington",
+      "fullName": "Washington Wizards",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "5ecf6864-4141-4093-a2df-d47f357ebbe9": {
+      "id": "5ecf6864-4141-4093-a2df-d47f357ebbe9",
+      "name": "Worthy",
+      "alias": "WOR",
+      "market": "Team",
+      "fullName": "Team Worthy",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    },
+    "0bfdc112-d3ca-48c1-a883-30e49cb8b6ad": {
+      "id": "0bfdc112-d3ca-48c1-a883-30e49cb8b6ad",
+      "name": "Young Stars",
+      "alias": "KEN",
+      "fullName": "undefined Young Stars",
+      "venue": {},
+      "lastUpdated": "2025-07-25T21:49:11.467Z"
+    }
+  },
+  "quickLookup": {
+    "playersByName": {},
+    "playersByTeam": {},
+    "activePlayersToday": []
+  }
+}
