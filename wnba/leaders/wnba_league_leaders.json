@@ -1,0 +1,244 @@
+{
+  "metadata": {
+    "sport": "WNBA",
+    "season": 2025,
+    "seasonType": "REG",
+    "endpoint": "https://api.sportradar.com/wnba/trial/v8/en/seasons/2025/REG/leaders.json",
+    "lastUpdated": "2025-07-26T02:54:25.839Z",
+    "dataSource": "SportRadar API",
+    "totalCategories": 44
+  },
+  "season": {
+    "id": "896588ff-6de9-49a9-a799-bbd7d3922cdc",
+    "year": 2025,
+    "type": "REG"
+  },
+  "categories": [
+    {
+      "name": "minutes",
+      "displayName": "Minutes Per Game",
+      "leaders": []
+    },
+    {
+      "name": "points",
+      "displayName": "Points Per Game",
+      "leaders": []
+    },
+    {
+      "name": "assists",
+      "displayName": "Assists Per Game",
+      "leaders": []
+    },
+    {
+      "name": "turnovers",
+      "displayName": "Turnovers Per Game",
+      "leaders": []
+    },
+    {
+      "name": "steals",
+      "displayName": "Steals Per Game",
+      "leaders": []
+    },
+    {
+      "name": "blocks",
+      "displayName": "Blocks Per Game",
+      "leaders": []
+    },
+    {
+      "name": "blocked_att",
+      "displayName": "Blocked Att",
+      "leaders": []
+    },
+    {
+      "name": "field_goals_made",
+      "displayName": "Field Goals Made Per Game",
+      "leaders": []
+    },
+    {
+      "name": "field_goals_att",
+      "displayName": "Field Goals Attempted Per Game",
+      "leaders": []
+    },
+    {
+      "name": "three_points_made",
+      "displayName": "Three-Pointers Made Per Game",
+      "leaders": []
+    },
+    {
+      "name": "three_points_att",
+      "displayName": "Three-Pointers Attempted Per Game",
+      "leaders": []
+    },
+    {
+      "name": "two_points_made",
+      "displayName": "Two Points Made",
+      "leaders": []
+    },
+    {
+      "name": "two_points_att",
+      "displayName": "Two Points Att",
+      "leaders": []
+    },
+    {
+      "name": "free_throws_made",
+      "displayName": "Free Throws Made Per Game",
+      "leaders": []
+    },
+    {
+      "name": "free_throws_att",
+      "displayName": "Free Throws Attempted Per Game",
+      "leaders": []
+    },
+    {
+      "name": "offensive_rebounds",
+      "displayName": "Offensive Rebounds Per Game",
+      "leaders": []
+    },
+    {
+      "name": "defensive_rebounds",
+      "displayName": "Defensive Rebounds Per Game",
+      "leaders": []
+    },
+    {
+      "name": "rebounds",
+      "displayName": "Rebounds Per Game",
+      "leaders": []
+    },
+    {
+      "name": "personal_fouls",
+      "displayName": "Personal Fouls Per Game",
+      "leaders": []
+    },
+    {
+      "name": "tech_fouls",
+      "displayName": "Tech Fouls",
+      "leaders": []
+    },
+    {
+      "name": "foulouts",
+      "displayName": "Foulouts",
+      "leaders": []
+    },
+    {
+      "name": "field_goals_pct",
+      "displayName": "Field Goal Percentage",
+      "leaders": []
+    },
+    {
+      "name": "two_points_pct",
+      "displayName": "Two Points Pct",
+      "leaders": []
+    },
+    {
+      "name": "three_points_pct",
+      "displayName": "Three-Point Percentage",
+      "leaders": []
+    },
+    {
+      "name": "free_throws_pct",
+      "displayName": "Free Throw Percentage",
+      "leaders": []
+    },
+    {
+      "name": "minutes",
+      "displayName": "Minutes Per Game",
+      "leaders": []
+    },
+    {
+      "name": "points",
+      "displayName": "Points Per Game",
+      "leaders": []
+    },
+    {
+      "name": "off_rebounds",
+      "displayName": "Off Rebounds",
+      "leaders": []
+    },
+    {
+      "name": "def_rebounds",
+      "displayName": "Def Rebounds",
+      "leaders": []
+    },
+    {
+      "name": "rebounds",
+      "displayName": "Rebounds Per Game",
+      "leaders": []
+    },
+    {
+      "name": "assists",
+      "displayName": "Assists Per Game",
+      "leaders": []
+    },
+    {
+      "name": "steals",
+      "displayName": "Steals Per Game",
+      "leaders": []
+    },
+    {
+      "name": "blocks",
+      "displayName": "Blocks Per Game",
+      "leaders": []
+    },
+    {
+      "name": "turnovers",
+      "displayName": "Turnovers Per Game",
+      "leaders": []
+    },
+    {
+      "name": "blocked_att",
+      "displayName": "Blocked Att",
+      "leaders": []
+    },
+    {
+      "name": "personal_fouls",
+      "displayName": "Personal Fouls Per Game",
+      "leaders": []
+    },
+    {
+      "name": "field_goals_made",
+      "displayName": "Field Goals Made Per Game",
+      "leaders": []
+    },
+    {
+      "name": "field_goals_att",
+      "displayName": "Field Goals Attempted Per Game",
+      "leaders": []
+    },
+    {
+      "name": "three_points_made",
+      "displayName": "Three-Pointers Made Per Game",
+      "leaders": []
+    },
+    {
+      "name": "three_points_att",
+      "displayName": "Three-Pointers Attempted Per Game",
+      "leaders": []
+    },
+    {
+      "name": "two_points_made",
+      "displayName": "Two Points Made",
+      "leaders": []
+    },
+    {
+      "name": "two_points_att",
+      "displayName": "Two Points Att",
+      "leaders": []
+    },
+    {
+      "name": "free_throws_made",
+      "displayName": "Free Throws Made Per Game",
+      "leaders": []
+    },
+    {
+      "name": "free_throws_att",
+      "displayName": "Free Throws Attempted Per Game",
+      "leaders": []
+    }
+  ],
+  "topPerformers": {},
+  "summary": {
+    "totalCategories": 44,
+    "totalPlayers": 0,
+    "lastUpdated": "2025-07-26T02:54:25.850Z"
+  }
+}
