@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "generatedAt": "2025-07-26T18:16:50.369Z",
+    "date": "2025-07-26",
+    "version": "1.0",
+    "totalPlayers": 0,
+    "activePlayers": 0,
+    "gamesScheduled": 0,
+    "dataOptimizedFor": "Chrome Extension - PrizePicks Analysis"
+  },
+  "lookup": {
+    "byName": {},
+    "byTeam": {},
+    "active": {}
+  },
+  "players": {},
+  "games": [],
+  "defense": {
+    "Boston Celtics": {
+      "rank": 1,
+      "pointsAllowed": 108.2,
+      "reboundsAllowed": 42.1,
+      "assistsAllowed": 24.5
+    },
+    "Miami Heat": {
+      "rank": 2,
+      "pointsAllowed": 109.8,
+      "reboundsAllowed": 42.8,
+      "assistsAllowed": 25.1
+    },
+    "Cleveland Cavaliers": {
+      "rank": 3,
+      "pointsAllowed": 110.5,
+      "reboundsAllowed": 43.2,
+      "assistsAllowed": 25.8
+    },
+    "Orlando Magic": {
+      "rank": 4,
+      "pointsAllowed": 111.1,
+      "reboundsAllowed": 43.9,
+      "assistsAllowed": 26.2
+    },
+    "New York Knicks": {
+      "rank": 5,
+      "pointsAllowed": 111.9,
+      "reboundsAllowed": 44.1,
+      "assistsAllowed": 26.8
+    },
+    "Oklahoma City Thunder": {
+      "rank": 6,
+      "pointsAllowed": 112.3,
+      "reboundsAllowed": 44.5,
+      "assistsAllowed": 27.1
+    },
+    "Minnesota Timberwolves": {
+      "rank": 7,
+      "pointsAllowed": 112.8,
+      "reboundsAllowed": 44.9,
+      "assistsAllowed": 27.5
+    },
+    "Philadelphia 76ers": {
+      "rank": 8,
+      "pointsAllowed": 113.2,
+      "reboundsAllowed": 45.2,
+      "assistsAllowed": 27.9
+    },
+    "Denver Nuggets": {
+      "rank": 9,
+      "pointsAllowed": 113.8,
+      "reboundsAllowed": 45.8,
+      "assistsAllowed": 28.2
+    },
+    "Dallas Mavericks": {
+      "rank": 10,
+      "pointsAllowed": 114.1,
+      "reboundsAllowed": 46.1,
+      "assistsAllowed": 28.6
+    },
+    "Milwaukee Bucks": {
+      "rank": 11,
+      "pointsAllowed": 114.5,
+      "reboundsAllowed": 46.5,
+      "assistsAllowed": 29.1
+    },
+    "Memphis Grizzlies": {
+      "rank": 12,
+      "pointsAllowed": 115.2,
+      "reboundsAllowed": 46.9,
+      "assistsAllowed": 29.5
+    },
+    "Los Angeles Lakers": {
+      "rank": 13,
+      "pointsAllowed": 115.8,
+      "reboundsAllowed": 47.2,
+      "assistsAllowed": 29.8
+    },
+    "Phoenix Suns": {
+      "rank": 14,
+      "pointsAllowed": 116.1,
+      "reboundsAllowed": 47.6,
+      "assistsAllowed": 30.2
+    },
+    "Sacramento Kings": {
+      "rank": 15,
+      "pointsAllowed": 116.5,
+      "reboundsAllowed": 48.1,
+      "assistsAllowed": 30.6
+    },
+    "Golden State Warriors": {
+      "rank": 16,
+      "pointsAllowed": 117.2,
+      "reboundsAllowed": 48.5,
+      "assistsAllowed": 31.1
+    },
+    "Los Angeles Clippers": {
+      "rank": 17,
+      "pointsAllowed": 117.8,
+      "reboundsAllowed": 48.9,
+      "assistsAllowed": 31.5
+    },
+    "Houston Rockets": {
+      "rank": 18,
+      "pointsAllowed": 118.1,
+      "reboundsAllowed": 49.2,
+      "assistsAllowed": 31.8
+    },
+    "New Orleans Pelicans": {
+      "rank": 19,
+      "pointsAllowed": 118.5,
+      "reboundsAllowed": 49.6,
+      "assistsAllowed": 32.2
+    },
+    "Indiana Pacers": {
+      "rank": 20,
+      "pointsAllowed": 119.1,
+      "reboundsAllowed": 50.1,
+      "assistsAllowed": 32.6
+    },
+    "Toronto Raptors": {
+      "rank": 21,
+      "pointsAllowed": 119.8,
+      "reboundsAllowed": 50.5,
+      "assistsAllowed": 33.1
+    },
+    "Utah Jazz": {
+      "rank": 22,
+      "pointsAllowed": 120.2,
+      "reboundsAllowed": 50.9,
+      "assistsAllowed": 33.5
+    },
+    "Chicago Bulls": {
+      "rank": 23,
+      "pointsAllowed": 120.8,
+      "reboundsAllowed": 51.2,
+      "assistsAllowed": 33.9
+    },
+    "Atlanta Hawks": {
+      "rank": 24,
+      "pointsAllowed": 121.5,
+      "reboundsAllowed": 51.8,
+      "assistsAllowed": 34.2
+    },
+    "Brooklyn Nets": {
+      "rank": 25,
+      "pointsAllowed": 122.1,
+      "reboundsAllowed": 52.1,
+      "assistsAllowed": 34.8
+    },
+    "San Antonio Spurs": {
+      "rank": 26,
+      "pointsAllowed": 122.8,
+      "reboundsAllowed": 52.5,
+      "assistsAllowed": 35.1
+    },
+    "Portland Trail Blazers": {
+      "rank": 27,
+      "pointsAllowed": 123.2,
+      "reboundsAllowed": 52.9,
+      "assistsAllowed": 35.5
+    },
+    "Detroit Pistons": {
+      "rank": 28,
+      "pointsAllowed": 124.1,
+      "reboundsAllowed": 53.2,
+      "assistsAllowed": 36.1
+    },
+    "Charlotte Hornets": {
+      "rank": 29,
+      "pointsAllowed": 124.8,
+      "reboundsAllowed": 53.8,
+      "assistsAllowed": 36.5
+    },
+    "Washington Wizards": {
+      "rank": 30,
+      "pointsAllowed": 125.5,
+      "reboundsAllowed": 54.2,
+      "assistsAllowed": 37.1
+    }
+  },
+  "propTypes": {
+    "individual": [
+      "points",
+      "rebounds",
+      "assists",
+      "threePtMade",
+      "steals",
+      "blocks",
+      "defensiveRebounds",
+      "offensiveRebounds",
+      "freeThrowsMade",
+      "fieldGoalAttempted",
+      "threePtAttempted",
+      "turnovers"
+    ],
+    "combinations": [
+      "ptsRebsAsts",
+      "ptsAsts",
+      "rebsAsts",
+      "ptsRebs",
+      "blksStls"
+    ],
+    "combo": [
+      "pointsCombo",
+      "threePtMadeCombo",
+      "assistsCombo",
+      "reboundsCombo"
+    ],
+    "special": [
+      "fantasyScore"
+    ]
+  },
+  "helpers": {
+    "teams": {
+      "LVA": "Las Vegas Aces",
+      "NYL": "New York Liberty",
+      "CON": "Connecticut Sun",
+      "SEA": "Seattle Storm",
+      "MIN": "Minnesota Lynx",
+      "PHX": "Phoenix Mercury",
+      "CHI": "Chicago Sky",
+      "ATL": "Atlanta Dream",
+      "IND": "Indiana Fever",
+      "WAS": "Washington Mystics",
+      "LAS": "Los Angeles Sparks",
+      "DAL": "Dallas Wings"
+    },
+    "propDisplayNames": {
+      "points": "Points",
+      "rebounds": "Rebounds",
+      "assists": "Assists",
+      "threePtMade": "3-PT Made",
+      "steals": "Steals",
+      "blocks": "Blocked Shots",
+      "defensiveRebounds": "Defensive Rebounds",
+      "offensiveRebounds": "Offensive Rebounds",
+      "freeThrowsMade": "Free Throws Made",
+      "fieldGoalAttempted": "FG Attempted",
+      "threePtAttempted": "3-PT Attempted",
+      "turnovers": "Turnovers",
+      "ptsRebsAsts": "Pts+Rebs+Asts",
+      "ptsAsts": "Pts+Asts",
+      "rebsAsts": "Rebs+Asts",
+      "ptsRebs": "Pts+Rebs",
+      "blksStls": "Blks+Stls",
+      "pointsCombo": "Points (Combo)",
+      "threePtMadeCombo": "3-PT Made (Combo)",
+      "assistsCombo": "Assists (Combo)",
+      "reboundsCombo": "Rebounds (Combo)",
+      "fantasyScore": "Fantasy Score"
+    }
+  }
+}
