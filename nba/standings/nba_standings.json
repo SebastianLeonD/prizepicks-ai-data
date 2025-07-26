@@ -1,0 +1,21 @@
+{
+  "lastUpdated": "2025-07-26T18:16:40.710Z",
+  "season": {
+    "year": 2024,
+    "type": "REG"
+  },
+  "conferences": [
+    {
+      "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+      "name": "WESTERN CONFERENCE",
+      "alias": "WESTERN",
+      "teams": []
+    },
+    {
+      "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+      "name": "EASTERN CONFERENCE",
+      "alias": "EASTERN",
+      "teams": []
+    }
+  ]
+}
