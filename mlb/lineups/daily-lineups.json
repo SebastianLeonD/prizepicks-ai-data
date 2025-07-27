@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-27T15:46:24.898Z",
+  "lastUpdated": "2025-07-27T17:45:53.890Z",
   "date": "2025-07-27",
   "totalGames": 15,
   "lineups": {
@@ -427,7 +427,7 @@
           ]
         }
       },
-      "lastUpdated": "2025-07-27T15:46:24.595Z"
+      "lastUpdated": "2025-07-27T17:45:53.583Z"
     },
     "776975": {
       "gameId": 776975,
@@ -777,6 +777,21 @@
               }
             },
             {
+              "playerId": 680742,
+              "fullName": "Jonathan Bowlan",
+              "jerseyNumber": "62",
+              "stats": {
+                "wins": 0,
+                "losses": 0,
+                "era": "0.00",
+                "innings": "0.0",
+                "strikeouts": 0,
+                "walks": 0,
+                "hits": 0,
+                "homeRuns": 0
+              }
+            },
+            {
               "playerId": 640451,
               "fullName": "Hunter Harvey",
               "jerseyNumber": "56",
@@ -795,21 +810,6 @@
               "playerId": 668674,
               "fullName": "Lucas Erceg",
               "jerseyNumber": "60",
-              "stats": {
-                "wins": 0,
-                "losses": 0,
-                "era": "0.00",
-                "innings": "0.0",
-                "strikeouts": 0,
-                "walks": 0,
-                "hits": 0,
-                "homeRuns": 0
-              }
-            },
-            {
-              "playerId": 663460,
-              "fullName": "Kris Bubic",
-              "jerseyNumber": "50",
               "stats": {
                 "wins": 0,
                 "losses": 0,
@@ -1144,7 +1144,7 @@
           ]
         }
       },
-      "lastUpdated": "2025-07-27T15:46:21.732Z"
+      "lastUpdated": "2025-07-27T17:45:50.772Z"
     },
     "776976": {
       "gameId": 776976,
@@ -1861,7 +1861,7 @@
           ]
         }
       },
-      "lastUpdated": "2025-07-27T15:46:22.112Z"
+      "lastUpdated": "2025-07-27T17:45:51.123Z"
     },
     "776977": {
       "gameId": 776977,
@@ -1869,12 +1869,14 @@
       "homeTeam": {
         "id": 108,
         "name": "Los Angeles Angels",
-        "abbreviation": "LAA"
+        "abbreviation": "LAA",
+        "score": 0
       },
       "awayTeam": {
         "id": 136,
         "name": "Seattle Mariners",
-        "abbreviation": "SEA"
+        "abbreviation": "SEA",
+        "score": 0
       },
       "status": "P",
       "venue": {
@@ -1882,12 +1884,316 @@
         "name": "Angel Stadium"
       },
       "lineups": {
-        "home": [],
-        "away": []
+        "home": [
+          {
+            "battingOrder": 1,
+            "playerId": 687263,
+            "fullName": "Zach Neto",
+            "position": "Shortstop",
+            "positionCode": "6",
+            "jerseyNumber": "9",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 2,
+            "playerId": 545361,
+            "fullName": "Mike Trout",
+            "position": "Designated Hitter",
+            "positionCode": "10",
+            "jerseyNumber": "27",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 3,
+            "playerId": 694384,
+            "fullName": "Nolan Schanuel",
+            "position": "First Base",
+            "positionCode": "3",
+            "jerseyNumber": "18",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 4,
+            "playerId": 621493,
+            "fullName": "Taylor Ward",
+            "position": "Outfielder",
+            "positionCode": "7",
+            "jerseyNumber": "3",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 5,
+            "playerId": 666176,
+            "fullName": "Jo Adell",
+            "position": "Outfielder",
+            "positionCode": "8",
+            "jerseyNumber": "7",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 6,
+            "playerId": 518595,
+            "fullName": "Travis d'Arnaud",
+            "position": "Catcher",
+            "positionCode": "2",
+            "jerseyNumber": "25",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 7,
+            "playerId": 650859,
+            "fullName": "Luis Rengifo",
+            "position": "Second Base",
+            "positionCode": "4",
+            "jerseyNumber": "2",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 8,
+            "playerId": 672569,
+            "fullName": "Gustavo Campero",
+            "position": "Outfielder",
+            "positionCode": "9",
+            "jerseyNumber": "51",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 9,
+            "playerId": 621028,
+            "fullName": "Kevin Newman",
+            "position": "Third Base",
+            "positionCode": "5",
+            "jerseyNumber": "10",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          }
+        ],
+        "away": [
+          {
+            "battingOrder": 1,
+            "playerId": 641487,
+            "fullName": "J.P. Crawford",
+            "position": "Shortstop",
+            "positionCode": "6",
+            "jerseyNumber": "3",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 2,
+            "playerId": 677594,
+            "fullName": "Julio Rodríguez",
+            "position": "Outfielder",
+            "positionCode": "8",
+            "jerseyNumber": "44",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 3,
+            "playerId": 663728,
+            "fullName": "Cal Raleigh",
+            "position": "Catcher",
+            "positionCode": "2",
+            "jerseyNumber": "29",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 4,
+            "playerId": 647304,
+            "fullName": "Josh Naylor",
+            "position": "First Base",
+            "positionCode": "3",
+            "jerseyNumber": "12",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 5,
+            "playerId": 668227,
+            "fullName": "Randy Arozarena",
+            "position": "Outfielder",
+            "positionCode": "7",
+            "jerseyNumber": "56",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 6,
+            "playerId": 593871,
+            "fullName": "Jorge Polanco",
+            "position": "Designated Hitter",
+            "positionCode": "10",
+            "jerseyNumber": "7",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 7,
+            "playerId": 686527,
+            "fullName": "Dominic Canzone",
+            "position": "Outfielder",
+            "positionCode": "9",
+            "jerseyNumber": "8",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 8,
+            "playerId": 810938,
+            "fullName": "Ben Williamson",
+            "position": "Third Base",
+            "positionCode": "5",
+            "jerseyNumber": "9",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 9,
+            "playerId": 702284,
+            "fullName": "Cole Young",
+            "position": "Second Base",
+            "positionCode": "4",
+            "jerseyNumber": "2",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          }
+        ]
       },
       "pitchers": {
         "home": {
-          "starter": null,
+          "starter": {
+            "playerId": 543294,
+            "fullName": "Kyle Hendricks",
+            "jerseyNumber": "28",
+            "stats": {
+              "wins": 0,
+              "losses": 0,
+              "era": "0.00",
+              "innings": "0.0",
+              "strikeouts": 0,
+              "walks": 0,
+              "hits": 0,
+              "homeRuns": 0
+            }
+          },
           "bullpen": [
             {
               "playerId": 641401,
@@ -1953,21 +2259,6 @@
               "playerId": 696147,
               "fullName": "Sam Bachman",
               "jerseyNumber": "40",
-              "stats": {
-                "wins": 0,
-                "losses": 0,
-                "era": "0.00",
-                "innings": "0.0",
-                "strikeouts": 0,
-                "walks": 0,
-                "hits": 0,
-                "homeRuns": 0
-              }
-            },
-            {
-              "playerId": 671109,
-              "fullName": "Jake Eder",
-              "jerseyNumber": "39",
               "stats": {
                 "wins": 0,
                 "losses": 0,
@@ -2055,9 +2346,9 @@
               }
             },
             {
-              "playerId": 543294,
-              "fullName": "Kyle Hendricks",
-              "jerseyNumber": "28",
+              "playerId": 542881,
+              "fullName": "Tyler Anderson",
+              "jerseyNumber": "31",
               "stats": {
                 "wins": 0,
                 "losses": 0,
@@ -2070,9 +2361,9 @@
               }
             },
             {
-              "playerId": 542881,
-              "fullName": "Tyler Anderson",
-              "jerseyNumber": "31",
+              "playerId": 650671,
+              "fullName": "José Quijada",
+              "jerseyNumber": "65",
               "stats": {
                 "wins": 0,
                 "losses": 0,
@@ -2108,6 +2399,21 @@
               "playerId": 668984,
               "fullName": "Casey Legumina",
               "jerseyNumber": "64",
+              "stats": {
+                "wins": 0,
+                "losses": 0,
+                "era": "0.00",
+                "innings": "0.0",
+                "strikeouts": 0,
+                "walks": 0,
+                "hits": 0,
+                "homeRuns": 0
+              }
+            },
+            {
+              "playerId": 663804,
+              "fullName": "Jackson Kowar",
+              "jerseyNumber": "37",
               "stats": {
                 "wins": 0,
                 "losses": 0,
@@ -2255,21 +2561,6 @@
               }
             },
             {
-              "playerId": 805299,
-              "fullName": "Brandyn Garcia",
-              "jerseyNumber": "43",
-              "stats": {
-                "wins": 0,
-                "losses": 0,
-                "era": "0.00",
-                "innings": "0.0",
-                "strikeouts": 0,
-                "walks": 0,
-                "hits": 0,
-                "homeRuns": 0
-              }
-            },
-            {
               "playerId": 672841,
               "fullName": "Carlos Vargas",
               "jerseyNumber": "54",
@@ -2287,7 +2578,7 @@
           ]
         }
       },
-      "lastUpdated": "2025-07-27T15:46:24.239Z"
+      "lastUpdated": "2025-07-27T17:45:53.239Z"
     },
     "776978": {
       "gameId": 776978,
@@ -2304,7 +2595,7 @@
         "abbreviation": "MIA",
         "score": 0
       },
-      "status": "P",
+      "status": "L",
       "venue": {
         "id": 32,
         "name": "American Family Field"
@@ -3004,7 +3295,7 @@
           ]
         }
       },
-      "lastUpdated": "2025-07-27T15:46:23.172Z"
+      "lastUpdated": "2025-07-27T17:45:52.183Z"
     },
     "776979": {
       "gameId": 776979,
@@ -3012,14 +3303,16 @@
       "homeTeam": {
         "id": 142,
         "name": "Minnesota Twins",
-        "abbreviation": "MIN"
+        "abbreviation": "MIN",
+        "score": 0
       },
       "awayTeam": {
         "id": 120,
         "name": "Washington Nationals",
-        "abbreviation": "WSH"
+        "abbreviation": "WSH",
+        "score": 0
       },
-      "status": "P",
+      "status": "L",
       "venue": {
         "id": 3312,
         "name": "Target Field"
@@ -3171,11 +3464,170 @@
             }
           }
         ],
-        "away": []
+        "away": [
+          {
+            "battingOrder": 1,
+            "playerId": 682928,
+            "fullName": "CJ Abrams",
+            "position": "Shortstop",
+            "positionCode": "6",
+            "jerseyNumber": "5",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 2,
+            "playerId": 695578,
+            "fullName": "James Wood",
+            "position": "Outfielder",
+            "positionCode": "7",
+            "jerseyNumber": "29",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 3,
+            "playerId": 671277,
+            "fullName": "Luis García Jr.",
+            "position": "Second Base",
+            "positionCode": "4",
+            "jerseyNumber": "2",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 4,
+            "playerId": 605137,
+            "fullName": "Josh Bell",
+            "position": "Designated Hitter",
+            "positionCode": "10",
+            "jerseyNumber": "19",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 5,
+            "playerId": 663993,
+            "fullName": "Nathaniel Lowe",
+            "position": "First Base",
+            "positionCode": "3",
+            "jerseyNumber": "33",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 6,
+            "playerId": 669743,
+            "fullName": "Alex Call",
+            "position": "Outfielder",
+            "positionCode": "8",
+            "jerseyNumber": "17",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 7,
+            "playerId": 695734,
+            "fullName": "Daylen Lile",
+            "position": "Outfielder",
+            "positionCode": "9",
+            "jerseyNumber": "51",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 8,
+            "playerId": 657557,
+            "fullName": "Paul DeJong",
+            "position": "Third Base",
+            "positionCode": "5",
+            "jerseyNumber": "14",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 9,
+            "playerId": 656180,
+            "fullName": "Riley Adams",
+            "position": "Catcher",
+            "positionCode": "2",
+            "jerseyNumber": "15",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          }
+        ]
       },
       "pitchers": {
         "home": {
-          "starter": null,
+          "starter": {
+            "playerId": 663485,
+            "fullName": "Cole Sands",
+            "jerseyNumber": "44",
+            "stats": {
+              "wins": 0,
+              "losses": 0,
+              "era": "0.00",
+              "innings": "0.0",
+              "strikeouts": 0,
+              "walks": 0,
+              "hits": 0,
+              "homeRuns": 0
+            }
+          },
           "bullpen": [
             {
               "playerId": 623437,
@@ -3226,21 +3678,6 @@
               "playerId": 680573,
               "fullName": "Simeon Woods Richardson",
               "jerseyNumber": "24",
-              "stats": {
-                "wins": 0,
-                "losses": 0,
-                "era": "0.00",
-                "innings": "0.0",
-                "strikeouts": 0,
-                "walks": 0,
-                "hits": 0,
-                "homeRuns": 0
-              }
-            },
-            {
-              "playerId": 663485,
-              "fullName": "Cole Sands",
-              "jerseyNumber": "44",
               "stats": {
                 "wins": 0,
                 "losses": 0,
@@ -3575,7 +4012,7 @@
           ]
         }
       },
-      "lastUpdated": "2025-07-27T15:46:22.467Z"
+      "lastUpdated": "2025-07-27T17:45:51.482Z"
     },
     "776980": {
       "gameId": 776980,
@@ -3583,14 +4020,16 @@
       "homeTeam": {
         "id": 138,
         "name": "St. Louis Cardinals",
-        "abbreviation": "STL"
+        "abbreviation": "STL",
+        "score": 0
       },
       "awayTeam": {
         "id": 135,
         "name": "San Diego Padres",
-        "abbreviation": "SD"
+        "abbreviation": "SD",
+        "score": 0
       },
-      "status": "P",
+      "status": "L",
       "venue": {
         "id": 2889,
         "name": "Busch Stadium"
@@ -3742,27 +4181,171 @@
             }
           }
         ],
-        "away": []
+        "away": [
+          {
+            "battingOrder": 1,
+            "playerId": 665487,
+            "fullName": "Fernando Tatis Jr.",
+            "position": "Outfielder",
+            "positionCode": "9",
+            "jerseyNumber": "23",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 2,
+            "playerId": 650333,
+            "fullName": "Luis Arraez",
+            "position": "First Base",
+            "positionCode": "3",
+            "jerseyNumber": "4",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 3,
+            "playerId": 592518,
+            "fullName": "Manny Machado",
+            "position": "Third Base",
+            "positionCode": "5",
+            "jerseyNumber": "13",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 4,
+            "playerId": 701538,
+            "fullName": "Jackson Merrill",
+            "position": "Outfielder",
+            "positionCode": "8",
+            "jerseyNumber": "3",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 5,
+            "playerId": 593428,
+            "fullName": "Xander Bogaerts",
+            "position": "Designated Hitter",
+            "positionCode": "10",
+            "jerseyNumber": "2",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 6,
+            "playerId": 657757,
+            "fullName": "Gavin Sheets",
+            "position": "Outfielder",
+            "positionCode": "7",
+            "jerseyNumber": "30",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 7,
+            "playerId": 630105,
+            "fullName": "Jake Cronenworth",
+            "position": "Second Base",
+            "positionCode": "4",
+            "jerseyNumber": "9",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 8,
+            "playerId": 578428,
+            "fullName": "Jose Iglesias",
+            "position": "Shortstop",
+            "positionCode": "6",
+            "jerseyNumber": "7",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 9,
+            "playerId": 553869,
+            "fullName": "Elias Díaz",
+            "position": "Catcher",
+            "positionCode": "2",
+            "jerseyNumber": "17",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          }
+        ]
       },
       "pitchers": {
         "home": {
-          "starter": null,
+          "starter": {
+            "playerId": 700241,
+            "fullName": "Michael McGreevy",
+            "jerseyNumber": "36",
+            "stats": {
+              "wins": 0,
+              "losses": 0,
+              "era": "0.00",
+              "innings": "0.0",
+              "strikeouts": 0,
+              "walks": 0,
+              "hits": 0,
+              "homeRuns": 0
+            }
+          },
           "bullpen": [
-            {
-              "playerId": 700241,
-              "fullName": "Michael McGreevy",
-              "jerseyNumber": "36",
-              "stats": {
-                "wins": 0,
-                "losses": 0,
-                "era": "0.00",
-                "innings": "0.0",
-                "strikeouts": 0,
-                "walks": 0,
-                "hits": 0,
-                "homeRuns": 0
-              }
-            },
             {
               "playerId": 701552,
               "fullName": "Andre Granillo",
@@ -4146,7 +4729,7 @@
           ]
         }
       },
-      "lastUpdated": "2025-07-27T15:46:23.525Z"
+      "lastUpdated": "2025-07-27T17:45:52.535Z"
     },
     "776981": {
       "gameId": 776981,
@@ -4154,12 +4737,14 @@
       "homeTeam": {
         "id": 140,
         "name": "Texas Rangers",
-        "abbreviation": "TEX"
+        "abbreviation": "TEX",
+        "score": 0
       },
       "awayTeam": {
         "id": 144,
         "name": "Atlanta Braves",
-        "abbreviation": "ATL"
+        "abbreviation": "ATL",
+        "score": 0
       },
       "status": "P",
       "venue": {
@@ -4167,7 +4752,152 @@
         "name": "Globe Life Field"
       },
       "lineups": {
-        "home": [],
+        "home": [
+          {
+            "battingOrder": 1,
+            "playerId": 669701,
+            "fullName": "Josh Smith",
+            "position": "First Base",
+            "positionCode": "3",
+            "jerseyNumber": "8",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 2,
+            "playerId": 608369,
+            "fullName": "Corey Seager",
+            "position": "Shortstop",
+            "positionCode": "6",
+            "jerseyNumber": "5",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 3,
+            "playerId": 543760,
+            "fullName": "Marcus Semien",
+            "position": "Second Base",
+            "positionCode": "4",
+            "jerseyNumber": "2",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 4,
+            "playerId": 666969,
+            "fullName": "Adolis García",
+            "position": "Outfielder",
+            "positionCode": "9",
+            "jerseyNumber": "53",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 5,
+            "playerId": 592626,
+            "fullName": "Joc Pederson",
+            "position": "Designated Hitter",
+            "positionCode": "10",
+            "jerseyNumber": "4",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 6,
+            "playerId": 694671,
+            "fullName": "Wyatt Langford",
+            "position": "Outfielder",
+            "positionCode": "7",
+            "jerseyNumber": "36",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 7,
+            "playerId": 694497,
+            "fullName": "Evan Carter",
+            "position": "Outfielder",
+            "positionCode": "8",
+            "jerseyNumber": "32",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 8,
+            "playerId": 673962,
+            "fullName": "Josh Jung",
+            "position": "Third Base",
+            "positionCode": "5",
+            "jerseyNumber": "6",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 9,
+            "playerId": 641680,
+            "fullName": "Jonah Heim",
+            "position": "Catcher",
+            "positionCode": "2",
+            "jerseyNumber": "28",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          }
+        ],
         "away": [
           {
             "battingOrder": 1,
@@ -4317,7 +5047,21 @@
       },
       "pitchers": {
         "home": {
-          "starter": null,
+          "starter": {
+            "playerId": 683004,
+            "fullName": "Jack Leiter",
+            "jerseyNumber": "35",
+            "stats": {
+              "wins": 0,
+              "losses": 0,
+              "era": "0.00",
+              "innings": "0.0",
+              "strikeouts": 0,
+              "walks": 0,
+              "hits": 0,
+              "homeRuns": 0
+            }
+          },
           "bullpen": [
             {
               "playerId": 542888,
@@ -4353,21 +5097,6 @@
               "playerId": 677958,
               "fullName": "Kumar Rocker",
               "jerseyNumber": "80",
-              "stats": {
-                "wins": 0,
-                "losses": 0,
-                "era": "0.00",
-                "innings": "0.0",
-                "strikeouts": 0,
-                "walks": 0,
-                "hits": 0,
-                "homeRuns": 0
-              }
-            },
-            {
-              "playerId": 683004,
-              "fullName": "Jack Leiter",
-              "jerseyNumber": "35",
               "stats": {
                 "wins": 0,
                 "losses": 0,
@@ -4717,7 +5446,7 @@
           ]
         }
       },
-      "lastUpdated": "2025-07-27T15:46:23.884Z"
+      "lastUpdated": "2025-07-27T17:45:52.887Z"
     },
     "776982": {
       "gameId": 776982,
@@ -4734,7 +5463,7 @@
         "abbreviation": "TB",
         "score": 0
       },
-      "status": "P",
+      "status": "L",
       "venue": {
         "id": 2602,
         "name": "Great American Ball Park"
@@ -4895,8 +5624,8 @@
             "positionCode": "8",
             "jerseyNumber": "14",
             "stats": {
-              "atBats": 0,
-              "hits": 0,
+              "atBats": 1,
+              "hits": 1,
               "runs": 0,
               "rbi": 0,
               "homeRuns": 0,
@@ -4927,7 +5656,7 @@
             "positionCode": "3",
             "jerseyNumber": "62",
             "stats": {
-              "atBats": 0,
+              "atBats": 1,
               "hits": 0,
               "runs": 0,
               "rbi": 0,
@@ -4943,7 +5672,7 @@
             "positionCode": "5",
             "jerseyNumber": "13",
             "stats": {
-              "atBats": 0,
+              "atBats": 1,
               "hits": 0,
               "runs": 0,
               "rbi": 0,
@@ -5035,21 +5764,7 @@
       },
       "pitchers": {
         "home": {
-          "starter": {
-            "playerId": 663903,
-            "fullName": "Brady Singer",
-            "jerseyNumber": "51",
-            "stats": {
-              "wins": 0,
-              "losses": 0,
-              "era": "0.00",
-              "innings": "0.0",
-              "strikeouts": 0,
-              "walks": 0,
-              "hits": 0,
-              "homeRuns": 0
-            }
-          },
+          "starter": null,
           "bullpen": [
             {
               "playerId": 641941,
@@ -5108,6 +5823,21 @@
                 "strikeouts": 0,
                 "walks": 0,
                 "hits": 0,
+                "homeRuns": 0
+              }
+            },
+            {
+              "playerId": 663903,
+              "fullName": "Brady Singer",
+              "jerseyNumber": "51",
+              "stats": {
+                "wins": 0,
+                "losses": 0,
+                "era": "0.00",
+                "innings": "1.0",
+                "strikeouts": 1,
+                "walks": 0,
+                "hits": 1,
                 "homeRuns": 0
               }
             },
@@ -5234,7 +5964,21 @@
           ]
         },
         "away": {
-          "starter": null,
+          "starter": {
+            "playerId": 669358,
+            "fullName": "Shane Baz",
+            "jerseyNumber": "11",
+            "stats": {
+              "wins": 0,
+              "losses": 0,
+              "era": "0.00",
+              "innings": "0.0",
+              "strikeouts": 0,
+              "walks": 0,
+              "hits": 0,
+              "homeRuns": 0
+            }
+          },
           "bullpen": [
             {
               "playerId": 664126,
@@ -5270,21 +6014,6 @@
               "playerId": 669438,
               "fullName": "Mason Englert",
               "jerseyNumber": "59",
-              "stats": {
-                "wins": 0,
-                "losses": 0,
-                "era": "0.00",
-                "innings": "0.0",
-                "strikeouts": 0,
-                "walks": 0,
-                "hits": 0,
-                "homeRuns": 0
-              }
-            },
-            {
-              "playerId": 669358,
-              "fullName": "Shane Baz",
-              "jerseyNumber": "11",
               "stats": {
                 "wins": 0,
                 "losses": 0,
@@ -5434,7 +6163,7 @@
           ]
         }
       },
-      "lastUpdated": "2025-07-27T15:46:21.017Z"
+      "lastUpdated": "2025-07-27T17:45:50.072Z"
     },
     "776983": {
       "gameId": 776983,
@@ -6151,7 +6880,7 @@
           ]
         }
       },
-      "lastUpdated": "2025-07-27T15:46:19.933Z"
+      "lastUpdated": "2025-07-27T17:45:48.991Z"
     },
     "776984": {
       "gameId": 776984,
@@ -6168,7 +6897,7 @@
         "abbreviation": "AZ",
         "score": 0
       },
-      "status": "P",
+      "status": "L",
       "venue": {
         "id": 31,
         "name": "PNC Park"
@@ -6329,7 +7058,7 @@
             "positionCode": "9",
             "jerseyNumber": "7",
             "stats": {
-              "atBats": 0,
+              "atBats": 1,
               "hits": 0,
               "runs": 0,
               "rbi": 0,
@@ -6361,7 +7090,7 @@
             "positionCode": "6",
             "jerseyNumber": "2",
             "stats": {
-              "atBats": 0,
+              "atBats": 1,
               "hits": 0,
               "runs": 0,
               "rbi": 0,
@@ -6477,9 +7206,9 @@
               "wins": 0,
               "losses": 0,
               "era": "0.00",
-              "innings": "0.0",
-              "strikeouts": 0,
-              "walks": 0,
+              "innings": "0.2",
+              "strikeouts": 2,
+              "walks": 1,
               "hits": 0,
               "homeRuns": 0
             }
@@ -6868,7 +7597,7 @@
           ]
         }
       },
-      "lastUpdated": "2025-07-27T15:46:20.296Z"
+      "lastUpdated": "2025-07-27T17:45:49.344Z"
     },
     "776986": {
       "gameId": 776986,
@@ -7585,7 +8314,7 @@
           ]
         }
       },
-      "lastUpdated": "2025-07-27T15:46:19.462Z"
+      "lastUpdated": "2025-07-27T17:45:48.637Z"
     },
     "776987": {
       "gameId": 776987,
@@ -7602,7 +8331,7 @@
         "abbreviation": "TOR",
         "score": 0
       },
-      "status": "P",
+      "status": "L",
       "venue": {
         "id": 2394,
         "name": "Comerica Park"
@@ -7763,7 +8492,7 @@
             "positionCode": "8",
             "jerseyNumber": "38",
             "stats": {
-              "atBats": 0,
+              "atBats": 1,
               "hits": 0,
               "runs": 0,
               "rbi": 0,
@@ -7779,7 +8508,7 @@
             "positionCode": "10",
             "jerseyNumber": "4",
             "stats": {
-              "atBats": 0,
+              "atBats": 1,
               "hits": 0,
               "runs": 0,
               "rbi": 0,
@@ -7795,8 +8524,8 @@
             "positionCode": "3",
             "jerseyNumber": "27",
             "stats": {
-              "atBats": 0,
-              "hits": 0,
+              "atBats": 1,
+              "hits": 1,
               "runs": 0,
               "rbi": 0,
               "homeRuns": 0,
@@ -7911,10 +8640,10 @@
               "wins": 0,
               "losses": 0,
               "era": "0.00",
-              "innings": "0.0",
-              "strikeouts": 0,
+              "innings": "0.2",
+              "strikeouts": 1,
               "walks": 0,
-              "hits": 0,
+              "hits": 1,
               "homeRuns": 0
             }
           },
@@ -8302,7 +9031,7 @@
           ]
         }
       },
-      "lastUpdated": "2025-07-27T15:46:21.376Z"
+      "lastUpdated": "2025-07-27T17:45:50.423Z"
     },
     "776988": {
       "gameId": 776988,
@@ -8319,7 +9048,7 @@
         "abbreviation": "PHI",
         "score": 0
       },
-      "status": "P",
+      "status": "L",
       "venue": {
         "id": 3313,
         "name": "Yankee Stadium"
@@ -9019,7 +9748,7 @@
           ]
         }
       },
-      "lastUpdated": "2025-07-27T15:46:20.657Z"
+      "lastUpdated": "2025-07-27T17:45:49.724Z"
     },
     "776989": {
       "gameId": 776989,
@@ -9027,25 +9756,331 @@
       "homeTeam": {
         "id": 145,
         "name": "Chicago White Sox",
-        "abbreviation": "CWS"
+        "abbreviation": "CWS",
+        "score": 0
       },
       "awayTeam": {
         "id": 112,
         "name": "Chicago Cubs",
-        "abbreviation": "CHC"
+        "abbreviation": "CHC",
+        "score": 0
       },
-      "status": "P",
+      "status": "L",
       "venue": {
         "id": 4,
         "name": "Rate Field"
       },
       "lineups": {
-        "home": [],
-        "away": []
+        "home": [
+          {
+            "battingOrder": 1,
+            "playerId": 643565,
+            "fullName": "Mike Tauchman",
+            "position": "Outfielder",
+            "positionCode": "9",
+            "jerseyNumber": "18",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 2,
+            "playerId": 805367,
+            "fullName": "Chase Meidroth",
+            "position": "Shortstop",
+            "positionCode": "6",
+            "jerseyNumber": "10",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 3,
+            "playerId": 643217,
+            "fullName": "Andrew Benintendi",
+            "position": "Outfielder",
+            "positionCode": "7",
+            "jerseyNumber": "23",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 4,
+            "playerId": 678246,
+            "fullName": "Miguel Vargas",
+            "position": "First Base",
+            "positionCode": "3",
+            "jerseyNumber": "20",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 5,
+            "playerId": 700337,
+            "fullName": "Edgar Quero",
+            "position": "Catcher",
+            "positionCode": "2",
+            "jerseyNumber": "7",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 6,
+            "playerId": 695657,
+            "fullName": "Colson Montgomery",
+            "position": "Third Base",
+            "positionCode": "5",
+            "jerseyNumber": "12",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 7,
+            "playerId": 673357,
+            "fullName": "Luis Robert Jr.",
+            "position": "Designated Hitter",
+            "positionCode": "10",
+            "jerseyNumber": "88",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 8,
+            "playerId": 672820,
+            "fullName": "Lenyn Sosa",
+            "position": "Second Base",
+            "positionCode": "4",
+            "jerseyNumber": "50",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 9,
+            "playerId": 681460,
+            "fullName": "Brooks Baldwin",
+            "position": "Outfielder",
+            "positionCode": "8",
+            "jerseyNumber": "27",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          }
+        ],
+        "away": [
+          {
+            "battingOrder": 1,
+            "playerId": 683737,
+            "fullName": "Michael Busch",
+            "position": "First Base",
+            "positionCode": "3",
+            "jerseyNumber": "29",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 2,
+            "playerId": 663656,
+            "fullName": "Kyle Tucker",
+            "position": "Outfielder",
+            "positionCode": "9",
+            "jerseyNumber": "30",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 3,
+            "playerId": 673548,
+            "fullName": "Seiya Suzuki",
+            "position": "Designated Hitter",
+            "positionCode": "10",
+            "jerseyNumber": "27",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 4,
+            "playerId": 691718,
+            "fullName": "Pete Crow-Armstrong",
+            "position": "Outfielder",
+            "positionCode": "8",
+            "jerseyNumber": "4",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 5,
+            "playerId": 608348,
+            "fullName": "Carson Kelly",
+            "position": "Catcher",
+            "positionCode": "2",
+            "jerseyNumber": "15",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 6,
+            "playerId": 664023,
+            "fullName": "Ian Happ",
+            "position": "Outfielder",
+            "positionCode": "7",
+            "jerseyNumber": "8",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 7,
+            "playerId": 621020,
+            "fullName": "Dansby Swanson",
+            "position": "Shortstop",
+            "positionCode": "6",
+            "jerseyNumber": "7",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 8,
+            "playerId": 663538,
+            "fullName": "Nico Hoerner",
+            "position": "Second Base",
+            "positionCode": "4",
+            "jerseyNumber": "2",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          },
+          {
+            "battingOrder": 9,
+            "playerId": 807713,
+            "fullName": "Matt Shaw",
+            "position": "Third Base",
+            "positionCode": "5",
+            "jerseyNumber": "6",
+            "stats": {
+              "atBats": 0,
+              "hits": 0,
+              "runs": 0,
+              "rbi": 0,
+              "homeRuns": 0,
+              "avg": ".000"
+            }
+          }
+        ]
       },
       "pitchers": {
         "home": {
-          "starter": null,
+          "starter": {
+            "playerId": 691799,
+            "fullName": "Grant Taylor",
+            "jerseyNumber": "31",
+            "stats": {
+              "wins": 0,
+              "losses": 0,
+              "era": "0.00",
+              "innings": "0.0",
+              "strikeouts": 0,
+              "walks": 0,
+              "hits": 0,
+              "homeRuns": 0
+            }
+          },
           "bullpen": [
             {
               "playerId": 621051,
@@ -9111,21 +10146,6 @@
               "playerId": 656186,
               "fullName": "Dan Altavilla",
               "jerseyNumber": "58",
-              "stats": {
-                "wins": 0,
-                "losses": 0,
-                "era": "0.00",
-                "innings": "0.0",
-                "strikeouts": 0,
-                "walks": 0,
-                "hits": 0,
-                "homeRuns": 0
-              }
-            },
-            {
-              "playerId": 691799,
-              "fullName": "Grant Taylor",
-              "jerseyNumber": "31",
               "stats": {
                 "wins": 0,
                 "losses": 0,
@@ -9445,7 +10465,7 @@
           ]
         }
       },
-      "lastUpdated": "2025-07-27T15:46:22.819Z"
+      "lastUpdated": "2025-07-27T17:45:51.833Z"
     }
   }
 }
