@@ -1,0 +1,182 @@
+# MLB Data Update Schedule
+
+## 🔄 **HOURLY UPDATES** (During Active Betting Hours: 10 AM - 11 PM ET)
+
+### Betting & Lines
+- `betting-specific/sharp-money-tracking.json` - Live line movements and sharp money
+- `betting-specific/line-movement-analysis.json` - Real-time market analysis
+- `analytics/daily-betting-alerts.json` - Live betting opportunities
+
+### Game Day Data
+- `lineups/daily-lineups.json` - Lineups posted throughout the day
+- `analytics/todays-ballpark-conditions.json` - Weather conditions and updates
+- `analytics/probable-pitchers.json` - Pitcher confirmations and changes
+
+---
+
+## 📅 **DAILY UPDATES** (Every Morning: 8 AM ET)
+
+### Schedule & Games
+- `schedules/mlb-daily-schedules.json` - Today's games and matchups
+- `lineups/daily-lineup-summary.json` - Daily lineup insights
+- `lineups/batting-order-analysis.json` - Batting order prop analysis
+
+### Injuries & Health
+- `injuries/current-injuries.json` - Latest injury reports
+- `injuries/mlb-injuries.json` - Comprehensive injury database
+
+### Betting Intelligence
+- `betting-specific/betting-insights-summary.json` - Daily betting strategies
+- `betting-specific/prop-correlations.json` - Updated correlation analysis
+- `analytics/daily-trend-alerts.json` - Hot/cold trends
+- `analytics/weather-adjusted-props.json` - Weather impact on props
+
+---
+
+## 📊 **WEEKLY UPDATES** (Every Monday: 6 AM ET)
+
+### Player Performance
+- `players/mlb-player-stats-2025.json` - Weekly stat accumulation
+- `splits/lefty-righty-splits.json` - Pitcher handedness matchups
+- `splits/home-away-splits.json` - Home field advantage analysis
+
+### Team Analytics
+- `analytics/defensive-rankings.json` - Team defensive rankings
+- `analytics/team-defensive-stats.json` - Defensive performance vs props
+- `analytics/defensive-prop-recommendations.json` - Weekly defensive insights
+- `analytics/form-trends-analysis.json` - Team form and momentum
+
+### Advanced Metrics
+- `advanced-metrics/statcast-data.json` - Exit velocity, launch angle data
+- `advanced-metrics/sabermetrics.json` - wOBA, wRC+, advanced stats
+- `advanced-metrics/defensive-metrics.json` - DRS, UZR estimates
+
+### Prospects
+- `prospects/call-up-candidates.json` - Potential call-ups and impacts
+
+---
+
+## 🗓️ **MONTHLY UPDATES** (1st of each month: 5 AM ET)
+
+### Database Refreshes
+- `players/mlb-players-2025.json` - Complete player database
+- `teams/mlb-teams-2025.json` - Team information and rosters
+- `prospects/mlb-prospects-2025.json` - Full prospect database
+- `prospects/top-prospects-rankings.json` - Monthly prospect rankings
+
+### Comprehensive Analysis
+- `standings/mlb-standings-2025.json` - Monthly standings snapshot
+- `splits/monthly-splits.json` - Month-by-month performance trends
+- `splits/splits-analysis-summary.json` - Comprehensive splits analysis
+- `advanced-metrics/advanced-metrics-summary.json` - Monthly metrics summary
+
+### Ballpark & Venue Data
+- `venues/mlb-ballparks-2025.json` - Ballpark information updates
+- `venues/ballpark-hitting-factors.json` - Monthly park factor recalculation
+- `venues/ballpark-pitching-factors.json` - Pitching park factors
+- `analytics/ballpark-guide.json` - Monthly ballpark betting guide
+
+### Administrative
+- `officials/mlb-officials.json` - Umpire assignments and tendencies
+
+---
+
+## 🔒 **SEASONAL/RARELY UPDATED**
+
+### Static Reference Data
+- `teams/mlb-team-abbreviations.json` - Team abbreviations (only changes with expansion/relocation)
+
+---
+
+## ⚡ **AUTOMATION COMMANDS**
+
+### Hourly (Cron: `0 * * * *`)
+```bash
+# Run during betting hours only (10 AM - 11 PM ET)
+node sync-mlb-betting-specific.js
+node sync-mlb-lineups.js  # For lineup changes
+```
+
+### Daily (Cron: `0 8 * * *`)
+```bash
+node sync-mlb-lineups.js
+node sync-mlb-injuries.js
+node sync-mlb-schedules.js
+node sync-mlb-betting-specific.js
+```
+
+### Weekly (Cron: `0 6 * * 1`)
+```bash
+node sync-mlb-players.js
+node sync-mlb-splits.js
+node sync-mlb-advanced-metrics.js
+node sync-mlb-prospects.js
+node sync-mlb-defensive-rankings.js
+```
+
+### Monthly (Cron: `0 5 1 * *`)
+```bash
+node sync-mlb-venues.js
+node sync-mlb-teams.js
+node sync-mlb-standings.js
+node sync-mlb-prospects.js
+```
+
+---
+
+## 🎯 **UPDATE PRIORITY LEVELS**
+
+### CRITICAL (Betting Impact: HIGH)
+- Sharp money tracking
+- Daily lineups  
+- Injury reports
+- Line movements
+
+### IMPORTANT (Betting Impact: MEDIUM)
+- Player stats
+- Defensive rankings
+- Weather conditions
+- Form trends
+
+### MAINTENANCE (Betting Impact: LOW)
+- Prospect updates
+- Ballpark factors
+- Team rosters
+- Officials data
+
+---
+
+## 📱 **MONITORING & ALERTS**
+
+### Failed Update Alerts
+- Slack/Discord webhook for failed API calls
+- Email alerts for missing daily updates
+- GitHub Actions status monitoring
+
+### Data Quality Checks
+- Validate JSON structure after each update
+- Check for missing games in daily schedules
+- Verify player stat accumulation
+- Monitor API rate limits
+
+---
+
+## 🚀 **QUICK START AUTOMATION**
+
+```bash
+# Set up cron jobs for automated updates
+crontab -e
+
+# Add these lines:
+# Hourly (betting hours): Sharp money & lineups
+0 10-23 * * * cd /path/to/scripts && node sync-mlb-betting-specific.js
+
+# Daily: Core betting data  
+0 8 * * * cd /path/to/scripts && node sync-mlb-lineups.js && node sync-mlb-injuries.js
+
+# Weekly: Statistical analysis
+0 6 * * 1 cd /path/to/scripts && node sync-mlb-splits.js && node sync-mlb-advanced-metrics.js
+
+# Monthly: Database refreshes
+0 5 1 * * cd /path/to/scripts && node sync-mlb-venues.js && node sync-mlb-teams.js
+```
