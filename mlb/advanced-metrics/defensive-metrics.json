@@ -1,0 +1,443 @@
+{
+  "lastUpdated": "2025-07-27T16:48:50.164Z",
+  "season": "2025",
+  "description": "Advanced defensive metrics (DRS, UZR estimates)",
+  "teamDefense": {
+    "133": {
+      "teamId": 133,
+      "teamName": "Athletics",
+      "abbreviation": "ATH",
+      "defensiveStats": {
+        "fieldingPercentage": ".985",
+        "errors": 84,
+        "assists": 1360,
+        "putouts": 0,
+        "doublePlays": 142,
+        "passedBalls": 0,
+        "stolenBaseAllowed": 114,
+        "caughtStealing": 37
+      },
+      "estimatedAdvancedMetrics": {
+        "defenseEfficiency": "94.2",
+        "rangeRating": "Average Range",
+        "errorRate": "5.82",
+        "dpRate": "0.88",
+        "csRate": "24.5"
+      },
+      "propBettingImpact": {
+        "errorProne": false,
+        "strongThrowingArm": false,
+        "doublePlayStrength": true,
+        "baseStealingDefense": "Average Arm"
+      },
+      "lastUpdated": "2025-07-27T16:48:50.284Z"
+    },
+    "134": {
+      "teamId": 134,
+      "teamName": "Pittsburgh Pirates",
+      "abbreviation": "PIT",
+      "defensiveStats": {
+        "fieldingPercentage": ".984",
+        "errors": 91,
+        "assists": 1369,
+        "putouts": 0,
+        "doublePlays": 139,
+        "passedBalls": 0,
+        "stolenBaseAllowed": 154,
+        "caughtStealing": 27
+      },
+      "estimatedAdvancedMetrics": {
+        "defenseEfficiency": "93.8",
+        "rangeRating": "Average Range",
+        "errorRate": "6.23",
+        "dpRate": "0.86",
+        "csRate": "14.9"
+      },
+      "propBettingImpact": {
+        "errorProne": false,
+        "strongThrowingArm": false,
+        "doublePlayStrength": true,
+        "baseStealingDefense": "Weak Arm"
+      },
+      "lastUpdated": "2025-07-27T16:48:50.798Z"
+    },
+    "135": {
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "abbreviation": "SD",
+      "defensiveStats": {
+        "fieldingPercentage": ".987",
+        "errors": 75,
+        "assists": 1297,
+        "putouts": 0,
+        "doublePlays": 116,
+        "passedBalls": 0,
+        "stolenBaseAllowed": 101,
+        "caughtStealing": 23
+      },
+      "estimatedAdvancedMetrics": {
+        "defenseEfficiency": "94.5",
+        "rangeRating": "Average Range",
+        "errorRate": "5.47",
+        "dpRate": "0.72",
+        "csRate": "18.5"
+      },
+      "propBettingImpact": {
+        "errorProne": false,
+        "strongThrowingArm": false,
+        "doublePlayStrength": false,
+        "baseStealingDefense": "Weak Arm"
+      },
+      "lastUpdated": "2025-07-27T16:48:51.295Z"
+    },
+    "136": {
+      "teamId": 136,
+      "teamName": "Seattle Mariners",
+      "abbreviation": "SEA",
+      "defensiveStats": {
+        "fieldingPercentage": ".986",
+        "errors": 79,
+        "assists": 1293,
+        "putouts": 0,
+        "doublePlays": 95,
+        "passedBalls": 0,
+        "stolenBaseAllowed": 116,
+        "caughtStealing": 40
+      },
+      "estimatedAdvancedMetrics": {
+        "defenseEfficiency": "94.2",
+        "rangeRating": "Limited Range",
+        "errorRate": "5.76",
+        "dpRate": "0.59",
+        "csRate": "25.6"
+      },
+      "propBettingImpact": {
+        "errorProne": false,
+        "strongThrowingArm": false,
+        "doublePlayStrength": false,
+        "baseStealingDefense": "Average Arm"
+      },
+      "lastUpdated": "2025-07-27T16:48:51.802Z"
+    },
+    "137": {
+      "teamId": 137,
+      "teamName": "San Francisco Giants",
+      "abbreviation": "SF",
+      "defensiveStats": {
+        "fieldingPercentage": ".985",
+        "errors": 87,
+        "assists": 1558,
+        "putouts": 0,
+        "doublePlays": 135,
+        "passedBalls": 0,
+        "stolenBaseAllowed": 146,
+        "caughtStealing": 37
+      },
+      "estimatedAdvancedMetrics": {
+        "defenseEfficiency": "94.7",
+        "rangeRating": "Average Range",
+        "errorRate": "5.29",
+        "dpRate": "0.83",
+        "csRate": "20.2"
+      },
+      "propBettingImpact": {
+        "errorProne": false,
+        "strongThrowingArm": false,
+        "doublePlayStrength": true,
+        "baseStealingDefense": "Weak Arm"
+      },
+      "lastUpdated": "2025-07-27T16:48:52.330Z"
+    },
+    "138": {
+      "teamId": 138,
+      "teamName": "St. Louis Cardinals",
+      "abbreviation": "STL",
+      "defensiveStats": {
+        "fieldingPercentage": ".987",
+        "errors": 75,
+        "assists": 1525,
+        "putouts": 0,
+        "doublePlays": 155,
+        "passedBalls": 0,
+        "stolenBaseAllowed": 153,
+        "caughtStealing": 29
+      },
+      "estimatedAdvancedMetrics": {
+        "defenseEfficiency": "95.3",
+        "rangeRating": "Average Range",
+        "errorRate": "4.69",
+        "dpRate": "0.96",
+        "csRate": "15.9"
+      },
+      "propBettingImpact": {
+        "errorProne": false,
+        "strongThrowingArm": false,
+        "doublePlayStrength": true,
+        "baseStealingDefense": "Weak Arm"
+      },
+      "lastUpdated": "2025-07-27T16:48:52.846Z"
+    },
+    "139": {
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "abbreviation": "TB",
+      "defensiveStats": {
+        "fieldingPercentage": ".984",
+        "errors": 90,
+        "assists": 1265,
+        "putouts": 0,
+        "doublePlays": 108,
+        "passedBalls": 0,
+        "stolenBaseAllowed": 119,
+        "caughtStealing": 28
+      },
+      "estimatedAdvancedMetrics": {
+        "defenseEfficiency": "93.4",
+        "rangeRating": "Limited Range",
+        "errorRate": "6.64",
+        "dpRate": "0.67",
+        "csRate": "19.0"
+      },
+      "propBettingImpact": {
+        "errorProne": false,
+        "strongThrowingArm": false,
+        "doublePlayStrength": false,
+        "baseStealingDefense": "Weak Arm"
+      },
+      "lastUpdated": "2025-07-27T16:48:53.365Z"
+    },
+    "140": {
+      "teamId": 140,
+      "teamName": "Texas Rangers",
+      "abbreviation": "TEX",
+      "defensiveStats": {
+        "fieldingPercentage": ".987",
+        "errors": 73,
+        "assists": 1366,
+        "putouts": 0,
+        "doublePlays": 106,
+        "passedBalls": 0,
+        "stolenBaseAllowed": 140,
+        "caughtStealing": 20
+      },
+      "estimatedAdvancedMetrics": {
+        "defenseEfficiency": "94.9",
+        "rangeRating": "Average Range",
+        "errorRate": "5.07",
+        "dpRate": "0.65",
+        "csRate": "12.5"
+      },
+      "propBettingImpact": {
+        "errorProne": false,
+        "strongThrowingArm": false,
+        "doublePlayStrength": false,
+        "baseStealingDefense": "Weak Arm"
+      },
+      "lastUpdated": "2025-07-27T16:48:53.883Z"
+    },
+    "141": {
+      "teamId": 141,
+      "teamName": "Toronto Blue Jays",
+      "abbreviation": "TOR",
+      "defensiveStats": {
+        "fieldingPercentage": ".984",
+        "errors": 92,
+        "assists": 1355,
+        "putouts": 0,
+        "doublePlays": 125,
+        "passedBalls": 0,
+        "stolenBaseAllowed": 119,
+        "caughtStealing": 37
+      },
+      "estimatedAdvancedMetrics": {
+        "defenseEfficiency": "93.6",
+        "rangeRating": "Average Range",
+        "errorRate": "6.36",
+        "dpRate": "0.77",
+        "csRate": "23.7"
+      },
+      "propBettingImpact": {
+        "errorProne": false,
+        "strongThrowingArm": false,
+        "doublePlayStrength": true,
+        "baseStealingDefense": "Average Arm"
+      },
+      "lastUpdated": "2025-07-27T16:48:54.401Z"
+    },
+    "142": {
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
+      "abbreviation": "MIN",
+      "defensiveStats": {
+        "fieldingPercentage": ".988",
+        "errors": 70,
+        "assists": 1230,
+        "putouts": 0,
+        "doublePlays": 75,
+        "passedBalls": 0,
+        "stolenBaseAllowed": 112,
+        "caughtStealing": 22
+      },
+      "estimatedAdvancedMetrics": {
+        "defenseEfficiency": "94.6",
+        "rangeRating": "Limited Range",
+        "errorRate": "5.38",
+        "dpRate": "0.46",
+        "csRate": "16.4"
+      },
+      "propBettingImpact": {
+        "errorProne": false,
+        "strongThrowingArm": false,
+        "doublePlayStrength": false,
+        "baseStealingDefense": "Weak Arm"
+      },
+      "lastUpdated": "2025-07-27T16:48:54.981Z"
+    },
+    "143": {
+      "teamId": 143,
+      "teamName": "Philadelphia Phillies",
+      "abbreviation": "PHI",
+      "defensiveStats": {
+        "fieldingPercentage": ".986",
+        "errors": 85,
+        "assists": 1467,
+        "putouts": 0,
+        "doublePlays": 120,
+        "passedBalls": 0,
+        "stolenBaseAllowed": 110,
+        "caughtStealing": 31
+      },
+      "estimatedAdvancedMetrics": {
+        "defenseEfficiency": "94.5",
+        "rangeRating": "Average Range",
+        "errorRate": "5.48",
+        "dpRate": "0.74",
+        "csRate": "22.0"
+      },
+      "propBettingImpact": {
+        "errorProne": false,
+        "strongThrowingArm": false,
+        "doublePlayStrength": false,
+        "baseStealingDefense": "Weak Arm"
+      },
+      "lastUpdated": "2025-07-27T16:48:55.479Z"
+    },
+    "144": {
+      "teamId": 144,
+      "teamName": "Atlanta Braves",
+      "abbreviation": "ATL",
+      "defensiveStats": {
+        "fieldingPercentage": ".988",
+        "errors": 68,
+        "assists": 1436,
+        "putouts": 0,
+        "doublePlays": 131,
+        "passedBalls": 0,
+        "stolenBaseAllowed": 129,
+        "caughtStealing": 33
+      },
+      "estimatedAdvancedMetrics": {
+        "defenseEfficiency": "95.5",
+        "rangeRating": "Average Range",
+        "errorRate": "4.52",
+        "dpRate": "0.81",
+        "csRate": "20.4"
+      },
+      "propBettingImpact": {
+        "errorProne": false,
+        "strongThrowingArm": false,
+        "doublePlayStrength": true,
+        "baseStealingDefense": "Weak Arm"
+      },
+      "lastUpdated": "2025-07-27T16:48:55.988Z"
+    },
+    "145": {
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "abbreviation": "CWS",
+      "defensiveStats": {
+        "fieldingPercentage": ".984",
+        "errors": 90,
+        "assists": 1276,
+        "putouts": 0,
+        "doublePlays": 115,
+        "passedBalls": 0,
+        "stolenBaseAllowed": 139,
+        "caughtStealing": 37
+      },
+      "estimatedAdvancedMetrics": {
+        "defenseEfficiency": "93.4",
+        "rangeRating": "Limited Range",
+        "errorRate": "6.59",
+        "dpRate": "0.71",
+        "csRate": "21.0"
+      },
+      "propBettingImpact": {
+        "errorProne": false,
+        "strongThrowingArm": false,
+        "doublePlayStrength": false,
+        "baseStealingDefense": "Weak Arm"
+      },
+      "lastUpdated": "2025-07-27T16:48:56.503Z"
+    },
+    "146": {
+      "teamId": 146,
+      "teamName": "Miami Marlins",
+      "abbreviation": "MIA",
+      "defensiveStats": {
+        "fieldingPercentage": ".980",
+        "errors": 117,
+        "assists": 1432,
+        "putouts": 0,
+        "doublePlays": 123,
+        "passedBalls": 0,
+        "stolenBaseAllowed": 139,
+        "caughtStealing": 45
+      },
+      "estimatedAdvancedMetrics": {
+        "defenseEfficiency": "92.4",
+        "rangeRating": "Average Range",
+        "errorRate": "7.55",
+        "dpRate": "0.76",
+        "csRate": "24.5"
+      },
+      "propBettingImpact": {
+        "errorProne": true,
+        "strongThrowingArm": false,
+        "doublePlayStrength": true,
+        "baseStealingDefense": "Average Arm"
+      },
+      "lastUpdated": "2025-07-27T16:48:57.006Z"
+    },
+    "147": {
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "abbreviation": "NYY",
+      "defensiveStats": {
+        "fieldingPercentage": ".984",
+        "errors": 93,
+        "assists": 1320,
+        "putouts": 0,
+        "doublePlays": 112,
+        "passedBalls": 0,
+        "stolenBaseAllowed": 122,
+        "caughtStealing": 36
+      },
+      "estimatedAdvancedMetrics": {
+        "defenseEfficiency": "93.4",
+        "rangeRating": "Average Range",
+        "errorRate": "6.58",
+        "dpRate": "0.69",
+        "csRate": "22.8"
+      },
+      "propBettingImpact": {
+        "errorProne": false,
+        "strongThrowingArm": false,
+        "doublePlayStrength": false,
+        "baseStealingDefense": "Weak Arm"
+      },
+      "lastUpdated": "2025-07-27T16:48:57.506Z"
+    }
+  },
+  "positionMetrics": {}
+}
