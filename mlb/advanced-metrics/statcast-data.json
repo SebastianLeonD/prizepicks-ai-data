@@ -1,0 +1,37 @@
+{
+  "lastUpdated": "2025-07-27T16:48:39.686Z",
+  "season": "2025",
+  "description": "MLB Statcast leaders for advanced hitting metrics",
+  "metrics": {
+    "exitVelocity": {
+      "metricName": "exitVelocity",
+      "description": "Average exit velocity off the bat (mph)",
+      "leaders": []
+    },
+    "launchAngle": {
+      "metricName": "launchAngle",
+      "description": "Average launch angle of batted balls (degrees)",
+      "leaders": []
+    },
+    "distance": {
+      "metricName": "distance",
+      "description": "Average distance of home runs (feet)",
+      "leaders": []
+    },
+    "hardHitRate": {
+      "metricName": "hardHitRate",
+      "description": "Percentage of balls hit 95+ mph",
+      "leaders": []
+    },
+    "barrelRate": {
+      "metricName": "barrelRate",
+      "description": "Percentage of batted balls that are \"barreled\"",
+      "leaders": []
+    },
+    "sweetSpotRate": {
+      "metricName": "sweetSpotRate",
+      "description": "Percentage of balls hit between 8-32 degree launch angle",
+      "leaders": []
+    }
+  }
+}
