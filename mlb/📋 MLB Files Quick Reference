@@ -1,0 +1,170 @@
+# 📋 MLB Files Quick Reference
+
+## 🕐 **UPDATE FREQUENCY SUMMARY**
+
+| File Path | Update Frequency | Betting Priority | Size Est. |
+|-----------|------------------|------------------|-----------|
+| **HOURLY (5 files)** |
+| `betting-specific/sharp-money-tracking.json` | Hourly | 🔴 Critical | ~50KB |
+| `betting-specific/line-movement-analysis.json` | Hourly | 🔴 Critical | ~75KB |
+| `lineups/daily-lineups.json` | Hourly | 🔴 Critical | ~25KB |
+| `analytics/daily-betting-alerts.json` | Hourly | 🔴 Critical | ~15KB |
+| `analytics/todays-ballpark-conditions.json` | Hourly | 🟡 High | ~10KB |
+| **DAILY (10 files)** |
+| `schedules/mlb-daily-schedules.json` | Daily | 🔴 Critical | ~20KB |
+| `lineups/daily-lineup-summary.json` | Daily | 🔴 Critical | ~15KB |
+| `lineups/batting-order-analysis.json` | Daily | 🟡 High | ~40KB |
+| `injuries/current-injuries.json` | Daily | 🔴 Critical | ~30KB |
+| `injuries/mlb-injuries.json` | Daily | 🟡 High | ~100KB |
+| `analytics/probable-pitchers.json` | Daily | 🔴 Critical | ~20KB |
+| `analytics/daily-trend-alerts.json` | Daily | 🟡 High | ~25KB |
+| `betting-specific/betting-insights-summary.json` | Daily | 🔴 Critical | ~35KB |
+| `betting-specific/prop-correlations.json` | Daily | 🟡 High | ~60KB |
+| `analytics/weather-adjusted-props.json` | Daily | 🟡 High | ~30KB |
+| **WEEKLY (12 files)** |
+| `players/mlb-player-stats-2025.json` | Weekly | 🟡 High | ~500KB |
+| `analytics/defensive-rankings.json` | Weekly | 🟡 High | ~80KB |
+| `analytics/team-defensive-stats.json` | Weekly | 🟡 High | ~100KB |
+| `analytics/defensive-prop-recommendations.json` | Weekly | 🟡 High | ~45KB |
+| `analytics/form-trends-analysis.json` | Weekly | 🟡 High | ~70KB |
+| `prospects/call-up-candidates.json` | Weekly | 🟠 Medium | ~40KB |
+| `splits/lefty-righty-splits.json` | Weekly | 🔴 Critical | ~200KB |
+| `splits/home-away-splits.json` | Weekly | 🟡 High | ~80KB |
+| `advanced-metrics/statcast-data.json` | Weekly | 🟡 High | ~150KB |
+| `advanced-metrics/sabermetrics.json` | Weekly | 🟠 Medium | ~120KB |
+| `advanced-metrics/defensive-metrics.json` | Weekly | 🟠 Medium | ~90KB |
+| `advanced-metrics/advanced-metrics-summary.json` | Weekly | 🟡 High | ~50KB |
+| **MONTHLY (15 files)** |
+| `standings/mlb-standings-2025.json` | Monthly | 🟠 Medium | ~25KB |
+| `players/mlb-players-2025.json` | Monthly | 🟠 Medium | ~800KB |
+| `teams/mlb-teams-2025.json` | Monthly | 🟠 Medium | ~100KB |
+| `prospects/mlb-prospects-2025.json` | Monthly | 🟠 Medium | ~300KB |
+| `prospects/top-prospects-rankings.json` | Monthly | 🟠 Medium | ~80KB |
+| `venues/mlb-ballparks-2025.json` | Monthly | 🟡 High | ~120KB |
+| `venues/ballpark-hitting-factors.json` | Monthly | 🔴 Critical | ~90KB |
+| `venues/ballpark-pitching-factors.json` | Monthly | 🟡 High | ~90KB |
+| `splits/monthly-splits.json` | Monthly | 🟠 Medium | ~100KB |
+| `splits/splits-analysis-summary.json` | Monthly | 🟡 High | ~60KB |
+| `analytics/ballpark-guide.json` | Monthly | 🟡 High | ~80KB |
+| `officials/mlb-officials.json` | Monthly | 🟠 Medium | ~40KB |
+| **SEASONAL (1 file)** |
+| `teams/mlb-team-abbreviations.json` | Seasonal | 🟢 Low | ~5KB |
+
+---
+
+## 🎯 **BETTING PRIORITY LEGEND**
+
+- 🔴 **Critical**: Directly impacts prop betting decisions
+- 🟡 **High**: Important for analysis and edge identification  
+- 🟠 **Medium**: Useful for context and deeper research
+- 🟢 **Low**: Reference data, rarely changes
+
+---
+
+## 📊 **TOTAL STORAGE & BANDWIDTH**
+
+| Update Frequency | File Count | Total Size | Daily Bandwidth |
+|------------------|------------|------------|-----------------|
+| Hourly | 5 files | ~175KB | ~4.2MB/day |
+| Daily | 10 files | ~375KB | ~375KB/day |
+| Weekly | 12 files | ~1.4MB | ~200KB/day |
+| Monthly | 15 files | ~1.9MB | ~63KB/day |
+| **TOTAL** | **42 files** | **~3.8MB** | **~4.8MB/day** |
+
+---
+
+## 🚀 **AUTOMATION COMMANDS BY PRIORITY**
+
+### Critical Files (Must Run)
+```bash
+# These files are essential for daily betting
+node sync-mlb-lineups.js          # Lineups
+node sync-mlb-betting-specific.js # Lines & sharp money  
+node sync-mlb-schedules.js        # Games
+node sync-mlb-injuries.js         # Health reports
+```
+
+### High Priority Files (Should Run)
+```bash
+# Important for edge identification
+node sync-mlb-splits.js           # Performance splits
+node sync-mlb-venues.js           # Ballpark factors
+node sync-mlb-defensive-rankings.js # Team defense
+```
+
+### Medium Priority Files (Nice to Have)  
+```bash
+# Useful for research and context
+node sync-mlb-advanced-metrics.js # Statcast & sabermetrics
+node sync-mlb-prospects.js        # Prospects & call-ups
+node sync-mlb-teams.js           # Team rosters
+```
+
+---
+
+## 📱 **MONITORING CHECKLIST**
+
+### Daily Checks (8 AM ET)
+- [ ] Lineups posted for today's games
+- [ ] Injury reports updated  
+- [ ] Sharp money tracking active
+- [ ] Weather conditions current
+
+### Weekly Checks (Monday 6 AM ET)
+- [ ] Player stats accumulated
+- [ ] Defensive rankings updated
+- [ ] Splits analysis refreshed
+- [ ] Advanced metrics calculated
+
+### Monthly Checks (1st of month)
+- [ ] Player database refreshed
+- [ ] Ballpark factors recalculated  
+- [ ] Prospect rankings updated
+- [ ] Team rosters current
+
+---
+
+## ⚠️ **FAILURE RECOVERY**
+
+### Critical File Failures
+```bash
+# If critical files fail, run emergency updates
+./emergency-update.sh critical
+```
+
+### Partial Update Recovery
+```bash
+# Resume from last successful file
+./resume-update.sh [last-successful-file]
+```
+
+### Data Validation
+```bash
+# Verify JSON structure and completeness
+./validate-data.sh mlb/
+```
+
+---
+
+## 📈 **PERFORMANCE OPTIMIZATION**
+
+### API Rate Limiting
+- SportRadar: 1000 calls/month (30/day budget)
+- MLB Stats: Unlimited (be respectful)
+- The Odds: 500 calls/month (15/day budget)
+
+### Optimal Update Times
+- **Hourly**: During betting hours (10 AM - 11 PM ET)
+- **Daily**: Early morning (8 AM ET) before lineups finalized
+- **Weekly**: Monday morning (6 AM ET) after weekend games
+- **Monthly**: 1st of month (5 AM ET) during low activity
+
+### Bandwidth Management
+- Compress large files (players, prospects)
+- Cache unchanged data locally
+- Use diff updates for incremental changes
+- Parallel processing for independent files
+
+---
+
+*Quick Reference Updated: July 27, 2025*
