@@ -1,0 +1,1236 @@
+{
+  "date": "2025-07-27",
+  "lastUpdated": "2025-07-27T05:18:31.522Z",
+  "totalGames": 15,
+  "gameConditions": [
+    {
+      "game": {
+        "gameId": 776986,
+        "gameDate": "2025-07-27T17:35:00Z",
+        "gameTime": "2025-07-27T17:35:00Z",
+        "status": "Scheduled",
+        "teams": {
+          "away": {
+            "id": 115,
+            "name": "Colorado Rockies"
+          },
+          "home": {
+            "id": 110,
+            "name": "Baltimore Orioles"
+          }
+        },
+        "venue": {
+          "id": 2,
+          "name": "Oriole Park at Camden Yards",
+          "coordinates": {
+            "lat": null,
+            "lon": null
+          }
+        }
+      },
+      "weather": {
+        "gameId": 776986,
+        "venue": "Oriole Park at Camden Yards",
+        "coordinates": {
+          "lat": null,
+          "lon": null
+        },
+        "current": {
+          "temperature": 86,
+          "humidity": 66,
+          "windSpeed": 6,
+          "windDirection": "SW",
+          "conditions": "Hot",
+          "lastUpdated": "2025-07-27T05:18:28.427Z"
+        },
+        "gameTime": "2025-07-27T17:35:00Z",
+        "lastUpdated": "2025-07-27T05:18:28.427Z"
+      },
+      "analysis": {
+        "venue": "Oriole Park at Camden Yards",
+        "error": "Ballpark data not found",
+        "factors": {
+          "hits": 1,
+          "homeRuns": 1,
+          "runs": 1
+        }
+      }
+    },
+    {
+      "game": {
+        "gameId": 776983,
+        "gameDate": "2025-07-27T17:35:00Z",
+        "gameTime": "2025-07-27T17:35:00Z",
+        "status": "Scheduled",
+        "teams": {
+          "away": {
+            "id": 119,
+            "name": "Los Angeles Dodgers"
+          },
+          "home": {
+            "id": 111,
+            "name": "Boston Red Sox"
+          }
+        },
+        "venue": {
+          "id": 3,
+          "name": "Fenway Park",
+          "coordinates": {
+            "lat": null,
+            "lon": null
+          }
+        }
+      },
+      "weather": {
+        "gameId": 776983,
+        "venue": "Fenway Park",
+        "coordinates": {
+          "lat": null,
+          "lon": null
+        },
+        "current": {
+          "temperature": 84,
+          "humidity": 55,
+          "windSpeed": 2,
+          "windDirection": "SW",
+          "conditions": "Fair",
+          "lastUpdated": "2025-07-27T05:18:28.629Z"
+        },
+        "gameTime": "2025-07-27T17:35:00Z",
+        "lastUpdated": "2025-07-27T05:18:28.629Z"
+      },
+      "analysis": {
+        "venue": "Fenway Park",
+        "ballparkType": "unique_hitter_friendly",
+        "baseFactors": {
+          "hits": 1.12,
+          "homeRuns": 1.08,
+          "runs": 1.1,
+          "totalBases": 1.15,
+          "rbi": 1.09,
+          "singles": 1.1,
+          "walks": 1.06,
+          "strikeouts": 0.96,
+          "hitsRunsRbis": 1.1,
+          "pitcherStrikeouts": 0.95,
+          "hitsAllowed": 1.12,
+          "walksAllowed": 1.06,
+          "earnedRunsAllowed": 1.1,
+          "pitchingOuts": 0.96
+        },
+        "weatherAdjustedFactors": {
+          "hits": 1.12,
+          "homeRuns": 1.1232000000000002,
+          "runs": 1.1,
+          "totalBases": 1.1729999999999998,
+          "rbi": 1.09,
+          "singles": 1.1,
+          "walks": 1.06,
+          "strikeouts": 0.96,
+          "hitsRunsRbis": 1.1,
+          "pitcherStrikeouts": 0.95,
+          "hitsAllowed": 1.12,
+          "walksAllowed": 1.06,
+          "earnedRunsAllowed": 1.1,
+          "pitchingOuts": 0.96
+        },
+        "weatherImpact": {
+          "temperature": {
+            "value": 84,
+            "effect": {
+              "homeRunFactor": 1.04,
+              "totalBasesFactor": 1.02
+            },
+            "description": "Moderate - neutral effect"
+          },
+          "wind": {
+            "speed": 2,
+            "direction": "SW",
+            "effect": {
+              "homeRunFactor": 1,
+              "hitsFactor": 1,
+              "totalBasesFactor": 1
+            },
+            "description": "Light 2mph SW - minimal effect"
+          },
+          "humidity": {
+            "value": 55,
+            "effect": {
+              "homeRunFactor": 1
+            },
+            "description": "Moderate humidity - minimal effect"
+          }
+        },
+        "totalAdjustment": {
+          "hits": {
+            "base": 1.12,
+            "adjusted": 1.12,
+            "change": 0
+          },
+          "homeRuns": {
+            "base": 1.08,
+            "adjusted": 1.123,
+            "change": 4.3
+          },
+          "runs": {
+            "base": 1.1,
+            "adjusted": 1.1,
+            "change": 0
+          },
+          "totalBases": {
+            "base": 1.15,
+            "adjusted": 1.173,
+            "change": 2.3
+          },
+          "rbi": {
+            "base": 1.09,
+            "adjusted": 1.09,
+            "change": 0
+          },
+          "singles": {
+            "base": 1.1,
+            "adjusted": 1.1,
+            "change": 0
+          },
+          "walks": {
+            "base": 1.06,
+            "adjusted": 1.06,
+            "change": 0
+          },
+          "strikeouts": {
+            "base": 0.96,
+            "adjusted": 0.96,
+            "change": 0
+          },
+          "hitsRunsRbis": {
+            "base": 1.1,
+            "adjusted": 1.1,
+            "change": 0
+          },
+          "pitcherStrikeouts": {
+            "base": 0.95,
+            "adjusted": 0.95,
+            "change": 0
+          },
+          "hitsAllowed": {
+            "base": 1.12,
+            "adjusted": 1.12,
+            "change": 0
+          },
+          "walksAllowed": {
+            "base": 1.06,
+            "adjusted": 1.06,
+            "change": 0
+          },
+          "earnedRunsAllowed": {
+            "base": 1.1,
+            "adjusted": 1.1,
+            "change": 0
+          },
+          "pitchingOuts": {
+            "base": 0.96,
+            "adjusted": 0.96,
+            "change": 0
+          }
+        },
+        "bettingImplications": []
+      }
+    },
+    {
+      "game": {
+        "gameId": 776984,
+        "gameDate": "2025-07-27T17:35:00Z",
+        "gameTime": "2025-07-27T17:35:00Z",
+        "status": "Scheduled",
+        "teams": {
+          "away": {
+            "id": 109,
+            "name": "Arizona Diamondbacks"
+          },
+          "home": {
+            "id": 134,
+            "name": "Pittsburgh Pirates"
+          }
+        },
+        "venue": {
+          "id": 31,
+          "name": "PNC Park",
+          "coordinates": {
+            "lat": null,
+            "lon": null
+          }
+        }
+      },
+      "weather": {
+        "gameId": 776984,
+        "venue": "PNC Park",
+        "coordinates": {
+          "lat": null,
+          "lon": null
+        },
+        "current": {
+          "temperature": 81,
+          "humidity": 67,
+          "windSpeed": 1,
+          "windDirection": "SW",
+          "conditions": "Fair",
+          "lastUpdated": "2025-07-27T05:18:28.832Z"
+        },
+        "gameTime": "2025-07-27T17:35:00Z",
+        "lastUpdated": "2025-07-27T05:18:28.832Z"
+      },
+      "analysis": {
+        "venue": "PNC Park",
+        "error": "Ballpark data not found",
+        "factors": {
+          "hits": 1,
+          "homeRuns": 1,
+          "runs": 1
+        }
+      }
+    },
+    {
+      "game": {
+        "gameId": 776988,
+        "gameDate": "2025-07-27T17:35:00Z",
+        "gameTime": "2025-07-27T17:35:00Z",
+        "status": "Scheduled",
+        "teams": {
+          "away": {
+            "id": 143,
+            "name": "Philadelphia Phillies"
+          },
+          "home": {
+            "id": 147,
+            "name": "New York Yankees"
+          }
+        },
+        "venue": {
+          "id": 3313,
+          "name": "Yankee Stadium",
+          "coordinates": {
+            "lat": null,
+            "lon": null
+          }
+        }
+      },
+      "weather": {
+        "gameId": 776988,
+        "venue": "Yankee Stadium",
+        "coordinates": {
+          "lat": null,
+          "lon": null
+        },
+        "current": {
+          "temperature": 75,
+          "humidity": 67,
+          "windSpeed": 9,
+          "windDirection": "SW",
+          "conditions": "Fair",
+          "lastUpdated": "2025-07-27T05:18:29.033Z"
+        },
+        "gameTime": "2025-07-27T17:35:00Z",
+        "lastUpdated": "2025-07-27T05:18:29.033Z"
+      },
+      "analysis": {
+        "venue": "Yankee Stadium",
+        "ballparkType": "righty_friendly",
+        "baseFactors": {
+          "hits": 1.05,
+          "homeRuns": 1.18,
+          "runs": 1.08,
+          "totalBases": 1.12,
+          "rbi": 1.06,
+          "singles": 1.03,
+          "walks": 1.04,
+          "strikeouts": 0.97,
+          "hitsRunsRbis": 1.06,
+          "pitcherStrikeouts": 0.96,
+          "hitsAllowed": 1.05,
+          "walksAllowed": 1.04,
+          "earnedRunsAllowed": 1.08,
+          "pitchingOuts": 0.97
+        },
+        "weatherAdjustedFactors": {
+          "hits": 1.05,
+          "homeRuns": 1.298,
+          "runs": 1.08,
+          "totalBases": 1.1760000000000002,
+          "rbi": 1.06,
+          "singles": 1.03,
+          "walks": 1.04,
+          "strikeouts": 0.97,
+          "hitsRunsRbis": 1.06,
+          "pitcherStrikeouts": 0.96,
+          "hitsAllowed": 1.05,
+          "walksAllowed": 1.04,
+          "earnedRunsAllowed": 1.08,
+          "pitchingOuts": 0.97
+        },
+        "weatherImpact": {
+          "temperature": {
+            "value": 75,
+            "effect": {
+              "homeRunFactor": 1,
+              "totalBasesFactor": 1
+            },
+            "description": "Moderate - neutral effect"
+          },
+          "wind": {
+            "speed": 9,
+            "direction": "SW",
+            "effect": {
+              "homeRunFactor": 1.1,
+              "hitsFactor": 1,
+              "totalBasesFactor": 1.05
+            },
+            "description": "Moderate 9mph SW - slight offensive boost"
+          },
+          "humidity": {
+            "value": 67,
+            "effect": {
+              "homeRunFactor": 1
+            },
+            "description": "Moderate humidity - minimal effect"
+          }
+        },
+        "totalAdjustment": {
+          "hits": {
+            "base": 1.05,
+            "adjusted": 1.05,
+            "change": 0
+          },
+          "homeRuns": {
+            "base": 1.18,
+            "adjusted": 1.298,
+            "change": 11.8
+          },
+          "runs": {
+            "base": 1.08,
+            "adjusted": 1.08,
+            "change": 0
+          },
+          "totalBases": {
+            "base": 1.12,
+            "adjusted": 1.176,
+            "change": 5.6
+          },
+          "rbi": {
+            "base": 1.06,
+            "adjusted": 1.06,
+            "change": 0
+          },
+          "singles": {
+            "base": 1.03,
+            "adjusted": 1.03,
+            "change": 0
+          },
+          "walks": {
+            "base": 1.04,
+            "adjusted": 1.04,
+            "change": 0
+          },
+          "strikeouts": {
+            "base": 0.97,
+            "adjusted": 0.97,
+            "change": 0
+          },
+          "hitsRunsRbis": {
+            "base": 1.06,
+            "adjusted": 1.06,
+            "change": 0
+          },
+          "pitcherStrikeouts": {
+            "base": 0.96,
+            "adjusted": 0.96,
+            "change": 0
+          },
+          "hitsAllowed": {
+            "base": 1.05,
+            "adjusted": 1.05,
+            "change": 0
+          },
+          "walksAllowed": {
+            "base": 1.04,
+            "adjusted": 1.04,
+            "change": 0
+          },
+          "earnedRunsAllowed": {
+            "base": 1.08,
+            "adjusted": 1.08,
+            "change": 0
+          },
+          "pitchingOuts": {
+            "base": 0.97,
+            "adjusted": 0.97,
+            "change": 0
+          }
+        },
+        "bettingImplications": [
+          {
+            "prop": "homeRuns",
+            "recommendation": "OVER",
+            "confidence": "High",
+            "reason": "+11.8% due to righty_friendly venue + weather",
+            "factor": 1.298
+          },
+          {
+            "prop": "totalBases",
+            "recommendation": "OVER",
+            "confidence": "Medium",
+            "reason": "+5.6% due to righty_friendly venue + weather",
+            "factor": 1.176
+          }
+        ]
+      }
+    },
+    {
+      "game": {
+        "gameId": 776982,
+        "gameDate": "2025-07-27T17:40:00Z",
+        "gameTime": "2025-07-27T17:40:00Z",
+        "status": "Scheduled",
+        "teams": {
+          "away": {
+            "id": 139,
+            "name": "Tampa Bay Rays"
+          },
+          "home": {
+            "id": 113,
+            "name": "Cincinnati Reds"
+          }
+        },
+        "venue": {
+          "id": 2602,
+          "name": "Great American Ball Park",
+          "coordinates": {
+            "lat": null,
+            "lon": null
+          }
+        }
+      },
+      "weather": {
+        "gameId": 776982,
+        "venue": "Great American Ball Park",
+        "coordinates": {
+          "lat": null,
+          "lon": null
+        },
+        "current": {
+          "temperature": 91,
+          "humidity": 67,
+          "windSpeed": 2,
+          "windDirection": "SW",
+          "conditions": "Hot",
+          "lastUpdated": "2025-07-27T05:18:29.234Z"
+        },
+        "gameTime": "2025-07-27T17:40:00Z",
+        "lastUpdated": "2025-07-27T05:18:29.234Z"
+      },
+      "analysis": {
+        "venue": "Great American Ball Park",
+        "ballparkType": "hitter_friendly",
+        "baseFactors": {
+          "hits": 1.08,
+          "homeRuns": 1.15,
+          "runs": 1.12,
+          "totalBases": 1.1,
+          "rbi": 1.08,
+          "singles": 1.05,
+          "walks": 1.02,
+          "strikeouts": 0.98,
+          "hitsRunsRbis": 1.09,
+          "pitcherStrikeouts": 0.97,
+          "hitsAllowed": 1.08,
+          "walksAllowed": 1.02,
+          "earnedRunsAllowed": 1.12,
+          "pitchingOuts": 0.98
+        },
+        "weatherAdjustedFactors": {
+          "hits": 1.08,
+          "homeRuns": 1.2765,
+          "runs": 1.12,
+          "totalBases": 1.1605,
+          "rbi": 1.08,
+          "singles": 1.05,
+          "walks": 1.02,
+          "strikeouts": 0.98,
+          "hitsRunsRbis": 1.09,
+          "pitcherStrikeouts": 0.97,
+          "hitsAllowed": 1.08,
+          "walksAllowed": 1.02,
+          "earnedRunsAllowed": 1.12,
+          "pitchingOuts": 0.98
+        },
+        "weatherImpact": {
+          "temperature": {
+            "value": 91,
+            "effect": {
+              "homeRunFactor": 1.11,
+              "totalBasesFactor": 1.055
+            },
+            "description": "Hot - favors offense"
+          },
+          "wind": {
+            "speed": 2,
+            "direction": "SW",
+            "effect": {
+              "homeRunFactor": 1,
+              "hitsFactor": 1,
+              "totalBasesFactor": 1
+            },
+            "description": "Light 2mph SW - minimal effect"
+          },
+          "humidity": {
+            "value": 67,
+            "effect": {
+              "homeRunFactor": 1
+            },
+            "description": "Moderate humidity - minimal effect"
+          }
+        },
+        "totalAdjustment": {
+          "hits": {
+            "base": 1.08,
+            "adjusted": 1.08,
+            "change": 0
+          },
+          "homeRuns": {
+            "base": 1.15,
+            "adjusted": 1.276,
+            "change": 12.7
+          },
+          "runs": {
+            "base": 1.12,
+            "adjusted": 1.12,
+            "change": 0
+          },
+          "totalBases": {
+            "base": 1.1,
+            "adjusted": 1.161,
+            "change": 6
+          },
+          "rbi": {
+            "base": 1.08,
+            "adjusted": 1.08,
+            "change": 0
+          },
+          "singles": {
+            "base": 1.05,
+            "adjusted": 1.05,
+            "change": 0
+          },
+          "walks": {
+            "base": 1.02,
+            "adjusted": 1.02,
+            "change": 0
+          },
+          "strikeouts": {
+            "base": 0.98,
+            "adjusted": 0.98,
+            "change": 0
+          },
+          "hitsRunsRbis": {
+            "base": 1.09,
+            "adjusted": 1.09,
+            "change": 0
+          },
+          "pitcherStrikeouts": {
+            "base": 0.97,
+            "adjusted": 0.97,
+            "change": 0
+          },
+          "hitsAllowed": {
+            "base": 1.08,
+            "adjusted": 1.08,
+            "change": 0
+          },
+          "walksAllowed": {
+            "base": 1.02,
+            "adjusted": 1.02,
+            "change": 0
+          },
+          "earnedRunsAllowed": {
+            "base": 1.12,
+            "adjusted": 1.12,
+            "change": 0
+          },
+          "pitchingOuts": {
+            "base": 0.98,
+            "adjusted": 0.98,
+            "change": 0
+          }
+        },
+        "bettingImplications": [
+          {
+            "prop": "homeRuns",
+            "recommendation": "OVER",
+            "confidence": "High",
+            "reason": "+12.7% due to hitter_friendly venue + weather",
+            "factor": 1.276
+          },
+          {
+            "prop": "totalBases",
+            "recommendation": "OVER",
+            "confidence": "Medium",
+            "reason": "+6% due to hitter_friendly venue + weather",
+            "factor": 1.161
+          }
+        ]
+      }
+    },
+    {
+      "game": {
+        "gameId": 776987,
+        "gameDate": "2025-07-27T17:40:00Z",
+        "gameTime": "2025-07-27T17:40:00Z",
+        "status": "Scheduled",
+        "teams": {
+          "away": {
+            "id": 141,
+            "name": "Toronto Blue Jays"
+          },
+          "home": {
+            "id": 116,
+            "name": "Detroit Tigers"
+          }
+        },
+        "venue": {
+          "id": 2394,
+          "name": "Comerica Park",
+          "coordinates": {
+            "lat": null,
+            "lon": null
+          }
+        }
+      },
+      "weather": {
+        "gameId": 776987,
+        "venue": "Comerica Park",
+        "coordinates": {
+          "lat": null,
+          "lon": null
+        },
+        "current": {
+          "temperature": 80,
+          "humidity": 52,
+          "windSpeed": 2,
+          "windDirection": "SW",
+          "conditions": "Fair",
+          "lastUpdated": "2025-07-27T05:18:29.435Z"
+        },
+        "gameTime": "2025-07-27T17:40:00Z",
+        "lastUpdated": "2025-07-27T05:18:29.435Z"
+      },
+      "analysis": {
+        "venue": "Comerica Park",
+        "error": "Ballpark data not found",
+        "factors": {
+          "hits": 1,
+          "homeRuns": 1,
+          "runs": 1
+        }
+      }
+    },
+    {
+      "game": {
+        "gameId": 776975,
+        "gameDate": "2025-07-27T18:10:00Z",
+        "gameTime": "2025-07-27T18:10:00Z",
+        "status": "Scheduled",
+        "teams": {
+          "away": {
+            "id": 114,
+            "name": "Cleveland Guardians"
+          },
+          "home": {
+            "id": 118,
+            "name": "Kansas City Royals"
+          }
+        },
+        "venue": {
+          "id": 7,
+          "name": "Kauffman Stadium",
+          "coordinates": {
+            "lat": null,
+            "lon": null
+          }
+        }
+      },
+      "weather": {
+        "gameId": 776975,
+        "venue": "Kauffman Stadium",
+        "coordinates": {
+          "lat": null,
+          "lon": null
+        },
+        "current": {
+          "temperature": 83,
+          "humidity": 59,
+          "windSpeed": 8,
+          "windDirection": "SW",
+          "conditions": "Fair",
+          "lastUpdated": "2025-07-27T05:18:29.636Z"
+        },
+        "gameTime": "2025-07-27T18:10:00Z",
+        "lastUpdated": "2025-07-27T05:18:29.636Z"
+      },
+      "analysis": {
+        "venue": "Kauffman Stadium",
+        "error": "Ballpark data not found",
+        "factors": {
+          "hits": 1,
+          "homeRuns": 1,
+          "runs": 1
+        }
+      }
+    },
+    {
+      "game": {
+        "gameId": 776976,
+        "gameDate": "2025-07-27T18:10:00Z",
+        "gameTime": "2025-07-27T18:10:00Z",
+        "status": "Scheduled",
+        "teams": {
+          "away": {
+            "id": 133,
+            "name": "Athletics"
+          },
+          "home": {
+            "id": 117,
+            "name": "Houston Astros"
+          }
+        },
+        "venue": {
+          "id": 2392,
+          "name": "Daikin Park",
+          "coordinates": {
+            "lat": null,
+            "lon": null
+          }
+        }
+      },
+      "weather": {
+        "gameId": 776976,
+        "venue": "Daikin Park",
+        "coordinates": {
+          "lat": null,
+          "lon": null
+        },
+        "current": {
+          "temperature": 76,
+          "humidity": 52,
+          "windSpeed": 0,
+          "windDirection": "SW",
+          "conditions": "Fair",
+          "lastUpdated": "2025-07-27T05:18:29.837Z"
+        },
+        "gameTime": "2025-07-27T18:10:00Z",
+        "lastUpdated": "2025-07-27T05:18:29.837Z"
+      },
+      "analysis": {
+        "venue": "Daikin Park",
+        "error": "Ballpark data not found",
+        "factors": {
+          "hits": 1,
+          "homeRuns": 1,
+          "runs": 1
+        }
+      }
+    },
+    {
+      "game": {
+        "gameId": 776979,
+        "gameDate": "2025-07-27T18:10:00Z",
+        "gameTime": "2025-07-27T18:10:00Z",
+        "status": "Scheduled",
+        "teams": {
+          "away": {
+            "id": 120,
+            "name": "Washington Nationals"
+          },
+          "home": {
+            "id": 142,
+            "name": "Minnesota Twins"
+          }
+        },
+        "venue": {
+          "id": 3312,
+          "name": "Target Field",
+          "coordinates": {
+            "lat": null,
+            "lon": null
+          }
+        }
+      },
+      "weather": {
+        "gameId": 776979,
+        "venue": "Target Field",
+        "coordinates": {
+          "lat": null,
+          "lon": null
+        },
+        "current": {
+          "temperature": 77,
+          "humidity": 57,
+          "windSpeed": 6,
+          "windDirection": "SW",
+          "conditions": "Fair",
+          "lastUpdated": "2025-07-27T05:18:30.039Z"
+        },
+        "gameTime": "2025-07-27T18:10:00Z",
+        "lastUpdated": "2025-07-27T05:18:30.039Z"
+      },
+      "analysis": {
+        "venue": "Target Field",
+        "error": "Ballpark data not found",
+        "factors": {
+          "hits": 1,
+          "homeRuns": 1,
+          "runs": 1
+        }
+      }
+    },
+    {
+      "game": {
+        "gameId": 776989,
+        "gameDate": "2025-07-27T18:10:00Z",
+        "gameTime": "2025-07-27T18:10:00Z",
+        "status": "Scheduled",
+        "teams": {
+          "away": {
+            "id": 112,
+            "name": "Chicago Cubs"
+          },
+          "home": {
+            "id": 145,
+            "name": "Chicago White Sox"
+          }
+        },
+        "venue": {
+          "id": 4,
+          "name": "Rate Field",
+          "coordinates": {
+            "lat": null,
+            "lon": null
+          }
+        }
+      },
+      "weather": {
+        "gameId": 776989,
+        "venue": "Rate Field",
+        "coordinates": {
+          "lat": null,
+          "lon": null
+        },
+        "current": {
+          "temperature": 92,
+          "humidity": 80,
+          "windSpeed": 7,
+          "windDirection": "SW",
+          "conditions": "Hot",
+          "lastUpdated": "2025-07-27T05:18:30.241Z"
+        },
+        "gameTime": "2025-07-27T18:10:00Z",
+        "lastUpdated": "2025-07-27T05:18:30.241Z"
+      },
+      "analysis": {
+        "venue": "Rate Field",
+        "error": "Ballpark data not found",
+        "factors": {
+          "hits": 1,
+          "homeRuns": 1,
+          "runs": 1
+        }
+      }
+    },
+    {
+      "game": {
+        "gameId": 776978,
+        "gameDate": "2025-07-27T18:10:00Z",
+        "gameTime": "2025-07-27T18:10:00Z",
+        "status": "Scheduled",
+        "teams": {
+          "away": {
+            "id": 146,
+            "name": "Miami Marlins"
+          },
+          "home": {
+            "id": 158,
+            "name": "Milwaukee Brewers"
+          }
+        },
+        "venue": {
+          "id": 32,
+          "name": "American Family Field",
+          "coordinates": {
+            "lat": null,
+            "lon": null
+          }
+        }
+      },
+      "weather": {
+        "gameId": 776978,
+        "venue": "American Family Field",
+        "coordinates": {
+          "lat": null,
+          "lon": null
+        },
+        "current": {
+          "temperature": 95,
+          "humidity": 76,
+          "windSpeed": 2,
+          "windDirection": "SW",
+          "conditions": "Hot",
+          "lastUpdated": "2025-07-27T05:18:30.442Z"
+        },
+        "gameTime": "2025-07-27T18:10:00Z",
+        "lastUpdated": "2025-07-27T05:18:30.442Z"
+      },
+      "analysis": {
+        "venue": "American Family Field",
+        "error": "Ballpark data not found",
+        "factors": {
+          "hits": 1,
+          "homeRuns": 1,
+          "runs": 1
+        }
+      }
+    },
+    {
+      "game": {
+        "gameId": 776980,
+        "gameDate": "2025-07-27T18:15:00Z",
+        "gameTime": "2025-07-27T18:15:00Z",
+        "status": "Scheduled",
+        "teams": {
+          "away": {
+            "id": 135,
+            "name": "San Diego Padres"
+          },
+          "home": {
+            "id": 138,
+            "name": "St. Louis Cardinals"
+          }
+        },
+        "venue": {
+          "id": 2889,
+          "name": "Busch Stadium",
+          "coordinates": {
+            "lat": null,
+            "lon": null
+          }
+        }
+      },
+      "weather": {
+        "gameId": 776980,
+        "venue": "Busch Stadium",
+        "coordinates": {
+          "lat": null,
+          "lon": null
+        },
+        "current": {
+          "temperature": 89,
+          "humidity": 75,
+          "windSpeed": 4,
+          "windDirection": "SW",
+          "conditions": "Hot",
+          "lastUpdated": "2025-07-27T05:18:30.715Z"
+        },
+        "gameTime": "2025-07-27T18:15:00Z",
+        "lastUpdated": "2025-07-27T05:18:30.715Z"
+      },
+      "analysis": {
+        "venue": "Busch Stadium",
+        "error": "Ballpark data not found",
+        "factors": {
+          "hits": 1,
+          "homeRuns": 1,
+          "runs": 1
+        }
+      }
+    },
+    {
+      "game": {
+        "gameId": 776981,
+        "gameDate": "2025-07-27T18:35:00Z",
+        "gameTime": "2025-07-27T18:35:00Z",
+        "status": "Scheduled",
+        "teams": {
+          "away": {
+            "id": 144,
+            "name": "Atlanta Braves"
+          },
+          "home": {
+            "id": 140,
+            "name": "Texas Rangers"
+          }
+        },
+        "venue": {
+          "id": 5325,
+          "name": "Globe Life Field",
+          "coordinates": {
+            "lat": null,
+            "lon": null
+          }
+        }
+      },
+      "weather": {
+        "gameId": 776981,
+        "venue": "Globe Life Field",
+        "coordinates": {
+          "lat": null,
+          "lon": null
+        },
+        "current": {
+          "temperature": 87,
+          "humidity": 68,
+          "windSpeed": 10,
+          "windDirection": "SW",
+          "conditions": "Hot",
+          "lastUpdated": "2025-07-27T05:18:30.916Z"
+        },
+        "gameTime": "2025-07-27T18:35:00Z",
+        "lastUpdated": "2025-07-27T05:18:30.916Z"
+      },
+      "analysis": {
+        "venue": "Globe Life Field",
+        "error": "Ballpark data not found",
+        "factors": {
+          "hits": 1,
+          "homeRuns": 1,
+          "runs": 1
+        }
+      }
+    },
+    {
+      "game": {
+        "gameId": 776977,
+        "gameDate": "2025-07-27T20:07:00Z",
+        "gameTime": "2025-07-27T20:07:00Z",
+        "status": "Scheduled",
+        "teams": {
+          "away": {
+            "id": 136,
+            "name": "Seattle Mariners"
+          },
+          "home": {
+            "id": 108,
+            "name": "Los Angeles Angels"
+          }
+        },
+        "venue": {
+          "id": 1,
+          "name": "Angel Stadium",
+          "coordinates": {
+            "lat": null,
+            "lon": null
+          }
+        }
+      },
+      "weather": {
+        "gameId": 776977,
+        "venue": "Angel Stadium",
+        "coordinates": {
+          "lat": null,
+          "lon": null
+        },
+        "current": {
+          "temperature": 87,
+          "humidity": 66,
+          "windSpeed": 9,
+          "windDirection": "SW",
+          "conditions": "Hot",
+          "lastUpdated": "2025-07-27T05:18:31.118Z"
+        },
+        "gameTime": "2025-07-27T20:07:00Z",
+        "lastUpdated": "2025-07-27T05:18:31.118Z"
+      },
+      "analysis": {
+        "venue": "Angel Stadium",
+        "error": "Ballpark data not found",
+        "factors": {
+          "hits": 1,
+          "homeRuns": 1,
+          "runs": 1
+        }
+      }
+    },
+    {
+      "game": {
+        "gameId": 776974,
+        "gameDate": "2025-07-27T23:10:00Z",
+        "gameTime": "2025-07-27T23:10:00Z",
+        "status": "Scheduled",
+        "teams": {
+          "away": {
+            "id": 121,
+            "name": "New York Mets"
+          },
+          "home": {
+            "id": 137,
+            "name": "San Francisco Giants"
+          }
+        },
+        "venue": {
+          "id": 2395,
+          "name": "Oracle Park",
+          "coordinates": {
+            "lat": null,
+            "lon": null
+          }
+        }
+      },
+      "weather": {
+        "gameId": 776974,
+        "venue": "Oracle Park",
+        "coordinates": {
+          "lat": null,
+          "lon": null
+        },
+        "current": {
+          "temperature": 88,
+          "humidity": 76,
+          "windSpeed": 0,
+          "windDirection": "SW",
+          "conditions": "Hot",
+          "lastUpdated": "2025-07-27T05:18:31.319Z"
+        },
+        "gameTime": "2025-07-27T23:10:00Z",
+        "lastUpdated": "2025-07-27T05:18:31.319Z"
+      },
+      "analysis": {
+        "venue": "Oracle Park",
+        "error": "Ballpark data not found",
+        "factors": {
+          "hits": 1,
+          "homeRuns": 1,
+          "runs": 1
+        }
+      }
+    }
+  ],
+  "summary": {
+    "hitterFriendlyGames": 3,
+    "pitcherFriendlyGames": 0,
+    "weatherAffectedGames": 8
+  },
+  "topOpportunities": [
+    {
+      "game": "Philadelphia Phillies @ New York Yankees",
+      "venue": "Yankee Stadium",
+      "prop": "homeRuns",
+      "recommendation": "OVER",
+      "reason": "+11.8% due to righty_friendly venue + weather",
+      "confidence": "High"
+    },
+    {
+      "game": "Tampa Bay Rays @ Cincinnati Reds",
+      "venue": "Great American Ball Park",
+      "prop": "homeRuns",
+      "recommendation": "OVER",
+      "reason": "+12.7% due to hitter_friendly venue + weather",
+      "confidence": "High"
+    }
+  ]
+}
