@@ -1,0 +1,312 @@
+{
+  "lastUpdated": "2025-07-27T05:18:32.902Z",
+  "description": "Prop recommendations adjusted for ballpark factors and weather",
+  "recommendations": [
+    {
+      "game": {
+        "away": "Los Angeles Dodgers",
+        "home": "Boston Red Sox",
+        "venue": "Fenway Park",
+        "gameTime": "2025-07-27T17:35:00Z"
+      },
+      "conditions": {
+        "ballparkType": "unique_hitter_friendly",
+        "weather": {
+          "temperature": 84,
+          "humidity": 55,
+          "windSpeed": 2,
+          "windDirection": "SW",
+          "conditions": "Fair",
+          "lastUpdated": "2025-07-27T05:18:28.629Z"
+        }
+      },
+      "propRecommendations": [],
+      "adjustedFactors": {
+        "hits": {
+          "base": 1.12,
+          "adjusted": 1.12,
+          "change": 0
+        },
+        "homeRuns": {
+          "base": 1.08,
+          "adjusted": 1.123,
+          "change": 4.3
+        },
+        "runs": {
+          "base": 1.1,
+          "adjusted": 1.1,
+          "change": 0
+        },
+        "totalBases": {
+          "base": 1.15,
+          "adjusted": 1.173,
+          "change": 2.3
+        },
+        "rbi": {
+          "base": 1.09,
+          "adjusted": 1.09,
+          "change": 0
+        },
+        "singles": {
+          "base": 1.1,
+          "adjusted": 1.1,
+          "change": 0
+        },
+        "walks": {
+          "base": 1.06,
+          "adjusted": 1.06,
+          "change": 0
+        },
+        "strikeouts": {
+          "base": 0.96,
+          "adjusted": 0.96,
+          "change": 0
+        },
+        "hitsRunsRbis": {
+          "base": 1.1,
+          "adjusted": 1.1,
+          "change": 0
+        },
+        "pitcherStrikeouts": {
+          "base": 0.95,
+          "adjusted": 0.95,
+          "change": 0
+        },
+        "hitsAllowed": {
+          "base": 1.12,
+          "adjusted": 1.12,
+          "change": 0
+        },
+        "walksAllowed": {
+          "base": 1.06,
+          "adjusted": 1.06,
+          "change": 0
+        },
+        "earnedRunsAllowed": {
+          "base": 1.1,
+          "adjusted": 1.1,
+          "change": 0
+        },
+        "pitchingOuts": {
+          "base": 0.96,
+          "adjusted": 0.96,
+          "change": 0
+        }
+      }
+    },
+    {
+      "game": {
+        "away": "Philadelphia Phillies",
+        "home": "New York Yankees",
+        "venue": "Yankee Stadium",
+        "gameTime": "2025-07-27T17:35:00Z"
+      },
+      "conditions": {
+        "ballparkType": "righty_friendly",
+        "weather": {
+          "temperature": 75,
+          "humidity": 67,
+          "windSpeed": 9,
+          "windDirection": "SW",
+          "conditions": "Fair",
+          "lastUpdated": "2025-07-27T05:18:29.033Z"
+        }
+      },
+      "propRecommendations": [
+        {
+          "prop": "homeRuns",
+          "recommendation": "OVER",
+          "confidence": "High",
+          "reason": "+11.8% due to righty_friendly venue + weather",
+          "factor": 1.298
+        },
+        {
+          "prop": "totalBases",
+          "recommendation": "OVER",
+          "confidence": "Medium",
+          "reason": "+5.6% due to righty_friendly venue + weather",
+          "factor": 1.176
+        }
+      ],
+      "adjustedFactors": {
+        "hits": {
+          "base": 1.05,
+          "adjusted": 1.05,
+          "change": 0
+        },
+        "homeRuns": {
+          "base": 1.18,
+          "adjusted": 1.298,
+          "change": 11.8
+        },
+        "runs": {
+          "base": 1.08,
+          "adjusted": 1.08,
+          "change": 0
+        },
+        "totalBases": {
+          "base": 1.12,
+          "adjusted": 1.176,
+          "change": 5.6
+        },
+        "rbi": {
+          "base": 1.06,
+          "adjusted": 1.06,
+          "change": 0
+        },
+        "singles": {
+          "base": 1.03,
+          "adjusted": 1.03,
+          "change": 0
+        },
+        "walks": {
+          "base": 1.04,
+          "adjusted": 1.04,
+          "change": 0
+        },
+        "strikeouts": {
+          "base": 0.97,
+          "adjusted": 0.97,
+          "change": 0
+        },
+        "hitsRunsRbis": {
+          "base": 1.06,
+          "adjusted": 1.06,
+          "change": 0
+        },
+        "pitcherStrikeouts": {
+          "base": 0.96,
+          "adjusted": 0.96,
+          "change": 0
+        },
+        "hitsAllowed": {
+          "base": 1.05,
+          "adjusted": 1.05,
+          "change": 0
+        },
+        "walksAllowed": {
+          "base": 1.04,
+          "adjusted": 1.04,
+          "change": 0
+        },
+        "earnedRunsAllowed": {
+          "base": 1.08,
+          "adjusted": 1.08,
+          "change": 0
+        },
+        "pitchingOuts": {
+          "base": 0.97,
+          "adjusted": 0.97,
+          "change": 0
+        }
+      }
+    },
+    {
+      "game": {
+        "away": "Tampa Bay Rays",
+        "home": "Cincinnati Reds",
+        "venue": "Great American Ball Park",
+        "gameTime": "2025-07-27T17:40:00Z"
+      },
+      "conditions": {
+        "ballparkType": "hitter_friendly",
+        "weather": {
+          "temperature": 91,
+          "humidity": 67,
+          "windSpeed": 2,
+          "windDirection": "SW",
+          "conditions": "Hot",
+          "lastUpdated": "2025-07-27T05:18:29.234Z"
+        }
+      },
+      "propRecommendations": [
+        {
+          "prop": "homeRuns",
+          "recommendation": "OVER",
+          "confidence": "High",
+          "reason": "+12.7% due to hitter_friendly venue + weather",
+          "factor": 1.276
+        },
+        {
+          "prop": "totalBases",
+          "recommendation": "OVER",
+          "confidence": "Medium",
+          "reason": "+6% due to hitter_friendly venue + weather",
+          "factor": 1.161
+        }
+      ],
+      "adjustedFactors": {
+        "hits": {
+          "base": 1.08,
+          "adjusted": 1.08,
+          "change": 0
+        },
+        "homeRuns": {
+          "base": 1.15,
+          "adjusted": 1.276,
+          "change": 12.7
+        },
+        "runs": {
+          "base": 1.12,
+          "adjusted": 1.12,
+          "change": 0
+        },
+        "totalBases": {
+          "base": 1.1,
+          "adjusted": 1.161,
+          "change": 6
+        },
+        "rbi": {
+          "base": 1.08,
+          "adjusted": 1.08,
+          "change": 0
+        },
+        "singles": {
+          "base": 1.05,
+          "adjusted": 1.05,
+          "change": 0
+        },
+        "walks": {
+          "base": 1.02,
+          "adjusted": 1.02,
+          "change": 0
+        },
+        "strikeouts": {
+          "base": 0.98,
+          "adjusted": 0.98,
+          "change": 0
+        },
+        "hitsRunsRbis": {
+          "base": 1.09,
+          "adjusted": 1.09,
+          "change": 0
+        },
+        "pitcherStrikeouts": {
+          "base": 0.97,
+          "adjusted": 0.97,
+          "change": 0
+        },
+        "hitsAllowed": {
+          "base": 1.08,
+          "adjusted": 1.08,
+          "change": 0
+        },
+        "walksAllowed": {
+          "base": 1.02,
+          "adjusted": 1.02,
+          "change": 0
+        },
+        "earnedRunsAllowed": {
+          "base": 1.12,
+          "adjusted": 1.12,
+          "change": 0
+        },
+        "pitchingOuts": {
+          "base": 0.98,
+          "adjusted": 0.98,
+          "change": 0
+        }
+      }
+    }
+  ]
+}
