@@ -1,0 +1,353 @@
+{
+  "lastUpdated": "2025-07-27T16:48:42.294Z",
+  "season": "2025",
+  "description": "Advanced sabermetrics for player evaluation",
+  "playerMetrics": {},
+  "teamMetrics": {
+    "133": {
+      "teamId": 133,
+      "teamName": "Athletics",
+      "abbreviation": "ATH",
+      "league": "American League",
+      "advancedStats": {
+        "wOBA": "0.307",
+        "wRC": "-62.6",
+        "wRCPlus": -9,
+        "iso": "-0.233",
+        "babip": "0.284",
+        "kRate": "25.0",
+        "bbRate": "8.2",
+        "hrRate": "3.3"
+      },
+      "propBettingValue": {
+        "offensiveRating": "Below Average",
+        "powerRating": "Little Power",
+        "patienceRating": "Average Patience",
+        "contactRating": "Average Contact"
+      },
+      "lastUpdated": "2025-07-27T16:48:42.412Z"
+    },
+    "134": {
+      "teamId": 134,
+      "teamName": "Pittsburgh Pirates",
+      "abbreviation": "PIT",
+      "league": "National League",
+      "advancedStats": {
+        "wOBA": "0.299",
+        "wRC": "-102.0",
+        "wRCPlus": -14,
+        "iso": "-0.234",
+        "babip": "0.291",
+        "kRate": "24.8",
+        "bbRate": "8.0",
+        "hrRate": "2.6"
+      },
+      "propBettingValue": {
+        "offensiveRating": "Below Average",
+        "powerRating": "Little Power",
+        "patienceRating": "Average Patience",
+        "contactRating": "Average Contact"
+      },
+      "lastUpdated": "2025-07-27T16:48:42.919Z"
+    },
+    "135": {
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "abbreviation": "SD",
+      "league": "National League",
+      "advancedStats": {
+        "wOBA": "0.328",
+        "wRC": "38.9",
+        "wRCPlus": 5,
+        "iso": "-0.263",
+        "babip": "0.295",
+        "kRate": "17.7",
+        "bbRate": "7.5",
+        "hrRate": "3.1"
+      },
+      "propBettingValue": {
+        "offensiveRating": "Below Average",
+        "powerRating": "Little Power",
+        "patienceRating": "Average Patience",
+        "contactRating": "Good Contact"
+      },
+      "lastUpdated": "2025-07-27T16:48:43.424Z"
+    },
+    "136": {
+      "teamId": 136,
+      "teamName": "Seattle Mariners",
+      "abbreviation": "SEA",
+      "league": "American League",
+      "advancedStats": {
+        "wOBA": "0.308",
+        "wRC": "-58.1",
+        "wRCPlus": -8,
+        "iso": "-0.224",
+        "babip": "0.284",
+        "kRate": "26.9",
+        "bbRate": "9.4",
+        "hrRate": "3.1"
+      },
+      "propBettingValue": {
+        "offensiveRating": "Below Average",
+        "powerRating": "Little Power",
+        "patienceRating": "Good Patience",
+        "contactRating": "Strikeout Prone"
+      },
+      "lastUpdated": "2025-07-27T16:48:43.995Z"
+    },
+    "137": {
+      "teamId": 137,
+      "teamName": "San Francisco Giants",
+      "abbreviation": "SF",
+      "league": "National League",
+      "advancedStats": {
+        "wOBA": "0.310",
+        "wRC": "-48.4",
+        "wRCPlus": -7,
+        "iso": "-0.239",
+        "babip": "0.290",
+        "kRate": "24.0",
+        "bbRate": "8.1",
+        "hrRate": "2.9"
+      },
+      "propBettingValue": {
+        "offensiveRating": "Below Average",
+        "powerRating": "Little Power",
+        "patienceRating": "Average Patience",
+        "contactRating": "Average Contact"
+      },
+      "lastUpdated": "2025-07-27T16:48:44.508Z"
+    },
+    "138": {
+      "teamId": 138,
+      "teamName": "St. Louis Cardinals",
+      "abbreviation": "STL",
+      "league": "National League",
+      "advancedStats": {
+        "wOBA": "0.311",
+        "wRC": "-43.8",
+        "wRCPlus": -6,
+        "iso": "-0.248",
+        "babip": "0.294",
+        "kRate": "21.6",
+        "bbRate": "7.9",
+        "hrRate": "2.7"
+      },
+      "propBettingValue": {
+        "offensiveRating": "Below Average",
+        "powerRating": "Little Power",
+        "patienceRating": "Average Patience",
+        "contactRating": "Average Contact"
+      },
+      "lastUpdated": "2025-07-27T16:48:45.015Z"
+    },
+    "139": {
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "abbreviation": "TB",
+      "league": "American League",
+      "advancedStats": {
+        "wOBA": "0.298",
+        "wRC": "-105.5",
+        "wRCPlus": -15,
+        "iso": "-0.230",
+        "babip": "0.289",
+        "kRate": "24.8",
+        "bbRate": "8.2",
+        "hrRate": "2.5"
+      },
+      "propBettingValue": {
+        "offensiveRating": "Below Average",
+        "powerRating": "Little Power",
+        "patienceRating": "Average Patience",
+        "contactRating": "Average Contact"
+      },
+      "lastUpdated": "2025-07-27T16:48:45.536Z"
+    },
+    "140": {
+      "teamId": 140,
+      "teamName": "Texas Rangers",
+      "abbreviation": "TEX",
+      "league": "American League",
+      "advancedStats": {
+        "wOBA": "0.305",
+        "wRC": "-72.6",
+        "wRCPlus": -10,
+        "iso": "-0.238",
+        "babip": "0.279",
+        "kRate": "21.2",
+        "bbRate": "8.1",
+        "hrRate": "2.9"
+      },
+      "propBettingValue": {
+        "offensiveRating": "Below Average",
+        "powerRating": "Little Power",
+        "patienceRating": "Average Patience",
+        "contactRating": "Average Contact"
+      },
+      "lastUpdated": "2025-07-27T16:48:46.068Z"
+    },
+    "141": {
+      "teamId": 141,
+      "teamName": "Toronto Blue Jays",
+      "abbreviation": "TOR",
+      "league": "American League",
+      "advancedStats": {
+        "wOBA": "0.312",
+        "wRC": "-38.7",
+        "wRCPlus": -5,
+        "iso": "-0.241",
+        "babip": "0.283",
+        "kRate": "20.4",
+        "bbRate": "8.4",
+        "hrRate": "2.6"
+      },
+      "propBettingValue": {
+        "offensiveRating": "Below Average",
+        "powerRating": "Little Power",
+        "patienceRating": "Average Patience",
+        "contactRating": "Average Contact"
+      },
+      "lastUpdated": "2025-07-27T16:48:46.659Z"
+    },
+    "142": {
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
+      "abbreviation": "MIN",
+      "league": "American League",
+      "advancedStats": {
+        "wOBA": "0.320",
+        "wRC": "0.0",
+        "wRCPlus": 0,
+        "iso": "-0.246",
+        "babip": "0.289",
+        "kRate": "21.4",
+        "bbRate": "7.7",
+        "hrRate": "3.0"
+      },
+      "propBettingValue": {
+        "offensiveRating": "Below Average",
+        "powerRating": "Little Power",
+        "patienceRating": "Average Patience",
+        "contactRating": "Average Contact"
+      },
+      "lastUpdated": "2025-07-27T16:48:47.170Z"
+    },
+    "143": {
+      "teamId": 143,
+      "teamName": "Philadelphia Phillies",
+      "abbreviation": "PHI",
+      "league": "National League",
+      "advancedStats": {
+        "wOBA": "0.330",
+        "wRC": "49.2",
+        "wRCPlus": 7,
+        "iso": "-0.257",
+        "babip": "0.306",
+        "kRate": "22.3",
+        "bbRate": "8.4",
+        "hrRate": "3.2"
+      },
+      "propBettingValue": {
+        "offensiveRating": "Below Average",
+        "powerRating": "Little Power",
+        "patienceRating": "Average Patience",
+        "contactRating": "Average Contact"
+      },
+      "lastUpdated": "2025-07-27T16:48:47.681Z"
+    },
+    "144": {
+      "teamId": 144,
+      "teamName": "Atlanta Braves",
+      "abbreviation": "ATL",
+      "league": "National League",
+      "advancedStats": {
+        "wOBA": "0.319",
+        "wRC": "-4.9",
+        "wRCPlus": -1,
+        "iso": "-0.243",
+        "babip": "0.291",
+        "kRate": "24.1",
+        "bbRate": "8.0",
+        "hrRate": "3.5"
+      },
+      "propBettingValue": {
+        "offensiveRating": "Below Average",
+        "powerRating": "Little Power",
+        "patienceRating": "Average Patience",
+        "contactRating": "Average Contact"
+      },
+      "lastUpdated": "2025-07-27T16:48:48.215Z"
+    },
+    "145": {
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "abbreviation": "CWS",
+      "league": "American League",
+      "advancedStats": {
+        "wOBA": "0.276",
+        "wRC": "-205.8",
+        "wRCPlus": -29,
+        "iso": "-0.221",
+        "babip": "0.272",
+        "kRate": "24.0",
+        "bbRate": "6.8",
+        "hrRate": "2.3"
+      },
+      "propBettingValue": {
+        "offensiveRating": "Below Average",
+        "powerRating": "Little Power",
+        "patienceRating": "Aggressive Hitter",
+        "contactRating": "Average Contact"
+      },
+      "lastUpdated": "2025-07-27T16:48:48.723Z"
+    },
+    "146": {
+      "teamId": 146,
+      "teamName": "Miami Marlins",
+      "abbreviation": "MIA",
+      "league": "National League",
+      "advancedStats": {
+        "wOBA": "0.300",
+        "wRC": "-96.3",
+        "wRCPlus": -13,
+        "iso": "-0.244",
+        "babip": "0.299",
+        "kRate": "23.4",
+        "bbRate": "6.7",
+        "hrRate": "2.5"
+      },
+      "propBettingValue": {
+        "offensiveRating": "Below Average",
+        "powerRating": "Little Power",
+        "patienceRating": "Aggressive Hitter",
+        "contactRating": "Average Contact"
+      },
+      "lastUpdated": "2025-07-27T16:48:49.231Z"
+    },
+    "147": {
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "abbreviation": "NYY",
+      "league": "American League",
+      "advancedStats": {
+        "wOBA": "0.336",
+        "wRC": "79.7",
+        "wRCPlus": 11,
+        "iso": "-0.248",
+        "babip": "0.283",
+        "kRate": "21.3",
+        "bbRate": "10.8",
+        "hrRate": "3.8"
+      },
+      "propBettingValue": {
+        "offensiveRating": "Below Average",
+        "powerRating": "Little Power",
+        "patienceRating": "Good Patience",
+        "contactRating": "Average Contact"
+      },
+      "lastUpdated": "2025-07-27T16:48:49.741Z"
+    }
+  }
+}
