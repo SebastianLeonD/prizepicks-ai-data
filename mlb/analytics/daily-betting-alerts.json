@@ -1,0 +1,104 @@
+{
+  "lastUpdated": "2025-07-27T04:47:32.074Z",
+  "injuryAlerts": [],
+  "pitcherAlerts": [
+    {
+      "type": "Ace Pitcher Starting",
+      "game": "Arizona Diamondbacks @ Pittsburgh Pirates",
+      "pitcher": "Paul Skenes",
+      "recommendation": "Consider UNDER bets on opposing team hitting props"
+    },
+    {
+      "type": "Ace Pitcher Starting",
+      "game": "Philadelphia Phillies @ New York Yankees",
+      "pitcher": "Zack Wheeler",
+      "recommendation": "Consider UNDER bets on opposing team hitting props"
+    },
+    {
+      "type": "Ace Pitcher Starting",
+      "game": "Cleveland Guardians @ Kansas City Royals",
+      "pitcher": "Noah Cameron",
+      "recommendation": "Consider UNDER bets on opposing team hitting props"
+    },
+    {
+      "type": "Ace Pitcher Starting",
+      "game": "Miami Marlins @ Milwaukee Brewers",
+      "pitcher": "Brandon Woodruff",
+      "recommendation": "Consider UNDER bets on opposing team hitting props"
+    }
+  ],
+  "opportunityAlerts": [
+    {
+      "type": "Weak Pitcher Starting",
+      "game": "Colorado Rockies @ Baltimore Orioles",
+      "pitcher": "Austin Gomber",
+      "recommendation": "Consider OVER bets on opposing team hitting props"
+    },
+    {
+      "type": "Weak Pitcher Starting",
+      "game": "Los Angeles Dodgers @ Boston Red Sox",
+      "pitcher": "Dustin May",
+      "recommendation": "Consider OVER bets on opposing team hitting props"
+    },
+    {
+      "type": "Weak Pitcher Starting",
+      "game": "Arizona Diamondbacks @ Pittsburgh Pirates",
+      "pitcher": "Zac Gallen",
+      "recommendation": "Consider OVER bets on opposing team hitting props"
+    },
+    {
+      "type": "Weak Pitcher Starting",
+      "game": "Tampa Bay Rays @ Cincinnati Reds",
+      "pitcher": "Shane Baz",
+      "recommendation": "Consider OVER bets on opposing team hitting props"
+    },
+    {
+      "type": "Weak Pitcher Starting",
+      "game": "Toronto Blue Jays @ Detroit Tigers",
+      "pitcher": "Max Scherzer",
+      "recommendation": "Consider OVER bets on opposing team hitting props"
+    },
+    {
+      "type": "Weak Pitcher Starting",
+      "game": "Cleveland Guardians @ Kansas City Royals",
+      "pitcher": "Joey Cantillo",
+      "recommendation": "Consider OVER bets on opposing team hitting props"
+    },
+    {
+      "type": "Weak Pitcher Starting",
+      "game": "Athletics @ Houston Astros",
+      "pitcher": "Colton Gordon",
+      "recommendation": "Consider OVER bets on opposing team hitting props"
+    },
+    {
+      "type": "Weak Pitcher Starting",
+      "game": "Chicago Cubs @ Chicago White Sox",
+      "pitcher": "Ben Brown",
+      "recommendation": "Consider OVER bets on opposing team hitting props"
+    },
+    {
+      "type": "Weak Pitcher Starting",
+      "game": "Atlanta Braves @ Texas Rangers",
+      "pitcher": "Bryce Elder",
+      "recommendation": "Consider OVER bets on opposing team hitting props"
+    },
+    {
+      "type": "Weak Pitcher Starting",
+      "game": "Seattle Mariners @ Los Angeles Angels",
+      "pitcher": "Kyle Hendricks",
+      "recommendation": "Consider OVER bets on opposing team hitting props"
+    },
+    {
+      "type": "Weak Pitcher Starting",
+      "game": "New York Mets @ San Francisco Giants",
+      "pitcher": "Matt Gage",
+      "recommendation": "Consider OVER bets on opposing team hitting props"
+    }
+  ],
+  "recommendations": [
+    "Monitor injury reports 2-3 hours before games for late scratches",
+    "Check probable pitcher changes due to weather or rest",
+    "Focus on games with significant pitcher advantage mismatches",
+    "Key player injuries create value in team total UNDER bets"
+  ]
+}
