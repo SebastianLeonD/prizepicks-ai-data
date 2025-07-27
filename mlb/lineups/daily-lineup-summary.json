@@ -1,8 +1,8 @@
 {
   "date": "2025-07-27",
-  "lastUpdated": "2025-07-27T15:46:24.897Z",
+  "lastUpdated": "2025-07-27T17:45:53.889Z",
   "totalGames": 15,
-  "gamesWithLineups": 12,
+  "gamesWithLineups": 14,
   "keyInsights": {
     "topHitsTargets": [
       "Jonathan India (KC) - 1 spot",
@@ -188,18 +188,76 @@
       "matchup": "SEA @ LAA",
       "status": "P",
       "lineupStatus": {
-        "home": "Pending",
-        "away": "Pending"
+        "home": "Available",
+        "away": "Available"
       },
       "keyPlayers": {
-        "home": [],
-        "away": []
+        "home": [
+          {
+            "battingOrder": 1,
+            "name": "Zach Neto",
+            "position": "Shortstop",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 2,
+            "name": "Mike Trout",
+            "position": "Designated Hitter",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 3,
+            "name": "Nolan Schanuel",
+            "position": "First Base",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 4,
+            "name": "Taylor Ward",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          }
+        ],
+        "away": [
+          {
+            "battingOrder": 1,
+            "name": "J.P. Crawford",
+            "position": "Shortstop",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 2,
+            "name": "Julio Rodríguez",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 3,
+            "name": "Cal Raleigh",
+            "position": "Catcher",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 4,
+            "name": "Josh Naylor",
+            "position": "First Base",
+            "avg": ".000",
+            "homeRuns": 0
+          }
+        ]
       }
     },
     {
       "gameId": 776978,
       "matchup": "MIA @ MIL",
-      "status": "P",
+      "status": "L",
       "lineupStatus": {
         "home": "Available",
         "away": "Available"
@@ -270,10 +328,10 @@
     {
       "gameId": 776979,
       "matchup": "WSH @ MIN",
-      "status": "P",
+      "status": "L",
       "lineupStatus": {
         "home": "Available",
-        "away": "Pending"
+        "away": "Available"
       },
       "keyPlayers": {
         "home": [
@@ -306,16 +364,45 @@
             "homeRuns": 0
           }
         ],
-        "away": []
+        "away": [
+          {
+            "battingOrder": 1,
+            "name": "CJ Abrams",
+            "position": "Shortstop",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 2,
+            "name": "James Wood",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 3,
+            "name": "Luis García Jr.",
+            "position": "Second Base",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 4,
+            "name": "Josh Bell",
+            "position": "Designated Hitter",
+            "avg": ".000",
+            "homeRuns": 0
+          }
+        ]
       }
     },
     {
       "gameId": 776980,
       "matchup": "SD @ STL",
-      "status": "P",
+      "status": "L",
       "lineupStatus": {
         "home": "Available",
-        "away": "Pending"
+        "away": "Available"
       },
       "keyPlayers": {
         "home": [
@@ -348,7 +435,36 @@
             "homeRuns": 0
           }
         ],
-        "away": []
+        "away": [
+          {
+            "battingOrder": 1,
+            "name": "Fernando Tatis Jr.",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 2,
+            "name": "Luis Arraez",
+            "position": "First Base",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 3,
+            "name": "Manny Machado",
+            "position": "Third Base",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 4,
+            "name": "Jackson Merrill",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          }
+        ]
       }
     },
     {
@@ -356,11 +472,40 @@
       "matchup": "ATL @ TEX",
       "status": "P",
       "lineupStatus": {
-        "home": "Pending",
+        "home": "Available",
         "away": "Available"
       },
       "keyPlayers": {
-        "home": [],
+        "home": [
+          {
+            "battingOrder": 1,
+            "name": "Josh Smith",
+            "position": "First Base",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 2,
+            "name": "Corey Seager",
+            "position": "Shortstop",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 3,
+            "name": "Marcus Semien",
+            "position": "Second Base",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 4,
+            "name": "Adolis García",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          }
+        ],
         "away": [
           {
             "battingOrder": 1,
@@ -396,7 +541,7 @@
     {
       "gameId": 776982,
       "matchup": "TB @ CIN",
-      "status": "P",
+      "status": "L",
       "lineupStatus": {
         "home": "Available",
         "away": "Available"
@@ -538,7 +683,7 @@
     {
       "gameId": 776984,
       "matchup": "AZ @ PIT",
-      "status": "P",
+      "status": "L",
       "lineupStatus": {
         "home": "Available",
         "away": "Available"
@@ -680,7 +825,7 @@
     {
       "gameId": 776987,
       "matchup": "TOR @ DET",
-      "status": "P",
+      "status": "L",
       "lineupStatus": {
         "home": "Available",
         "away": "Available"
@@ -751,7 +896,7 @@
     {
       "gameId": 776988,
       "matchup": "PHI @ NYY",
-      "status": "P",
+      "status": "L",
       "lineupStatus": {
         "home": "Available",
         "away": "Available"
@@ -822,14 +967,72 @@
     {
       "gameId": 776989,
       "matchup": "CHC @ CWS",
-      "status": "P",
+      "status": "L",
       "lineupStatus": {
-        "home": "Pending",
-        "away": "Pending"
+        "home": "Available",
+        "away": "Available"
       },
       "keyPlayers": {
-        "home": [],
-        "away": []
+        "home": [
+          {
+            "battingOrder": 1,
+            "name": "Mike Tauchman",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 2,
+            "name": "Chase Meidroth",
+            "position": "Shortstop",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 3,
+            "name": "Andrew Benintendi",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 4,
+            "name": "Miguel Vargas",
+            "position": "First Base",
+            "avg": ".000",
+            "homeRuns": 0
+          }
+        ],
+        "away": [
+          {
+            "battingOrder": 1,
+            "name": "Michael Busch",
+            "position": "First Base",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 2,
+            "name": "Kyle Tucker",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 3,
+            "name": "Seiya Suzuki",
+            "position": "Designated Hitter",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 4,
+            "name": "Pete Crow-Armstrong",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          }
+        ]
       }
     }
   ]
