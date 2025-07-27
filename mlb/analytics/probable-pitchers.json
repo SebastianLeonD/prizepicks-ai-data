@@ -1,0 +1,1085 @@
+{
+  "date": "2025-07-27",
+  "lastUpdated": "2025-07-27T04:47:27.868Z",
+  "totalGames": 15,
+  "games": [
+    {
+      "gameId": 776986,
+      "gameTime": "2025-07-27T17:35:00Z",
+      "status": "Scheduled",
+      "venue": "Oriole Park at Camden Yards",
+      "teams": {
+        "away": {
+          "team": "Colorado Rockies",
+          "pitcher": {
+            "id": 596295,
+            "name": "Austin Gomber",
+            "seasonStats": {
+              "era": "6.03",
+              "whip": "1.66",
+              "wins": 0,
+              "losses": 4,
+              "strikeouts": 20,
+              "walks": 7,
+              "hitsAllowed": 50,
+              "homeRunsAllowed": 7,
+              "earnedRuns": 23,
+              "inningsPitched": "34.1",
+              "gamesStarted": 7
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 2.9,
+              "hitsAllowedPerGame": 7.1,
+              "walksAllowedPerGame": 1,
+              "earnedRunsAllowedPerGame": 3.3,
+              "pitchingOutsPerGame": 14.6,
+              "difficulty": "Poor"
+            }
+          }
+        },
+        "home": {
+          "team": "Baltimore Orioles",
+          "pitcher": {
+            "id": 608372,
+            "name": "Tomoyuki Sugano",
+            "seasonStats": {
+              "era": "4.54",
+              "whip": "1.35",
+              "wins": 7,
+              "losses": 5,
+              "strikeouts": 63,
+              "walks": 26,
+              "hitsAllowed": 113,
+              "homeRunsAllowed": 20,
+              "earnedRuns": 52,
+              "inningsPitched": "103.0",
+              "gamesStarted": 19
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 3.3,
+              "hitsAllowedPerGame": 5.9,
+              "walksAllowedPerGame": 1.4,
+              "earnedRunsAllowedPerGame": 2.7,
+              "pitchingOutsPerGame": 16.3,
+              "difficulty": "Poor"
+            }
+          }
+        }
+      },
+      "pitchingMatchup": {
+        "advantage": "Home Pitcher",
+        "awayAdvantage": false,
+        "homeAdvantage": true,
+        "totalExpectedScore": "High",
+        "strikoutPotential": "Low",
+        "analysis": "Austin Gomber (6.03 ERA) vs Tomoyuki Sugano (4.54 ERA). Expected scoring: High. Strikeout potential: Low."
+      }
+    },
+    {
+      "gameId": 776983,
+      "gameTime": "2025-07-27T17:35:00Z",
+      "status": "Scheduled",
+      "venue": "Fenway Park",
+      "teams": {
+        "away": {
+          "team": "Los Angeles Dodgers",
+          "pitcher": {
+            "id": 669160,
+            "name": "Dustin May",
+            "seasonStats": {
+              "era": "4.73",
+              "whip": "1.36",
+              "wins": 6,
+              "losses": 6,
+              "strikeouts": 92,
+              "walks": 43,
+              "hitsAllowed": 92,
+              "homeRunsAllowed": 15,
+              "earnedRuns": 52,
+              "inningsPitched": "99.0",
+              "gamesStarted": 17
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 5.4,
+              "hitsAllowedPerGame": 5.4,
+              "walksAllowedPerGame": 2.5,
+              "earnedRunsAllowedPerGame": 3.1,
+              "pitchingOutsPerGame": 17.5,
+              "difficulty": "Poor"
+            }
+          }
+        },
+        "home": {
+          "team": "Boston Red Sox",
+          "pitcher": {
+            "id": 621111,
+            "name": "Walker Buehler",
+            "seasonStats": {
+              "era": "5.72",
+              "whip": "1.52",
+              "wins": 6,
+              "losses": 6,
+              "strikeouts": 67,
+              "walks": 36,
+              "hitsAllowed": 93,
+              "homeRunsAllowed": 17,
+              "earnedRuns": 54,
+              "inningsPitched": "85.0",
+              "gamesStarted": 17
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 3.9,
+              "hitsAllowedPerGame": 5.5,
+              "walksAllowedPerGame": 2.1,
+              "earnedRunsAllowedPerGame": 3.2,
+              "pitchingOutsPerGame": 15,
+              "difficulty": "Poor"
+            }
+          }
+        }
+      },
+      "pitchingMatchup": {
+        "advantage": "Even",
+        "awayAdvantage": false,
+        "homeAdvantage": false,
+        "totalExpectedScore": "High",
+        "strikoutPotential": "Low",
+        "analysis": "Dustin May (4.73 ERA) vs Walker Buehler (5.72 ERA). Expected scoring: High. Strikeout potential: Low."
+      }
+    },
+    {
+      "gameId": 776984,
+      "gameTime": "2025-07-27T17:35:00Z",
+      "status": "Scheduled",
+      "venue": "PNC Park",
+      "teams": {
+        "away": {
+          "team": "Arizona Diamondbacks",
+          "pitcher": {
+            "id": 668678,
+            "name": "Zac Gallen",
+            "seasonStats": {
+              "era": "5.58",
+              "whip": "1.37",
+              "wins": 7,
+              "losses": 11,
+              "strikeouts": 116,
+              "walks": 46,
+              "hitsAllowed": 120,
+              "homeRunsAllowed": 23,
+              "earnedRuns": 75,
+              "inningsPitched": "121.0",
+              "gamesStarted": 21
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 5.5,
+              "hitsAllowedPerGame": 5.7,
+              "walksAllowedPerGame": 2.2,
+              "earnedRunsAllowedPerGame": 3.6,
+              "pitchingOutsPerGame": 17.3,
+              "difficulty": "Poor"
+            }
+          }
+        },
+        "home": {
+          "team": "Pittsburgh Pirates",
+          "pitcher": {
+            "id": 694973,
+            "name": "Paul Skenes",
+            "seasonStats": {
+              "era": "1.91",
+              "whip": "0.91",
+              "wins": 5,
+              "losses": 8,
+              "strikeouts": 137,
+              "walks": 31,
+              "hitsAllowed": 85,
+              "homeRunsAllowed": 6,
+              "earnedRuns": 27,
+              "inningsPitched": "127.0",
+              "gamesStarted": 21
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 6.5,
+              "hitsAllowedPerGame": 4,
+              "walksAllowedPerGame": 1.5,
+              "earnedRunsAllowedPerGame": 1.3,
+              "pitchingOutsPerGame": 18.1,
+              "difficulty": "Ace"
+            }
+          }
+        }
+      },
+      "pitchingMatchup": {
+        "advantage": "Home Pitcher",
+        "awayAdvantage": false,
+        "homeAdvantage": true,
+        "totalExpectedScore": "Medium",
+        "strikoutPotential": "Low",
+        "analysis": "Zac Gallen (5.58 ERA) vs Paul Skenes (1.91 ERA). Expected scoring: Medium. Strikeout potential: Low."
+      }
+    },
+    {
+      "gameId": 776988,
+      "gameTime": "2025-07-27T17:35:00Z",
+      "status": "Scheduled",
+      "venue": "Yankee Stadium",
+      "teams": {
+        "away": {
+          "team": "Philadelphia Phillies",
+          "pitcher": {
+            "id": 554430,
+            "name": "Zack Wheeler",
+            "seasonStats": {
+              "era": "2.39",
+              "whip": "0.88",
+              "wins": 9,
+              "losses": 3,
+              "strikeouts": 164,
+              "walks": 26,
+              "hitsAllowed": 86,
+              "homeRunsAllowed": 14,
+              "earnedRuns": 34,
+              "inningsPitched": "128.0",
+              "gamesStarted": 20
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 8.2,
+              "hitsAllowedPerGame": 4.3,
+              "walksAllowedPerGame": 1.3,
+              "earnedRunsAllowedPerGame": 1.7,
+              "pitchingOutsPerGame": 19.2,
+              "difficulty": "Ace"
+            }
+          }
+        },
+        "home": {
+          "team": "New York Yankees",
+          "pitcher": {
+            "id": 607074,
+            "name": "Carlos Rodón",
+            "seasonStats": {
+              "era": "3.10",
+              "whip": "1.05",
+              "wins": 10,
+              "losses": 7,
+              "strikeouts": 139,
+              "walks": 46,
+              "hitsAllowed": 85,
+              "homeRunsAllowed": 15,
+              "earnedRuns": 43,
+              "inningsPitched": "124.2",
+              "gamesStarted": 21
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 6.6,
+              "hitsAllowedPerGame": 4,
+              "walksAllowedPerGame": 2.2,
+              "earnedRunsAllowedPerGame": 2,
+              "pitchingOutsPerGame": 17.7,
+              "difficulty": "Strong"
+            }
+          }
+        }
+      },
+      "pitchingMatchup": {
+        "advantage": "Even",
+        "awayAdvantage": false,
+        "homeAdvantage": false,
+        "totalExpectedScore": "Low",
+        "strikoutPotential": "Medium",
+        "analysis": "Zack Wheeler (2.39 ERA) vs Carlos Rodón (3.1 ERA). Expected scoring: Low. Strikeout potential: Medium."
+      }
+    },
+    {
+      "gameId": 776982,
+      "gameTime": "2025-07-27T17:40:00Z",
+      "status": "Scheduled",
+      "venue": "Great American Ball Park",
+      "teams": {
+        "away": {
+          "team": "Tampa Bay Rays",
+          "pitcher": {
+            "id": 669358,
+            "name": "Shane Baz",
+            "seasonStats": {
+              "era": "4.66",
+              "whip": "1.30",
+              "wins": 8,
+              "losses": 6,
+              "strikeouts": 111,
+              "walks": 42,
+              "hitsAllowed": 106,
+              "homeRunsAllowed": 19,
+              "earnedRuns": 59,
+              "inningsPitched": "114.0",
+              "gamesStarted": 20
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 5.5,
+              "hitsAllowedPerGame": 5.3,
+              "walksAllowedPerGame": 2.1,
+              "earnedRunsAllowedPerGame": 3,
+              "pitchingOutsPerGame": 17.1,
+              "difficulty": "Poor"
+            }
+          }
+        },
+        "home": {
+          "team": "Cincinnati Reds",
+          "pitcher": {
+            "id": 663903,
+            "name": "Brady Singer",
+            "seasonStats": {
+              "era": "4.84",
+              "whip": "1.39",
+              "wins": 7,
+              "losses": 8,
+              "strikeouts": 93,
+              "walks": 42,
+              "hitsAllowed": 100,
+              "homeRunsAllowed": 12,
+              "earnedRuns": 55,
+              "inningsPitched": "102.1",
+              "gamesStarted": 20
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 4.7,
+              "hitsAllowedPerGame": 5,
+              "walksAllowedPerGame": 2.1,
+              "earnedRunsAllowedPerGame": 2.8,
+              "pitchingOutsPerGame": 15.3,
+              "difficulty": "Poor"
+            }
+          }
+        }
+      },
+      "pitchingMatchup": {
+        "advantage": "Even",
+        "awayAdvantage": false,
+        "homeAdvantage": false,
+        "totalExpectedScore": "High",
+        "strikoutPotential": "Low",
+        "analysis": "Shane Baz (4.66 ERA) vs Brady Singer (4.84 ERA). Expected scoring: High. Strikeout potential: Low."
+      }
+    },
+    {
+      "gameId": 776987,
+      "gameTime": "2025-07-27T17:40:00Z",
+      "status": "Scheduled",
+      "venue": "Comerica Park",
+      "teams": {
+        "away": {
+          "team": "Toronto Blue Jays",
+          "pitcher": {
+            "id": 453286,
+            "name": "Max Scherzer",
+            "seasonStats": {
+              "era": "5.14",
+              "whip": "1.25",
+              "wins": 1,
+              "losses": 0,
+              "strikeouts": 28,
+              "walks": 8,
+              "hitsAllowed": 27,
+              "homeRunsAllowed": 7,
+              "earnedRuns": 16,
+              "inningsPitched": "28.0",
+              "gamesStarted": 6
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 4.7,
+              "hitsAllowedPerGame": 4.5,
+              "walksAllowedPerGame": 1.3,
+              "earnedRunsAllowedPerGame": 2.7,
+              "pitchingOutsPerGame": 14,
+              "difficulty": "Poor"
+            }
+          }
+        },
+        "home": {
+          "team": "Detroit Tigers",
+          "pitcher": {
+            "id": 656427,
+            "name": "Jack Flaherty",
+            "seasonStats": {
+              "era": "4.77",
+              "whip": "1.29",
+              "wins": 5,
+              "losses": 10,
+              "strikeouts": 130,
+              "walks": 43,
+              "hitsAllowed": 91,
+              "homeRunsAllowed": 19,
+              "earnedRuns": 55,
+              "inningsPitched": "103.2",
+              "gamesStarted": 20
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 6.5,
+              "hitsAllowedPerGame": 4.5,
+              "walksAllowedPerGame": 2.1,
+              "earnedRunsAllowedPerGame": 2.8,
+              "pitchingOutsPerGame": 15.5,
+              "difficulty": "Poor"
+            }
+          }
+        }
+      },
+      "pitchingMatchup": {
+        "advantage": "Even",
+        "awayAdvantage": false,
+        "homeAdvantage": false,
+        "totalExpectedScore": "High",
+        "strikoutPotential": "Low",
+        "analysis": "Max Scherzer (5.14 ERA) vs Jack Flaherty (4.77 ERA). Expected scoring: High. Strikeout potential: Low."
+      }
+    },
+    {
+      "gameId": 776975,
+      "gameTime": "2025-07-27T18:10:00Z",
+      "status": "Scheduled",
+      "venue": "Kauffman Stadium",
+      "teams": {
+        "away": {
+          "team": "Cleveland Guardians",
+          "pitcher": {
+            "id": 676282,
+            "name": "Joey Cantillo",
+            "seasonStats": {
+              "era": "3.91",
+              "whip": "1.41",
+              "wins": 2,
+              "losses": 0,
+              "strikeouts": 59,
+              "walks": 24,
+              "hitsAllowed": 41,
+              "homeRunsAllowed": 7,
+              "earnedRuns": 20,
+              "inningsPitched": "46.0",
+              "gamesStarted": 4
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 14.8,
+              "hitsAllowedPerGame": 10.3,
+              "walksAllowedPerGame": 6,
+              "earnedRunsAllowedPerGame": 5,
+              "pitchingOutsPerGame": 34.5,
+              "difficulty": "Poor"
+            }
+          }
+        },
+        "home": {
+          "team": "Kansas City Royals",
+          "pitcher": {
+            "id": 702070,
+            "name": "Noah Cameron",
+            "seasonStats": {
+              "era": "2.61",
+              "whip": "1.01",
+              "wins": 4,
+              "losses": 4,
+              "strikeouts": 65,
+              "walks": 22,
+              "hitsAllowed": 55,
+              "homeRunsAllowed": 9,
+              "earnedRuns": 22,
+              "inningsPitched": "76.0",
+              "gamesStarted": 13
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 5,
+              "hitsAllowedPerGame": 4.2,
+              "walksAllowedPerGame": 1.7,
+              "earnedRunsAllowedPerGame": 1.7,
+              "pitchingOutsPerGame": 17.5,
+              "difficulty": "Ace"
+            }
+          }
+        }
+      },
+      "pitchingMatchup": {
+        "advantage": "Home Pitcher",
+        "awayAdvantage": false,
+        "homeAdvantage": true,
+        "totalExpectedScore": "Low",
+        "strikoutPotential": "High",
+        "analysis": "Joey Cantillo (3.91 ERA) vs Noah Cameron (2.61 ERA). Expected scoring: Low. Strikeout potential: High."
+      }
+    },
+    {
+      "gameId": 776976,
+      "gameTime": "2025-07-27T18:10:00Z",
+      "status": "Scheduled",
+      "venue": "Daikin Park",
+      "teams": {
+        "away": {
+          "team": "Athletics",
+          "pitcher": {
+            "id": 669372,
+            "name": "J.T. Ginn",
+            "seasonStats": {
+              "era": "4.50",
+              "whip": "1.29",
+              "wins": 1,
+              "losses": 2,
+              "strikeouts": 43,
+              "walks": 10,
+              "hitsAllowed": 39,
+              "homeRunsAllowed": 9,
+              "earnedRuns": 19,
+              "inningsPitched": "38.0",
+              "gamesStarted": 5
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 8.6,
+              "hitsAllowedPerGame": 7.8,
+              "walksAllowedPerGame": 2,
+              "earnedRunsAllowedPerGame": 3.8,
+              "pitchingOutsPerGame": 22.8,
+              "difficulty": "Below Average"
+            }
+          }
+        },
+        "home": {
+          "team": "Houston Astros",
+          "pitcher": {
+            "id": 676467,
+            "name": "Colton Gordon",
+            "seasonStats": {
+              "era": "4.53",
+              "whip": "1.44",
+              "wins": 4,
+              "losses": 2,
+              "strikeouts": 48,
+              "walks": 11,
+              "hitsAllowed": 72,
+              "homeRunsAllowed": 11,
+              "earnedRuns": 29,
+              "inningsPitched": "57.2",
+              "gamesStarted": 11
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 4.4,
+              "hitsAllowedPerGame": 6.5,
+              "walksAllowedPerGame": 1,
+              "earnedRunsAllowedPerGame": 2.6,
+              "pitchingOutsPerGame": 15.6,
+              "difficulty": "Poor"
+            }
+          }
+        }
+      },
+      "pitchingMatchup": {
+        "advantage": "Even",
+        "awayAdvantage": false,
+        "homeAdvantage": false,
+        "totalExpectedScore": "High",
+        "strikoutPotential": "Medium",
+        "analysis": "J.T. Ginn (4.5 ERA) vs Colton Gordon (4.53 ERA). Expected scoring: High. Strikeout potential: Medium."
+      }
+    },
+    {
+      "gameId": 776979,
+      "gameTime": "2025-07-27T18:10:00Z",
+      "status": "Scheduled",
+      "venue": "Target Field",
+      "teams": {
+        "away": {
+          "team": "Washington Nationals",
+          "pitcher": {
+            "id": 663623,
+            "name": "Jake Irvin",
+            "seasonStats": {
+              "era": "4.81",
+              "whip": "1.33",
+              "wins": 7,
+              "losses": 5,
+              "strikeouts": 84,
+              "walks": 41,
+              "hitsAllowed": 118,
+              "homeRunsAllowed": 22,
+              "earnedRuns": 64,
+              "inningsPitched": "119.2",
+              "gamesStarted": 21
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 4,
+              "hitsAllowedPerGame": 5.6,
+              "walksAllowedPerGame": 2,
+              "earnedRunsAllowedPerGame": 3,
+              "pitchingOutsPerGame": 17,
+              "difficulty": "Poor"
+            }
+          }
+        },
+        "home": {
+          "team": "Minnesota Twins",
+          "pitcher": null
+        }
+      },
+      "pitchingMatchup": null
+    },
+    {
+      "gameId": 776989,
+      "gameTime": "2025-07-27T18:10:00Z",
+      "status": "Scheduled",
+      "venue": "Rate Field",
+      "teams": {
+        "away": {
+          "team": "Chicago Cubs",
+          "pitcher": {
+            "id": 676962,
+            "name": "Ben Brown",
+            "seasonStats": {
+              "era": "6.48",
+              "whip": "1.54",
+              "wins": 4,
+              "losses": 7,
+              "strikeouts": 95,
+              "walks": 27,
+              "hitsAllowed": 101,
+              "homeRunsAllowed": 15,
+              "earnedRuns": 60,
+              "inningsPitched": "83.1",
+              "gamesStarted": 14
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 6.8,
+              "hitsAllowedPerGame": 7.2,
+              "walksAllowedPerGame": 1.9,
+              "earnedRunsAllowedPerGame": 4.3,
+              "pitchingOutsPerGame": 17.8,
+              "difficulty": "Poor"
+            }
+          }
+        },
+        "home": {
+          "team": "Chicago White Sox",
+          "pitcher": {
+            "id": 691799,
+            "name": "Grant Taylor",
+            "seasonStats": {
+              "era": "3.93",
+              "whip": "1.15",
+              "wins": 0,
+              "losses": 1,
+              "strikeouts": 23,
+              "walks": 6,
+              "hitsAllowed": 15,
+              "homeRunsAllowed": 0,
+              "earnedRuns": 8,
+              "inningsPitched": "18.1",
+              "gamesStarted": 1
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 23,
+              "hitsAllowedPerGame": 15,
+              "walksAllowedPerGame": 6,
+              "earnedRunsAllowedPerGame": 8,
+              "pitchingOutsPerGame": 54.3,
+              "difficulty": "Average"
+            }
+          }
+        }
+      },
+      "pitchingMatchup": {
+        "advantage": "Home Pitcher",
+        "awayAdvantage": false,
+        "homeAdvantage": true,
+        "totalExpectedScore": "High",
+        "strikoutPotential": "High",
+        "analysis": "Ben Brown (6.48 ERA) vs Grant Taylor (3.93 ERA). Expected scoring: High. Strikeout potential: High."
+      }
+    },
+    {
+      "gameId": 776978,
+      "gameTime": "2025-07-27T18:10:00Z",
+      "status": "Scheduled",
+      "venue": "American Family Field",
+      "teams": {
+        "away": {
+          "team": "Miami Marlins",
+          "pitcher": {
+            "id": 691587,
+            "name": "Eury Pérez",
+            "seasonStats": {
+              "era": "3.23",
+              "whip": "0.97",
+              "wins": 3,
+              "losses": 3,
+              "strikeouts": 40,
+              "walks": 13,
+              "hitsAllowed": 25,
+              "homeRunsAllowed": 2,
+              "earnedRuns": 14,
+              "inningsPitched": "39.0",
+              "gamesStarted": 8
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 5,
+              "hitsAllowedPerGame": 3.1,
+              "walksAllowedPerGame": 1.6,
+              "earnedRunsAllowedPerGame": 1.8,
+              "pitchingOutsPerGame": 14.6,
+              "difficulty": "Strong"
+            }
+          }
+        },
+        "home": {
+          "team": "Milwaukee Brewers",
+          "pitcher": {
+            "id": 605540,
+            "name": "Brandon Woodruff",
+            "seasonStats": {
+              "era": "1.65",
+              "whip": "0.55",
+              "wins": 2,
+              "losses": 0,
+              "strikeouts": 23,
+              "walks": 0,
+              "hitsAllowed": 9,
+              "homeRunsAllowed": 3,
+              "earnedRuns": 3,
+              "inningsPitched": "16.1",
+              "gamesStarted": 3
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 7.7,
+              "hitsAllowedPerGame": 3,
+              "walksAllowedPerGame": 0,
+              "earnedRunsAllowedPerGame": 1,
+              "pitchingOutsPerGame": 16.1,
+              "difficulty": "Ace"
+            }
+          }
+        }
+      },
+      "pitchingMatchup": {
+        "advantage": "Home Pitcher",
+        "awayAdvantage": false,
+        "homeAdvantage": true,
+        "totalExpectedScore": "Low",
+        "strikoutPotential": "Medium",
+        "analysis": "Eury Pérez (3.23 ERA) vs Brandon Woodruff (1.65 ERA). Expected scoring: Low. Strikeout potential: Medium."
+      }
+    },
+    {
+      "gameId": 776980,
+      "gameTime": "2025-07-27T18:15:00Z",
+      "status": "Scheduled",
+      "venue": "Busch Stadium",
+      "teams": {
+        "away": {
+          "team": "San Diego Padres",
+          "pitcher": {
+            "id": 663568,
+            "name": "Stephen Kolek",
+            "seasonStats": {
+              "era": "4.28",
+              "whip": "1.32",
+              "wins": 3,
+              "losses": 5,
+              "strikeouts": 54,
+              "walks": 23,
+              "hitsAllowed": 74,
+              "homeRunsAllowed": 7,
+              "earnedRuns": 35,
+              "inningsPitched": "73.2",
+              "gamesStarted": 13
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 4.2,
+              "hitsAllowedPerGame": 5.7,
+              "walksAllowedPerGame": 1.8,
+              "earnedRunsAllowedPerGame": 2.7,
+              "pitchingOutsPerGame": 16.9,
+              "difficulty": "Below Average"
+            }
+          }
+        },
+        "home": {
+          "team": "St. Louis Cardinals",
+          "pitcher": {
+            "id": 700241,
+            "name": "Michael McGreevy",
+            "seasonStats": {
+              "era": "3.49",
+              "whip": "1.02",
+              "wins": 2,
+              "losses": 1,
+              "strikeouts": 17,
+              "walks": 3,
+              "hitsAllowed": 26,
+              "homeRunsAllowed": 2,
+              "earnedRuns": 11,
+              "inningsPitched": "28.1",
+              "gamesStarted": 4
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 4.3,
+              "hitsAllowedPerGame": 6.5,
+              "walksAllowedPerGame": 0.8,
+              "earnedRunsAllowedPerGame": 2.8,
+              "pitchingOutsPerGame": 21.1,
+              "difficulty": "Strong"
+            }
+          }
+        }
+      },
+      "pitchingMatchup": {
+        "advantage": "Even",
+        "awayAdvantage": false,
+        "homeAdvantage": false,
+        "totalExpectedScore": "Medium",
+        "strikoutPotential": "Low",
+        "analysis": "Stephen Kolek (4.28 ERA) vs Michael McGreevy (3.49 ERA). Expected scoring: Medium. Strikeout potential: Low."
+      }
+    },
+    {
+      "gameId": 776981,
+      "gameTime": "2025-07-27T18:35:00Z",
+      "status": "Scheduled",
+      "venue": "Globe Life Field",
+      "teams": {
+        "away": {
+          "team": "Atlanta Braves",
+          "pitcher": {
+            "id": 693821,
+            "name": "Bryce Elder",
+            "seasonStats": {
+              "era": "5.63",
+              "whip": "1.55",
+              "wins": 4,
+              "losses": 6,
+              "strikeouts": 70,
+              "walks": 31,
+              "hitsAllowed": 100,
+              "homeRunsAllowed": 16,
+              "earnedRuns": 53,
+              "inningsPitched": "84.2",
+              "gamesStarted": 16
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 4.4,
+              "hitsAllowedPerGame": 6.3,
+              "walksAllowedPerGame": 1.9,
+              "earnedRunsAllowedPerGame": 3.3,
+              "pitchingOutsPerGame": 15.8,
+              "difficulty": "Poor"
+            }
+          }
+        },
+        "home": {
+          "team": "Texas Rangers",
+          "pitcher": {
+            "id": 683004,
+            "name": "Jack Leiter",
+            "seasonStats": {
+              "era": "4.27",
+              "whip": "1.36",
+              "wins": 6,
+              "losses": 6,
+              "strikeouts": 76,
+              "walks": 42,
+              "hitsAllowed": 75,
+              "homeRunsAllowed": 11,
+              "earnedRuns": 41,
+              "inningsPitched": "86.1",
+              "gamesStarted": 17
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 4.5,
+              "hitsAllowedPerGame": 4.4,
+              "walksAllowedPerGame": 2.5,
+              "earnedRunsAllowedPerGame": 2.4,
+              "pitchingOutsPerGame": 15.2,
+              "difficulty": "Below Average"
+            }
+          }
+        }
+      },
+      "pitchingMatchup": {
+        "advantage": "Home Pitcher",
+        "awayAdvantage": false,
+        "homeAdvantage": true,
+        "totalExpectedScore": "High",
+        "strikoutPotential": "Low",
+        "analysis": "Bryce Elder (5.63 ERA) vs Jack Leiter (4.27 ERA). Expected scoring: High. Strikeout potential: Low."
+      }
+    },
+    {
+      "gameId": 776977,
+      "gameTime": "2025-07-27T20:07:00Z",
+      "status": "Scheduled",
+      "venue": "Angel Stadium",
+      "teams": {
+        "away": {
+          "team": "Seattle Mariners",
+          "pitcher": {
+            "id": 669302,
+            "name": "Logan Gilbert",
+            "seasonStats": {
+              "era": "3.07",
+              "whip": "0.98",
+              "wins": 3,
+              "losses": 3,
+              "strikeouts": 98,
+              "walks": 15,
+              "hitsAllowed": 51,
+              "homeRunsAllowed": 9,
+              "earnedRuns": 23,
+              "inningsPitched": "67.1",
+              "gamesStarted": 13
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 7.5,
+              "hitsAllowedPerGame": 3.9,
+              "walksAllowedPerGame": 1.2,
+              "earnedRunsAllowedPerGame": 1.8,
+              "pitchingOutsPerGame": 15.5,
+              "difficulty": "Strong"
+            }
+          }
+        },
+        "home": {
+          "team": "Los Angeles Angels",
+          "pitcher": {
+            "id": 543294,
+            "name": "Kyle Hendricks",
+            "seasonStats": {
+              "era": "4.92",
+              "whip": "1.29",
+              "wins": 5,
+              "losses": 7,
+              "strikeouts": 67,
+              "walks": 25,
+              "hitsAllowed": 105,
+              "homeRunsAllowed": 17,
+              "earnedRuns": 55,
+              "inningsPitched": "100.2",
+              "gamesStarted": 19
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 3.5,
+              "hitsAllowedPerGame": 5.5,
+              "walksAllowedPerGame": 1.3,
+              "earnedRunsAllowedPerGame": 2.9,
+              "pitchingOutsPerGame": 15.8,
+              "difficulty": "Poor"
+            }
+          }
+        }
+      },
+      "pitchingMatchup": {
+        "advantage": "Away Pitcher",
+        "awayAdvantage": true,
+        "homeAdvantage": false,
+        "totalExpectedScore": "Medium",
+        "strikoutPotential": "Low",
+        "analysis": "Logan Gilbert (3.07 ERA) vs Kyle Hendricks (4.92 ERA). Expected scoring: Medium. Strikeout potential: Low."
+      }
+    },
+    {
+      "gameId": 776974,
+      "gameTime": "2025-07-27T23:10:00Z",
+      "status": "Scheduled",
+      "venue": "Oracle Park",
+      "teams": {
+        "away": {
+          "team": "New York Mets",
+          "pitcher": {
+            "id": 673540,
+            "name": "Kodai Senga",
+            "seasonStats": {
+              "era": "1.79",
+              "whip": "1.18",
+              "wins": 7,
+              "losses": 3,
+              "strikeouts": 79,
+              "walks": 36,
+              "hitsAllowed": 59,
+              "homeRunsAllowed": 5,
+              "earnedRuns": 16,
+              "inningsPitched": "80.2",
+              "gamesStarted": 15
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 5.3,
+              "hitsAllowedPerGame": 3.9,
+              "walksAllowedPerGame": 2.4,
+              "earnedRunsAllowedPerGame": 1.1,
+              "pitchingOutsPerGame": 16,
+              "difficulty": "Strong"
+            }
+          }
+        },
+        "home": {
+          "team": "San Francisco Giants",
+          "pitcher": {
+            "id": 657424,
+            "name": "Matt Gage",
+            "seasonStats": {
+              "era": "0.00",
+              "whip": "1.14",
+              "wins": 0,
+              "losses": 0,
+              "strikeouts": 7,
+              "walks": 3,
+              "hitsAllowed": 8,
+              "homeRunsAllowed": 0,
+              "earnedRuns": 0,
+              "inningsPitched": "9.2",
+              "gamesStarted": 9
+            },
+            "recentForm": null,
+            "propAnalysis": {
+              "strikeoutsPerGame": 0.8,
+              "hitsAllowedPerGame": 0.9,
+              "walksAllowedPerGame": 0.3,
+              "earnedRunsAllowedPerGame": 0,
+              "pitchingOutsPerGame": 3.1,
+              "difficulty": "Poor"
+            }
+          }
+        }
+      },
+      "pitchingMatchup": {
+        "advantage": "Away Pitcher",
+        "awayAdvantage": true,
+        "homeAdvantage": false,
+        "totalExpectedScore": "Low",
+        "strikoutPotential": "Low",
+        "analysis": "Kodai Senga (1.79 ERA) vs Matt Gage (4.5 ERA). Expected scoring: Low. Strikeout potential: Low."
+      }
+    }
+  ]
+}
