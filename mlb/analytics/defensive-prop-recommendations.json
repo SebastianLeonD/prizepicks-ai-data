@@ -1,0 +1,606 @@
+{
+  "lastUpdated": "2025-07-27T04:41:31.813Z",
+  "description": "Betting recommendations based on team defensive rankings",
+  "propRecommendations": {
+    "hits": {
+      "propName": "Hits Allowed",
+      "strongDefense": {
+        "description": "Teams that allow the fewest hits allowed",
+        "recommendation": "Consider UNDER bets against these teams",
+        "teams": [
+          {
+            "rank": 1,
+            "team": "Texas Rangers (TEX)",
+            "value": 7.48,
+            "defensiveRating": 100
+          },
+          {
+            "rank": 2,
+            "team": "San Diego Padres (SD)",
+            "value": 7.55,
+            "defensiveRating": 97
+          },
+          {
+            "rank": 3,
+            "team": "Houston Astros (HOU)",
+            "value": 7.62,
+            "defensiveRating": 93
+          },
+          {
+            "rank": 4,
+            "team": "New York Yankees (NYY)",
+            "value": 7.62,
+            "defensiveRating": 90
+          },
+          {
+            "rank": 5,
+            "team": "Milwaukee Brewers (MIL)",
+            "value": 7.7,
+            "defensiveRating": 86
+          }
+        ]
+      },
+      "weakDefense": {
+        "description": "Teams that allow the most hits allowed",
+        "recommendation": "Consider OVER bets against these teams",
+        "teams": [
+          {
+            "rank": 26,
+            "team": "Los Angeles Angels (LAA)",
+            "value": 8.89,
+            "defensiveRating": 14
+          },
+          {
+            "rank": 27,
+            "team": "Athletics (ATH)",
+            "value": 8.99,
+            "defensiveRating": 10
+          },
+          {
+            "rank": 28,
+            "team": "Washington Nationals (WSH)",
+            "value": 9.02,
+            "defensiveRating": 7
+          },
+          {
+            "rank": 29,
+            "team": "Baltimore Orioles (BAL)",
+            "value": 9.07,
+            "defensiveRating": 3
+          },
+          {
+            "rank": 30,
+            "team": "Colorado Rockies (COL)",
+            "value": 10.37,
+            "defensiveRating": 0
+          }
+        ]
+      }
+    },
+    "homeRuns": {
+      "propName": "Home Runs Allowed",
+      "strongDefense": {
+        "description": "Teams that allow the fewest home runs allowed",
+        "recommendation": "Consider UNDER bets against these teams",
+        "teams": [
+          {
+            "rank": 1,
+            "team": "San Francisco Giants (SF)",
+            "value": 0.85,
+            "defensiveRating": 100
+          },
+          {
+            "rank": 2,
+            "team": "New York Mets (NYM)",
+            "value": 0.86,
+            "defensiveRating": 97
+          },
+          {
+            "rank": 3,
+            "team": "Texas Rangers (TEX)",
+            "value": 0.9,
+            "defensiveRating": 93
+          },
+          {
+            "rank": 4,
+            "team": "Pittsburgh Pirates (PIT)",
+            "value": 0.93,
+            "defensiveRating": 90
+          },
+          {
+            "rank": 5,
+            "team": "St. Louis Cardinals (STL)",
+            "value": 0.95,
+            "defensiveRating": 86
+          }
+        ]
+      },
+      "weakDefense": {
+        "description": "Teams that allow the most home runs allowed",
+        "recommendation": "Consider OVER bets against these teams",
+        "teams": [
+          {
+            "rank": 26,
+            "team": "Toronto Blue Jays (TOR)",
+            "value": 1.32,
+            "defensiveRating": 14
+          },
+          {
+            "rank": 27,
+            "team": "Los Angeles Angels (LAA)",
+            "value": 1.33,
+            "defensiveRating": 10
+          },
+          {
+            "rank": 28,
+            "team": "Colorado Rockies (COL)",
+            "value": 1.38,
+            "defensiveRating": 7
+          },
+          {
+            "rank": 29,
+            "team": "Baltimore Orioles (BAL)",
+            "value": 1.4,
+            "defensiveRating": 3
+          },
+          {
+            "rank": 30,
+            "team": "Athletics (ATH)",
+            "value": 1.47,
+            "defensiveRating": 0
+          }
+        ]
+      }
+    },
+    "runs": {
+      "propName": "Runs Allowed",
+      "strongDefense": {
+        "description": "Teams that allow the fewest runs allowed",
+        "recommendation": "Consider UNDER bets against these teams",
+        "teams": [
+          {
+            "rank": 1,
+            "team": "Texas Rangers (TEX)",
+            "value": 3.45,
+            "defensiveRating": 100
+          },
+          {
+            "rank": 2,
+            "team": "Kansas City Royals (KC)",
+            "value": 3.75,
+            "defensiveRating": 97
+          },
+          {
+            "rank": 3,
+            "team": "San Diego Padres (SD)",
+            "value": 3.85,
+            "defensiveRating": 93
+          },
+          {
+            "rank": 4,
+            "team": "Milwaukee Brewers (MIL)",
+            "value": 3.88,
+            "defensiveRating": 90
+          },
+          {
+            "rank": 5,
+            "team": "New York Mets (NYM)",
+            "value": 3.89,
+            "defensiveRating": 86
+          }
+        ]
+      },
+      "weakDefense": {
+        "description": "Teams that allow the most runs allowed",
+        "recommendation": "Consider OVER bets against these teams",
+        "teams": [
+          {
+            "rank": 26,
+            "team": "Los Angeles Angels (LAA)",
+            "value": 5,
+            "defensiveRating": 14
+          },
+          {
+            "rank": 27,
+            "team": "Baltimore Orioles (BAL)",
+            "value": 5.09,
+            "defensiveRating": 10
+          },
+          {
+            "rank": 28,
+            "team": "Washington Nationals (WSH)",
+            "value": 5.33,
+            "defensiveRating": 7
+          },
+          {
+            "rank": 29,
+            "team": "Athletics (ATH)",
+            "value": 5.51,
+            "defensiveRating": 3
+          },
+          {
+            "rank": 30,
+            "team": "Colorado Rockies (COL)",
+            "value": 6.14,
+            "defensiveRating": 0
+          }
+        ]
+      }
+    },
+    "earnedRuns": {
+      "propName": "Earned Runs Allowed",
+      "strongDefense": {
+        "description": "Teams that allow the fewest earned runs allowed",
+        "recommendation": "Consider UNDER bets against these teams",
+        "teams": [
+          {
+            "rank": 1,
+            "team": "Texas Rangers (TEX)",
+            "value": 3.13,
+            "defensiveRating": 100
+          },
+          {
+            "rank": 2,
+            "team": "Kansas City Royals (KC)",
+            "value": 3.47,
+            "defensiveRating": 97
+          },
+          {
+            "rank": 3,
+            "team": "New York Mets (NYM)",
+            "value": 3.48,
+            "defensiveRating": 93
+          },
+          {
+            "rank": 4,
+            "team": "San Diego Padres (SD)",
+            "value": 3.52,
+            "defensiveRating": 90
+          },
+          {
+            "rank": 5,
+            "team": "Milwaukee Brewers (MIL)",
+            "value": 3.55,
+            "defensiveRating": 86
+          }
+        ]
+      },
+      "weakDefense": {
+        "description": "Teams that allow the most earned runs allowed",
+        "recommendation": "Consider OVER bets against these teams",
+        "teams": [
+          {
+            "rank": 26,
+            "team": "Los Angeles Angels (LAA)",
+            "value": 4.58,
+            "defensiveRating": 14
+          },
+          {
+            "rank": 27,
+            "team": "Baltimore Orioles (BAL)",
+            "value": 4.82,
+            "defensiveRating": 10
+          },
+          {
+            "rank": 28,
+            "team": "Washington Nationals (WSH)",
+            "value": 5.02,
+            "defensiveRating": 7
+          },
+          {
+            "rank": 29,
+            "team": "Athletics (ATH)",
+            "value": 5.06,
+            "defensiveRating": 3
+          },
+          {
+            "rank": 30,
+            "team": "Colorado Rockies (COL)",
+            "value": 5.45,
+            "defensiveRating": 0
+          }
+        ]
+      }
+    },
+    "walks": {
+      "propName": "Walks Allowed",
+      "strongDefense": {
+        "description": "Teams that allow the fewest walks allowed",
+        "recommendation": "Consider UNDER bets against these teams",
+        "teams": [
+          {
+            "rank": 1,
+            "team": "Minnesota Twins (MIN)",
+            "value": 2.58,
+            "defensiveRating": 100
+          },
+          {
+            "rank": 2,
+            "team": "Chicago Cubs (CHC)",
+            "value": 2.63,
+            "defensiveRating": 97
+          },
+          {
+            "rank": 3,
+            "team": "St. Louis Cardinals (STL)",
+            "value": 2.66,
+            "defensiveRating": 93
+          },
+          {
+            "rank": 4,
+            "team": "Tampa Bay Rays (TB)",
+            "value": 2.84,
+            "defensiveRating": 90
+          },
+          {
+            "rank": 5,
+            "team": "Texas Rangers (TEX)",
+            "value": 2.87,
+            "defensiveRating": 86
+          }
+        ]
+      },
+      "weakDefense": {
+        "description": "Teams that allow the most walks allowed",
+        "recommendation": "Consider OVER bets against these teams",
+        "teams": [
+          {
+            "rank": 26,
+            "team": "Cleveland Guardians (CLE)",
+            "value": 3.56,
+            "defensiveRating": 14
+          },
+          {
+            "rank": 27,
+            "team": "Athletics (ATH)",
+            "value": 3.56,
+            "defensiveRating": 10
+          },
+          {
+            "rank": 28,
+            "team": "New York Mets (NYM)",
+            "value": 3.57,
+            "defensiveRating": 7
+          },
+          {
+            "rank": 29,
+            "team": "Chicago White Sox (CWS)",
+            "value": 3.67,
+            "defensiveRating": 3
+          },
+          {
+            "rank": 30,
+            "team": "Los Angeles Angels (LAA)",
+            "value": 3.84,
+            "defensiveRating": 0
+          }
+        ]
+      }
+    },
+    "totalBases": {
+      "propName": "Total Bases Allowed",
+      "strongDefense": {
+        "description": "Teams that allow the fewest total bases allowed",
+        "recommendation": "Consider UNDER bets against these teams",
+        "teams": [
+          {
+            "rank": 1,
+            "team": "Texas Rangers (TEX)",
+            "value": 11.66,
+            "defensiveRating": 100
+          },
+          {
+            "rank": 2,
+            "team": "San Diego Padres (SD)",
+            "value": 12.1,
+            "defensiveRating": 97
+          },
+          {
+            "rank": 3,
+            "team": "New York Mets (NYM)",
+            "value": 12.29,
+            "defensiveRating": 93
+          },
+          {
+            "rank": 4,
+            "team": "Milwaukee Brewers (MIL)",
+            "value": 12.46,
+            "defensiveRating": 90
+          },
+          {
+            "rank": 5,
+            "team": "San Francisco Giants (SF)",
+            "value": 12.6,
+            "defensiveRating": 86
+          }
+        ]
+      },
+      "weakDefense": {
+        "description": "Teams that allow the most total bases allowed",
+        "recommendation": "Consider OVER bets against these teams",
+        "teams": [
+          {
+            "rank": 26,
+            "team": "Arizona Diamondbacks (AZ)",
+            "value": 14.63,
+            "defensiveRating": 14
+          },
+          {
+            "rank": 27,
+            "team": "Washington Nationals (WSH)",
+            "value": 14.63,
+            "defensiveRating": 10
+          },
+          {
+            "rank": 28,
+            "team": "Baltimore Orioles (BAL)",
+            "value": 15.31,
+            "defensiveRating": 7
+          },
+          {
+            "rank": 29,
+            "team": "Athletics (ATH)",
+            "value": 15.53,
+            "defensiveRating": 3
+          },
+          {
+            "rank": 30,
+            "team": "Colorado Rockies (COL)",
+            "value": 17.02,
+            "defensiveRating": 0
+          }
+        ]
+      }
+    },
+    "singles": {
+      "propName": "Singles Allowed",
+      "strongDefense": {
+        "description": "Teams that allow the fewest singles allowed",
+        "recommendation": "Consider UNDER bets against these teams",
+        "teams": [
+          {
+            "rank": 1,
+            "team": "Houston Astros (HOU)",
+            "value": 4.74,
+            "defensiveRating": 100
+          },
+          {
+            "rank": 2,
+            "team": "Cincinnati Reds (CIN)",
+            "value": 4.8,
+            "defensiveRating": 97
+          },
+          {
+            "rank": 3,
+            "team": "Pittsburgh Pirates (PIT)",
+            "value": 4.84,
+            "defensiveRating": 93
+          },
+          {
+            "rank": 4,
+            "team": "New York Yankees (NYY)",
+            "value": 4.92,
+            "defensiveRating": 90
+          },
+          {
+            "rank": 5,
+            "team": "Atlanta Braves (ATL)",
+            "value": 4.96,
+            "defensiveRating": 86
+          }
+        ]
+      },
+      "weakDefense": {
+        "description": "Teams that allow the most singles allowed",
+        "recommendation": "Consider OVER bets against these teams",
+        "teams": [
+          {
+            "rank": 26,
+            "team": "St. Louis Cardinals (STL)",
+            "value": 5.82,
+            "defensiveRating": 14
+          },
+          {
+            "rank": 27,
+            "team": "Washington Nationals (WSH)",
+            "value": 5.97,
+            "defensiveRating": 10
+          },
+          {
+            "rank": 28,
+            "team": "Los Angeles Angels (LAA)",
+            "value": 5.99,
+            "defensiveRating": 7
+          },
+          {
+            "rank": 29,
+            "team": "Boston Red Sox (BOS)",
+            "value": 6.02,
+            "defensiveRating": 3
+          },
+          {
+            "rank": 30,
+            "team": "Colorado Rockies (COL)",
+            "value": 6.68,
+            "defensiveRating": 0
+          }
+        ]
+      }
+    },
+    "strikeouts": {
+      "propName": "Team Strikeouts",
+      "strongDefense": {
+        "description": "Teams that allow the fewest team strikeouts",
+        "recommendation": "Consider UNDER bets against these teams",
+        "teams": [
+          {
+            "rank": 1,
+            "team": "Houston Astros (HOU)",
+            "value": 9.58,
+            "defensiveRating": 100
+          },
+          {
+            "rank": 2,
+            "team": "Philadelphia Phillies (PHI)",
+            "value": 9.34,
+            "defensiveRating": 97
+          },
+          {
+            "rank": 3,
+            "team": "Atlanta Braves (ATL)",
+            "value": 9.11,
+            "defensiveRating": 93
+          },
+          {
+            "rank": 4,
+            "team": "Toronto Blue Jays (TOR)",
+            "value": 8.94,
+            "defensiveRating": 90
+          },
+          {
+            "rank": 5,
+            "team": "New York Yankees (NYY)",
+            "value": 8.78,
+            "defensiveRating": 86
+          }
+        ]
+      },
+      "weakDefense": {
+        "description": "Teams that allow the most team strikeouts",
+        "recommendation": "Consider OVER bets against these teams",
+        "teams": [
+          {
+            "rank": 26,
+            "team": "Pittsburgh Pirates (PIT)",
+            "value": 7.57,
+            "defensiveRating": 14
+          },
+          {
+            "rank": 27,
+            "team": "Chicago Cubs (CHC)",
+            "value": 7.45,
+            "defensiveRating": 10
+          },
+          {
+            "rank": 28,
+            "team": "St. Louis Cardinals (STL)",
+            "value": 7.32,
+            "defensiveRating": 7
+          },
+          {
+            "rank": 29,
+            "team": "Chicago White Sox (CWS)",
+            "value": 7.3,
+            "defensiveRating": 3
+          },
+          {
+            "rank": 30,
+            "team": "Colorado Rockies (COL)",
+            "value": 6.55,
+            "defensiveRating": 0
+          }
+        ]
+      }
+    }
+  }
+}
