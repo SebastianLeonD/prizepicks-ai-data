@@ -1,0 +1,836 @@
+{
+  "date": "2025-07-27",
+  "lastUpdated": "2025-07-27T15:46:24.897Z",
+  "totalGames": 15,
+  "gamesWithLineups": 12,
+  "keyInsights": {
+    "topHitsTargets": [
+      "Jonathan India (KC) - 1 spot",
+      "Bobby Witt Jr. (KC) - 2 spot",
+      "Steven Kwan (CLE) - 1 spot",
+      "Angel Martínez (CLE) - 2 spot",
+      "Taylor Trammell (HOU) - 1 spot"
+    ],
+    "topRunsTargets": [
+      "Jonathan India (KC) - 1 spot",
+      "Bobby Witt Jr. (KC) - 2 spot",
+      "Vinnie Pasquantino (KC) - 3 spot",
+      "Steven Kwan (CLE) - 1 spot",
+      "Angel Martínez (CLE) - 2 spot"
+    ],
+    "topRBITargets": [
+      "Vinnie Pasquantino (KC) - 3 spot",
+      "Maikel Garcia (KC) - 4 spot",
+      "Salvador Perez (KC) - 5 spot",
+      "José Ramírez (CLE) - 3 spot",
+      "David Fry (CLE) - 4 spot"
+    ],
+    "topPowerTargets": []
+  },
+  "gamesSummary": [
+    {
+      "gameId": 776974,
+      "matchup": "NYM @ SF",
+      "status": "P",
+      "lineupStatus": {
+        "home": "Pending",
+        "away": "Pending"
+      },
+      "keyPlayers": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "gameId": 776975,
+      "matchup": "CLE @ KC",
+      "status": "P",
+      "lineupStatus": {
+        "home": "Available",
+        "away": "Available"
+      },
+      "keyPlayers": {
+        "home": [
+          {
+            "battingOrder": 1,
+            "name": "Jonathan India",
+            "position": "Second Base",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 2,
+            "name": "Bobby Witt Jr.",
+            "position": "Shortstop",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 3,
+            "name": "Vinnie Pasquantino",
+            "position": "Designated Hitter",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 4,
+            "name": "Maikel Garcia",
+            "position": "Third Base",
+            "avg": ".000",
+            "homeRuns": 0
+          }
+        ],
+        "away": [
+          {
+            "battingOrder": 1,
+            "name": "Steven Kwan",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 2,
+            "name": "Angel Martínez",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 3,
+            "name": "José Ramírez",
+            "position": "Third Base",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 4,
+            "name": "David Fry",
+            "position": "Designated Hitter",
+            "avg": ".000",
+            "homeRuns": 0
+          }
+        ]
+      }
+    },
+    {
+      "gameId": 776976,
+      "matchup": "ATH @ HOU",
+      "status": "P",
+      "lineupStatus": {
+        "home": "Available",
+        "away": "Available"
+      },
+      "keyPlayers": {
+        "home": [
+          {
+            "battingOrder": 1,
+            "name": "Taylor Trammell",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 2,
+            "name": "Jose Altuve",
+            "position": "Second Base",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 3,
+            "name": "Victor Caratini",
+            "position": "Catcher",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 4,
+            "name": "Christian Walker",
+            "position": "First Base",
+            "avg": ".000",
+            "homeRuns": 0
+          }
+        ],
+        "away": [
+          {
+            "battingOrder": 1,
+            "name": "Miguel Andujar",
+            "position": "Third Base",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 2,
+            "name": "Lawrence Butler",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 3,
+            "name": "Brent Rooker",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 4,
+            "name": "Shea Langeliers",
+            "position": "Designated Hitter",
+            "avg": ".000",
+            "homeRuns": 0
+          }
+        ]
+      }
+    },
+    {
+      "gameId": 776977,
+      "matchup": "SEA @ LAA",
+      "status": "P",
+      "lineupStatus": {
+        "home": "Pending",
+        "away": "Pending"
+      },
+      "keyPlayers": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "gameId": 776978,
+      "matchup": "MIA @ MIL",
+      "status": "P",
+      "lineupStatus": {
+        "home": "Available",
+        "away": "Available"
+      },
+      "keyPlayers": {
+        "home": [
+          {
+            "battingOrder": 1,
+            "name": "Brice Turang",
+            "position": "Second Base",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 2,
+            "name": "Jackson Chourio",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 3,
+            "name": "William Contreras",
+            "position": "Designated Hitter",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 4,
+            "name": "Christian Yelich",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          }
+        ],
+        "away": [
+          {
+            "battingOrder": 1,
+            "name": "Xavier Edwards",
+            "position": "Second Base",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 2,
+            "name": "Jesús Sánchez",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 3,
+            "name": "Agustín Ramírez",
+            "position": "Catcher",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 4,
+            "name": "Kyle Stowers",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          }
+        ]
+      }
+    },
+    {
+      "gameId": 776979,
+      "matchup": "WSH @ MIN",
+      "status": "P",
+      "lineupStatus": {
+        "home": "Available",
+        "away": "Pending"
+      },
+      "keyPlayers": {
+        "home": [
+          {
+            "battingOrder": 1,
+            "name": "Trevor Larnach",
+            "position": "Designated Hitter",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 2,
+            "name": "Willi Castro",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 3,
+            "name": "Carlos Correa",
+            "position": "Shortstop",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 4,
+            "name": "Kody Clemens",
+            "position": "First Base",
+            "avg": ".000",
+            "homeRuns": 0
+          }
+        ],
+        "away": []
+      }
+    },
+    {
+      "gameId": 776980,
+      "matchup": "SD @ STL",
+      "status": "P",
+      "lineupStatus": {
+        "home": "Available",
+        "away": "Pending"
+      },
+      "keyPlayers": {
+        "home": [
+          {
+            "battingOrder": 1,
+            "name": "Brendan Donovan",
+            "position": "Second Base",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 2,
+            "name": "Iván Herrera",
+            "position": "Designated Hitter",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 3,
+            "name": "Alec Burleson",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 4,
+            "name": "Willson Contreras",
+            "position": "First Base",
+            "avg": ".000",
+            "homeRuns": 0
+          }
+        ],
+        "away": []
+      }
+    },
+    {
+      "gameId": 776981,
+      "matchup": "ATL @ TEX",
+      "status": "P",
+      "lineupStatus": {
+        "home": "Pending",
+        "away": "Available"
+      },
+      "keyPlayers": {
+        "home": [],
+        "away": [
+          {
+            "battingOrder": 1,
+            "name": "Jurickson Profar",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 2,
+            "name": "Matt Olson",
+            "position": "First Base",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 3,
+            "name": "Ronald Acuña Jr.",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 4,
+            "name": "Drake Baldwin",
+            "position": "Designated Hitter",
+            "avg": ".000",
+            "homeRuns": 0
+          }
+        ]
+      }
+    },
+    {
+      "gameId": 776982,
+      "matchup": "TB @ CIN",
+      "status": "P",
+      "lineupStatus": {
+        "home": "Available",
+        "away": "Available"
+      },
+      "keyPlayers": {
+        "home": [
+          {
+            "battingOrder": 1,
+            "name": "TJ Friedl",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 2,
+            "name": "Matt McLain",
+            "position": "Second Base",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 3,
+            "name": "Elly De La Cruz",
+            "position": "Shortstop",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 4,
+            "name": "Austin Hays",
+            "position": "Designated Hitter",
+            "avg": ".000",
+            "homeRuns": 0
+          }
+        ],
+        "away": [
+          {
+            "battingOrder": 1,
+            "name": "Chandler Simpson",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 2,
+            "name": "Yandy Díaz",
+            "position": "Designated Hitter",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 3,
+            "name": "Jonathan Aranda",
+            "position": "First Base",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 4,
+            "name": "Junior Caminero",
+            "position": "Third Base",
+            "avg": ".000",
+            "homeRuns": 0
+          }
+        ]
+      }
+    },
+    {
+      "gameId": 776983,
+      "matchup": "LAD @ BOS",
+      "status": "P",
+      "lineupStatus": {
+        "home": "Available",
+        "away": "Available"
+      },
+      "keyPlayers": {
+        "home": [
+          {
+            "battingOrder": 1,
+            "name": "Roman Anthony",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 2,
+            "name": "Alex Bregman",
+            "position": "Third Base",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 3,
+            "name": "Jarren Duran",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 4,
+            "name": "Trevor Story",
+            "position": "Shortstop",
+            "avg": ".000",
+            "homeRuns": 0
+          }
+        ],
+        "away": [
+          {
+            "battingOrder": 1,
+            "name": "Mookie Betts",
+            "position": "Shortstop",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 2,
+            "name": "Shohei Ohtani",
+            "position": "Designated Hitter",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 3,
+            "name": "Teoscar Hernández",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 4,
+            "name": "Freddie Freeman",
+            "position": "First Base",
+            "avg": ".000",
+            "homeRuns": 0
+          }
+        ]
+      }
+    },
+    {
+      "gameId": 776984,
+      "matchup": "AZ @ PIT",
+      "status": "P",
+      "lineupStatus": {
+        "home": "Available",
+        "away": "Available"
+      },
+      "keyPlayers": {
+        "home": [
+          {
+            "battingOrder": 1,
+            "name": "Spencer Horwitz",
+            "position": "First Base",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 2,
+            "name": "Nick Gonzales",
+            "position": "Second Base",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 3,
+            "name": "Bryan Reynolds",
+            "position": "Designated Hitter",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 4,
+            "name": "Oneil Cruz",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          }
+        ],
+        "away": [
+          {
+            "battingOrder": 1,
+            "name": "Corbin Carroll",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 2,
+            "name": "Ketel Marte",
+            "position": "Second Base",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 3,
+            "name": "Geraldo Perdomo",
+            "position": "Shortstop",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 4,
+            "name": "Eugenio Suárez",
+            "position": "Third Base",
+            "avg": ".000",
+            "homeRuns": 0
+          }
+        ]
+      }
+    },
+    {
+      "gameId": 776986,
+      "matchup": "COL @ BAL",
+      "status": "P",
+      "lineupStatus": {
+        "home": "Available",
+        "away": "Available"
+      },
+      "keyPlayers": {
+        "home": [
+          {
+            "battingOrder": 1,
+            "name": "Jordan Westburg",
+            "position": "Second Base",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 2,
+            "name": "Ramón Laureano",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 3,
+            "name": "Gunnar Henderson",
+            "position": "Shortstop",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 4,
+            "name": "Tyler O'Neill",
+            "position": "Designated Hitter",
+            "avg": ".000",
+            "homeRuns": 0
+          }
+        ],
+        "away": [
+          {
+            "battingOrder": 1,
+            "name": "Tyler Freeman",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 2,
+            "name": "Mickey Moniak",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 3,
+            "name": "Ezequiel Tovar",
+            "position": "Shortstop",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 4,
+            "name": "Jordan Beck",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          }
+        ]
+      }
+    },
+    {
+      "gameId": 776987,
+      "matchup": "TOR @ DET",
+      "status": "P",
+      "lineupStatus": {
+        "home": "Available",
+        "away": "Available"
+      },
+      "keyPlayers": {
+        "home": [
+          {
+            "battingOrder": 1,
+            "name": "Colt Keith",
+            "position": "Designated Hitter",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 2,
+            "name": "Gleyber Torres",
+            "position": "Second Base",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 3,
+            "name": "Kerry Carpenter",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 4,
+            "name": "Riley Greene",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          }
+        ],
+        "away": [
+          {
+            "battingOrder": 1,
+            "name": "Nathan Lukes",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 2,
+            "name": "George Springer",
+            "position": "Designated Hitter",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 3,
+            "name": "Vladimir Guerrero Jr.",
+            "position": "First Base",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 4,
+            "name": "Bo Bichette",
+            "position": "Shortstop",
+            "avg": ".000",
+            "homeRuns": 0
+          }
+        ]
+      }
+    },
+    {
+      "gameId": 776988,
+      "matchup": "PHI @ NYY",
+      "status": "P",
+      "lineupStatus": {
+        "home": "Available",
+        "away": "Available"
+      },
+      "keyPlayers": {
+        "home": [
+          {
+            "battingOrder": 1,
+            "name": "Trent Grisham",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 2,
+            "name": "Ben Rice",
+            "position": "First Base",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 3,
+            "name": "Cody Bellinger",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 4,
+            "name": "Giancarlo Stanton",
+            "position": "Designated Hitter",
+            "avg": ".000",
+            "homeRuns": 0
+          }
+        ],
+        "away": [
+          {
+            "battingOrder": 1,
+            "name": "Trea Turner",
+            "position": "Designated Hitter",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 2,
+            "name": "Kyle Schwarber",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 3,
+            "name": "Bryce Harper",
+            "position": "First Base",
+            "avg": ".000",
+            "homeRuns": 0
+          },
+          {
+            "battingOrder": 4,
+            "name": "Nick Castellanos",
+            "position": "Outfielder",
+            "avg": ".000",
+            "homeRuns": 0
+          }
+        ]
+      }
+    },
+    {
+      "gameId": 776989,
+      "matchup": "CHC @ CWS",
+      "status": "P",
+      "lineupStatus": {
+        "home": "Pending",
+        "away": "Pending"
+      },
+      "keyPlayers": {
+        "home": [],
+        "away": []
+      }
+    }
+  ]
+}
