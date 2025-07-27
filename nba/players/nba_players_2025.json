@@ -3,11 +3,11 @@
     "sport": "NBA",
     "season": 2025,
     "seasonType": "REG",
-    "lastUpdated": "2025-07-27T02:22:11.780Z",
+    "lastUpdated": "2025-07-27T02:28:27.728Z",
     "dataSource": "SportRadar API - All 30 NBA Teams",
-    "totalPlayers": 436,
-    "totalTeams": 25,
-    "purpose": "Complete NBA player roster with IDs for detailed stats collection"
+    "totalPlayers": 527,
+    "totalTeams": 30,
+    "purpose": "Complete NBA player roster - ALL 30 teams with missing teams added"
   },
   "season": {
     "year": 2025,
@@ -463,6 +463,96 @@
         "alias": "SOUTHWEST"
       },
       "playerCount": 17
+    },
+    {
+      "id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Thunder",
+      "market": "Oklahoma City",
+      "alias": "OKC",
+      "fullName": "Oklahoma City Thunder",
+      "conference": {
+        "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+        "name": "WESTERN CONFERENCE",
+        "alias": "WESTERN"
+      },
+      "division": {
+        "id": "12bf14ba-eb16-4c6f-8275-e801b6947c1e",
+        "name": "Northwest",
+        "alias": "NORTHWEST"
+      },
+      "playerCount": 17
+    },
+    {
+      "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Hornets",
+      "market": "Charlotte",
+      "alias": "CHA",
+      "fullName": "Charlotte Hornets",
+      "conference": {
+        "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+        "name": "EASTERN CONFERENCE",
+        "alias": "EASTERN"
+      },
+      "division": {
+        "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+        "name": "Southeast",
+        "alias": "SOUTHEAST"
+      },
+      "playerCount": 21
+    },
+    {
+      "id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Wizards",
+      "market": "Washington",
+      "alias": "WAS",
+      "fullName": "Washington Wizards",
+      "conference": {
+        "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+        "name": "EASTERN CONFERENCE",
+        "alias": "EASTERN"
+      },
+      "division": {
+        "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+        "name": "Southeast",
+        "alias": "SOUTHEAST"
+      },
+      "playerCount": 19
+    },
+    {
+      "id": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Hawks",
+      "market": "Atlanta",
+      "alias": "ATL",
+      "fullName": "Atlanta Hawks",
+      "conference": {
+        "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+        "name": "EASTERN CONFERENCE",
+        "alias": "EASTERN"
+      },
+      "division": {
+        "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+        "name": "Southeast",
+        "alias": "SOUTHEAST"
+      },
+      "playerCount": 16
+    },
+    {
+      "id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Clippers",
+      "market": "LA",
+      "alias": "LAC",
+      "fullName": "LA Clippers",
+      "conference": {
+        "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+        "name": "WESTERN CONFERENCE",
+        "alias": "WESTERN"
+      },
+      "division": {
+        "id": "f074cb3e-90cf-42e1-8067-cdbcd99ec230",
+        "name": "Pacific",
+        "alias": "PACIFIC"
+      },
+      "playerCount": 18
     }
   ],
   "players": [
@@ -15578,16 +15668,3153 @@
       },
       "hasDetailedStats": false,
       "lastUpdated": "2025-07-27T02:22:09.778Z"
+    },
+    {
+      "id": "1c8786b4-1786-4e3d-81ca-d976797413f5",
+      "fullName": "Ajay Mitchell",
+      "firstName": "Ajay",
+      "lastName": "Mitchell",
+      "position": "G",
+      "primaryPosition": "SG",
+      "jerseyNumber": "25",
+      "height": 77,
+      "weight": 190,
+      "birthdate": "2002-06-25",
+      "birthPlace": "Ans,, BEL",
+      "experience": "1",
+      "college": "UC Santa Barbara",
+      "team": {
+        "id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Thunder",
+        "alias": "OKC",
+        "market": "Oklahoma City",
+        "fullName": "Oklahoma City Thunder",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "12bf14ba-eb16-4c6f-8275-e801b6947c1e",
+          "name": "Northwest",
+          "alias": "NORTHWEST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:16.587Z"
+    },
+    {
+      "id": "36d083a5-49ca-42f1-80b7-b78275a8abd9",
+      "fullName": "Isaiah Joe",
+      "firstName": "Isaiah",
+      "lastName": "Joe",
+      "position": "G",
+      "primaryPosition": "SG",
+      "jerseyNumber": "11",
+      "height": 75,
+      "weight": 165,
+      "birthdate": "1999-07-02",
+      "birthPlace": "Fort Smith, AR, USA",
+      "experience": "5",
+      "college": "Arkansas",
+      "highSchool": "Northside (AR)",
+      "team": {
+        "id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Thunder",
+        "alias": "OKC",
+        "market": "Oklahoma City",
+        "fullName": "Oklahoma City Thunder",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "12bf14ba-eb16-4c6f-8275-e801b6947c1e",
+          "name": "Northwest",
+          "alias": "NORTHWEST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:16.589Z"
+    },
+    {
+      "id": "38745a56-7472-4844-a2dc-f61d3bcd941f",
+      "fullName": "Isaiah Hartenstein",
+      "firstName": "Isaiah",
+      "lastName": "Hartenstein",
+      "position": "C-F",
+      "primaryPosition": "C",
+      "jerseyNumber": "55",
+      "height": 84,
+      "weight": 250,
+      "birthdate": "1998-05-05",
+      "birthPlace": "Eugene, OR, USA",
+      "experience": "7",
+      "team": {
+        "id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Thunder",
+        "alias": "OKC",
+        "market": "Oklahoma City",
+        "fullName": "Oklahoma City Thunder",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "12bf14ba-eb16-4c6f-8275-e801b6947c1e",
+          "name": "Northwest",
+          "alias": "NORTHWEST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:16.589Z"
+    },
+    {
+      "id": "3f7e2350-e208-4791-98c2-684b53bb5a9a",
+      "fullName": "Luguentz Dort",
+      "firstName": "Luguentz",
+      "lastName": "Dort",
+      "position": "G",
+      "primaryPosition": "SF",
+      "jerseyNumber": "5",
+      "height": 76,
+      "weight": 220,
+      "birthdate": "1999-04-19",
+      "birthPlace": "Montreal, QC, CAN",
+      "experience": "6",
+      "college": "Arizona State",
+      "highSchool": "Athlete Institute (CAN)",
+      "team": {
+        "id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Thunder",
+        "alias": "OKC",
+        "market": "Oklahoma City",
+        "fullName": "Oklahoma City Thunder",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "12bf14ba-eb16-4c6f-8275-e801b6947c1e",
+          "name": "Northwest",
+          "alias": "NORTHWEST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:16.589Z"
+    },
+    {
+      "id": "4965ef48-7aa9-4eae-a923-5023ff7ab1eb",
+      "fullName": "Jaylin Williams",
+      "firstName": "Jaylin",
+      "lastName": "Williams",
+      "position": "F",
+      "primaryPosition": "PF",
+      "jerseyNumber": "6",
+      "height": 81,
+      "weight": 240,
+      "birthdate": "2002-06-29",
+      "birthPlace": "Fort Smith, AR, USA",
+      "experience": "3",
+      "college": "Arkansas",
+      "highSchool": "Northside (AR)",
+      "team": {
+        "id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Thunder",
+        "alias": "OKC",
+        "market": "Oklahoma City",
+        "fullName": "Oklahoma City Thunder",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "12bf14ba-eb16-4c6f-8275-e801b6947c1e",
+          "name": "Northwest",
+          "alias": "NORTHWEST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:16.589Z"
+    },
+    {
+      "id": "4ab6a1ca-60ab-41e3-adbc-0395dec8c0da",
+      "fullName": "Brooks Barnhizer",
+      "firstName": "Brooks",
+      "lastName": "Barnhizer",
+      "position": "G",
+      "primaryPosition": "SG",
+      "jerseyNumber": "23",
+      "height": 78,
+      "weight": 230,
+      "birthdate": "2002-03-02",
+      "birthPlace": "Lafayette, IN, USA",
+      "experience": "0",
+      "college": "Northwestern",
+      "highSchool": "Alma Bryant (AL)",
+      "team": {
+        "id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Thunder",
+        "alias": "OKC",
+        "market": "Oklahoma City",
+        "fullName": "Oklahoma City Thunder",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "12bf14ba-eb16-4c6f-8275-e801b6947c1e",
+          "name": "Northwest",
+          "alias": "NORTHWEST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:16.589Z"
+    },
+    {
+      "id": "62c44a90-f280-438a-9c7e-252f4f376283",
+      "fullName": "Jalen Williams",
+      "firstName": "Jalen",
+      "lastName": "Williams",
+      "position": "G-F",
+      "primaryPosition": "SG",
+      "jerseyNumber": "8",
+      "height": 77,
+      "weight": 211,
+      "birthdate": "2001-04-14",
+      "birthPlace": "Denver, CO, USA",
+      "experience": "3",
+      "college": "Santa Clara",
+      "highSchool": "Perry (AZ)",
+      "team": {
+        "id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Thunder",
+        "alias": "OKC",
+        "market": "Oklahoma City",
+        "fullName": "Oklahoma City Thunder",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "12bf14ba-eb16-4c6f-8275-e801b6947c1e",
+          "name": "Northwest",
+          "alias": "NORTHWEST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:16.589Z"
+    },
+    {
+      "id": "8936c15e-f9d5-4b9a-80b9-8f6b7dcf7a17",
+      "fullName": "Alex Caruso",
+      "firstName": "Alex",
+      "lastName": "Caruso",
+      "position": "G",
+      "primaryPosition": "SG",
+      "jerseyNumber": "9",
+      "height": 77,
+      "weight": 186,
+      "birthdate": "1994-02-28",
+      "birthPlace": "College Station, TX, USA",
+      "experience": "8",
+      "college": "Texas A&M",
+      "highSchool": "A&M Consolidated (TX)",
+      "team": {
+        "id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Thunder",
+        "alias": "OKC",
+        "market": "Oklahoma City",
+        "fullName": "Oklahoma City Thunder",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "12bf14ba-eb16-4c6f-8275-e801b6947c1e",
+          "name": "Northwest",
+          "alias": "NORTHWEST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:16.589Z"
+    },
+    {
+      "id": "9318b4c1-49d0-40eb-8b76-1098e28133d2",
+      "fullName": "Kenrich Williams",
+      "firstName": "Kenrich",
+      "lastName": "Williams",
+      "position": "G-F",
+      "primaryPosition": "PF",
+      "jerseyNumber": "34",
+      "height": 78,
+      "weight": 210,
+      "birthdate": "1994-12-02",
+      "birthPlace": "Waco, TX, USA",
+      "experience": "7",
+      "college": "TCU",
+      "highSchool": "University (TX)",
+      "team": {
+        "id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Thunder",
+        "alias": "OKC",
+        "market": "Oklahoma City",
+        "fullName": "Oklahoma City Thunder",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "12bf14ba-eb16-4c6f-8275-e801b6947c1e",
+          "name": "Northwest",
+          "alias": "NORTHWEST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:16.589Z"
+    },
+    {
+      "id": "9e0b879c-8be6-445e-a437-a3bf18130b9c",
+      "fullName": "Ousmane Dieng",
+      "firstName": "Ousmane",
+      "lastName": "Dieng",
+      "position": "F",
+      "primaryPosition": "C",
+      "jerseyNumber": "13",
+      "height": 81,
+      "weight": 185,
+      "birthdate": "2003-05-21",
+      "birthPlace": "Villeneuve-sur-Lot,, FRA",
+      "experience": "3",
+      "team": {
+        "id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Thunder",
+        "alias": "OKC",
+        "market": "Oklahoma City",
+        "fullName": "Oklahoma City Thunder",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "12bf14ba-eb16-4c6f-8275-e801b6947c1e",
+          "name": "Northwest",
+          "alias": "NORTHWEST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:16.589Z"
+    },
+    {
+      "id": "ab0289ca-407b-41e9-ab2d-32407eedeccf",
+      "fullName": "Branden Carlson",
+      "firstName": "Branden",
+      "lastName": "Carlson",
+      "position": "C",
+      "primaryPosition": "C",
+      "jerseyNumber": "15",
+      "height": 84,
+      "weight": 220,
+      "birthdate": "1999-06-14",
+      "birthPlace": "South Jordan, UT, USA",
+      "experience": "1",
+      "college": "Utah",
+      "highSchool": "Bingham (UT)",
+      "team": {
+        "id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Thunder",
+        "alias": "OKC",
+        "market": "Oklahoma City",
+        "fullName": "Oklahoma City Thunder",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "12bf14ba-eb16-4c6f-8275-e801b6947c1e",
+          "name": "Northwest",
+          "alias": "NORTHWEST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:16.589Z"
+    },
+    {
+      "id": "b3db0b36-344f-4035-b315-9fb18933e535",
+      "fullName": "Cason Wallace",
+      "firstName": "Cason",
+      "lastName": "Wallace",
+      "position": "G",
+      "primaryPosition": "SG",
+      "jerseyNumber": "22",
+      "height": 75,
+      "weight": 195,
+      "birthdate": "2003-11-07",
+      "birthPlace": "Dallas, TX, USA",
+      "experience": "2",
+      "college": "Kentucky",
+      "highSchool": "Richardson (TX)",
+      "team": {
+        "id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Thunder",
+        "alias": "OKC",
+        "market": "Oklahoma City",
+        "fullName": "Oklahoma City Thunder",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "12bf14ba-eb16-4c6f-8275-e801b6947c1e",
+          "name": "Northwest",
+          "alias": "NORTHWEST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:16.589Z"
+    },
+    {
+      "id": "bf6b4aed-c007-41eb-b4e5-08b99f292ec2",
+      "fullName": "Nikola Topić",
+      "firstName": "Nikola",
+      "lastName": "Topić",
+      "position": "G",
+      "primaryPosition": "PG",
+      "jerseyNumber": "44",
+      "height": 78,
+      "weight": 200,
+      "birthdate": "2005-08-10",
+      "birthPlace": "Novi Sad,, SRB",
+      "experience": "0",
+      "team": {
+        "id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Thunder",
+        "alias": "OKC",
+        "market": "Oklahoma City",
+        "fullName": "Oklahoma City Thunder",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "12bf14ba-eb16-4c6f-8275-e801b6947c1e",
+          "name": "Northwest",
+          "alias": "NORTHWEST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:16.589Z"
+    },
+    {
+      "id": "c56cbf7a-42a4-41a2-a37b-0cd4aaf248d0",
+      "fullName": "Thomas Sorber",
+      "firstName": "Thomas",
+      "lastName": "Sorber",
+      "position": "F-C",
+      "primaryPosition": "PF",
+      "jerseyNumber": "12",
+      "height": 82,
+      "weight": 255,
+      "birthdate": "2005-12-25",
+      "birthPlace": "Trenton, NJ, USA",
+      "experience": "0",
+      "college": "Georgetown",
+      "highSchool": "Archbishop Ryan (PA)",
+      "team": {
+        "id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Thunder",
+        "alias": "OKC",
+        "market": "Oklahoma City",
+        "fullName": "Oklahoma City Thunder",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "12bf14ba-eb16-4c6f-8275-e801b6947c1e",
+          "name": "Northwest",
+          "alias": "NORTHWEST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:16.589Z"
+    },
+    {
+      "id": "d3b28775-473d-471a-8452-e913f4347f0f",
+      "fullName": "Aaron Wiggins",
+      "firstName": "Aaron",
+      "lastName": "Wiggins",
+      "position": "G",
+      "primaryPosition": "SG",
+      "jerseyNumber": "21",
+      "height": 77,
+      "weight": 190,
+      "birthdate": "1999-01-02",
+      "birthPlace": "Greensboro, NC, USA",
+      "experience": "4",
+      "college": "Maryland",
+      "highSchool": "Wesleyan Christian Academy (NC)",
+      "team": {
+        "id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Thunder",
+        "alias": "OKC",
+        "market": "Oklahoma City",
+        "fullName": "Oklahoma City Thunder",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "12bf14ba-eb16-4c6f-8275-e801b6947c1e",
+          "name": "Northwest",
+          "alias": "NORTHWEST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:16.589Z"
+    },
+    {
+      "id": "d9ea4a8f-ff51-408d-b518-980efc2a35a1",
+      "fullName": "Shai Gilgeous-Alexander",
+      "firstName": "Shai",
+      "lastName": "Gilgeous-Alexander",
+      "position": "G",
+      "primaryPosition": "PG",
+      "jerseyNumber": "2",
+      "height": 78,
+      "weight": 195,
+      "birthdate": "1998-07-12",
+      "birthPlace": "Toronto, ON, CAN",
+      "experience": "7",
+      "college": "Kentucky",
+      "highSchool": "Hamilton Heights Christian (TN)",
+      "team": {
+        "id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Thunder",
+        "alias": "OKC",
+        "market": "Oklahoma City",
+        "fullName": "Oklahoma City Thunder",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "12bf14ba-eb16-4c6f-8275-e801b6947c1e",
+          "name": "Northwest",
+          "alias": "NORTHWEST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:16.589Z"
+    },
+    {
+      "id": "eb91a4c8-1a8a-46bf-86e6-e16950b67ef6",
+      "fullName": "Chet Holmgren",
+      "firstName": "Chet",
+      "lastName": "Holmgren",
+      "position": "C-F",
+      "primaryPosition": "C",
+      "jerseyNumber": "7",
+      "height": 85,
+      "weight": 208,
+      "birthdate": "2002-05-01",
+      "birthPlace": "Minneapolis, MN, USA",
+      "experience": "2",
+      "college": "Gonzaga",
+      "highSchool": "Minnehaha Academy (MN)",
+      "team": {
+        "id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Thunder",
+        "alias": "OKC",
+        "market": "Oklahoma City",
+        "fullName": "Oklahoma City Thunder",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "12bf14ba-eb16-4c6f-8275-e801b6947c1e",
+          "name": "Northwest",
+          "alias": "NORTHWEST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:16.589Z"
+    },
+    {
+      "id": "0b9a642d-d6f6-4c65-a7bd-d82e016e1b5d",
+      "fullName": "Kon Knueppel",
+      "firstName": "Kon",
+      "lastName": "Knueppel",
+      "position": "G-F",
+      "primaryPosition": "SF",
+      "jerseyNumber": "7",
+      "height": 79,
+      "weight": 217,
+      "birthdate": "2005-08-03",
+      "birthPlace": "Milwaukee, WI, USA",
+      "experience": "0",
+      "college": "Duke",
+      "highSchool": "Wisconsin Lutheran (WI)",
+      "team": {
+        "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hornets",
+        "alias": "CHA",
+        "market": "Charlotte",
+        "fullName": "Charlotte Hornets",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:18.856Z"
+    },
+    {
+      "id": "298852ca-299d-4cb9-a9e5-6ac909582f78",
+      "fullName": "Pat Connaughton",
+      "firstName": "Pat",
+      "lastName": "Connaughton",
+      "position": "G",
+      "primaryPosition": "SG",
+      "jerseyNumber": "24",
+      "height": 77,
+      "weight": 209,
+      "birthdate": "1993-01-06",
+      "birthPlace": "Arlington, MA, USA",
+      "experience": "10",
+      "college": "Notre Dame",
+      "highSchool": "St. John's Prep (MA)",
+      "team": {
+        "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hornets",
+        "alias": "CHA",
+        "market": "Charlotte",
+        "fullName": "Charlotte Hornets",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:18.856Z"
+    },
+    {
+      "id": "388ec80d-171a-48f7-9cc8-5a8bebde54e0",
+      "fullName": "Ryan Kalkbrenner",
+      "firstName": "Ryan",
+      "lastName": "Kalkbrenner",
+      "position": "C",
+      "primaryPosition": "C",
+      "jerseyNumber": "11",
+      "height": 85,
+      "weight": 257,
+      "birthdate": "2002-01-17",
+      "birthPlace": "Florissant, MO, USA",
+      "experience": "0",
+      "college": "Creighton",
+      "highSchool": "Trinity Catholic (MO)",
+      "team": {
+        "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hornets",
+        "alias": "CHA",
+        "market": "Charlotte",
+        "fullName": "Charlotte Hornets",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:18.856Z"
+    },
+    {
+      "id": "3a2b38a1-23da-4af8-8c1a-e52694c2416a",
+      "fullName": "DaQuan Jeffries",
+      "firstName": "DaQuan",
+      "lastName": "Jeffries",
+      "position": "G-F",
+      "primaryPosition": "SG",
+      "jerseyNumber": "3",
+      "height": 77,
+      "weight": 222,
+      "birthdate": "1997-08-30",
+      "birthPlace": "Edmond, OK, USA",
+      "experience": "6",
+      "college": "Tulsa",
+      "highSchool": "Santa Fe (OK)",
+      "team": {
+        "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hornets",
+        "alias": "CHA",
+        "market": "Charlotte",
+        "fullName": "Charlotte Hornets",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:18.856Z"
+    },
+    {
+      "id": "50e0c4e6-dfe4-42ca-bf18-aa2630be21c9",
+      "fullName": "Tidjane Salaün",
+      "firstName": "Tidjane",
+      "lastName": "Salaün",
+      "position": "F",
+      "primaryPosition": "PF",
+      "jerseyNumber": "31",
+      "height": 80,
+      "weight": 207,
+      "birthdate": "2005-08-10",
+      "birthPlace": "Paris,, FRA",
+      "experience": "1",
+      "team": {
+        "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hornets",
+        "alias": "CHA",
+        "market": "Charlotte",
+        "fullName": "Charlotte Hornets",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:18.856Z"
+    },
+    {
+      "id": "59209028-6712-47ef-b87c-bdb19f91523b",
+      "fullName": "Grant Williams",
+      "firstName": "Grant",
+      "lastName": "Williams",
+      "position": "F",
+      "primaryPosition": "PF",
+      "jerseyNumber": "2",
+      "height": 78,
+      "weight": 236,
+      "birthdate": "1998-11-30",
+      "birthPlace": "Houston, TX, USA",
+      "experience": "6",
+      "college": "Tennessee",
+      "highSchool": "Providence Day School (NC)",
+      "team": {
+        "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hornets",
+        "alias": "CHA",
+        "market": "Charlotte",
+        "fullName": "Charlotte Hornets",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:18.856Z"
+    },
+    {
+      "id": "5b681679-4d8c-4964-bbba-5ed058257745",
+      "fullName": "Tre Mann",
+      "firstName": "Tre",
+      "lastName": "Mann",
+      "position": "G",
+      "primaryPosition": "PG",
+      "jerseyNumber": "23",
+      "height": 75,
+      "weight": 178,
+      "birthdate": "2001-02-03",
+      "birthPlace": "Gainesville, FL, USA",
+      "experience": "4",
+      "college": "Florida",
+      "highSchool": "The Villages (FL)",
+      "team": {
+        "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hornets",
+        "alias": "CHA",
+        "market": "Charlotte",
+        "fullName": "Charlotte Hornets",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:18.856Z"
+    },
+    {
+      "id": "775e4450-cdcd-43a1-b4cd-dc29fba48503",
+      "fullName": "Brandon Miller",
+      "firstName": "Brandon",
+      "lastName": "Miller",
+      "position": "F",
+      "primaryPosition": "SF",
+      "jerseyNumber": "24",
+      "height": 79,
+      "weight": 200,
+      "birthdate": "2002-11-22",
+      "birthPlace": "Antioch, TN, USA",
+      "experience": "2",
+      "college": "Alabama",
+      "highSchool": "Cane Ridge (TN)",
+      "team": {
+        "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hornets",
+        "alias": "CHA",
+        "market": "Charlotte",
+        "fullName": "Charlotte Hornets",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:18.856Z"
+    },
+    {
+      "id": "78dc76b4-a810-4e4a-9418-5cf3fa03582f",
+      "fullName": "Moussa Diabaté",
+      "firstName": "Moussa",
+      "lastName": "Diabaté",
+      "position": "F",
+      "primaryPosition": "C",
+      "jerseyNumber": "14",
+      "height": 81,
+      "weight": 210,
+      "birthdate": "2002-01-21",
+      "birthPlace": "Paris,, FRA",
+      "experience": "3",
+      "college": "Michigan",
+      "highSchool": "IMG Academy (FL)",
+      "team": {
+        "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hornets",
+        "alias": "CHA",
+        "market": "Charlotte",
+        "fullName": "Charlotte Hornets",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:18.856Z"
+    },
+    {
+      "id": "80b5cccf-203b-4482-92aa-76d1598216be",
+      "fullName": "Collin Sexton",
+      "firstName": "Collin",
+      "lastName": "Sexton",
+      "position": "G",
+      "primaryPosition": "SG",
+      "jerseyNumber": "2",
+      "height": 75,
+      "weight": 190,
+      "birthdate": "1999-01-04",
+      "birthPlace": "Marietta, GA, USA",
+      "experience": "7",
+      "college": "Alabama",
+      "highSchool": "Pebblebrook (GA)",
+      "team": {
+        "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hornets",
+        "alias": "CHA",
+        "market": "Charlotte",
+        "fullName": "Charlotte Hornets",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:18.856Z"
+    },
+    {
+      "id": "82c98130-ca75-4fad-be40-59133af1027e",
+      "fullName": "Drew Peterson",
+      "firstName": "Drew",
+      "lastName": "Peterson",
+      "position": "F",
+      "primaryPosition": "PF",
+      "height": 81,
+      "weight": 205,
+      "birthdate": "1999-11-09",
+      "birthPlace": "Libertyville, IL, USA",
+      "experience": "1",
+      "college": "USC",
+      "highSchool": "Libertyville (IL)",
+      "team": {
+        "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hornets",
+        "alias": "CHA",
+        "market": "Charlotte",
+        "fullName": "Charlotte Hornets",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:18.856Z"
+    },
+    {
+      "id": "8426ab40-888d-4f89-976c-cd9e23717653",
+      "fullName": "Spencer Dinwiddie",
+      "firstName": "Spencer",
+      "lastName": "Dinwiddie",
+      "position": "G",
+      "primaryPosition": "PG",
+      "height": 77,
+      "weight": 215,
+      "birthdate": "1993-04-06",
+      "birthPlace": "Los Angeles, CA, USA",
+      "experience": "11",
+      "college": "Colorado",
+      "highSchool": "William Howard Taft (CA)",
+      "team": {
+        "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hornets",
+        "alias": "CHA",
+        "market": "Charlotte",
+        "fullName": "Charlotte Hornets",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:18.856Z"
+    },
+    {
+      "id": "8f6ef350-1d9a-4eda-bee9-294d0e9e64db",
+      "fullName": "KJ Simpson",
+      "firstName": "KJ",
+      "lastName": "Simpson",
+      "position": "G",
+      "primaryPosition": "PG",
+      "jerseyNumber": "25",
+      "height": 72,
+      "weight": 189,
+      "birthdate": "2002-08-08",
+      "birthPlace": "West Hills, CA, USA",
+      "experience": "1",
+      "college": "Colorado",
+      "highSchool": "Chaminade College Prep (CA)",
+      "team": {
+        "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hornets",
+        "alias": "CHA",
+        "market": "Charlotte",
+        "fullName": "Charlotte Hornets",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:18.856Z"
+    },
+    {
+      "id": "9570a938-324f-40e8-92dd-8a4fcf4a953b",
+      "fullName": "Mason Plumlee",
+      "firstName": "Mason",
+      "lastName": "Plumlee",
+      "position": "F-C",
+      "primaryPosition": "C",
+      "height": 82,
+      "weight": 254,
+      "birthdate": "1990-03-05",
+      "birthPlace": "Fort Wayne, IN, USA",
+      "experience": "12",
+      "college": "Duke",
+      "highSchool": "Christ School (NC)",
+      "team": {
+        "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hornets",
+        "alias": "CHA",
+        "market": "Charlotte",
+        "fullName": "Charlotte Hornets",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:18.856Z"
+    },
+    {
+      "id": "af8f331b-96a6-416e-8837-b14d5b11c52d",
+      "fullName": "Miles Bridges",
+      "firstName": "Miles",
+      "lastName": "Bridges",
+      "position": "F",
+      "primaryPosition": "SF",
+      "jerseyNumber": "0",
+      "height": 79,
+      "weight": 225,
+      "birthdate": "1998-03-21",
+      "birthPlace": "Flint, MI, USA",
+      "experience": "6",
+      "college": "Michigan State",
+      "highSchool": "Huntington Prep (WV)",
+      "team": {
+        "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hornets",
+        "alias": "CHA",
+        "market": "Charlotte",
+        "fullName": "Charlotte Hornets",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:18.856Z"
+    },
+    {
+      "id": "bcb84104-a049-4263-8574-67b1d786481c",
+      "fullName": "Nick Smith",
+      "firstName": "Nick",
+      "lastName": "Smith",
+      "position": "G",
+      "primaryPosition": "SG",
+      "jerseyNumber": "8",
+      "height": 74,
+      "weight": 185,
+      "birthdate": "2004-04-18",
+      "birthPlace": "Jacksonville, AR, USA",
+      "experience": "2",
+      "college": "Arkansas",
+      "highSchool": "North Little Rock (AR)",
+      "team": {
+        "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hornets",
+        "alias": "CHA",
+        "market": "Charlotte",
+        "fullName": "Charlotte Hornets",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:18.856Z"
+    },
+    {
+      "id": "bda65c13-f2d4-43ec-b058-b7807bec4867",
+      "fullName": "Josh Green",
+      "firstName": "Josh",
+      "lastName": "Green",
+      "position": "G",
+      "primaryPosition": "SG",
+      "jerseyNumber": "10",
+      "height": 77,
+      "weight": 200,
+      "birthdate": "2000-11-16",
+      "birthPlace": "Sydney,, AUS",
+      "experience": "5",
+      "college": "Arizona",
+      "highSchool": "IMG Academy (FL)",
+      "team": {
+        "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hornets",
+        "alias": "CHA",
+        "market": "Charlotte",
+        "fullName": "Charlotte Hornets",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:18.856Z"
+    },
+    {
+      "id": "be53f27f-c666-4bd2-8fcd-0713f963aa2b",
+      "fullName": "LaMelo Ball",
+      "firstName": "LaMelo",
+      "lastName": "Ball",
+      "position": "G",
+      "primaryPosition": "PG",
+      "jerseyNumber": "1",
+      "height": 79,
+      "weight": 180,
+      "birthdate": "2001-08-22",
+      "birthPlace": "Anaheim, CA, USA",
+      "experience": "5",
+      "highSchool": "SPIRE Academy (OH)",
+      "team": {
+        "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hornets",
+        "alias": "CHA",
+        "market": "Charlotte",
+        "fullName": "Charlotte Hornets",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:18.856Z"
+    },
+    {
+      "id": "dcea56e2-1ba1-49ab-b0d0-764fa98bc6b5",
+      "fullName": "Antonio Reeves",
+      "firstName": "Antonio",
+      "lastName": "Reeves",
+      "position": "G",
+      "primaryPosition": "SG",
+      "height": 77,
+      "weight": 205,
+      "birthdate": "2002-11-20",
+      "birthPlace": "Chicago, IL, USA",
+      "experience": "0",
+      "college": "Kentucky",
+      "highSchool": "Shadow Mountain (AZ)",
+      "team": {
+        "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hornets",
+        "alias": "CHA",
+        "market": "Charlotte",
+        "fullName": "Charlotte Hornets",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:18.856Z"
+    },
+    {
+      "id": "fa142a43-00a4-4e79-be7b-d469c09dfdd0",
+      "fullName": "Liam McNeeley",
+      "firstName": "Liam",
+      "lastName": "McNeeley",
+      "position": "F",
+      "primaryPosition": "SF",
+      "jerseyNumber": "33",
+      "height": 79,
+      "weight": 215,
+      "birthdate": "2005-10-10",
+      "birthPlace": "Richardson, TX, USA",
+      "experience": "0",
+      "college": "UConn",
+      "highSchool": "Montverde Academy (FL)",
+      "team": {
+        "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hornets",
+        "alias": "CHA",
+        "market": "Charlotte",
+        "fullName": "Charlotte Hornets",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:18.856Z"
+    },
+    {
+      "id": "fba3e1cf-82e4-412a-b8db-148f9b93ebf3",
+      "fullName": "Sion James",
+      "firstName": "Sion",
+      "lastName": "James",
+      "position": "G",
+      "primaryPosition": "SG",
+      "jerseyNumber": "4",
+      "height": 77,
+      "weight": 218,
+      "birthdate": "2002-12-04",
+      "birthPlace": "Sugar Hill, GA, USA",
+      "experience": "0",
+      "college": "Duke",
+      "highSchool": "Lanier (GA)",
+      "team": {
+        "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hornets",
+        "alias": "CHA",
+        "market": "Charlotte",
+        "fullName": "Charlotte Hornets",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:18.856Z"
+    },
+    {
+      "id": "0e03dd88-2c39-4b4a-8b47-0c3c8ba82305",
+      "fullName": "Kyshawn George",
+      "firstName": "Kyshawn",
+      "lastName": "George",
+      "position": "F",
+      "primaryPosition": "SG",
+      "jerseyNumber": "18",
+      "height": 80,
+      "weight": 200,
+      "birthdate": "2003-12-12",
+      "birthPlace": "Monthey,, CHE",
+      "experience": "1",
+      "college": "Miami (FL)",
+      "team": {
+        "id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Wizards",
+        "alias": "WAS",
+        "market": "Washington",
+        "fullName": "Washington Wizards",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:21.185Z"
+    },
+    {
+      "id": "19561190-edab-4465-a82d-7e42a7635800",
+      "fullName": "Tre Johnson",
+      "firstName": "Tre",
+      "lastName": "Johnson",
+      "position": "G",
+      "primaryPosition": "SG",
+      "jerseyNumber": "12",
+      "height": 77,
+      "weight": 190,
+      "birthdate": "2006-03-07",
+      "birthPlace": "Garland, TX, USA",
+      "experience": "0",
+      "college": "Texas",
+      "highSchool": "Link Academy (MO)",
+      "team": {
+        "id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Wizards",
+        "alias": "WAS",
+        "market": "Washington",
+        "fullName": "Washington Wizards",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:21.185Z"
+    },
+    {
+      "id": "1cc0577e-a011-4b08-a6a8-216765672f08",
+      "fullName": "Jaylen Martin",
+      "firstName": "Jaylen",
+      "lastName": "Martin",
+      "position": "G",
+      "primaryPosition": "SF",
+      "jerseyNumber": "4",
+      "height": 78,
+      "weight": 216,
+      "birthdate": "2004-01-28",
+      "birthPlace": "Tallahassee, FL, USA",
+      "experience": "1",
+      "highSchool": "Florida State University School (FL)",
+      "team": {
+        "id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Wizards",
+        "alias": "WAS",
+        "market": "Washington",
+        "fullName": "Washington Wizards",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:21.185Z"
+    },
+    {
+      "id": "27db7dbb-6aad-44df-a3f4-7e1c21c2f256",
+      "fullName": "Bilal Coulibaly",
+      "firstName": "Bilal",
+      "lastName": "Coulibaly",
+      "position": "G",
+      "primaryPosition": "SF",
+      "jerseyNumber": "0",
+      "height": 80,
+      "weight": 195,
+      "birthdate": "2004-07-26",
+      "birthPlace": "Saint-Cloud,, FRA",
+      "experience": "2",
+      "team": {
+        "id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Wizards",
+        "alias": "WAS",
+        "market": "Washington",
+        "fullName": "Washington Wizards",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:21.185Z"
+    },
+    {
+      "id": "28f3e566-3174-4e87-81d0-4889569b6ef5",
+      "fullName": "Bub Carrington",
+      "firstName": "Bub",
+      "lastName": "Carrington",
+      "position": "G",
+      "primaryPosition": "PG",
+      "jerseyNumber": "7",
+      "height": 76,
+      "weight": 190,
+      "birthdate": "2005-07-21",
+      "birthPlace": "Baltimore, MD, USA",
+      "experience": "1",
+      "college": "Pittsburgh",
+      "highSchool": "Saint Frances (MD)",
+      "team": {
+        "id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Wizards",
+        "alias": "WAS",
+        "market": "Washington",
+        "fullName": "Washington Wizards",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:21.185Z"
+    },
+    {
+      "id": "3358cc38-7331-43ad-af04-ebd34fe328e7",
+      "fullName": "Corey Kispert",
+      "firstName": "Corey",
+      "lastName": "Kispert",
+      "position": "F",
+      "primaryPosition": "SF",
+      "jerseyNumber": "24",
+      "height": 78,
+      "weight": 224,
+      "birthdate": "1999-03-03",
+      "birthPlace": "Edmonds, WA, USA",
+      "experience": "4",
+      "college": "Gonzaga",
+      "highSchool": "King's (WA)",
+      "team": {
+        "id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Wizards",
+        "alias": "WAS",
+        "market": "Washington",
+        "fullName": "Washington Wizards",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:21.185Z"
+    },
+    {
+      "id": "3bec965e-1c2e-4ef0-a598-74a018a627c4",
+      "fullName": "Dillon Jones",
+      "firstName": "Dillon",
+      "lastName": "Jones",
+      "position": "F",
+      "primaryPosition": "SF",
+      "jerseyNumber": "33",
+      "height": 77,
+      "weight": 235,
+      "birthdate": "2001-10-29",
+      "birthPlace": "Columbia, SC, USA",
+      "experience": "1",
+      "college": "Weber State",
+      "highSchool": "Sunshine Christian Academy (KS)",
+      "team": {
+        "id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Wizards",
+        "alias": "WAS",
+        "market": "Washington",
+        "fullName": "Washington Wizards",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:21.185Z"
+    },
+    {
+      "id": "4c362eee-6474-40ea-b1b4-d8f917f95175",
+      "fullName": "Khris Middleton",
+      "firstName": "Khris",
+      "lastName": "Middleton",
+      "position": "F",
+      "primaryPosition": "SF",
+      "jerseyNumber": "32",
+      "height": 79,
+      "weight": 222,
+      "birthdate": "1991-08-12",
+      "birthPlace": "Charleston, SC, USA",
+      "experience": "13",
+      "college": "Texas A&M",
+      "highSchool": "Porter-Gaud (SC)",
+      "team": {
+        "id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Wizards",
+        "alias": "WAS",
+        "market": "Washington",
+        "fullName": "Washington Wizards",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:21.185Z"
+    },
+    {
+      "id": "584a8771-ee79-4957-89f1-a2b0638c497a",
+      "fullName": "Will Riley",
+      "firstName": "Will",
+      "lastName": "Riley",
+      "position": "F",
+      "primaryPosition": "SF",
+      "jerseyNumber": "27",
+      "height": 80,
+      "weight": 186,
+      "birthdate": "2006-02-10",
+      "birthPlace": "Kitchener, ON, CAN",
+      "experience": "0",
+      "college": "Illinois",
+      "highSchool": "The Phelps School (PA)",
+      "team": {
+        "id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Wizards",
+        "alias": "WAS",
+        "market": "Washington",
+        "fullName": "Washington Wizards",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:21.186Z"
+    },
+    {
+      "id": "6d117ec5-649d-4151-8d44-88175c603067",
+      "fullName": "Justin Champagnie",
+      "firstName": "Justin",
+      "lastName": "Champagnie",
+      "position": "G-F",
+      "primaryPosition": "SF",
+      "jerseyNumber": "9",
+      "height": 78,
+      "weight": 206,
+      "birthdate": "2001-06-29",
+      "birthPlace": "Staten Island, NY, USA",
+      "experience": "4",
+      "college": "Pittsburgh",
+      "highSchool": "Bishop Loughlin (NY)",
+      "team": {
+        "id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Wizards",
+        "alias": "WAS",
+        "market": "Washington",
+        "fullName": "Washington Wizards",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:21.186Z"
+    },
+    {
+      "id": "73f8f274-238d-419f-bccb-097362b8354d",
+      "fullName": "Tristan Vukcevic",
+      "firstName": "Tristan",
+      "lastName": "Vukcevic",
+      "position": "F",
+      "primaryPosition": "C",
+      "jerseyNumber": "00",
+      "height": 84,
+      "weight": 220,
+      "birthdate": "2003-03-11",
+      "birthPlace": "Siena,, ITA",
+      "experience": "2",
+      "team": {
+        "id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Wizards",
+        "alias": "WAS",
+        "market": "Washington",
+        "fullName": "Washington Wizards",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:21.186Z"
+    },
+    {
+      "id": "7aa10d1a-ed4e-417d-998d-84ce66c77c9b",
+      "fullName": "Anthony Gill",
+      "firstName": "Anthony",
+      "lastName": "Gill",
+      "position": "F",
+      "primaryPosition": "PF",
+      "jerseyNumber": "16",
+      "height": 80,
+      "weight": 230,
+      "birthdate": "1992-10-17",
+      "birthPlace": "High Point, NC, USA",
+      "experience": "6",
+      "college": "Virginia",
+      "highSchool": "Charlotte Christian (NC)",
+      "team": {
+        "id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Wizards",
+        "alias": "WAS",
+        "market": "Washington",
+        "fullName": "Washington Wizards",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:21.186Z"
+    },
+    {
+      "id": "aeba1657-a0df-427b-ba9a-6db9e9147304",
+      "fullName": "Cam Whitmore",
+      "firstName": "Cam",
+      "lastName": "Whitmore",
+      "position": "F",
+      "primaryPosition": "SF",
+      "jerseyNumber": "1",
+      "height": 79,
+      "weight": 230,
+      "birthdate": "2004-07-08",
+      "birthPlace": "Odenton, MD, USA",
+      "experience": "2",
+      "college": "Villanova",
+      "highSchool": "Archbishop Spalding (MD)",
+      "team": {
+        "id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Wizards",
+        "alias": "WAS",
+        "market": "Washington",
+        "fullName": "Washington Wizards",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:21.186Z"
+    },
+    {
+      "id": "bc70a55a-cee0-478f-9a13-cf51c4a4187c",
+      "fullName": "CJ McCollum",
+      "firstName": "CJ",
+      "lastName": "McCollum",
+      "position": "G",
+      "primaryPosition": "PG",
+      "jerseyNumber": "3",
+      "height": 75,
+      "weight": 190,
+      "birthdate": "1991-09-19",
+      "birthPlace": "Canton, OH, USA",
+      "experience": "12",
+      "college": "Lehigh",
+      "highSchool": "Glen Oak (OH)",
+      "team": {
+        "id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Wizards",
+        "alias": "WAS",
+        "market": "Washington",
+        "fullName": "Washington Wizards",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:21.186Z"
+    },
+    {
+      "id": "c0ec993e-16ee-48e8-b410-05690b1c17b6",
+      "fullName": "Jamir Watkins",
+      "firstName": "Jamir",
+      "lastName": "Watkins",
+      "position": "G",
+      "primaryPosition": "SG",
+      "jerseyNumber": "30",
+      "height": 77,
+      "weight": 215,
+      "birthdate": "2001-07-06",
+      "birthPlace": "Trenton, NJ, USA",
+      "experience": "0",
+      "college": "Florida State",
+      "highSchool": "Trenton Catholic Academy (NJ)",
+      "team": {
+        "id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Wizards",
+        "alias": "WAS",
+        "market": "Washington",
+        "fullName": "Washington Wizards",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:21.186Z"
+    },
+    {
+      "id": "d8058632-b2ca-468c-9c27-56410aef4dff",
+      "fullName": "AJ Johnson",
+      "firstName": "AJ",
+      "lastName": "Johnson",
+      "position": "G",
+      "primaryPosition": "SG",
+      "jerseyNumber": "5",
+      "height": 77,
+      "weight": 160,
+      "birthdate": "2004-12-01",
+      "birthPlace": "Woodland Hills, CA, USA",
+      "experience": "1",
+      "highSchool": "Southern California Academy (CA)",
+      "team": {
+        "id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Wizards",
+        "alias": "WAS",
+        "market": "Washington",
+        "fullName": "Washington Wizards",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:21.186Z"
+    },
+    {
+      "id": "e86c1439-4ef0-4530-9c41-c3a682962eb3",
+      "fullName": "Marvin Bagley",
+      "firstName": "Marvin",
+      "lastName": "Bagley",
+      "position": "F",
+      "primaryPosition": "PF",
+      "jerseyNumber": "35",
+      "height": 82,
+      "weight": 235,
+      "birthdate": "1999-03-14",
+      "birthPlace": "Tempe, AZ, USA",
+      "experience": "6",
+      "college": "Duke",
+      "highSchool": "Sierra Canyon School (CA)",
+      "team": {
+        "id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Wizards",
+        "alias": "WAS",
+        "market": "Washington",
+        "fullName": "Washington Wizards",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:21.186Z"
+    },
+    {
+      "id": "ecdd201a-e33b-476e-9325-296cad22ba93",
+      "fullName": "Malaki Branham",
+      "firstName": "Malaki",
+      "lastName": "Branham",
+      "position": "F",
+      "primaryPosition": "SG",
+      "jerseyNumber": "22",
+      "height": 76,
+      "weight": 180,
+      "birthdate": "2003-05-12",
+      "birthPlace": "Columbus, OH, USA",
+      "experience": "3",
+      "college": "Ohio State",
+      "highSchool": "St. Vincent-St. Mary (OH)",
+      "team": {
+        "id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Wizards",
+        "alias": "WAS",
+        "market": "Washington",
+        "fullName": "Washington Wizards",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:21.186Z"
+    },
+    {
+      "id": "fe4c4f99-5dfb-4e32-b69a-da8c5a779c27",
+      "fullName": "Alex Sarr",
+      "firstName": "Alex",
+      "lastName": "Sarr",
+      "position": "C",
+      "primaryPosition": "C",
+      "jerseyNumber": "20",
+      "height": 84,
+      "weight": 205,
+      "birthdate": "2005-04-26",
+      "birthPlace": "Bordeaux,, FRA",
+      "experience": "1",
+      "team": {
+        "id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Wizards",
+        "alias": "WAS",
+        "market": "Washington",
+        "fullName": "Washington Wizards",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:21.186Z"
+    },
+    {
+      "id": "22d1eb4b-c0de-49c8-9e11-866b9d98cca2",
+      "fullName": "Keaton Wallace",
+      "firstName": "Keaton",
+      "lastName": "Wallace",
+      "position": "G",
+      "primaryPosition": "PG",
+      "jerseyNumber": "2",
+      "height": 75,
+      "weight": 185,
+      "birthdate": "1999-02-26",
+      "birthPlace": "Dallas, TX, USA",
+      "experience": "1",
+      "college": "UTSA",
+      "highSchool": "Richardson (TX)",
+      "team": {
+        "id": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hawks",
+        "alias": "ATL",
+        "market": "Atlanta",
+        "fullName": "Atlanta Hawks",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:23.526Z"
+    },
+    {
+      "id": "26049bcf-1ff3-4a23-8e4c-ce0b18784738",
+      "fullName": "Mouhamed Gueye",
+      "firstName": "Mouhamed",
+      "lastName": "Gueye",
+      "position": "F",
+      "primaryPosition": "PF",
+      "jerseyNumber": "18",
+      "height": 82,
+      "weight": 210,
+      "birthdate": "2002-11-09",
+      "birthPlace": "Dakar,, SEN",
+      "experience": "2",
+      "college": "Washington State",
+      "highSchool": "Prolific Prep (CA)",
+      "team": {
+        "id": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hawks",
+        "alias": "ATL",
+        "market": "Atlanta",
+        "fullName": "Atlanta Hawks",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:23.526Z"
+    },
+    {
+      "id": "358fb074-ac1b-45a6-bf54-46c30534786e",
+      "fullName": "Dyson Daniels",
+      "firstName": "Dyson",
+      "lastName": "Daniels",
+      "position": "G",
+      "primaryPosition": "SG",
+      "jerseyNumber": "5",
+      "height": 79,
+      "weight": 199,
+      "birthdate": "2003-03-17",
+      "birthPlace": "Bendigo,, AUS",
+      "experience": "3",
+      "team": {
+        "id": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hawks",
+        "alias": "ATL",
+        "market": "Atlanta",
+        "fullName": "Atlanta Hawks",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:23.526Z"
+    },
+    {
+      "id": "3c5901ef-af1d-441d-aeed-8e0a93cead49",
+      "fullName": "Kristaps Porziņģis",
+      "firstName": "Kristaps",
+      "lastName": "Porziņģis",
+      "position": "F-C",
+      "primaryPosition": "C",
+      "jerseyNumber": "8",
+      "height": 86,
+      "weight": 240,
+      "birthdate": "1995-08-02",
+      "birthPlace": "Liepaja,, LVA",
+      "experience": "9",
+      "team": {
+        "id": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hawks",
+        "alias": "ATL",
+        "market": "Atlanta",
+        "fullName": "Atlanta Hawks",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:23.526Z"
+    },
+    {
+      "id": "3f34ce93-c0ad-4868-bab4-c6d83909ff78",
+      "fullName": "Zaccharie Risacher",
+      "firstName": "Zaccharie",
+      "lastName": "Risacher",
+      "position": "F",
+      "primaryPosition": "SF",
+      "jerseyNumber": "10",
+      "height": 80,
+      "weight": 200,
+      "birthdate": "2005-04-08",
+      "birthPlace": "Malaga,, ESP",
+      "experience": "1",
+      "team": {
+        "id": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hawks",
+        "alias": "ATL",
+        "market": "Atlanta",
+        "fullName": "Atlanta Hawks",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:23.526Z"
+    },
+    {
+      "id": "449da167-8e2f-4db4-a466-51e2b3f6efee",
+      "fullName": "Eli John Ndiaye",
+      "firstName": "Eli John",
+      "lastName": "Ndiaye",
+      "position": "F",
+      "primaryPosition": "PF",
+      "height": 80,
+      "weight": 209,
+      "birthdate": "2004-06-26",
+      "birthPlace": "Guédiawaye,, SEN",
+      "experience": "0",
+      "team": {
+        "id": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hawks",
+        "alias": "ATL",
+        "market": "Atlanta",
+        "fullName": "Atlanta Hawks",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:23.526Z"
+    },
+    {
+      "id": "70e50e53-ca3b-425d-ac49-b156d6d1e016",
+      "fullName": "Onyeka Okongwu",
+      "firstName": "Onyeka",
+      "lastName": "Okongwu",
+      "position": "F-C",
+      "primaryPosition": "C",
+      "jerseyNumber": "17",
+      "height": 82,
+      "weight": 240,
+      "birthdate": "2000-12-11",
+      "birthPlace": "Los Angeles, CA, USA",
+      "experience": "5",
+      "college": "USC",
+      "highSchool": "Chino Hills (CA)",
+      "team": {
+        "id": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hawks",
+        "alias": "ATL",
+        "market": "Atlanta",
+        "fullName": "Atlanta Hawks",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:23.526Z"
+    },
+    {
+      "id": "820a9363-1ad3-46a0-b577-2588f85b27f2",
+      "fullName": "Asa Newell",
+      "firstName": "Asa",
+      "lastName": "Newell",
+      "position": "F",
+      "primaryPosition": "PF",
+      "jerseyNumber": "14",
+      "height": 81,
+      "weight": 224,
+      "birthdate": "2005-10-05",
+      "birthPlace": "Destin, FL, USA",
+      "experience": "0",
+      "college": "Georgia",
+      "highSchool": "Montverde Academy (FL)",
+      "team": {
+        "id": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hawks",
+        "alias": "ATL",
+        "market": "Atlanta",
+        "fullName": "Atlanta Hawks",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:23.526Z"
+    },
+    {
+      "id": "8db2a730-bafb-4936-915f-3dd4920a0aa9",
+      "fullName": "Vít Krejčí",
+      "firstName": "Vít",
+      "lastName": "Krejčí",
+      "position": "G",
+      "primaryPosition": "PG",
+      "jerseyNumber": "27",
+      "height": 80,
+      "weight": 195,
+      "birthdate": "2000-06-19",
+      "birthPlace": "Strakonice,, CZE",
+      "experience": "4",
+      "team": {
+        "id": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hawks",
+        "alias": "ATL",
+        "market": "Atlanta",
+        "fullName": "Atlanta Hawks",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:23.526Z"
+    },
+    {
+      "id": "8e0c0e99-7060-4dce-a76a-777c3ee22da8",
+      "fullName": "Nikola Đurišić",
+      "firstName": "Nikola",
+      "lastName": "Đurišić",
+      "position": "F",
+      "primaryPosition": "SF",
+      "jerseyNumber": "22",
+      "height": 79,
+      "weight": 209,
+      "birthdate": "2004-02-23",
+      "birthPlace": "Ghent,, BEL",
+      "experience": "0",
+      "team": {
+        "id": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hawks",
+        "alias": "ATL",
+        "market": "Atlanta",
+        "fullName": "Atlanta Hawks",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:23.526Z"
+    },
+    {
+      "id": "a10a4352-53b3-47b6-a336-201dc9e8401e",
+      "fullName": "Kobe Bufkin",
+      "firstName": "Kobe",
+      "lastName": "Bufkin",
+      "position": "G",
+      "primaryPosition": "SG",
+      "jerseyNumber": "4",
+      "height": 76,
+      "weight": 195,
+      "birthdate": "2003-09-21",
+      "birthPlace": "Grand Rapids, MI, USA",
+      "experience": "2",
+      "college": "Michigan",
+      "highSchool": "Grand Rapids Christian (MI)",
+      "team": {
+        "id": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hawks",
+        "alias": "ATL",
+        "market": "Atlanta",
+        "fullName": "Atlanta Hawks",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:23.526Z"
+    },
+    {
+      "id": "a4f71454-3994-4994-a03d-1279da83989d",
+      "fullName": "Jacob Toppin",
+      "firstName": "Jacob",
+      "lastName": "Toppin",
+      "position": "F",
+      "primaryPosition": "SF",
+      "jerseyNumber": "00",
+      "height": 80,
+      "weight": 200,
+      "birthdate": "2000-05-08",
+      "birthPlace": "Brooklyn, NY, USA",
+      "experience": "2",
+      "college": "Kentucky",
+      "highSchool": "Woodstock Academy (NY)",
+      "team": {
+        "id": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hawks",
+        "alias": "ATL",
+        "market": "Atlanta",
+        "fullName": "Atlanta Hawks",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:23.526Z"
+    },
+    {
+      "id": "a537047d-c29f-4dfe-99b0-3bac4e258dc7",
+      "fullName": "Luke Kennard",
+      "firstName": "Luke",
+      "lastName": "Kennard",
+      "position": "G",
+      "primaryPosition": "SG",
+      "jerseyNumber": "3",
+      "height": 77,
+      "weight": 206,
+      "birthdate": "1996-06-24",
+      "birthPlace": "Middletown, OH, USA",
+      "experience": "8",
+      "college": "Duke",
+      "highSchool": "Franklin (OH)",
+      "team": {
+        "id": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hawks",
+        "alias": "ATL",
+        "market": "Atlanta",
+        "fullName": "Atlanta Hawks",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:23.526Z"
+    },
+    {
+      "id": "cf418e0c-de9d-438f-a1ac-3be539a56c42",
+      "fullName": "Trae Young",
+      "firstName": "Trae",
+      "lastName": "Young",
+      "position": "G",
+      "primaryPosition": "PG",
+      "jerseyNumber": "11",
+      "height": 73,
+      "weight": 164,
+      "birthdate": "1998-09-19",
+      "birthPlace": "Lubbock, TX, USA",
+      "experience": "7",
+      "college": "Oklahoma",
+      "highSchool": "Norman North (OK)",
+      "team": {
+        "id": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hawks",
+        "alias": "ATL",
+        "market": "Atlanta",
+        "fullName": "Atlanta Hawks",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:23.526Z"
+    },
+    {
+      "id": "d222539f-fa52-4070-807f-d3aba372f46d",
+      "fullName": "Jalen Johnson",
+      "firstName": "Jalen",
+      "lastName": "Johnson",
+      "position": "F",
+      "primaryPosition": "SF",
+      "jerseyNumber": "1",
+      "height": 80,
+      "weight": 219,
+      "birthdate": "2001-12-18",
+      "birthPlace": "Wausau, WI, USA",
+      "experience": "4",
+      "college": "Duke",
+      "highSchool": "Nicolet (WI)",
+      "team": {
+        "id": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hawks",
+        "alias": "ATL",
+        "market": "Atlanta",
+        "fullName": "Atlanta Hawks",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:23.526Z"
+    },
+    {
+      "id": "d3d0ab55-b939-47b3-af27-77cdf85d7956",
+      "fullName": "Nickeil Alexander-Walker",
+      "firstName": "Nickeil",
+      "lastName": "Alexander-Walker",
+      "position": "G",
+      "primaryPosition": "SG",
+      "jerseyNumber": "7",
+      "height": 77,
+      "weight": 205,
+      "birthdate": "1998-09-02",
+      "birthPlace": "Toronto, ON, CAN",
+      "experience": "6",
+      "college": "Virginia Tech",
+      "highSchool": "Hamilton Heights Christian Academy (TN)",
+      "team": {
+        "id": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Hawks",
+        "alias": "ATL",
+        "market": "Atlanta",
+        "fullName": "Atlanta Hawks",
+        "conference": {
+          "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+          "name": "EASTERN CONFERENCE",
+          "alias": "EASTERN"
+        },
+        "division": {
+          "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+          "name": "Southeast",
+          "alias": "SOUTHEAST"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:23.526Z"
+    },
+    {
+      "id": "003883ca-cd7e-4b58-99d7-6fef54afdfeb",
+      "fullName": "Patrick Baldwin",
+      "firstName": "Patrick",
+      "lastName": "Baldwin",
+      "position": "F",
+      "primaryPosition": "SF",
+      "jerseyNumber": "23",
+      "height": 81,
+      "weight": 220,
+      "birthdate": "2002-11-18",
+      "birthPlace": "Green Bay, WI, USA",
+      "experience": "3",
+      "college": "Milwaukee",
+      "highSchool": "Hamilton (WI)",
+      "team": {
+        "id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Clippers",
+        "alias": "LAC",
+        "market": "LA",
+        "fullName": "LA Clippers",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "f074cb3e-90cf-42e1-8067-cdbcd99ec230",
+          "name": "Pacific",
+          "alias": "PACIFIC"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:25.727Z"
+    },
+    {
+      "id": "1f665b2c-789e-4471-af7a-f86105f2466c",
+      "fullName": "Kobe Sanders",
+      "firstName": "Kobe",
+      "lastName": "Sanders",
+      "position": "G",
+      "primaryPosition": "SG",
+      "jerseyNumber": "4",
+      "height": 79,
+      "weight": 203,
+      "birthdate": "2002-05-30",
+      "birthPlace": "San Diego, CA, USA",
+      "experience": "0",
+      "college": "Nevada",
+      "highSchool": "Christian (CA)",
+      "team": {
+        "id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Clippers",
+        "alias": "LAC",
+        "market": "LA",
+        "fullName": "LA Clippers",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "f074cb3e-90cf-42e1-8067-cdbcd99ec230",
+          "name": "Pacific",
+          "alias": "PACIFIC"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:25.727Z"
+    },
+    {
+      "id": "28a2e698-9f33-4d4d-9a5d-9bea66ee42a1",
+      "fullName": "John Collins",
+      "firstName": "John",
+      "lastName": "Collins",
+      "position": "F-C",
+      "primaryPosition": "PF",
+      "jerseyNumber": "20",
+      "height": 81,
+      "weight": 226,
+      "birthdate": "1997-09-23",
+      "birthPlace": "Layton, UT, USA",
+      "experience": "8",
+      "college": "Wake Forest",
+      "highSchool": "Cardinal Newman (FL)",
+      "team": {
+        "id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Clippers",
+        "alias": "LAC",
+        "market": "LA",
+        "fullName": "LA Clippers",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "f074cb3e-90cf-42e1-8067-cdbcd99ec230",
+          "name": "Pacific",
+          "alias": "PACIFIC"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:25.727Z"
+    },
+    {
+      "id": "2da18268-82d4-4b40-a296-7ceddd435d0b",
+      "fullName": "Ivica Zubac",
+      "firstName": "Ivica",
+      "lastName": "Zubac",
+      "position": "C",
+      "primaryPosition": "C",
+      "jerseyNumber": "40",
+      "height": 84,
+      "weight": 240,
+      "birthdate": "1997-03-18",
+      "birthPlace": "Mostar,, BIH",
+      "experience": "9",
+      "team": {
+        "id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Clippers",
+        "alias": "LAC",
+        "market": "LA",
+        "fullName": "LA Clippers",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "f074cb3e-90cf-42e1-8067-cdbcd99ec230",
+          "name": "Pacific",
+          "alias": "PACIFIC"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:25.727Z"
+    },
+    {
+      "id": "3054d6e1-033b-4b8d-93e5-b807ea122c75",
+      "fullName": "TyTy Washington",
+      "firstName": "TyTy",
+      "lastName": "Washington",
+      "position": "G",
+      "primaryPosition": "PG",
+      "height": 75,
+      "weight": 195,
+      "birthdate": "2001-11-15",
+      "birthPlace": "Phoenix, AZ, USA",
+      "experience": "2",
+      "college": "Kentucky",
+      "highSchool": "AZ Compass Prep (AZ)",
+      "team": {
+        "id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Clippers",
+        "alias": "LAC",
+        "market": "LA",
+        "fullName": "LA Clippers",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "f074cb3e-90cf-42e1-8067-cdbcd99ec230",
+          "name": "Pacific",
+          "alias": "PACIFIC"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:25.727Z"
+    },
+    {
+      "id": "4ec576c6-d74d-4b23-83e5-7a94e76526c9",
+      "fullName": "Yanic Konan Niederhäuser",
+      "firstName": "Yanic",
+      "lastName": "Konan Niederhäuser",
+      "position": "C",
+      "primaryPosition": "C",
+      "jerseyNumber": "14",
+      "height": 83,
+      "weight": 243,
+      "birthdate": "2003-03-14",
+      "birthPlace": "Fraschels,, CHE",
+      "experience": "0",
+      "college": "Penn State",
+      "team": {
+        "id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Clippers",
+        "alias": "LAC",
+        "market": "LA",
+        "fullName": "LA Clippers",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "f074cb3e-90cf-42e1-8067-cdbcd99ec230",
+          "name": "Pacific",
+          "alias": "PACIFIC"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:25.727Z"
+    },
+    {
+      "id": "54cf6e06-9172-44b8-8d3b-ea1b6926553d",
+      "fullName": "Derrick Jones",
+      "firstName": "Derrick",
+      "lastName": "Jones",
+      "position": "F",
+      "primaryPosition": "SF",
+      "jerseyNumber": "5",
+      "height": 78,
+      "weight": 210,
+      "birthdate": "1997-02-15",
+      "birthPlace": "Chester, PA, USA",
+      "experience": "9",
+      "college": "UNLV",
+      "highSchool": "Archbishop Carroll (PA)",
+      "team": {
+        "id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Clippers",
+        "alias": "LAC",
+        "market": "LA",
+        "fullName": "LA Clippers",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "f074cb3e-90cf-42e1-8067-cdbcd99ec230",
+          "name": "Pacific",
+          "alias": "PACIFIC"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:25.727Z"
+    },
+    {
+      "id": "56c796d6-74d3-4881-9166-7f528e2b67f6",
+      "fullName": "Kris Dunn",
+      "firstName": "Kris",
+      "lastName": "Dunn",
+      "position": "G",
+      "primaryPosition": "PG",
+      "jerseyNumber": "8",
+      "height": 75,
+      "weight": 205,
+      "birthdate": "1994-03-18",
+      "birthPlace": "New London, CT, USA",
+      "experience": "9",
+      "college": "Providence",
+      "highSchool": "New London (CT)",
+      "team": {
+        "id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Clippers",
+        "alias": "LAC",
+        "market": "LA",
+        "fullName": "LA Clippers",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "f074cb3e-90cf-42e1-8067-cdbcd99ec230",
+          "name": "Pacific",
+          "alias": "PACIFIC"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:25.727Z"
+    },
+    {
+      "id": "83d5d358-9559-49fb-8cde-833d8d5eb108",
+      "fullName": "Kobe Brown",
+      "firstName": "Kobe",
+      "lastName": "Brown",
+      "position": "F",
+      "primaryPosition": "PF",
+      "jerseyNumber": "21",
+      "height": 79,
+      "weight": 250,
+      "birthdate": "2000-01-01",
+      "birthPlace": "Huntsville, AL, USA",
+      "experience": "2",
+      "college": "Missouri",
+      "highSchool": "Lee (AL)",
+      "team": {
+        "id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Clippers",
+        "alias": "LAC",
+        "market": "LA",
+        "fullName": "LA Clippers",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "f074cb3e-90cf-42e1-8067-cdbcd99ec230",
+          "name": "Pacific",
+          "alias": "PACIFIC"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:25.727Z"
+    },
+    {
+      "id": "942c53e3-7268-44e3-b0a9-fdff55a72c03",
+      "fullName": "Chris Paul",
+      "firstName": "Chris",
+      "lastName": "Paul",
+      "position": "G",
+      "primaryPosition": "PG",
+      "jerseyNumber": "3",
+      "height": 72,
+      "weight": 175,
+      "birthdate": "1985-05-06",
+      "birthPlace": "Winston-Salem, NC, USA",
+      "experience": "19",
+      "college": "Wake Forest",
+      "highSchool": "West Forsyth (NC)",
+      "team": {
+        "id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Clippers",
+        "alias": "LAC",
+        "market": "LA",
+        "fullName": "LA Clippers",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "f074cb3e-90cf-42e1-8067-cdbcd99ec230",
+          "name": "Pacific",
+          "alias": "PACIFIC"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:25.727Z"
+    },
+    {
+      "id": "a52b2c84-9c3d-4d6e-8a3b-10e75d11c2bc",
+      "fullName": "James Harden",
+      "firstName": "James",
+      "lastName": "Harden",
+      "position": "G",
+      "primaryPosition": "PG",
+      "jerseyNumber": "1",
+      "height": 77,
+      "weight": 220,
+      "birthdate": "1989-08-26",
+      "birthPlace": "Los Angeles, CA, USA",
+      "experience": "16",
+      "college": "Arizona State",
+      "highSchool": "Artesia (CA)",
+      "team": {
+        "id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Clippers",
+        "alias": "LAC",
+        "market": "LA",
+        "fullName": "LA Clippers",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "f074cb3e-90cf-42e1-8067-cdbcd99ec230",
+          "name": "Pacific",
+          "alias": "PACIFIC"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:25.727Z"
+    },
+    {
+      "id": "a89ac040-715d-4057-8fc0-9d71ad06fa0a",
+      "fullName": "Nicolas Batum",
+      "firstName": "Nicolas",
+      "lastName": "Batum",
+      "position": "G-F",
+      "primaryPosition": "PF",
+      "jerseyNumber": "33",
+      "height": 80,
+      "weight": 230,
+      "birthdate": "1988-12-14",
+      "birthPlace": "Lisieux,, FRA",
+      "experience": "17",
+      "team": {
+        "id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Clippers",
+        "alias": "LAC",
+        "market": "LA",
+        "fullName": "LA Clippers",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "f074cb3e-90cf-42e1-8067-cdbcd99ec230",
+          "name": "Pacific",
+          "alias": "PACIFIC"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:25.727Z"
+    },
+    {
+      "id": "b4282659-dd1a-4042-a075-7df4890858e7",
+      "fullName": "Bogdan Bogdanović",
+      "firstName": "Bogdan",
+      "lastName": "Bogdanović",
+      "position": "G",
+      "primaryPosition": "SG",
+      "jerseyNumber": "10",
+      "height": 77,
+      "weight": 225,
+      "birthdate": "1992-08-18",
+      "birthPlace": "Belgrade,, SRB",
+      "experience": "8",
+      "team": {
+        "id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Clippers",
+        "alias": "LAC",
+        "market": "LA",
+        "fullName": "LA Clippers",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "f074cb3e-90cf-42e1-8067-cdbcd99ec230",
+          "name": "Pacific",
+          "alias": "PACIFIC"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:25.727Z"
+    },
+    {
+      "id": "c12fb587-fc86-471c-8a84-19caf31325ce",
+      "fullName": "Kawhi Leonard",
+      "firstName": "Kawhi",
+      "lastName": "Leonard",
+      "position": "F",
+      "primaryPosition": "SF",
+      "jerseyNumber": "2",
+      "height": 79,
+      "weight": 225,
+      "birthdate": "1991-06-29",
+      "birthPlace": "Los Angeles, CA, USA",
+      "experience": "13",
+      "college": "San Diego State",
+      "highSchool": "Martin Luther King (CA)",
+      "team": {
+        "id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Clippers",
+        "alias": "LAC",
+        "market": "LA",
+        "fullName": "LA Clippers",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "f074cb3e-90cf-42e1-8067-cdbcd99ec230",
+          "name": "Pacific",
+          "alias": "PACIFIC"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:25.727Z"
+    },
+    {
+      "id": "c179fb5c-9845-4e37-aef7-6e00d97548eb",
+      "fullName": "Brook Lopez",
+      "firstName": "Brook",
+      "lastName": "Lopez",
+      "position": "C",
+      "primaryPosition": "C",
+      "jerseyNumber": "11",
+      "height": 85,
+      "weight": 282,
+      "birthdate": "1988-04-01",
+      "birthPlace": "North Hollywood, CA, USA",
+      "experience": "17",
+      "college": "Stanford",
+      "highSchool": "San Joaquin Memorial (CA)",
+      "team": {
+        "id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Clippers",
+        "alias": "LAC",
+        "market": "LA",
+        "fullName": "LA Clippers",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "f074cb3e-90cf-42e1-8067-cdbcd99ec230",
+          "name": "Pacific",
+          "alias": "PACIFIC"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:25.727Z"
+    },
+    {
+      "id": "d2738ed5-19ea-43d0-8a5b-73b887d91086",
+      "fullName": "Trentyn Flowers",
+      "firstName": "Trentyn",
+      "lastName": "Flowers",
+      "position": "F",
+      "primaryPosition": "SF",
+      "jerseyNumber": "9",
+      "height": 81,
+      "weight": 185,
+      "birthdate": "2005-03-08",
+      "birthPlace": "Baltimore, MD, USA",
+      "experience": "1",
+      "college": "Louisville",
+      "highSchool": "Sierra Canyon (CA)",
+      "team": {
+        "id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Clippers",
+        "alias": "LAC",
+        "market": "LA",
+        "fullName": "LA Clippers",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "f074cb3e-90cf-42e1-8067-cdbcd99ec230",
+          "name": "Pacific",
+          "alias": "PACIFIC"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:25.727Z"
+    },
+    {
+      "id": "dac0090b-6d39-4275-98ac-db8aab39502f",
+      "fullName": "Cam Christie",
+      "firstName": "Cam",
+      "lastName": "Christie",
+      "position": "G",
+      "primaryPosition": "SG",
+      "jerseyNumber": "12",
+      "height": 78,
+      "weight": 190,
+      "birthdate": "2005-07-24",
+      "birthPlace": "Arlington Heights, IL, USA",
+      "experience": "1",
+      "college": "Minnesota",
+      "highSchool": "Rolling Meadows (IL)",
+      "team": {
+        "id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Clippers",
+        "alias": "LAC",
+        "market": "LA",
+        "fullName": "LA Clippers",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "f074cb3e-90cf-42e1-8067-cdbcd99ec230",
+          "name": "Pacific",
+          "alias": "PACIFIC"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:25.727Z"
+    },
+    {
+      "id": "ff461754-ad20-4eeb-af02-2b46cc980b24",
+      "fullName": "Bradley Beal",
+      "firstName": "Bradley",
+      "lastName": "Beal",
+      "position": "G",
+      "primaryPosition": "SG",
+      "height": 76,
+      "weight": 207,
+      "birthdate": "1993-06-28",
+      "birthPlace": "St. Louis, MO, USA",
+      "experience": "13",
+      "college": "Florida",
+      "highSchool": "Chaminade College Prep (MO)",
+      "team": {
+        "id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+        "name": "Clippers",
+        "alias": "LAC",
+        "market": "LA",
+        "fullName": "LA Clippers",
+        "conference": {
+          "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+          "name": "WESTERN CONFERENCE",
+          "alias": "WESTERN"
+        },
+        "division": {
+          "id": "f074cb3e-90cf-42e1-8067-cdbcd99ec230",
+          "name": "Pacific",
+          "alias": "PACIFIC"
+        }
+      },
+      "hasDetailedStats": false,
+      "lastUpdated": "2025-07-27T02:28:25.727Z"
     }
   ],
   "summary": {
-    "totalPlayers": 436,
-    "totalTeams": 25,
-    "averagePlayersPerTeam": 17,
-    "conferences": {
-      "eastern": 0,
-      "western": 0,
-      "total": 25
-    }
+    "totalPlayers": 527,
+    "totalTeams": 30,
+    "averagePlayersPerTeam": 18,
+    "addedTeams": 5,
+    "addedPlayers": 91
   }
 }
