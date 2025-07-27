@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-27T15:46:24.895Z",
+  "lastUpdated": "2025-07-27T17:45:53.885Z",
   "description": "Batting order analysis for prop betting",
   "orderAnalysis": {
     "776975_home": {
@@ -658,6 +658,334 @@
         }
       ]
     },
+    "776977_home": {
+      "gameId": 776977,
+      "team": {
+        "id": 108,
+        "name": "Los Angeles Angels",
+        "abbreviation": "LAA",
+        "score": 0
+      },
+      "battingOrderAnalysis": [
+        {
+          "battingOrder": 1,
+          "player": {
+            "id": 687263,
+            "name": "Zach Neto",
+            "position": "Shortstop"
+          },
+          "propImpact": {
+            "hits": "High - More AB opportunities",
+            "runs": "High - Top of order, more scoring opportunities",
+            "rbi": "Low - Top of order, fewer runners on base",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Consider OVER on runs - top of order positioning"
+          ]
+        },
+        {
+          "battingOrder": 2,
+          "player": {
+            "id": 545361,
+            "name": "Mike Trout",
+            "position": "Designated Hitter"
+          },
+          "propImpact": {
+            "hits": "High - More AB opportunities",
+            "runs": "High - Top of order, more scoring opportunities",
+            "rbi": "Low - Top of order, fewer runners on base",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Consider OVER on runs - top of order positioning"
+          ]
+        },
+        {
+          "battingOrder": 3,
+          "player": {
+            "id": 694384,
+            "name": "Nolan Schanuel",
+            "position": "First Base"
+          },
+          "propImpact": {
+            "hits": "Medium - Good AB opportunities",
+            "runs": "High - Top of order, more scoring opportunities",
+            "rbi": "High - Heart of order, RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Consider OVER on runs - top of order positioning"
+          ]
+        },
+        {
+          "battingOrder": 4,
+          "player": {
+            "id": 621493,
+            "name": "Taylor Ward",
+            "position": "Outfielder"
+          },
+          "propImpact": {
+            "hits": "Medium - Good AB opportunities",
+            "runs": "Medium - Middle order scoring chances",
+            "rbi": "High - Heart of order, RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 5,
+          "player": {
+            "id": 666176,
+            "name": "Jo Adell",
+            "position": "Outfielder"
+          },
+          "propImpact": {
+            "hits": "Medium - Average AB opportunities",
+            "runs": "Medium - Middle order scoring chances",
+            "rbi": "High - Heart of order, RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 6,
+          "player": {
+            "id": 518595,
+            "name": "Travis d'Arnaud",
+            "position": "Catcher"
+          },
+          "propImpact": {
+            "hits": "Medium - Average AB opportunities",
+            "runs": "Medium - Middle order scoring chances",
+            "rbi": "Medium - Some RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 7,
+          "player": {
+            "id": 650859,
+            "name": "Luis Rengifo",
+            "position": "Second Base"
+          },
+          "propImpact": {
+            "hits": "Low - Fewer AB opportunities",
+            "runs": "Low - Bottom of order, fewer chances",
+            "rbi": "Medium - Some RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 8,
+          "player": {
+            "id": 672569,
+            "name": "Gustavo Campero",
+            "position": "Outfielder"
+          },
+          "propImpact": {
+            "hits": "Low - Fewer AB opportunities",
+            "runs": "Low - Bottom of order, fewer chances",
+            "rbi": "Medium - Some RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 9,
+          "player": {
+            "id": 621028,
+            "name": "Kevin Newman",
+            "position": "Third Base"
+          },
+          "propImpact": {
+            "hits": "Low - Fewer AB opportunities",
+            "runs": "Low - Bottom of order, fewer chances",
+            "rbi": "Medium - Some RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        }
+      ]
+    },
+    "776977_away": {
+      "gameId": 776977,
+      "team": {
+        "id": 136,
+        "name": "Seattle Mariners",
+        "abbreviation": "SEA",
+        "score": 0
+      },
+      "battingOrderAnalysis": [
+        {
+          "battingOrder": 1,
+          "player": {
+            "id": 641487,
+            "name": "J.P. Crawford",
+            "position": "Shortstop"
+          },
+          "propImpact": {
+            "hits": "High - More AB opportunities",
+            "runs": "High - Top of order, more scoring opportunities",
+            "rbi": "Low - Top of order, fewer runners on base",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Consider OVER on runs - top of order positioning"
+          ]
+        },
+        {
+          "battingOrder": 2,
+          "player": {
+            "id": 677594,
+            "name": "Julio Rodríguez",
+            "position": "Outfielder"
+          },
+          "propImpact": {
+            "hits": "High - More AB opportunities",
+            "runs": "High - Top of order, more scoring opportunities",
+            "rbi": "Low - Top of order, fewer runners on base",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Consider OVER on runs - top of order positioning"
+          ]
+        },
+        {
+          "battingOrder": 3,
+          "player": {
+            "id": 663728,
+            "name": "Cal Raleigh",
+            "position": "Catcher"
+          },
+          "propImpact": {
+            "hits": "Medium - Good AB opportunities",
+            "runs": "High - Top of order, more scoring opportunities",
+            "rbi": "High - Heart of order, RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Consider OVER on runs - top of order positioning"
+          ]
+        },
+        {
+          "battingOrder": 4,
+          "player": {
+            "id": 647304,
+            "name": "Josh Naylor",
+            "position": "First Base"
+          },
+          "propImpact": {
+            "hits": "Medium - Good AB opportunities",
+            "runs": "Medium - Middle order scoring chances",
+            "rbi": "High - Heart of order, RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 5,
+          "player": {
+            "id": 668227,
+            "name": "Randy Arozarena",
+            "position": "Outfielder"
+          },
+          "propImpact": {
+            "hits": "Medium - Average AB opportunities",
+            "runs": "Medium - Middle order scoring chances",
+            "rbi": "High - Heart of order, RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 6,
+          "player": {
+            "id": 593871,
+            "name": "Jorge Polanco",
+            "position": "Designated Hitter"
+          },
+          "propImpact": {
+            "hits": "Medium - Average AB opportunities",
+            "runs": "Medium - Middle order scoring chances",
+            "rbi": "Medium - Some RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 7,
+          "player": {
+            "id": 686527,
+            "name": "Dominic Canzone",
+            "position": "Outfielder"
+          },
+          "propImpact": {
+            "hits": "Low - Fewer AB opportunities",
+            "runs": "Low - Bottom of order, fewer chances",
+            "rbi": "Medium - Some RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 8,
+          "player": {
+            "id": 810938,
+            "name": "Ben Williamson",
+            "position": "Third Base"
+          },
+          "propImpact": {
+            "hits": "Low - Fewer AB opportunities",
+            "runs": "Low - Bottom of order, fewer chances",
+            "rbi": "Medium - Some RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 9,
+          "player": {
+            "id": 702284,
+            "name": "Cole Young",
+            "position": "Second Base"
+          },
+          "propImpact": {
+            "hits": "Low - Fewer AB opportunities",
+            "runs": "Low - Bottom of order, fewer chances",
+            "rbi": "Medium - Some RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        }
+      ]
+    },
     "776978_home": {
       "gameId": 776978,
       "team": {
@@ -991,7 +1319,8 @@
       "team": {
         "id": 142,
         "name": "Minnesota Twins",
-        "abbreviation": "MIN"
+        "abbreviation": "MIN",
+        "score": 0
       },
       "battingOrderAnalysis": [
         {
@@ -1149,12 +1478,177 @@
         }
       ]
     },
+    "776979_away": {
+      "gameId": 776979,
+      "team": {
+        "id": 120,
+        "name": "Washington Nationals",
+        "abbreviation": "WSH",
+        "score": 0
+      },
+      "battingOrderAnalysis": [
+        {
+          "battingOrder": 1,
+          "player": {
+            "id": 682928,
+            "name": "CJ Abrams",
+            "position": "Shortstop"
+          },
+          "propImpact": {
+            "hits": "High - More AB opportunities",
+            "runs": "High - Top of order, more scoring opportunities",
+            "rbi": "Low - Top of order, fewer runners on base",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Consider OVER on runs - top of order positioning"
+          ]
+        },
+        {
+          "battingOrder": 2,
+          "player": {
+            "id": 695578,
+            "name": "James Wood",
+            "position": "Outfielder"
+          },
+          "propImpact": {
+            "hits": "High - More AB opportunities",
+            "runs": "High - Top of order, more scoring opportunities",
+            "rbi": "Low - Top of order, fewer runners on base",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Consider OVER on runs - top of order positioning"
+          ]
+        },
+        {
+          "battingOrder": 3,
+          "player": {
+            "id": 671277,
+            "name": "Luis García Jr.",
+            "position": "Second Base"
+          },
+          "propImpact": {
+            "hits": "Medium - Good AB opportunities",
+            "runs": "High - Top of order, more scoring opportunities",
+            "rbi": "High - Heart of order, RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Consider OVER on runs - top of order positioning"
+          ]
+        },
+        {
+          "battingOrder": 4,
+          "player": {
+            "id": 605137,
+            "name": "Josh Bell",
+            "position": "Designated Hitter"
+          },
+          "propImpact": {
+            "hits": "Medium - Good AB opportunities",
+            "runs": "Medium - Middle order scoring chances",
+            "rbi": "High - Heart of order, RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 5,
+          "player": {
+            "id": 663993,
+            "name": "Nathaniel Lowe",
+            "position": "First Base"
+          },
+          "propImpact": {
+            "hits": "Medium - Average AB opportunities",
+            "runs": "Medium - Middle order scoring chances",
+            "rbi": "High - Heart of order, RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 6,
+          "player": {
+            "id": 669743,
+            "name": "Alex Call",
+            "position": "Outfielder"
+          },
+          "propImpact": {
+            "hits": "Medium - Average AB opportunities",
+            "runs": "Medium - Middle order scoring chances",
+            "rbi": "Medium - Some RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 7,
+          "player": {
+            "id": 695734,
+            "name": "Daylen Lile",
+            "position": "Outfielder"
+          },
+          "propImpact": {
+            "hits": "Low - Fewer AB opportunities",
+            "runs": "Low - Bottom of order, fewer chances",
+            "rbi": "Medium - Some RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 8,
+          "player": {
+            "id": 657557,
+            "name": "Paul DeJong",
+            "position": "Third Base"
+          },
+          "propImpact": {
+            "hits": "Low - Fewer AB opportunities",
+            "runs": "Low - Bottom of order, fewer chances",
+            "rbi": "Medium - Some RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 9,
+          "player": {
+            "id": 656180,
+            "name": "Riley Adams",
+            "position": "Catcher"
+          },
+          "propImpact": {
+            "hits": "Low - Fewer AB opportunities",
+            "runs": "Low - Bottom of order, fewer chances",
+            "rbi": "Medium - Some RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        }
+      ]
+    },
     "776980_home": {
       "gameId": 776980,
       "team": {
         "id": 138,
         "name": "St. Louis Cardinals",
-        "abbreviation": "STL"
+        "abbreviation": "STL",
+        "score": 0
       },
       "battingOrderAnalysis": [
         {
@@ -1312,12 +1806,341 @@
         }
       ]
     },
+    "776980_away": {
+      "gameId": 776980,
+      "team": {
+        "id": 135,
+        "name": "San Diego Padres",
+        "abbreviation": "SD",
+        "score": 0
+      },
+      "battingOrderAnalysis": [
+        {
+          "battingOrder": 1,
+          "player": {
+            "id": 665487,
+            "name": "Fernando Tatis Jr.",
+            "position": "Outfielder"
+          },
+          "propImpact": {
+            "hits": "High - More AB opportunities",
+            "runs": "High - Top of order, more scoring opportunities",
+            "rbi": "Low - Top of order, fewer runners on base",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Consider OVER on runs - top of order positioning"
+          ]
+        },
+        {
+          "battingOrder": 2,
+          "player": {
+            "id": 650333,
+            "name": "Luis Arraez",
+            "position": "First Base"
+          },
+          "propImpact": {
+            "hits": "High - More AB opportunities",
+            "runs": "High - Top of order, more scoring opportunities",
+            "rbi": "Low - Top of order, fewer runners on base",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Consider OVER on runs - top of order positioning"
+          ]
+        },
+        {
+          "battingOrder": 3,
+          "player": {
+            "id": 592518,
+            "name": "Manny Machado",
+            "position": "Third Base"
+          },
+          "propImpact": {
+            "hits": "Medium - Good AB opportunities",
+            "runs": "High - Top of order, more scoring opportunities",
+            "rbi": "High - Heart of order, RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Consider OVER on runs - top of order positioning"
+          ]
+        },
+        {
+          "battingOrder": 4,
+          "player": {
+            "id": 701538,
+            "name": "Jackson Merrill",
+            "position": "Outfielder"
+          },
+          "propImpact": {
+            "hits": "Medium - Good AB opportunities",
+            "runs": "Medium - Middle order scoring chances",
+            "rbi": "High - Heart of order, RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 5,
+          "player": {
+            "id": 593428,
+            "name": "Xander Bogaerts",
+            "position": "Designated Hitter"
+          },
+          "propImpact": {
+            "hits": "Medium - Average AB opportunities",
+            "runs": "Medium - Middle order scoring chances",
+            "rbi": "High - Heart of order, RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 6,
+          "player": {
+            "id": 657757,
+            "name": "Gavin Sheets",
+            "position": "Outfielder"
+          },
+          "propImpact": {
+            "hits": "Medium - Average AB opportunities",
+            "runs": "Medium - Middle order scoring chances",
+            "rbi": "Medium - Some RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 7,
+          "player": {
+            "id": 630105,
+            "name": "Jake Cronenworth",
+            "position": "Second Base"
+          },
+          "propImpact": {
+            "hits": "Low - Fewer AB opportunities",
+            "runs": "Low - Bottom of order, fewer chances",
+            "rbi": "Medium - Some RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 8,
+          "player": {
+            "id": 578428,
+            "name": "Jose Iglesias",
+            "position": "Shortstop"
+          },
+          "propImpact": {
+            "hits": "Low - Fewer AB opportunities",
+            "runs": "Low - Bottom of order, fewer chances",
+            "rbi": "Medium - Some RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 9,
+          "player": {
+            "id": 553869,
+            "name": "Elias Díaz",
+            "position": "Catcher"
+          },
+          "propImpact": {
+            "hits": "Low - Fewer AB opportunities",
+            "runs": "Low - Bottom of order, fewer chances",
+            "rbi": "Medium - Some RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        }
+      ]
+    },
+    "776981_home": {
+      "gameId": 776981,
+      "team": {
+        "id": 140,
+        "name": "Texas Rangers",
+        "abbreviation": "TEX",
+        "score": 0
+      },
+      "battingOrderAnalysis": [
+        {
+          "battingOrder": 1,
+          "player": {
+            "id": 669701,
+            "name": "Josh Smith",
+            "position": "First Base"
+          },
+          "propImpact": {
+            "hits": "High - More AB opportunities",
+            "runs": "High - Top of order, more scoring opportunities",
+            "rbi": "Low - Top of order, fewer runners on base",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Consider OVER on runs - top of order positioning"
+          ]
+        },
+        {
+          "battingOrder": 2,
+          "player": {
+            "id": 608369,
+            "name": "Corey Seager",
+            "position": "Shortstop"
+          },
+          "propImpact": {
+            "hits": "High - More AB opportunities",
+            "runs": "High - Top of order, more scoring opportunities",
+            "rbi": "Low - Top of order, fewer runners on base",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Consider OVER on runs - top of order positioning"
+          ]
+        },
+        {
+          "battingOrder": 3,
+          "player": {
+            "id": 543760,
+            "name": "Marcus Semien",
+            "position": "Second Base"
+          },
+          "propImpact": {
+            "hits": "Medium - Good AB opportunities",
+            "runs": "High - Top of order, more scoring opportunities",
+            "rbi": "High - Heart of order, RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Consider OVER on runs - top of order positioning"
+          ]
+        },
+        {
+          "battingOrder": 4,
+          "player": {
+            "id": 666969,
+            "name": "Adolis García",
+            "position": "Outfielder"
+          },
+          "propImpact": {
+            "hits": "Medium - Good AB opportunities",
+            "runs": "Medium - Middle order scoring chances",
+            "rbi": "High - Heart of order, RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 5,
+          "player": {
+            "id": 592626,
+            "name": "Joc Pederson",
+            "position": "Designated Hitter"
+          },
+          "propImpact": {
+            "hits": "Medium - Average AB opportunities",
+            "runs": "Medium - Middle order scoring chances",
+            "rbi": "High - Heart of order, RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 6,
+          "player": {
+            "id": 694671,
+            "name": "Wyatt Langford",
+            "position": "Outfielder"
+          },
+          "propImpact": {
+            "hits": "Medium - Average AB opportunities",
+            "runs": "Medium - Middle order scoring chances",
+            "rbi": "Medium - Some RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 7,
+          "player": {
+            "id": 694497,
+            "name": "Evan Carter",
+            "position": "Outfielder"
+          },
+          "propImpact": {
+            "hits": "Low - Fewer AB opportunities",
+            "runs": "Low - Bottom of order, fewer chances",
+            "rbi": "Medium - Some RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 8,
+          "player": {
+            "id": 673962,
+            "name": "Josh Jung",
+            "position": "Third Base"
+          },
+          "propImpact": {
+            "hits": "Low - Fewer AB opportunities",
+            "runs": "Low - Bottom of order, fewer chances",
+            "rbi": "Medium - Some RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 9,
+          "player": {
+            "id": 641680,
+            "name": "Jonah Heim",
+            "position": "Catcher"
+          },
+          "propImpact": {
+            "hits": "Low - Fewer AB opportunities",
+            "runs": "Low - Bottom of order, fewer chances",
+            "rbi": "Medium - Some RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        }
+      ]
+    },
     "776981_away": {
       "gameId": 776981,
       "team": {
         "id": 144,
         "name": "Atlanta Braves",
-        "abbreviation": "ATL"
+        "abbreviation": "ATL",
+        "score": 0
       },
       "battingOrderAnalysis": [
         {
@@ -3430,6 +4253,334 @@
             "id": 679032,
             "name": "Johan Rojas",
             "position": "Outfielder"
+          },
+          "propImpact": {
+            "hits": "Low - Fewer AB opportunities",
+            "runs": "Low - Bottom of order, fewer chances",
+            "rbi": "Medium - Some RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        }
+      ]
+    },
+    "776989_home": {
+      "gameId": 776989,
+      "team": {
+        "id": 145,
+        "name": "Chicago White Sox",
+        "abbreviation": "CWS",
+        "score": 0
+      },
+      "battingOrderAnalysis": [
+        {
+          "battingOrder": 1,
+          "player": {
+            "id": 643565,
+            "name": "Mike Tauchman",
+            "position": "Outfielder"
+          },
+          "propImpact": {
+            "hits": "High - More AB opportunities",
+            "runs": "High - Top of order, more scoring opportunities",
+            "rbi": "Low - Top of order, fewer runners on base",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Consider OVER on runs - top of order positioning"
+          ]
+        },
+        {
+          "battingOrder": 2,
+          "player": {
+            "id": 805367,
+            "name": "Chase Meidroth",
+            "position": "Shortstop"
+          },
+          "propImpact": {
+            "hits": "High - More AB opportunities",
+            "runs": "High - Top of order, more scoring opportunities",
+            "rbi": "Low - Top of order, fewer runners on base",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Consider OVER on runs - top of order positioning"
+          ]
+        },
+        {
+          "battingOrder": 3,
+          "player": {
+            "id": 643217,
+            "name": "Andrew Benintendi",
+            "position": "Outfielder"
+          },
+          "propImpact": {
+            "hits": "Medium - Good AB opportunities",
+            "runs": "High - Top of order, more scoring opportunities",
+            "rbi": "High - Heart of order, RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Consider OVER on runs - top of order positioning"
+          ]
+        },
+        {
+          "battingOrder": 4,
+          "player": {
+            "id": 678246,
+            "name": "Miguel Vargas",
+            "position": "First Base"
+          },
+          "propImpact": {
+            "hits": "Medium - Good AB opportunities",
+            "runs": "Medium - Middle order scoring chances",
+            "rbi": "High - Heart of order, RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 5,
+          "player": {
+            "id": 700337,
+            "name": "Edgar Quero",
+            "position": "Catcher"
+          },
+          "propImpact": {
+            "hits": "Medium - Average AB opportunities",
+            "runs": "Medium - Middle order scoring chances",
+            "rbi": "High - Heart of order, RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 6,
+          "player": {
+            "id": 695657,
+            "name": "Colson Montgomery",
+            "position": "Third Base"
+          },
+          "propImpact": {
+            "hits": "Medium - Average AB opportunities",
+            "runs": "Medium - Middle order scoring chances",
+            "rbi": "Medium - Some RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 7,
+          "player": {
+            "id": 673357,
+            "name": "Luis Robert Jr.",
+            "position": "Designated Hitter"
+          },
+          "propImpact": {
+            "hits": "Low - Fewer AB opportunities",
+            "runs": "Low - Bottom of order, fewer chances",
+            "rbi": "Medium - Some RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 8,
+          "player": {
+            "id": 672820,
+            "name": "Lenyn Sosa",
+            "position": "Second Base"
+          },
+          "propImpact": {
+            "hits": "Low - Fewer AB opportunities",
+            "runs": "Low - Bottom of order, fewer chances",
+            "rbi": "Medium - Some RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 9,
+          "player": {
+            "id": 681460,
+            "name": "Brooks Baldwin",
+            "position": "Outfielder"
+          },
+          "propImpact": {
+            "hits": "Low - Fewer AB opportunities",
+            "runs": "Low - Bottom of order, fewer chances",
+            "rbi": "Medium - Some RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        }
+      ]
+    },
+    "776989_away": {
+      "gameId": 776989,
+      "team": {
+        "id": 112,
+        "name": "Chicago Cubs",
+        "abbreviation": "CHC",
+        "score": 0
+      },
+      "battingOrderAnalysis": [
+        {
+          "battingOrder": 1,
+          "player": {
+            "id": 683737,
+            "name": "Michael Busch",
+            "position": "First Base"
+          },
+          "propImpact": {
+            "hits": "High - More AB opportunities",
+            "runs": "High - Top of order, more scoring opportunities",
+            "rbi": "Low - Top of order, fewer runners on base",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Consider OVER on runs - top of order positioning"
+          ]
+        },
+        {
+          "battingOrder": 2,
+          "player": {
+            "id": 663656,
+            "name": "Kyle Tucker",
+            "position": "Outfielder"
+          },
+          "propImpact": {
+            "hits": "High - More AB opportunities",
+            "runs": "High - Top of order, more scoring opportunities",
+            "rbi": "Low - Top of order, fewer runners on base",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Consider OVER on runs - top of order positioning"
+          ]
+        },
+        {
+          "battingOrder": 3,
+          "player": {
+            "id": 673548,
+            "name": "Seiya Suzuki",
+            "position": "Designated Hitter"
+          },
+          "propImpact": {
+            "hits": "Medium - Good AB opportunities",
+            "runs": "High - Top of order, more scoring opportunities",
+            "rbi": "High - Heart of order, RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Consider OVER on runs - top of order positioning"
+          ]
+        },
+        {
+          "battingOrder": 4,
+          "player": {
+            "id": 691718,
+            "name": "Pete Crow-Armstrong",
+            "position": "Outfielder"
+          },
+          "propImpact": {
+            "hits": "Medium - Good AB opportunities",
+            "runs": "Medium - Middle order scoring chances",
+            "rbi": "High - Heart of order, RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 5,
+          "player": {
+            "id": 608348,
+            "name": "Carson Kelly",
+            "position": "Catcher"
+          },
+          "propImpact": {
+            "hits": "Medium - Average AB opportunities",
+            "runs": "Medium - Middle order scoring chances",
+            "rbi": "High - Heart of order, RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 6,
+          "player": {
+            "id": 664023,
+            "name": "Ian Happ",
+            "position": "Outfielder"
+          },
+          "propImpact": {
+            "hits": "Medium - Average AB opportunities",
+            "runs": "Medium - Middle order scoring chances",
+            "rbi": "Medium - Some RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 7,
+          "player": {
+            "id": 621020,
+            "name": "Dansby Swanson",
+            "position": "Shortstop"
+          },
+          "propImpact": {
+            "hits": "Low - Fewer AB opportunities",
+            "runs": "Low - Bottom of order, fewer chances",
+            "rbi": "Medium - Some RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 8,
+          "player": {
+            "id": 663538,
+            "name": "Nico Hoerner",
+            "position": "Second Base"
+          },
+          "propImpact": {
+            "hits": "Low - Fewer AB opportunities",
+            "runs": "Low - Bottom of order, fewer chances",
+            "rbi": "Medium - Some RBI opportunities",
+            "homeRuns": "Low - Limited power"
+          },
+          "recommendation": [
+            "Monitor for value based on specific lines"
+          ]
+        },
+        {
+          "battingOrder": 9,
+          "player": {
+            "id": 807713,
+            "name": "Matt Shaw",
+            "position": "Third Base"
           },
           "propImpact": {
             "hits": "Low - Fewer AB opportunities",
