@@ -1,0 +1,1834 @@
+{
+  "lastUpdated": "2025-07-27T17:38:18.174Z",
+  "totalCandidates": 174,
+  "description": "Triple-A prospects with highest call-up potential",
+  "candidatesByOrganization": {
+    "108": {
+      "organization": {
+        "teamId": "108",
+        "teamName": "Los Angeles Angels",
+        "abbreviation": "LAA"
+      },
+      "candidates": [
+        {
+          "playerId": 686799,
+          "fullName": "Jack Kochanowicz",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 38,
+          "callUpProbability": 80,
+          "bettingImpact": "High"
+        },
+        {
+          "playerId": 683177,
+          "fullName": "Jared Southard",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 39,
+          "callUpProbability": 80,
+          "bettingImpact": "High"
+        },
+        {
+          "playerId": 683090,
+          "fullName": "Matthew Lugo",
+          "age": 24,
+          "position": "Outfielder",
+          "prospectRank": 40,
+          "callUpProbability": 80,
+          "bettingImpact": "High"
+        },
+        {
+          "playerId": 687272,
+          "fullName": "Tucker Flint",
+          "age": 24,
+          "position": "Outfielder",
+          "prospectRank": 41,
+          "callUpProbability": 80,
+          "bettingImpact": "High"
+        },
+        {
+          "playerId": 682989,
+          "fullName": "Victor Mederos",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 42,
+          "callUpProbability": 80,
+          "bettingImpact": "High"
+        }
+      ]
+    },
+    "109": {
+      "organization": {
+        "teamId": "109",
+        "teamName": "Arizona Diamondbacks",
+        "abbreviation": "AZ"
+      },
+      "candidates": [
+        {
+          "playerId": 691284,
+          "fullName": "Juan Corniel",
+          "age": 22,
+          "position": "Shortstop",
+          "prospectRank": 5,
+          "callUpProbability": 70,
+          "bettingImpact": "Very High"
+        },
+        {
+          "playerId": 801179,
+          "fullName": "Yu-Min Lin",
+          "age": 22,
+          "position": "Pitcher",
+          "prospectRank": 6,
+          "callUpProbability": 70,
+          "bettingImpact": "Very High"
+        },
+        {
+          "playerId": 691021,
+          "fullName": "A.J. Vukovich",
+          "age": 24,
+          "position": "Outfielder",
+          "prospectRank": 44,
+          "callUpProbability": 80,
+          "bettingImpact": "High"
+        },
+        {
+          "playerId": 801219,
+          "fullName": "Alfred Morillo",
+          "age": 23,
+          "position": "Pitcher",
+          "prospectRank": 45,
+          "callUpProbability": 80,
+          "bettingImpact": "High"
+        },
+        {
+          "playerId": 691009,
+          "fullName": "Dylan Ray",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 46,
+          "callUpProbability": 80,
+          "bettingImpact": "High"
+        },
+        {
+          "playerId": 694492,
+          "fullName": "Hayden Durke",
+          "age": 23,
+          "position": "Pitcher",
+          "prospectRank": 47,
+          "callUpProbability": 80,
+          "bettingImpact": "High"
+        },
+        {
+          "playerId": 677565,
+          "fullName": "Kristian Robinson",
+          "age": 24,
+          "position": "Outfielder",
+          "prospectRank": 48,
+          "callUpProbability": 80,
+          "bettingImpact": "High"
+        },
+        {
+          "playerId": 801517,
+          "fullName": "Spencer Giesting",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 49,
+          "callUpProbability": 80,
+          "bettingImpact": "High"
+        },
+        {
+          "playerId": 700270,
+          "fullName": "Yilber Díaz",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 50,
+          "callUpProbability": 80,
+          "bettingImpact": "High"
+        }
+      ]
+    },
+    "110": {
+      "organization": {
+        "teamId": "110",
+        "teamName": "Baltimore Orioles",
+        "abbreviation": "BAL"
+      },
+      "candidates": [
+        {
+          "playerId": 687721,
+          "fullName": "Cameron Weston",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 52,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 687637,
+          "fullName": "Dylan Beavers",
+          "age": 23,
+          "position": "Outfielder",
+          "prospectRank": 53,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 686976,
+          "fullName": "Silas Ardoin",
+          "age": 24,
+          "position": "Catcher",
+          "prospectRank": 54,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        }
+      ]
+    },
+    "111": {
+      "organization": {
+        "teamId": "111",
+        "teamName": "Boston Red Sox",
+        "abbreviation": "BOS"
+      },
+      "candidates": [
+        {
+          "playerId": 691458,
+          "fullName": "Blaze Jordan",
+          "age": 22,
+          "position": "First Base",
+          "prospectRank": 7,
+          "callUpProbability": 70,
+          "bettingImpact": "Very High"
+        },
+        {
+          "playerId": 691373,
+          "fullName": "Jhostynxon Garcia",
+          "age": 22,
+          "position": "Outfielder",
+          "prospectRank": 8,
+          "callUpProbability": 70,
+          "bettingImpact": "Very High"
+        },
+        {
+          "playerId": 692225,
+          "fullName": "Kristian Campbell",
+          "age": 23,
+          "position": "Second Base",
+          "prospectRank": 56,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 690986,
+          "fullName": "Kyle Harrison",
+          "age": 23,
+          "position": "Pitcher",
+          "prospectRank": 57,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 687093,
+          "fullName": "Vaughn Grissom",
+          "age": 24,
+          "position": "Second Base",
+          "prospectRank": 58,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        }
+      ]
+    },
+    "112": {
+      "organization": {
+        "teamId": "112",
+        "teamName": "Chicago Cubs",
+        "abbreviation": "CHC"
+      },
+      "candidates": [
+        {
+          "playerId": 701649,
+          "fullName": "James Triantos",
+          "age": 22,
+          "position": "Second Base",
+          "prospectRank": 9,
+          "callUpProbability": 70,
+          "bettingImpact": "Very High"
+        },
+        {
+          "playerId": 675085,
+          "fullName": "Jonathon Long",
+          "age": 23,
+          "position": "Third Base",
+          "prospectRank": 59,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 682634,
+          "fullName": "Kevin Alcántara",
+          "age": 23,
+          "position": "Outfielder",
+          "prospectRank": 60,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 681432,
+          "fullName": "Luke Little",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 61,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 683357,
+          "fullName": "Owen Caissie",
+          "age": 23,
+          "position": "Outfielder",
+          "prospectRank": 62,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 687863,
+          "fullName": "Porter Hodge",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 63,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 691739,
+          "fullName": "Will Sanders",
+          "age": 23,
+          "position": "Pitcher",
+          "prospectRank": 64,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        }
+      ]
+    },
+    "113": {
+      "organization": {
+        "teamId": "113",
+        "teamName": "Cincinnati Reds",
+        "abbreviation": "CIN"
+      },
+      "candidates": [
+        {
+          "playerId": 695534,
+          "fullName": "Chase Petty",
+          "age": 22,
+          "position": "Pitcher",
+          "prospectRank": 11,
+          "callUpProbability": 70,
+          "bettingImpact": "Very High"
+        },
+        {
+          "playerId": 683175,
+          "fullName": "Connor Phillips",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 66,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 688609,
+          "fullName": "Hunter Parks",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 67,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 683742,
+          "fullName": "Jose Franco",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 68,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 678013,
+          "fullName": "Lenny Torres Jr.",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 69,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 682825,
+          "fullName": "Luis Mey",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 70,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 677956,
+          "fullName": "Rece Hinds",
+          "age": 24,
+          "position": "Outfielder",
+          "prospectRank": 71,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 683104,
+          "fullName": "Trey Faltine",
+          "age": 24,
+          "position": "Second Base",
+          "prospectRank": 72,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 687209,
+          "fullName": "Zach Maxwell",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 73,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        }
+      ]
+    },
+    "114": {
+      "organization": {
+        "teamId": "114",
+        "teamName": "Cleveland Guardians",
+        "abbreviation": "CLE"
+      },
+      "candidates": [
+        {
+          "playerId": 696135,
+          "fullName": "Kahlil Watson",
+          "age": 22,
+          "position": "Outfielder",
+          "prospectRank": 14,
+          "callUpProbability": 70,
+          "bettingImpact": "Very High"
+        },
+        {
+          "playerId": 692216,
+          "fullName": "C.J. Kayfus",
+          "age": 23,
+          "position": "First Base",
+          "prospectRank": 75,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 686551,
+          "fullName": "Christian Cairo",
+          "age": 24,
+          "position": "Shortstop",
+          "prospectRank": 76,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 682679,
+          "fullName": "Dayan Frias",
+          "age": 23,
+          "position": "Third Base",
+          "prospectRank": 77,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 671655,
+          "fullName": "George Valera",
+          "age": 24,
+          "position": "Outfielder",
+          "prospectRank": 78,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 678877,
+          "fullName": "Jhonkensy Noel",
+          "age": 24,
+          "position": "Outfielder",
+          "prospectRank": 79,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 687627,
+          "fullName": "Kody Huff",
+          "age": 24,
+          "position": "Catcher",
+          "prospectRank": 80,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 675455,
+          "fullName": "Milan Tolentino",
+          "age": 23,
+          "position": "Shortstop",
+          "prospectRank": 81,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 800048,
+          "fullName": "Parker Messick",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 82,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 690984,
+          "fullName": "Petey Halpin",
+          "age": 23,
+          "position": "Outfielder",
+          "prospectRank": 83,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 686798,
+          "fullName": "Yordys Valdes",
+          "age": 23,
+          "position": "Shortstop",
+          "prospectRank": 84,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        }
+      ]
+    },
+    "115": {
+      "organization": {
+        "teamId": "115",
+        "teamName": "Colorado Rockies",
+        "abbreviation": "COL"
+      },
+      "candidates": [
+        {
+          "playerId": 691182,
+          "fullName": "Adael Amador",
+          "age": 22,
+          "position": "Second Base",
+          "prospectRank": 15,
+          "callUpProbability": 70,
+          "bettingImpact": "Very High"
+        },
+        {
+          "playerId": 695476,
+          "fullName": "Mason Albright",
+          "age": 22,
+          "position": "Pitcher",
+          "prospectRank": 16,
+          "callUpProbability": 70,
+          "bettingImpact": "Very High"
+        },
+        {
+          "playerId": 683627,
+          "fullName": "Anthony Molina",
+          "age": 23,
+          "position": "Pitcher",
+          "prospectRank": 85,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 678899,
+          "fullName": "Brayan Castillo",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 86,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 687223,
+          "fullName": "Carson Palmquist",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 87,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 691011,
+          "fullName": "Drew Romo",
+          "age": 23,
+          "position": "Catcher",
+          "prospectRank": 88,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 687312,
+          "fullName": "Gabriel Hughes",
+          "age": 23,
+          "position": "Pitcher",
+          "prospectRank": 89,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 691720,
+          "fullName": "Kyle Karros",
+          "age": 23,
+          "position": "Third Base",
+          "prospectRank": 90,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 694514,
+          "fullName": "Sterlin Thompson",
+          "age": 24,
+          "position": "Outfield",
+          "prospectRank": 91,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 691728,
+          "fullName": "Zac Veen",
+          "age": 23,
+          "position": "Outfielder",
+          "prospectRank": 92,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        }
+      ]
+    },
+    "116": {
+      "organization": {
+        "teamId": "116",
+        "teamName": "Detroit Tigers",
+        "abbreviation": "DET"
+      },
+      "candidates": [
+        {
+          "playerId": 701678,
+          "fullName": "Hao-Yu  Lee",
+          "age": 22,
+          "position": "Second Base",
+          "prospectRank": 17,
+          "callUpProbability": 70,
+          "bettingImpact": "Very High"
+        },
+        {
+          "playerId": 805427,
+          "fullName": "Drew Sommers",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 93,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 690291,
+          "fullName": "Jace Jung",
+          "age": 24,
+          "position": "Third Base",
+          "prospectRank": 94,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        }
+      ]
+    },
+    "117": {
+      "organization": {
+        "teamId": "117",
+        "teamName": "Houston Astros",
+        "abbreviation": "HOU"
+      },
+      "candidates": [
+        {
+          "playerId": 683145,
+          "fullName": "Colin Barber",
+          "age": 24,
+          "position": "Outfielder",
+          "prospectRank": 98,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 689200,
+          "fullName": "Jacob Melton",
+          "age": 24,
+          "position": "Outfielder",
+          "prospectRank": 99,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 800067,
+          "fullName": "Jose Fleury",
+          "age": 23,
+          "position": "Pitcher",
+          "prospectRank": 100,
+          "callUpProbability": 75,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 699044,
+          "fullName": "Miguel Ullola",
+          "age": 23,
+          "position": "Pitcher",
+          "prospectRank": 101,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        }
+      ]
+    },
+    "118": {
+      "organization": {
+        "teamId": "118",
+        "teamName": "Kansas City Royals",
+        "abbreviation": "KC"
+      },
+      "candidates": [
+        {
+          "playerId": 695600,
+          "fullName": "Carter Jensen",
+          "age": 22,
+          "position": "Catcher",
+          "prospectRank": 18,
+          "callUpProbability": 70,
+          "bettingImpact": "Very High"
+        },
+        {
+          "playerId": 813851,
+          "fullName": "Colton Becker",
+          "age": 24,
+          "position": "First Base",
+          "prospectRank": 102,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 815073,
+          "fullName": "Ethan Bosacker",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 103,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        }
+      ]
+    },
+    "119": {
+      "organization": {
+        "teamId": "119",
+        "teamName": "Los Angeles Dodgers",
+        "abbreviation": "LAD"
+      },
+      "candidates": [
+        {
+          "playerId": 695653,
+          "fullName": "Noah Miller",
+          "age": 22,
+          "position": "Shortstop",
+          "prospectRank": 19,
+          "callUpProbability": 70,
+          "bettingImpact": "Very High"
+        },
+        {
+          "playerId": 690976,
+          "fullName": "Alex Freeland",
+          "age": 23,
+          "position": "Shortstop",
+          "prospectRank": 104,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 683618,
+          "fullName": "Edgardo Henriquez",
+          "age": 23,
+          "position": "Pitcher",
+          "prospectRank": 105,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 692064,
+          "fullName": "José Rodríguez",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 106,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 691947,
+          "fullName": "Ronan Kopp",
+          "age": 23,
+          "position": "Pitcher",
+          "prospectRank": 107,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        }
+      ]
+    },
+    "120": {
+      "organization": {
+        "teamId": "120",
+        "teamName": "Washington Nationals",
+        "abbreviation": "WSH"
+      },
+      "candidates": [
+        {
+          "playerId": 687605,
+          "fullName": "Andrew Pinckney",
+          "age": 24,
+          "position": "Outfielder",
+          "prospectRank": 108,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 671726,
+          "fullName": "Marquis Grissom Jr.",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 109,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 683083,
+          "fullName": "Nasim Nuñez",
+          "age": 24,
+          "position": "Shortstop",
+          "prospectRank": 110,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 690987,
+          "fullName": "Robert Hassell III",
+          "age": 23,
+          "position": "Outfielder",
+          "prospectRank": 111,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 691002,
+          "fullName": "Yohandy Morales",
+          "age": 23,
+          "position": "First Base",
+          "prospectRank": 112,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        }
+      ]
+    },
+    "121": {
+      "organization": {
+        "teamId": "121",
+        "teamName": "New York Mets",
+        "abbreviation": "NYM"
+      },
+      "candidates": [
+        {
+          "playerId": 694918,
+          "fullName": "Blade Tidwell",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 113,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 687075,
+          "fullName": "Brandon Sproat",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 114,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 702878,
+          "fullName": "Douglas Orellana",
+          "age": 23,
+          "position": "Pitcher",
+          "prospectRank": 115,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 687551,
+          "fullName": "Drew Gilbert",
+          "age": 24,
+          "position": "Outfielder",
+          "prospectRank": 116,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 697811,
+          "fullName": "Dylan Ross",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 117,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 690997,
+          "fullName": "Nolan McLean",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 118,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        }
+      ]
+    },
+    "133": {
+      "organization": {
+        "teamId": "133",
+        "teamName": "Athletics",
+        "abbreviation": "ATH"
+      },
+      "candidates": [
+        {
+          "playerId": 806960,
+          "fullName": "Luis Morales",
+          "age": 22,
+          "position": "Pitcher",
+          "prospectRank": 21,
+          "callUpProbability": 70,
+          "bettingImpact": "Very High"
+        },
+        {
+          "playerId": 694034,
+          "fullName": "Mario Gomez",
+          "age": 22,
+          "position": "Catcher",
+          "prospectRank": 22,
+          "callUpProbability": 70,
+          "bettingImpact": "Very High"
+        },
+        {
+          "playerId": 679922,
+          "fullName": "Carlos Duran",
+          "age": 23,
+          "position": "Pitcher",
+          "prospectRank": 119,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 691740,
+          "fullName": "Daniel Susac",
+          "age": 24,
+          "position": "Catcher",
+          "prospectRank": 120,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 687231,
+          "fullName": "Darell Hernaiz",
+          "age": 23,
+          "position": "Third Base",
+          "prospectRank": 121,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 683020,
+          "fullName": "Gustavo Rodriguez",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 122,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 683155,
+          "fullName": "Joey Estes",
+          "age": 23,
+          "position": "Pitcher",
+          "prospectRank": 123,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 695034,
+          "fullName": "Kade Morris",
+          "age": 23,
+          "position": "Pitcher",
+          "prospectRank": 124,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 686930,
+          "fullName": "Mason Barnett",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 125,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 690658,
+          "fullName": "Will Johnston",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 126,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        }
+      ]
+    },
+    "134": {
+      "organization": {
+        "teamId": "134",
+        "teamName": "Pittsburgh Pirates",
+        "abbreviation": "PIT"
+      },
+      "candidates": [
+        {
+          "playerId": 696149,
+          "fullName": "Bubba Chandler",
+          "age": 22,
+          "position": "Pitcher",
+          "prospectRank": 23,
+          "callUpProbability": 70,
+          "bettingImpact": "Very High"
+        },
+        {
+          "playerId": 678868,
+          "fullName": "Eddy Yean",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 127,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 682995,
+          "fullName": "Hunter Barco",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 128,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 694377,
+          "fullName": "Nick Yorke",
+          "age": 23,
+          "position": "Second Base",
+          "prospectRank": 129,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 696155,
+          "fullName": "Sean Sullivan",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 130,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 802419,
+          "fullName": "Thomas Harrington",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 131,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 691907,
+          "fullName": "Tsung-Che Cheng",
+          "age": 24,
+          "position": "Shortstop",
+          "prospectRank": 132,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        }
+      ]
+    },
+    "135": {
+      "organization": {
+        "teamId": "135",
+        "teamName": "San Diego Padres",
+        "abbreviation": "SD"
+      },
+      "candidates": [
+        {
+          "playerId": 800212,
+          "fullName": "Francis Pena",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 133,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 701195,
+          "fullName": "Manuel Castro",
+          "age": 23,
+          "position": "Pitcher",
+          "prospectRank": 134,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        }
+      ]
+    },
+    "136": {
+      "organization": {
+        "teamId": "136",
+        "teamName": "Seattle Mariners",
+        "abbreviation": "SEA"
+      },
+      "candidates": [
+        {
+          "playerId": 695670,
+          "fullName": "Harry Ford",
+          "age": 22,
+          "position": "Catcher",
+          "prospectRank": 24,
+          "callUpProbability": 70,
+          "bettingImpact": "Very High"
+        },
+        {
+          "playerId": 700187,
+          "fullName": "Troy Taylor",
+          "age": 23,
+          "position": "Pitcher",
+          "prospectRank": 135,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 682988,
+          "fullName": "Tyler Locklear",
+          "age": 24,
+          "position": "First Base",
+          "prospectRank": 136,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        }
+      ]
+    },
+    "137": {
+      "organization": {
+        "teamId": "137",
+        "teamName": "San Francisco Giants",
+        "abbreviation": "SF"
+      },
+      "candidates": [
+        {
+          "playerId": 682607,
+          "fullName": "Antonio Jimenez",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 139,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 687931,
+          "fullName": "Carson Whisenhunt",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 140,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 687529,
+          "fullName": "Grant McCray",
+          "age": 24,
+          "position": "Outfielder",
+          "prospectRank": 141,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 806185,
+          "fullName": "Hayden Birdsong",
+          "age": 23,
+          "position": "Pitcher",
+          "prospectRank": 142,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 682617,
+          "fullName": "Marco Luciano",
+          "age": 23,
+          "position": "Outfield",
+          "prospectRank": 143,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 678545,
+          "fullName": "Osleivis Basabe",
+          "age": 24,
+          "position": "Shortstop",
+          "prospectRank": 144,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 687284,
+          "fullName": "Thomas Gavello",
+          "age": 24,
+          "position": "Catcher",
+          "prospectRank": 145,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 686790,
+          "fullName": "Trevor McDonald",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 146,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 804922,
+          "fullName": "Tyler Vogel",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 147,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        }
+      ]
+    },
+    "138": {
+      "organization": {
+        "teamId": "138",
+        "teamName": "St. Louis Cardinals",
+        "abbreviation": "STL"
+      },
+      "candidates": [
+        {
+          "playerId": 802139,
+          "fullName": "JJ Wetherholt",
+          "age": 22,
+          "position": "Shortstop",
+          "prospectRank": 25,
+          "callUpProbability": 70,
+          "bettingImpact": "Very High"
+        },
+        {
+          "playerId": 699625,
+          "fullName": "Jimmy Crooks",
+          "age": 24,
+          "position": "Catcher",
+          "prospectRank": 148,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 691008,
+          "fullName": "Max Rajcic",
+          "age": 23,
+          "position": "Pitcher",
+          "prospectRank": 149,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 687273,
+          "fullName": "Quinn Mathews",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 150,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        }
+      ]
+    },
+    "139": {
+      "organization": {
+        "teamId": "139",
+        "teamName": "Tampa Bay Rays",
+        "abbreviation": "TB"
+      },
+      "candidates": [
+        {
+          "playerId": 700246,
+          "fullName": "Carson Williams",
+          "age": 22,
+          "position": "Shortstop",
+          "prospectRank": 26,
+          "callUpProbability": 70,
+          "bettingImpact": "High"
+        },
+        {
+          "playerId": 687239,
+          "fullName": "Ben Peoples",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 151,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 678554,
+          "fullName": "Curtis Mead",
+          "age": 24,
+          "position": "First Base",
+          "prospectRank": 152,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 681371,
+          "fullName": "Dominic Keegan",
+          "age": 24,
+          "position": "Catcher",
+          "prospectRank": 153,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 697812,
+          "fullName": "Joe Rock",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 154,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 681328,
+          "fullName": "Jonny Cuevas",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 155,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 671737,
+          "fullName": "Taj Bradley",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 156,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 691003,
+          "fullName": "Tre' Morgan",
+          "age": 23,
+          "position": "First Base",
+          "prospectRank": 157,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        }
+      ]
+    },
+    "140": {
+      "organization": {
+        "teamId": "140",
+        "teamName": "Texas Rangers",
+        "abbreviation": "TEX"
+      },
+      "candidates": [
+        {
+          "playerId": 683227,
+          "fullName": "Cody Freeman",
+          "age": 24,
+          "position": "Third Base",
+          "prospectRank": 158,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 681168,
+          "fullName": "Luis Curvelo",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 159,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 813766,
+          "fullName": "Skylar Hales",
+          "age": 23,
+          "position": "Pitcher",
+          "prospectRank": 160,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        }
+      ]
+    },
+    "141": {
+      "organization": {
+        "teamId": "141",
+        "teamName": "Toronto Blue Jays",
+        "abbreviation": "TOR"
+      },
+      "candidates": [
+        {
+          "playerId": 680572,
+          "fullName": "Adam Kloffenstein",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 162,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 671936,
+          "fullName": "Adam Macko",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 163,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 687288,
+          "fullName": "Devereaux Harrison",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 164,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 696522,
+          "fullName": "Hayden Juenger",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 165,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 682729,
+          "fullName": "Jonatan Clase",
+          "age": 23,
+          "position": "Outfielder",
+          "prospectRank": 166,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 687069,
+          "fullName": "Josh Rivera",
+          "age": 24,
+          "position": "Shortstop",
+          "prospectRank": 167,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 682619,
+          "fullName": "Orelvis Martinez",
+          "age": 23,
+          "position": "Second Base",
+          "prospectRank": 168,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 678742,
+          "fullName": "Rainer Nunez",
+          "age": 24,
+          "position": "First Base",
+          "prospectRank": 169,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 682818,
+          "fullName": "Yohendrick Pinango",
+          "age": 23,
+          "position": "Outfielder",
+          "prospectRank": 170,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        }
+      ]
+    },
+    "142": {
+      "organization": {
+        "teamId": "142",
+        "teamName": "Minnesota Twins",
+        "abbreviation": "MIN"
+      },
+      "candidates": [
+        {
+          "playerId": 807712,
+          "fullName": "Luke Keaschall",
+          "age": 22,
+          "position": "Second Base",
+          "prospectRank": 27,
+          "callUpProbability": 70,
+          "bettingImpact": "High"
+        },
+        {
+          "playerId": 694397,
+          "fullName": "Marco Raya",
+          "age": 22,
+          "position": "Pitcher",
+          "prospectRank": 28,
+          "callUpProbability": 70,
+          "bettingImpact": "High"
+        },
+        {
+          "playerId": 675375,
+          "fullName": "Cory Lewis",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 171,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        }
+      ]
+    },
+    "143": {
+      "organization": {
+        "teamId": "143",
+        "teamName": "Philadelphia Phillies",
+        "abbreviation": "PHI"
+      },
+      "candidates": [
+        {
+          "playerId": 691725,
+          "fullName": "Andrew Painter",
+          "age": 22,
+          "position": "Pitcher",
+          "prospectRank": 29,
+          "callUpProbability": 70,
+          "bettingImpact": "High"
+        },
+        {
+          "playerId": 687282,
+          "fullName": "Gabriel Rincones Jr.",
+          "age": 24,
+          "position": "Outfielder",
+          "prospectRank": 173,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 805704,
+          "fullName": "Keaton Anthony",
+          "age": 24,
+          "position": "First Base",
+          "prospectRank": 174,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 677605,
+          "fullName": "Luis Verdugo",
+          "age": 24,
+          "position": "Third Base",
+          "prospectRank": 175,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 690953,
+          "fullName": "Mick Abel",
+          "age": 23,
+          "position": "Pitcher",
+          "prospectRank": 176,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        }
+      ]
+    },
+    "144": {
+      "organization": {
+        "teamId": "144",
+        "teamName": "Atlanta Braves",
+        "abbreviation": "ATL"
+      },
+      "candidates": [
+        {
+          "playerId": 702275,
+          "fullName": "JR Ritchie",
+          "age": 22,
+          "position": "Pitcher",
+          "prospectRank": 31,
+          "callUpProbability": 70,
+          "bettingImpact": "High"
+        },
+        {
+          "playerId": 702910,
+          "fullName": "Jhancarlos Lara",
+          "age": 22,
+          "position": "Pitcher",
+          "prospectRank": 32,
+          "callUpProbability": 70,
+          "bettingImpact": "High"
+        },
+        {
+          "playerId": 805373,
+          "fullName": "Nacho Alvarez Jr.",
+          "age": 22,
+          "position": "Shortstop",
+          "prospectRank": 33,
+          "callUpProbability": 70,
+          "bettingImpact": "High"
+        },
+        {
+          "playerId": 686628,
+          "fullName": "Blake Burkhalter",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 177,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 677578,
+          "fullName": "Carlos Rodríguez",
+          "age": 24,
+          "position": "Outfielder",
+          "prospectRank": 178,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 678760,
+          "fullName": "Eddys Leonard",
+          "age": 24,
+          "position": "Shortstop",
+          "prospectRank": 179,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 694462,
+          "fullName": "Hurston Waldrep",
+          "age": 23,
+          "position": "Pitcher",
+          "prospectRank": 180,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        }
+      ]
+    },
+    "145": {
+      "organization": {
+        "teamId": "145",
+        "teamName": "Chicago White Sox",
+        "abbreviation": "CWS"
+      },
+      "candidates": [
+        {
+          "playerId": 682868,
+          "fullName": "Bryan Ramos",
+          "age": 23,
+          "position": "Third Base",
+          "prospectRank": 182,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 694378,
+          "fullName": "Jacob Gonzalez",
+          "age": 23,
+          "position": "Shortstop",
+          "prospectRank": 183,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 683568,
+          "fullName": "Jairo Iriarte",
+          "age": 23,
+          "position": "Pitcher",
+          "prospectRank": 184,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 688883,
+          "fullName": "Peyton Pallette",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 185,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 682790,
+          "fullName": "Wikelman González",
+          "age": 23,
+          "position": "Pitcher",
+          "prospectRank": 186,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        }
+      ]
+    },
+    "146": {
+      "organization": {
+        "teamId": "146",
+        "teamName": "Miami Marlins",
+        "abbreviation": "MIA"
+      },
+      "candidates": [
+        {
+          "playerId": 691277,
+          "fullName": "Deyvison De Los Santos",
+          "age": 22,
+          "position": "Third Base",
+          "prospectRank": 34,
+          "callUpProbability": 70,
+          "bettingImpact": "High"
+        },
+        {
+          "playerId": 691788,
+          "fullName": "Joe Mack",
+          "age": 22,
+          "position": "Catcher",
+          "prospectRank": 35,
+          "callUpProbability": 70,
+          "bettingImpact": "High"
+        },
+        {
+          "playerId": 691185,
+          "fullName": "Maximo Acosta",
+          "age": 22,
+          "position": "Shortstop",
+          "prospectRank": 36,
+          "callUpProbability": 70,
+          "bettingImpact": "High"
+        },
+        {
+          "playerId": 800049,
+          "fullName": "Adam Mazur",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 187,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 694351,
+          "fullName": "Jacob Berry",
+          "age": 24,
+          "position": "First Base",
+          "prospectRank": 188,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 805300,
+          "fullName": "Jakob Marsee",
+          "age": 24,
+          "position": "Outfielder",
+          "prospectRank": 189,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 687985,
+          "fullName": "Josh White",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 190,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 683748,
+          "fullName": "Victor Mesa Jr.",
+          "age": 23,
+          "position": "Outfielder",
+          "prospectRank": 191,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        }
+      ]
+    },
+    "147": {
+      "organization": {
+        "teamId": "147",
+        "teamName": "New York Yankees",
+        "abbreviation": "NYY"
+      },
+      "candidates": [
+        {
+          "playerId": 702750,
+          "fullName": "Edinson Duran",
+          "age": 23,
+          "position": "Catcher",
+          "prospectRank": 194,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 801432,
+          "fullName": "Eric Reyzelman",
+          "age": 24,
+          "position": "Pitcher",
+          "prospectRank": 195,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 677592,
+          "fullName": "Everson Pereira",
+          "age": 24,
+          "position": "Outfielder",
+          "prospectRank": 196,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 683679,
+          "fullName": "Jesus Rodriguez",
+          "age": 23,
+          "position": "Catcher",
+          "prospectRank": 197,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 804668,
+          "fullName": "Rafael Flores",
+          "age": 24,
+          "position": "Catcher",
+          "prospectRank": 198,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        },
+        {
+          "playerId": 682987,
+          "fullName": "Spencer Jones",
+          "age": 24,
+          "position": "Outfielder",
+          "prospectRank": 199,
+          "callUpProbability": 70,
+          "bettingImpact": "Low"
+        }
+      ]
+    }
+  }
+}
