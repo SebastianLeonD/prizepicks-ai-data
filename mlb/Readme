@@ -1,0 +1,313 @@
+# 🏟️ MLB Data Repository - Complete Guide
+
+## 📊 **Overview**
+Comprehensive MLB data collection for PrizePicks prop betting analysis. This repository contains real-time and historical data from SportRadar API, MLB Stats API, and The Odds API to provide advanced betting insights.
+
+---
+
+## 📁 **FOLDER STRUCTURE**
+
+### 🏟️ **venues/** - Ballpark Data & Factors
+**Purpose**: Ballpark impact on hitting and pitching props
+
+| File | Description | Update Frequency | Betting Impact |
+|------|-------------|------------------|----------------|
+| `mlb-ballparks-2025.json` | Complete venue data, dimensions, elevations | Monthly | High for HR/Hits props |
+| `ballpark-hitting-factors.json` | Park factors for offensive props | Monthly | High for offensive props |
+| `ballpark-pitching-factors.json` | Park factors for pitching props | Monthly | High for K's/ERA props |
+
+**Key Insights**:
+- Coors Field boosts offensive numbers significantly
+- Petco Park suppresses home runs
+- Oracle Park favors pitchers with large foul territory
+- Use for OVER/UNDER prop selection based on venue
+
+---
+
+### ⭐ **prospects/** - Minor League & Call-ups
+**Purpose**: Track prospects that could impact team performance and props
+
+| File | Description | Update Frequency | Betting Impact |
+|------|-------------|------------------|----------------|
+| `mlb-prospects-2025.json` | Complete prospect database with ETA | Monthly | Medium for futures |
+| `top-prospects-rankings.json` | Top 100 prospects ranked by potential | Monthly | Medium for call-ups |
+| `call-up-candidates.json` | Triple-A players likely to be called up | Weekly | High for lineup changes |
+
+**Key Insights**:
+- Monitor call-up candidates for sudden lineup changes
+- Young prospects can impact veteran playing time
+- September call-ups affect prop availability
+- Use for early line value before call-ups happen
+
+---
+
+### 📋 **lineups/** - Daily Lineups & Batting Order
+**Purpose**: Daily starting lineups and batting order impact analysis
+
+| File | Description | Update Frequency | Betting Impact |
+|------|-------------|------------------|----------------|
+| `daily-lineups.json` | Complete starting lineups for today's games | Hourly | Critical for props |
+| `batting-order-analysis.json` | Prop impact by batting order position | Daily | High for AB-dependent props |
+| `daily-lineup-summary.json` | Key insights and top targets summary | Daily | High for quick decisions |
+
+**Key Insights**:
+- Top 3 hitters get most at-bats (OVER bias for hits)
+- 3-5 spots drive in most runs (RBI prop targets)
+- 7-9 spots get fewer opportunities (UNDER bias)
+- Late scratches can drastically change prop values
+
+---
+
+### 📊 **splits/** - Performance Splits Analysis
+**Purpose**: Situational performance data for matchup advantages
+
+| File | Description | Update Frequency | Betting Impact |
+|------|-------------|------------------|----------------|
+| `lefty-righty-splits.json` | Player performance vs LHP/RHP | Weekly | Critical for matchups |
+| `home-away-splits.json` | Team performance home vs away | Weekly | High for team props |
+| `monthly-splits.json` | Performance trends by month | Monthly | Medium for form |
+| `splits-analysis-summary.json` | Key split insights and advantages | Monthly | High for edge identification |
+
+**Key Insights**:
+- Some hitters perform 20%+ better vs opposite-handed pitching
+- Home field advantage varies significantly by team
+- Weather impacts (hot summer months vs cold April)
+- Use splits to identify mismatched lines
+
+---
+
+### 📈 **advanced-metrics/** - Statcast & Sabermetrics
+**Purpose**: Advanced analytics beyond basic stats
+
+| File | Description | Update Frequency | Betting Impact |
+|------|-------------|------------------|----------------|
+| `statcast-data.json` | Exit velocity, launch angle, barrel rate | Weekly | High for power props |
+| `sabermetrics.json` | wOBA, wRC+, ISO, BABIP calculations | Weekly | Medium for value ID |
+| `defensive-metrics.json` | DRS, UZR estimates, range ratings | Weekly | Medium for error props |
+| `advanced-metrics-summary.json` | Key insights for prop betting | Weekly | High for edge identification |
+
+**Key Insights**:
+- High exit velocity = home run potential
+- High BABIP = potentially unsustainable average
+- Poor defensive metrics = more hits allowed
+- Use advanced stats to spot regression candidates
+
+---
+
+### 💰 **betting-specific/** - Prop Correlations & Lines
+**Purpose**: Direct betting intelligence and market analysis
+
+| File | Description | Update Frequency | Betting Impact |
+|------|-------------|------------------|----------------|
+| `prop-correlations.json` | Which props correlate for parlays | Daily | Critical for parlays |
+| `sharp-money-tracking.json` | Professional betting movement | Hourly | Critical for line value |
+| `line-movement-analysis.json` | Market movement patterns | Hourly | Critical for timing |
+| `betting-insights-summary.json` | Daily strategies and top plays | Daily | Critical for decisions |
+
+**Key Insights**:
+- Hits strongly correlate with runs (70%+ rate)
+- Home runs strongly correlate with RBIs
+- Sharp money often moves lines 1+ hours before games
+- Contrarian value exists when books disagree
+
+---
+
+### 🏥 **injuries/** - Health Reports
+**Purpose**: Injury impact on player availability and performance
+
+| File | Description | Update Frequency | Betting Impact |
+|------|-------------|------------------|----------------|
+| `current-injuries.json` | Active injury list with status | Daily | Critical for availability |
+| `mlb-injuries.json` | Complete injury database with details | Daily | High for lineup changes |
+
+**Key Insights**:
+- Day-to-day injuries often result in scratches
+- IL placements create opportunity for backups
+- Minor injuries can impact power numbers
+- Monitor injury reports 2+ hours before games
+
+---
+
+### 👥 **players/** - Player Database & Stats
+**Purpose**: Complete player information and performance data
+
+| File | Description | Update Frequency | Betting Impact |
+|------|-------------|------------------|----------------|
+| `mlb-player-stats-2025.json` | Season stats for all active players | Weekly | High for prop lines |
+| `mlb-players-2025.json` | Complete player database | Monthly | Medium for reference |
+
+**Key Insights**:
+- Track statistical trends and hot streaks
+- Monitor rookie emergence
+- Veteran decline patterns
+- Use for season-long prop analysis
+
+---
+
+### 📅 **schedules/** - Game Schedules
+**Purpose**: Daily game information and matchups
+
+| File | Description | Update Frequency | Betting Impact |
+|------|-------------|------------------|----------------|
+| `mlb-daily-schedules.json` | Today's games with times and matchups | Daily | High for game selection |
+
+**Key Insights**:
+- Day games vs night games impact performance
+- Rest days affect pitcher usage
+- Travel schedules impact away team performance
+- Use for game selection and timing
+
+---
+
+### 🏆 **standings/** - League Standings
+**Purpose**: Team motivation and playoff implications
+
+| File | Description | Update Frequency | Betting Impact |
+|------|-------------|------------------|----------------|
+| `mlb-standings-2025.json` | Current standings with playoff odds | Monthly | Medium for motivation |
+
+**Key Insights**:
+- Teams out of contention may rest stars
+- Playoff race intensifies September performance
+- Wild card battles create urgency
+- Use for late-season prop adjustments
+
+---
+
+### 🔥 **teams/** - Team Information
+**Purpose**: Team rosters and organizational data
+
+| File | Description | Update Frequency | Betting Impact |
+|------|-------------|------------------|----------------|
+| `mlb-teams-2025.json` | Team rosters and information | Monthly | Medium for reference |
+| `mlb-team-abbreviations.json` | Team abbreviation reference | Seasonal | Low for reference |
+
+**Key Insights**:
+- Roster construction affects prop opportunities
+- Team philosophies (small ball vs power)
+- Organizational depth charts
+- Use for team-wide analysis
+
+---
+
+### 👨‍⚖️ **officials/** - Umpires
+**Purpose**: Umpire tendencies and their impact on games
+
+| File | Description | Update Frequency | Betting Impact |
+|------|-------------|------------------|----------------|
+| `mlb-officials.json` | Umpire assignments and tendencies | Monthly | Medium for totals |
+
+**Key Insights**:
+- Some umpires favor pitchers (tight zone)
+- Others favor hitters (wide zone)
+- Impacts strikeout and walk props
+- Use for total and K prop analysis
+
+---
+
+### 📊 **analytics/** - Advanced Analysis
+**Purpose**: Processed insights and betting intelligence
+
+| File | Description | Update Frequency | Betting Impact |
+|------|-------------|------------------|----------------|
+| `ballpark-guide.json` | Comprehensive ballpark betting guide | Monthly | High for venue props |
+| `daily-betting-alerts.json` | Live betting opportunities | Hourly | Critical for timing |
+| `daily-trend-alerts.json` | Hot/cold player and team trends | Daily | High for form bets |
+| `defensive-rankings.json` | Team defensive rankings vs props | Weekly | High for opponent props |
+| `defensive-prop-recommendations.json` | Defensive matchup recommendations | Weekly | High for OVER/UNDER |
+| `form-trends-analysis.json` | Team and player form analysis | Weekly | High for momentum bets |
+| `probable-pitchers.json` | Starting pitcher confirmations | Daily | Critical for all props |
+| `team-defensive-stats.json` | Detailed defensive metrics | Weekly | High for hitting props |
+| `todays-ballpark-conditions.json` | Weather and field conditions | Hourly | High for weather props |
+| `weather-adjusted-props.json` | Props adjusted for weather | Daily | High for outdoor games |
+
+---
+
+## 🎯 **BETTING STRATEGY GUIDE**
+
+### **High-Impact Files for Daily Betting**
+1. `daily-lineups.json` - Critical for all props
+2. `sharp-money-tracking.json` - Follow the pros
+3. `ballpark-hitting-factors.json` - Venue advantages
+4. `lefty-righty-splits.json` - Matchup edges
+5. `daily-betting-alerts.json` - Live opportunities
+
+### **Research Files for Deep Analysis**
+1. `prop-correlations.json` - Parlay construction
+2. `advanced-metrics-summary.json` - Statistical edges
+3. `splits-analysis-summary.json` - Situational advantages
+4. `form-trends-analysis.json` - Momentum plays
+5. `defensive-rankings.json` - Opponent weaknesses
+
+### **Reference Files for Context**
+1. `mlb-player-stats-2025.json` - Season baselines
+2. `ballpark-guide.json` - Venue intelligence
+3. `prospects/call-up-candidates.json` - Roster changes
+4. `injuries/current-injuries.json` - Health status
+
+---
+
+## 🚀 **QUICK START BETTING WORKFLOW**
+
+### **Morning Routine (30 minutes)**
+1. Check `daily-lineups.json` for confirmed lineups
+2. Review `daily-betting-alerts.json` for opportunities
+3. Analyze `ballpark-hitting-factors.json` for venue edges
+4. Check `injuries/current-injuries.json` for late changes
+
+### **Pre-Game Analysis (15 minutes per game)**
+1. Confirm lineups in `daily-lineups.json`
+2. Check pitcher matchups vs `lefty-righty-splits.json`
+3. Review venue factors in `ballpark-hitting-factors.json`
+4. Monitor `sharp-money-tracking.json` for line movement
+
+### **Live Betting (During games)**
+1. Monitor `line-movement-analysis.json` for steam moves
+2. Check `daily-betting-alerts.json` for live opportunities
+3. Watch weather updates in `todays-ballpark-conditions.json`
+
+---
+
+## 📈 **API SOURCES**
+
+- **SportRadar API**: Player stats, team data, schedules
+- **MLB Stats API**: Lineups, injuries, prospects, Statcast
+- **The Odds API**: Betting lines, market movements
+- **Weather APIs**: Ballpark conditions
+
+---
+
+## 🔄 **DATA FRESHNESS**
+
+| Update Type | Files Updated | Optimal Betting Impact |
+|-------------|---------------|----------------------|
+| **Hourly** | 5 files | Line movements, lineups |
+| **Daily** | 10 files | Core betting data |
+| **Weekly** | 12 files | Statistical analysis |
+| **Monthly** | 15 files | Database maintenance |
+
+---
+
+## 💡 **PRO TIPS**
+
+1. **Always check lineups first** - No lineup = no props
+2. **Weather matters most for totals** - Wind and temperature
+3. **Sharp money moves fast** - Monitor hourly during betting hours
+4. **Splits reveal edges** - Lefty/righty mismatches are gold
+5. **Ballpark factors are consistent** - Use historical data
+6. **Correlations create parlays** - Hits + Runs work together
+7. **Form beats season stats** - Recent trends matter more
+
+---
+
+## 🎲 **RISK MANAGEMENT**
+
+- **High Confidence**: Sharp money + multiple data points agree
+- **Medium Confidence**: Strong statistical edge with some uncertainty  
+- **Low Confidence**: Speculative based on limited data
+- **Avoid**: Conflicting data or missing key information
+
+---
+
+*Last Updated: July 27, 2025*
+*Total Files: 42 | Active Data Sources: 4 | Update Frequency: Real-time to Monthly*
