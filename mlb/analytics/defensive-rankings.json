@@ -1,0 +1,2765 @@
+{
+  "lastUpdated": "2025-07-27T04:41:31.809Z",
+  "season": "2025",
+  "description": "Team defensive rankings - lower ranks allow fewer runs/hits (better defense)",
+  "propRankings": {
+    "hits": {
+      "name": "Hits Allowed",
+      "description": "Fewest hits allowed per game",
+      "sortOrder": "ascending",
+      "rankings": [
+        {
+          "rank": 1,
+          "teamId": 140,
+          "teamName": "Texas Rangers",
+          "abbreviation": "TEX",
+          "league": "American League",
+          "division": "American League West",
+          "value": 7.48,
+          "defensiveRating": 100
+        },
+        {
+          "rank": 2,
+          "teamId": 135,
+          "teamName": "San Diego Padres",
+          "abbreviation": "SD",
+          "league": "National League",
+          "division": "National League West",
+          "value": 7.55,
+          "defensiveRating": 97
+        },
+        {
+          "rank": 3,
+          "teamId": 117,
+          "teamName": "Houston Astros",
+          "abbreviation": "HOU",
+          "league": "American League",
+          "division": "American League West",
+          "value": 7.62,
+          "defensiveRating": 93
+        },
+        {
+          "rank": 4,
+          "teamId": 147,
+          "teamName": "New York Yankees",
+          "abbreviation": "NYY",
+          "league": "American League",
+          "division": "American League East",
+          "value": 7.62,
+          "defensiveRating": 90
+        },
+        {
+          "rank": 5,
+          "teamId": 158,
+          "teamName": "Milwaukee Brewers",
+          "abbreviation": "MIL",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 7.7,
+          "defensiveRating": 86
+        },
+        {
+          "rank": 6,
+          "teamId": 134,
+          "teamName": "Pittsburgh Pirates",
+          "abbreviation": "PIT",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 7.72,
+          "defensiveRating": 83
+        },
+        {
+          "rank": 7,
+          "teamId": 113,
+          "teamName": "Cincinnati Reds",
+          "abbreviation": "CIN",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 7.8,
+          "defensiveRating": 79
+        },
+        {
+          "rank": 8,
+          "teamId": 118,
+          "teamName": "Kansas City Royals",
+          "abbreviation": "KC",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 7.89,
+          "defensiveRating": 76
+        },
+        {
+          "rank": 9,
+          "teamId": 141,
+          "teamName": "Toronto Blue Jays",
+          "abbreviation": "TOR",
+          "league": "American League",
+          "division": "American League East",
+          "value": 7.89,
+          "defensiveRating": 72
+        },
+        {
+          "rank": 10,
+          "teamId": 144,
+          "teamName": "Atlanta Braves",
+          "abbreviation": "ATL",
+          "league": "National League",
+          "division": "National League East",
+          "value": 7.89,
+          "defensiveRating": 69
+        },
+        {
+          "rank": 11,
+          "teamId": 121,
+          "teamName": "New York Mets",
+          "abbreviation": "NYM",
+          "league": "National League",
+          "division": "National League East",
+          "value": 7.94,
+          "defensiveRating": 66
+        },
+        {
+          "rank": 12,
+          "teamId": 139,
+          "teamName": "Tampa Bay Rays",
+          "abbreviation": "TB",
+          "league": "American League",
+          "division": "American League East",
+          "value": 7.96,
+          "defensiveRating": 62
+        },
+        {
+          "rank": 13,
+          "teamId": 137,
+          "teamName": "San Francisco Giants",
+          "abbreviation": "SF",
+          "league": "National League",
+          "division": "National League West",
+          "value": 8.04,
+          "defensiveRating": 59
+        },
+        {
+          "rank": 14,
+          "teamId": 116,
+          "teamName": "Detroit Tigers",
+          "abbreviation": "DET",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 8.11,
+          "defensiveRating": 55
+        },
+        {
+          "rank": 15,
+          "teamId": 114,
+          "teamName": "Cleveland Guardians",
+          "abbreviation": "CLE",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 8.15,
+          "defensiveRating": 52
+        },
+        {
+          "rank": 16,
+          "teamId": 119,
+          "teamName": "Los Angeles Dodgers",
+          "abbreviation": "LAD",
+          "league": "National League",
+          "division": "National League West",
+          "value": 8.28,
+          "defensiveRating": 48
+        },
+        {
+          "rank": 17,
+          "teamId": 143,
+          "teamName": "Philadelphia Phillies",
+          "abbreviation": "PHI",
+          "league": "National League",
+          "division": "National League East",
+          "value": 8.3,
+          "defensiveRating": 45
+        },
+        {
+          "rank": 18,
+          "teamId": 112,
+          "teamName": "Chicago Cubs",
+          "abbreviation": "CHC",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 8.32,
+          "defensiveRating": 41
+        },
+        {
+          "rank": 19,
+          "teamId": 145,
+          "teamName": "Chicago White Sox",
+          "abbreviation": "CWS",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 8.34,
+          "defensiveRating": 38
+        },
+        {
+          "rank": 20,
+          "teamId": 111,
+          "teamName": "Boston Red Sox",
+          "abbreviation": "BOS",
+          "league": "American League",
+          "division": "American League East",
+          "value": 8.35,
+          "defensiveRating": 34
+        },
+        {
+          "rank": 21,
+          "teamId": 136,
+          "teamName": "Seattle Mariners",
+          "abbreviation": "SEA",
+          "league": "American League",
+          "division": "American League West",
+          "value": 8.35,
+          "defensiveRating": 31
+        },
+        {
+          "rank": 22,
+          "teamId": 142,
+          "teamName": "Minnesota Twins",
+          "abbreviation": "MIN",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 8.42,
+          "defensiveRating": 28
+        },
+        {
+          "rank": 23,
+          "teamId": 146,
+          "teamName": "Miami Marlins",
+          "abbreviation": "MIA",
+          "league": "National League",
+          "division": "National League East",
+          "value": 8.52,
+          "defensiveRating": 24
+        },
+        {
+          "rank": 24,
+          "teamId": 109,
+          "teamName": "Arizona Diamondbacks",
+          "abbreviation": "AZ",
+          "league": "National League",
+          "division": "National League West",
+          "value": 8.57,
+          "defensiveRating": 21
+        },
+        {
+          "rank": 25,
+          "teamId": 138,
+          "teamName": "St. Louis Cardinals",
+          "abbreviation": "STL",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 8.7,
+          "defensiveRating": 17
+        },
+        {
+          "rank": 26,
+          "teamId": 108,
+          "teamName": "Los Angeles Angels",
+          "abbreviation": "LAA",
+          "league": "American League",
+          "division": "American League West",
+          "value": 8.89,
+          "defensiveRating": 14
+        },
+        {
+          "rank": 27,
+          "teamId": 133,
+          "teamName": "Athletics",
+          "abbreviation": "ATH",
+          "league": "American League",
+          "division": "American League West",
+          "value": 8.99,
+          "defensiveRating": 10
+        },
+        {
+          "rank": 28,
+          "teamId": 120,
+          "teamName": "Washington Nationals",
+          "abbreviation": "WSH",
+          "league": "National League",
+          "division": "National League East",
+          "value": 9.02,
+          "defensiveRating": 7
+        },
+        {
+          "rank": 29,
+          "teamId": 110,
+          "teamName": "Baltimore Orioles",
+          "abbreviation": "BAL",
+          "league": "American League",
+          "division": "American League East",
+          "value": 9.07,
+          "defensiveRating": 3
+        },
+        {
+          "rank": 30,
+          "teamId": 115,
+          "teamName": "Colorado Rockies",
+          "abbreviation": "COL",
+          "league": "National League",
+          "division": "National League West",
+          "value": 10.37,
+          "defensiveRating": 0
+        }
+      ]
+    },
+    "homeRuns": {
+      "name": "Home Runs Allowed",
+      "description": "Fewest home runs allowed per game",
+      "sortOrder": "ascending",
+      "rankings": [
+        {
+          "rank": 1,
+          "teamId": 137,
+          "teamName": "San Francisco Giants",
+          "abbreviation": "SF",
+          "league": "National League",
+          "division": "National League West",
+          "value": 0.85,
+          "defensiveRating": 100
+        },
+        {
+          "rank": 2,
+          "teamId": 121,
+          "teamName": "New York Mets",
+          "abbreviation": "NYM",
+          "league": "National League",
+          "division": "National League East",
+          "value": 0.86,
+          "defensiveRating": 97
+        },
+        {
+          "rank": 3,
+          "teamId": 140,
+          "teamName": "Texas Rangers",
+          "abbreviation": "TEX",
+          "league": "American League",
+          "division": "American League West",
+          "value": 0.9,
+          "defensiveRating": 93
+        },
+        {
+          "rank": 4,
+          "teamId": 134,
+          "teamName": "Pittsburgh Pirates",
+          "abbreviation": "PIT",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 0.93,
+          "defensiveRating": 90
+        },
+        {
+          "rank": 5,
+          "teamId": 138,
+          "teamName": "St. Louis Cardinals",
+          "abbreviation": "STL",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 0.95,
+          "defensiveRating": 86
+        },
+        {
+          "rank": 6,
+          "teamId": 135,
+          "teamName": "San Diego Padres",
+          "abbreviation": "SD",
+          "league": "National League",
+          "division": "National League West",
+          "value": 0.98,
+          "defensiveRating": 83
+        },
+        {
+          "rank": 7,
+          "teamId": 111,
+          "teamName": "Boston Red Sox",
+          "abbreviation": "BOS",
+          "league": "American League",
+          "division": "American League East",
+          "value": 1.01,
+          "defensiveRating": 79
+        },
+        {
+          "rank": 8,
+          "teamId": 118,
+          "teamName": "Kansas City Royals",
+          "abbreviation": "KC",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 1.01,
+          "defensiveRating": 76
+        },
+        {
+          "rank": 9,
+          "teamId": 143,
+          "teamName": "Philadelphia Phillies",
+          "abbreviation": "PHI",
+          "league": "National League",
+          "division": "National League East",
+          "value": 1.07,
+          "defensiveRating": 72
+        },
+        {
+          "rank": 10,
+          "teamId": 145,
+          "teamName": "Chicago White Sox",
+          "abbreviation": "CWS",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 1.07,
+          "defensiveRating": 69
+        },
+        {
+          "rank": 11,
+          "teamId": 146,
+          "teamName": "Miami Marlins",
+          "abbreviation": "MIA",
+          "league": "National League",
+          "division": "National League East",
+          "value": 1.07,
+          "defensiveRating": 66
+        },
+        {
+          "rank": 12,
+          "teamId": 158,
+          "teamName": "Milwaukee Brewers",
+          "abbreviation": "MIL",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 1.07,
+          "defensiveRating": 62
+        },
+        {
+          "rank": 13,
+          "teamId": 116,
+          "teamName": "Detroit Tigers",
+          "abbreviation": "DET",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 1.08,
+          "defensiveRating": 59
+        },
+        {
+          "rank": 14,
+          "teamId": 114,
+          "teamName": "Cleveland Guardians",
+          "abbreviation": "CLE",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 1.09,
+          "defensiveRating": 55
+        },
+        {
+          "rank": 15,
+          "teamId": 142,
+          "teamName": "Minnesota Twins",
+          "abbreviation": "MIN",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 1.09,
+          "defensiveRating": 52
+        },
+        {
+          "rank": 16,
+          "teamId": 136,
+          "teamName": "Seattle Mariners",
+          "abbreviation": "SEA",
+          "league": "American League",
+          "division": "American League West",
+          "value": 1.11,
+          "defensiveRating": 48
+        },
+        {
+          "rank": 17,
+          "teamId": 147,
+          "teamName": "New York Yankees",
+          "abbreviation": "NYY",
+          "league": "American League",
+          "division": "American League East",
+          "value": 1.11,
+          "defensiveRating": 45
+        },
+        {
+          "rank": 18,
+          "teamId": 113,
+          "teamName": "Cincinnati Reds",
+          "abbreviation": "CIN",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 1.13,
+          "defensiveRating": 41
+        },
+        {
+          "rank": 19,
+          "teamId": 117,
+          "teamName": "Houston Astros",
+          "abbreviation": "HOU",
+          "league": "American League",
+          "division": "American League West",
+          "value": 1.16,
+          "defensiveRating": 38
+        },
+        {
+          "rank": 20,
+          "teamId": 120,
+          "teamName": "Washington Nationals",
+          "abbreviation": "WSH",
+          "league": "National League",
+          "division": "National League East",
+          "value": 1.16,
+          "defensiveRating": 34
+        },
+        {
+          "rank": 21,
+          "teamId": 144,
+          "teamName": "Atlanta Braves",
+          "abbreviation": "ATL",
+          "league": "National League",
+          "division": "National League East",
+          "value": 1.17,
+          "defensiveRating": 31
+        },
+        {
+          "rank": 22,
+          "teamId": 119,
+          "teamName": "Los Angeles Dodgers",
+          "abbreviation": "LAD",
+          "league": "National League",
+          "division": "National League West",
+          "value": 1.22,
+          "defensiveRating": 28
+        },
+        {
+          "rank": 23,
+          "teamId": 109,
+          "teamName": "Arizona Diamondbacks",
+          "abbreviation": "AZ",
+          "league": "National League",
+          "division": "National League West",
+          "value": 1.26,
+          "defensiveRating": 24
+        },
+        {
+          "rank": 24,
+          "teamId": 112,
+          "teamName": "Chicago Cubs",
+          "abbreviation": "CHC",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 1.28,
+          "defensiveRating": 21
+        },
+        {
+          "rank": 25,
+          "teamId": 139,
+          "teamName": "Tampa Bay Rays",
+          "abbreviation": "TB",
+          "league": "American League",
+          "division": "American League East",
+          "value": 1.3,
+          "defensiveRating": 17
+        },
+        {
+          "rank": 26,
+          "teamId": 141,
+          "teamName": "Toronto Blue Jays",
+          "abbreviation": "TOR",
+          "league": "American League",
+          "division": "American League East",
+          "value": 1.32,
+          "defensiveRating": 14
+        },
+        {
+          "rank": 27,
+          "teamId": 108,
+          "teamName": "Los Angeles Angels",
+          "abbreviation": "LAA",
+          "league": "American League",
+          "division": "American League West",
+          "value": 1.33,
+          "defensiveRating": 10
+        },
+        {
+          "rank": 28,
+          "teamId": 115,
+          "teamName": "Colorado Rockies",
+          "abbreviation": "COL",
+          "league": "National League",
+          "division": "National League West",
+          "value": 1.38,
+          "defensiveRating": 7
+        },
+        {
+          "rank": 29,
+          "teamId": 110,
+          "teamName": "Baltimore Orioles",
+          "abbreviation": "BAL",
+          "league": "American League",
+          "division": "American League East",
+          "value": 1.4,
+          "defensiveRating": 3
+        },
+        {
+          "rank": 30,
+          "teamId": 133,
+          "teamName": "Athletics",
+          "abbreviation": "ATH",
+          "league": "American League",
+          "division": "American League West",
+          "value": 1.47,
+          "defensiveRating": 0
+        }
+      ]
+    },
+    "runs": {
+      "name": "Runs Allowed",
+      "description": "Fewest runs allowed per game",
+      "sortOrder": "ascending",
+      "rankings": [
+        {
+          "rank": 1,
+          "teamId": 140,
+          "teamName": "Texas Rangers",
+          "abbreviation": "TEX",
+          "league": "American League",
+          "division": "American League West",
+          "value": 3.45,
+          "defensiveRating": 100
+        },
+        {
+          "rank": 2,
+          "teamId": 118,
+          "teamName": "Kansas City Royals",
+          "abbreviation": "KC",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 3.75,
+          "defensiveRating": 97
+        },
+        {
+          "rank": 3,
+          "teamId": 135,
+          "teamName": "San Diego Padres",
+          "abbreviation": "SD",
+          "league": "National League",
+          "division": "National League West",
+          "value": 3.85,
+          "defensiveRating": 93
+        },
+        {
+          "rank": 4,
+          "teamId": 158,
+          "teamName": "Milwaukee Brewers",
+          "abbreviation": "MIL",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 3.88,
+          "defensiveRating": 90
+        },
+        {
+          "rank": 5,
+          "teamId": 121,
+          "teamName": "New York Mets",
+          "abbreviation": "NYM",
+          "league": "National League",
+          "division": "National League East",
+          "value": 3.89,
+          "defensiveRating": 86
+        },
+        {
+          "rank": 6,
+          "teamId": 117,
+          "teamName": "Houston Astros",
+          "abbreviation": "HOU",
+          "league": "American League",
+          "division": "American League West",
+          "value": 3.9,
+          "defensiveRating": 83
+        },
+        {
+          "rank": 7,
+          "teamId": 134,
+          "teamName": "Pittsburgh Pirates",
+          "abbreviation": "PIT",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 3.93,
+          "defensiveRating": 79
+        },
+        {
+          "rank": 8,
+          "teamId": 143,
+          "teamName": "Philadelphia Phillies",
+          "abbreviation": "PHI",
+          "league": "National League",
+          "division": "National League East",
+          "value": 3.99,
+          "defensiveRating": 76
+        },
+        {
+          "rank": 9,
+          "teamId": 137,
+          "teamName": "San Francisco Giants",
+          "abbreviation": "SF",
+          "league": "National League",
+          "division": "National League West",
+          "value": 4.02,
+          "defensiveRating": 72
+        },
+        {
+          "rank": 10,
+          "teamId": 139,
+          "teamName": "Tampa Bay Rays",
+          "abbreviation": "TB",
+          "league": "American League",
+          "division": "American League East",
+          "value": 4.11,
+          "defensiveRating": 69
+        },
+        {
+          "rank": 11,
+          "teamId": 112,
+          "teamName": "Chicago Cubs",
+          "abbreviation": "CHC",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 4.16,
+          "defensiveRating": 66
+        },
+        {
+          "rank": 12,
+          "teamId": 116,
+          "teamName": "Detroit Tigers",
+          "abbreviation": "DET",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 4.17,
+          "defensiveRating": 62
+        },
+        {
+          "rank": 13,
+          "teamId": 113,
+          "teamName": "Cincinnati Reds",
+          "abbreviation": "CIN",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 4.18,
+          "defensiveRating": 59
+        },
+        {
+          "rank": 14,
+          "teamId": 114,
+          "teamName": "Cleveland Guardians",
+          "abbreviation": "CLE",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 4.2,
+          "defensiveRating": 55
+        },
+        {
+          "rank": 15,
+          "teamId": 141,
+          "teamName": "Toronto Blue Jays",
+          "abbreviation": "TOR",
+          "league": "American League",
+          "division": "American League East",
+          "value": 4.28,
+          "defensiveRating": 52
+        },
+        {
+          "rank": 16,
+          "teamId": 147,
+          "teamName": "New York Yankees",
+          "abbreviation": "NYY",
+          "league": "American League",
+          "division": "American League East",
+          "value": 4.28,
+          "defensiveRating": 48
+        },
+        {
+          "rank": 17,
+          "teamId": 144,
+          "teamName": "Atlanta Braves",
+          "abbreviation": "ATL",
+          "league": "National League",
+          "division": "National League East",
+          "value": 4.29,
+          "defensiveRating": 45
+        },
+        {
+          "rank": 18,
+          "teamId": 142,
+          "teamName": "Minnesota Twins",
+          "abbreviation": "MIN",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 4.35,
+          "defensiveRating": 41
+        },
+        {
+          "rank": 19,
+          "teamId": 111,
+          "teamName": "Boston Red Sox",
+          "abbreviation": "BOS",
+          "league": "American League",
+          "division": "American League East",
+          "value": 4.37,
+          "defensiveRating": 38
+        },
+        {
+          "rank": 20,
+          "teamId": 136,
+          "teamName": "Seattle Mariners",
+          "abbreviation": "SEA",
+          "league": "American League",
+          "division": "American League West",
+          "value": 4.38,
+          "defensiveRating": 34
+        },
+        {
+          "rank": 21,
+          "teamId": 145,
+          "teamName": "Chicago White Sox",
+          "abbreviation": "CWS",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 4.42,
+          "defensiveRating": 31
+        },
+        {
+          "rank": 22,
+          "teamId": 138,
+          "teamName": "St. Louis Cardinals",
+          "abbreviation": "STL",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 4.48,
+          "defensiveRating": 28
+        },
+        {
+          "rank": 23,
+          "teamId": 119,
+          "teamName": "Los Angeles Dodgers",
+          "abbreviation": "LAD",
+          "league": "National League",
+          "division": "National League West",
+          "value": 4.63,
+          "defensiveRating": 24
+        },
+        {
+          "rank": 24,
+          "teamId": 146,
+          "teamName": "Miami Marlins",
+          "abbreviation": "MIA",
+          "league": "National League",
+          "division": "National League East",
+          "value": 4.76,
+          "defensiveRating": 21
+        },
+        {
+          "rank": 25,
+          "teamId": 109,
+          "teamName": "Arizona Diamondbacks",
+          "abbreviation": "AZ",
+          "league": "National League",
+          "division": "National League West",
+          "value": 4.86,
+          "defensiveRating": 17
+        },
+        {
+          "rank": 26,
+          "teamId": 108,
+          "teamName": "Los Angeles Angels",
+          "abbreviation": "LAA",
+          "league": "American League",
+          "division": "American League West",
+          "value": 5,
+          "defensiveRating": 14
+        },
+        {
+          "rank": 27,
+          "teamId": 110,
+          "teamName": "Baltimore Orioles",
+          "abbreviation": "BAL",
+          "league": "American League",
+          "division": "American League East",
+          "value": 5.09,
+          "defensiveRating": 10
+        },
+        {
+          "rank": 28,
+          "teamId": 120,
+          "teamName": "Washington Nationals",
+          "abbreviation": "WSH",
+          "league": "National League",
+          "division": "National League East",
+          "value": 5.33,
+          "defensiveRating": 7
+        },
+        {
+          "rank": 29,
+          "teamId": 133,
+          "teamName": "Athletics",
+          "abbreviation": "ATH",
+          "league": "American League",
+          "division": "American League West",
+          "value": 5.51,
+          "defensiveRating": 3
+        },
+        {
+          "rank": 30,
+          "teamId": 115,
+          "teamName": "Colorado Rockies",
+          "abbreviation": "COL",
+          "league": "National League",
+          "division": "National League West",
+          "value": 6.14,
+          "defensiveRating": 0
+        }
+      ]
+    },
+    "earnedRuns": {
+      "name": "Earned Runs Allowed",
+      "description": "Fewest earned runs allowed per game",
+      "sortOrder": "ascending",
+      "rankings": [
+        {
+          "rank": 1,
+          "teamId": 140,
+          "teamName": "Texas Rangers",
+          "abbreviation": "TEX",
+          "league": "American League",
+          "division": "American League West",
+          "value": 3.13,
+          "defensiveRating": 100
+        },
+        {
+          "rank": 2,
+          "teamId": 118,
+          "teamName": "Kansas City Royals",
+          "abbreviation": "KC",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 3.47,
+          "defensiveRating": 97
+        },
+        {
+          "rank": 3,
+          "teamId": 121,
+          "teamName": "New York Mets",
+          "abbreviation": "NYM",
+          "league": "National League",
+          "division": "National League East",
+          "value": 3.48,
+          "defensiveRating": 93
+        },
+        {
+          "rank": 4,
+          "teamId": 135,
+          "teamName": "San Diego Padres",
+          "abbreviation": "SD",
+          "league": "National League",
+          "division": "National League West",
+          "value": 3.52,
+          "defensiveRating": 90
+        },
+        {
+          "rank": 5,
+          "teamId": 158,
+          "teamName": "Milwaukee Brewers",
+          "abbreviation": "MIL",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 3.55,
+          "defensiveRating": 86
+        },
+        {
+          "rank": 6,
+          "teamId": 137,
+          "teamName": "San Francisco Giants",
+          "abbreviation": "SF",
+          "league": "National League",
+          "division": "National League West",
+          "value": 3.56,
+          "defensiveRating": 83
+        },
+        {
+          "rank": 7,
+          "teamId": 117,
+          "teamName": "Houston Astros",
+          "abbreviation": "HOU",
+          "league": "American League",
+          "division": "American League West",
+          "value": 3.66,
+          "defensiveRating": 79
+        },
+        {
+          "rank": 8,
+          "teamId": 134,
+          "teamName": "Pittsburgh Pirates",
+          "abbreviation": "PIT",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 3.69,
+          "defensiveRating": 76
+        },
+        {
+          "rank": 9,
+          "teamId": 143,
+          "teamName": "Philadelphia Phillies",
+          "abbreviation": "PHI",
+          "league": "National League",
+          "division": "National League East",
+          "value": 3.69,
+          "defensiveRating": 72
+        },
+        {
+          "rank": 10,
+          "teamId": 111,
+          "teamName": "Boston Red Sox",
+          "abbreviation": "BOS",
+          "league": "American League",
+          "division": "American League East",
+          "value": 3.76,
+          "defensiveRating": 69
+        },
+        {
+          "rank": 11,
+          "teamId": 116,
+          "teamName": "Detroit Tigers",
+          "abbreviation": "DET",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 3.76,
+          "defensiveRating": 66
+        },
+        {
+          "rank": 12,
+          "teamId": 113,
+          "teamName": "Cincinnati Reds",
+          "abbreviation": "CIN",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 3.8,
+          "defensiveRating": 62
+        },
+        {
+          "rank": 13,
+          "teamId": 139,
+          "teamName": "Tampa Bay Rays",
+          "abbreviation": "TB",
+          "league": "American League",
+          "division": "American League East",
+          "value": 3.84,
+          "defensiveRating": 59
+        },
+        {
+          "rank": 14,
+          "teamId": 112,
+          "teamName": "Chicago Cubs",
+          "abbreviation": "CHC",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 3.86,
+          "defensiveRating": 55
+        },
+        {
+          "rank": 15,
+          "teamId": 114,
+          "teamName": "Cleveland Guardians",
+          "abbreviation": "CLE",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 3.88,
+          "defensiveRating": 52
+        },
+        {
+          "rank": 16,
+          "teamId": 136,
+          "teamName": "Seattle Mariners",
+          "abbreviation": "SEA",
+          "league": "American League",
+          "division": "American League West",
+          "value": 3.9,
+          "defensiveRating": 48
+        },
+        {
+          "rank": 17,
+          "teamId": 147,
+          "teamName": "New York Yankees",
+          "abbreviation": "NYY",
+          "league": "American League",
+          "division": "American League East",
+          "value": 3.93,
+          "defensiveRating": 45
+        },
+        {
+          "rank": 18,
+          "teamId": 145,
+          "teamName": "Chicago White Sox",
+          "abbreviation": "CWS",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 3.97,
+          "defensiveRating": 41
+        },
+        {
+          "rank": 19,
+          "teamId": 141,
+          "teamName": "Toronto Blue Jays",
+          "abbreviation": "TOR",
+          "league": "American League",
+          "division": "American League East",
+          "value": 3.99,
+          "defensiveRating": 38
+        },
+        {
+          "rank": 20,
+          "teamId": 144,
+          "teamName": "Atlanta Braves",
+          "abbreviation": "ATL",
+          "league": "National League",
+          "division": "National League East",
+          "value": 4.03,
+          "defensiveRating": 34
+        },
+        {
+          "rank": 21,
+          "teamId": 142,
+          "teamName": "Minnesota Twins",
+          "abbreviation": "MIN",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 4.06,
+          "defensiveRating": 31
+        },
+        {
+          "rank": 22,
+          "teamId": 138,
+          "teamName": "St. Louis Cardinals",
+          "abbreviation": "STL",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 4.09,
+          "defensiveRating": 28
+        },
+        {
+          "rank": 23,
+          "teamId": 119,
+          "teamName": "Los Angeles Dodgers",
+          "abbreviation": "LAD",
+          "league": "National League",
+          "division": "National League West",
+          "value": 4.23,
+          "defensiveRating": 24
+        },
+        {
+          "rank": 24,
+          "teamId": 146,
+          "teamName": "Miami Marlins",
+          "abbreviation": "MIA",
+          "league": "National League",
+          "division": "National League East",
+          "value": 4.4,
+          "defensiveRating": 21
+        },
+        {
+          "rank": 25,
+          "teamId": 109,
+          "teamName": "Arizona Diamondbacks",
+          "abbreviation": "AZ",
+          "league": "National League",
+          "division": "National League West",
+          "value": 4.45,
+          "defensiveRating": 17
+        },
+        {
+          "rank": 26,
+          "teamId": 108,
+          "teamName": "Los Angeles Angels",
+          "abbreviation": "LAA",
+          "league": "American League",
+          "division": "American League West",
+          "value": 4.58,
+          "defensiveRating": 14
+        },
+        {
+          "rank": 27,
+          "teamId": 110,
+          "teamName": "Baltimore Orioles",
+          "abbreviation": "BAL",
+          "league": "American League",
+          "division": "American League East",
+          "value": 4.82,
+          "defensiveRating": 10
+        },
+        {
+          "rank": 28,
+          "teamId": 120,
+          "teamName": "Washington Nationals",
+          "abbreviation": "WSH",
+          "league": "National League",
+          "division": "National League East",
+          "value": 5.02,
+          "defensiveRating": 7
+        },
+        {
+          "rank": 29,
+          "teamId": 133,
+          "teamName": "Athletics",
+          "abbreviation": "ATH",
+          "league": "American League",
+          "division": "American League West",
+          "value": 5.06,
+          "defensiveRating": 3
+        },
+        {
+          "rank": 30,
+          "teamId": 115,
+          "teamName": "Colorado Rockies",
+          "abbreviation": "COL",
+          "league": "National League",
+          "division": "National League West",
+          "value": 5.45,
+          "defensiveRating": 0
+        }
+      ]
+    },
+    "walks": {
+      "name": "Walks Allowed",
+      "description": "Fewest walks allowed per game",
+      "sortOrder": "ascending",
+      "rankings": [
+        {
+          "rank": 1,
+          "teamId": 142,
+          "teamName": "Minnesota Twins",
+          "abbreviation": "MIN",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 2.58,
+          "defensiveRating": 100
+        },
+        {
+          "rank": 2,
+          "teamId": 112,
+          "teamName": "Chicago Cubs",
+          "abbreviation": "CHC",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 2.63,
+          "defensiveRating": 97
+        },
+        {
+          "rank": 3,
+          "teamId": 138,
+          "teamName": "St. Louis Cardinals",
+          "abbreviation": "STL",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 2.66,
+          "defensiveRating": 93
+        },
+        {
+          "rank": 4,
+          "teamId": 139,
+          "teamName": "Tampa Bay Rays",
+          "abbreviation": "TB",
+          "league": "American League",
+          "division": "American League East",
+          "value": 2.84,
+          "defensiveRating": 90
+        },
+        {
+          "rank": 5,
+          "teamId": 140,
+          "teamName": "Texas Rangers",
+          "abbreviation": "TEX",
+          "league": "American League",
+          "division": "American League West",
+          "value": 2.87,
+          "defensiveRating": 86
+        },
+        {
+          "rank": 6,
+          "teamId": 116,
+          "teamName": "Detroit Tigers",
+          "abbreviation": "DET",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 2.88,
+          "defensiveRating": 83
+        },
+        {
+          "rank": 7,
+          "teamId": 134,
+          "teamName": "Pittsburgh Pirates",
+          "abbreviation": "PIT",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 2.88,
+          "defensiveRating": 79
+        },
+        {
+          "rank": 8,
+          "teamId": 143,
+          "teamName": "Philadelphia Phillies",
+          "abbreviation": "PHI",
+          "league": "National League",
+          "division": "National League East",
+          "value": 2.9,
+          "defensiveRating": 76
+        },
+        {
+          "rank": 9,
+          "teamId": 118,
+          "teamName": "Kansas City Royals",
+          "abbreviation": "KC",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 2.96,
+          "defensiveRating": 72
+        },
+        {
+          "rank": 10,
+          "teamId": 117,
+          "teamName": "Houston Astros",
+          "abbreviation": "HOU",
+          "league": "American League",
+          "division": "American League West",
+          "value": 2.99,
+          "defensiveRating": 69
+        },
+        {
+          "rank": 11,
+          "teamId": 141,
+          "teamName": "Toronto Blue Jays",
+          "abbreviation": "TOR",
+          "league": "American League",
+          "division": "American League East",
+          "value": 3.09,
+          "defensiveRating": 66
+        },
+        {
+          "rank": 12,
+          "teamId": 136,
+          "teamName": "Seattle Mariners",
+          "abbreviation": "SEA",
+          "league": "American League",
+          "division": "American League West",
+          "value": 3.1,
+          "defensiveRating": 62
+        },
+        {
+          "rank": 13,
+          "teamId": 146,
+          "teamName": "Miami Marlins",
+          "abbreviation": "MIA",
+          "league": "National League",
+          "division": "National League East",
+          "value": 3.1,
+          "defensiveRating": 59
+        },
+        {
+          "rank": 14,
+          "teamId": 113,
+          "teamName": "Cincinnati Reds",
+          "abbreviation": "CIN",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 3.15,
+          "defensiveRating": 55
+        },
+        {
+          "rank": 15,
+          "teamId": 137,
+          "teamName": "San Francisco Giants",
+          "abbreviation": "SF",
+          "league": "National League",
+          "division": "National League West",
+          "value": 3.19,
+          "defensiveRating": 52
+        },
+        {
+          "rank": 16,
+          "teamId": 109,
+          "teamName": "Arizona Diamondbacks",
+          "abbreviation": "AZ",
+          "league": "National League",
+          "division": "National League West",
+          "value": 3.2,
+          "defensiveRating": 48
+        },
+        {
+          "rank": 17,
+          "teamId": 111,
+          "teamName": "Boston Red Sox",
+          "abbreviation": "BOS",
+          "league": "American League",
+          "division": "American League East",
+          "value": 3.24,
+          "defensiveRating": 45
+        },
+        {
+          "rank": 18,
+          "teamId": 158,
+          "teamName": "Milwaukee Brewers",
+          "abbreviation": "MIL",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 3.28,
+          "defensiveRating": 41
+        },
+        {
+          "rank": 19,
+          "teamId": 135,
+          "teamName": "San Diego Padres",
+          "abbreviation": "SD",
+          "league": "National League",
+          "division": "National League West",
+          "value": 3.29,
+          "defensiveRating": 38
+        },
+        {
+          "rank": 20,
+          "teamId": 110,
+          "teamName": "Baltimore Orioles",
+          "abbreviation": "BAL",
+          "league": "American League",
+          "division": "American League East",
+          "value": 3.32,
+          "defensiveRating": 34
+        },
+        {
+          "rank": 21,
+          "teamId": 144,
+          "teamName": "Atlanta Braves",
+          "abbreviation": "ATL",
+          "league": "National League",
+          "division": "National League East",
+          "value": 3.33,
+          "defensiveRating": 31
+        },
+        {
+          "rank": 22,
+          "teamId": 120,
+          "teamName": "Washington Nationals",
+          "abbreviation": "WSH",
+          "league": "National League",
+          "division": "National League East",
+          "value": 3.37,
+          "defensiveRating": 28
+        },
+        {
+          "rank": 23,
+          "teamId": 115,
+          "teamName": "Colorado Rockies",
+          "abbreviation": "COL",
+          "league": "National League",
+          "division": "National League West",
+          "value": 3.43,
+          "defensiveRating": 24
+        },
+        {
+          "rank": 24,
+          "teamId": 147,
+          "teamName": "New York Yankees",
+          "abbreviation": "NYY",
+          "league": "American League",
+          "division": "American League East",
+          "value": 3.43,
+          "defensiveRating": 21
+        },
+        {
+          "rank": 25,
+          "teamId": 119,
+          "teamName": "Los Angeles Dodgers",
+          "abbreviation": "LAD",
+          "league": "National League",
+          "division": "National League West",
+          "value": 3.52,
+          "defensiveRating": 17
+        },
+        {
+          "rank": 26,
+          "teamId": 114,
+          "teamName": "Cleveland Guardians",
+          "abbreviation": "CLE",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 3.56,
+          "defensiveRating": 14
+        },
+        {
+          "rank": 27,
+          "teamId": 133,
+          "teamName": "Athletics",
+          "abbreviation": "ATH",
+          "league": "American League",
+          "division": "American League West",
+          "value": 3.56,
+          "defensiveRating": 10
+        },
+        {
+          "rank": 28,
+          "teamId": 121,
+          "teamName": "New York Mets",
+          "abbreviation": "NYM",
+          "league": "National League",
+          "division": "National League East",
+          "value": 3.57,
+          "defensiveRating": 7
+        },
+        {
+          "rank": 29,
+          "teamId": 145,
+          "teamName": "Chicago White Sox",
+          "abbreviation": "CWS",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 3.67,
+          "defensiveRating": 3
+        },
+        {
+          "rank": 30,
+          "teamId": 108,
+          "teamName": "Los Angeles Angels",
+          "abbreviation": "LAA",
+          "league": "American League",
+          "division": "American League West",
+          "value": 3.84,
+          "defensiveRating": 0
+        }
+      ]
+    },
+    "totalBases": {
+      "name": "Total Bases Allowed",
+      "description": "Fewest total bases allowed per game",
+      "sortOrder": "ascending",
+      "rankings": [
+        {
+          "rank": 1,
+          "teamId": 140,
+          "teamName": "Texas Rangers",
+          "abbreviation": "TEX",
+          "league": "American League",
+          "division": "American League West",
+          "value": 11.66,
+          "defensiveRating": 100
+        },
+        {
+          "rank": 2,
+          "teamId": 135,
+          "teamName": "San Diego Padres",
+          "abbreviation": "SD",
+          "league": "National League",
+          "division": "National League West",
+          "value": 12.1,
+          "defensiveRating": 97
+        },
+        {
+          "rank": 3,
+          "teamId": 121,
+          "teamName": "New York Mets",
+          "abbreviation": "NYM",
+          "league": "National League",
+          "division": "National League East",
+          "value": 12.29,
+          "defensiveRating": 93
+        },
+        {
+          "rank": 4,
+          "teamId": 158,
+          "teamName": "Milwaukee Brewers",
+          "abbreviation": "MIL",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 12.46,
+          "defensiveRating": 90
+        },
+        {
+          "rank": 5,
+          "teamId": 137,
+          "teamName": "San Francisco Giants",
+          "abbreviation": "SF",
+          "league": "National League",
+          "division": "National League West",
+          "value": 12.6,
+          "defensiveRating": 86
+        },
+        {
+          "rank": 6,
+          "teamId": 134,
+          "teamName": "Pittsburgh Pirates",
+          "abbreviation": "PIT",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 12.62,
+          "defensiveRating": 83
+        },
+        {
+          "rank": 7,
+          "teamId": 147,
+          "teamName": "New York Yankees",
+          "abbreviation": "NYY",
+          "league": "American League",
+          "division": "American League East",
+          "value": 12.65,
+          "defensiveRating": 79
+        },
+        {
+          "rank": 8,
+          "teamId": 111,
+          "teamName": "Boston Red Sox",
+          "abbreviation": "BOS",
+          "league": "American League",
+          "division": "American League East",
+          "value": 12.74,
+          "defensiveRating": 76
+        },
+        {
+          "rank": 9,
+          "teamId": 118,
+          "teamName": "Kansas City Royals",
+          "abbreviation": "KC",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 12.78,
+          "defensiveRating": 72
+        },
+        {
+          "rank": 10,
+          "teamId": 117,
+          "teamName": "Houston Astros",
+          "abbreviation": "HOU",
+          "league": "American League",
+          "division": "American League West",
+          "value": 12.91,
+          "defensiveRating": 69
+        },
+        {
+          "rank": 11,
+          "teamId": 116,
+          "teamName": "Detroit Tigers",
+          "abbreviation": "DET",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 13.02,
+          "defensiveRating": 66
+        },
+        {
+          "rank": 12,
+          "teamId": 114,
+          "teamName": "Cleveland Guardians",
+          "abbreviation": "CLE",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 13.15,
+          "defensiveRating": 62
+        },
+        {
+          "rank": 13,
+          "teamId": 113,
+          "teamName": "Cincinnati Reds",
+          "abbreviation": "CIN",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 13.16,
+          "defensiveRating": 59
+        },
+        {
+          "rank": 14,
+          "teamId": 143,
+          "teamName": "Philadelphia Phillies",
+          "abbreviation": "PHI",
+          "league": "National League",
+          "division": "National League East",
+          "value": 13.23,
+          "defensiveRating": 55
+        },
+        {
+          "rank": 15,
+          "teamId": 144,
+          "teamName": "Atlanta Braves",
+          "abbreviation": "ATL",
+          "league": "National League",
+          "division": "National League East",
+          "value": 13.3,
+          "defensiveRating": 52
+        },
+        {
+          "rank": 16,
+          "teamId": 136,
+          "teamName": "Seattle Mariners",
+          "abbreviation": "SEA",
+          "league": "American League",
+          "division": "American League West",
+          "value": 13.39,
+          "defensiveRating": 48
+        },
+        {
+          "rank": 17,
+          "teamId": 142,
+          "teamName": "Minnesota Twins",
+          "abbreviation": "MIN",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 13.4,
+          "defensiveRating": 45
+        },
+        {
+          "rank": 18,
+          "teamId": 139,
+          "teamName": "Tampa Bay Rays",
+          "abbreviation": "TB",
+          "league": "American League",
+          "division": "American League East",
+          "value": 13.48,
+          "defensiveRating": 41
+        },
+        {
+          "rank": 19,
+          "teamId": 141,
+          "teamName": "Toronto Blue Jays",
+          "abbreviation": "TOR",
+          "league": "American League",
+          "division": "American League East",
+          "value": 13.48,
+          "defensiveRating": 38
+        },
+        {
+          "rank": 20,
+          "teamId": 138,
+          "teamName": "St. Louis Cardinals",
+          "abbreviation": "STL",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 13.71,
+          "defensiveRating": 34
+        },
+        {
+          "rank": 21,
+          "teamId": 145,
+          "teamName": "Chicago White Sox",
+          "abbreviation": "CWS",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 13.73,
+          "defensiveRating": 31
+        },
+        {
+          "rank": 22,
+          "teamId": 112,
+          "teamName": "Chicago Cubs",
+          "abbreviation": "CHC",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 13.79,
+          "defensiveRating": 28
+        },
+        {
+          "rank": 23,
+          "teamId": 146,
+          "teamName": "Miami Marlins",
+          "abbreviation": "MIA",
+          "league": "National League",
+          "division": "National League East",
+          "value": 13.83,
+          "defensiveRating": 24
+        },
+        {
+          "rank": 24,
+          "teamId": 119,
+          "teamName": "Los Angeles Dodgers",
+          "abbreviation": "LAD",
+          "league": "National League",
+          "division": "National League West",
+          "value": 14,
+          "defensiveRating": 21
+        },
+        {
+          "rank": 25,
+          "teamId": 108,
+          "teamName": "Los Angeles Angels",
+          "abbreviation": "LAA",
+          "league": "American League",
+          "division": "American League West",
+          "value": 14.55,
+          "defensiveRating": 17
+        },
+        {
+          "rank": 26,
+          "teamId": 109,
+          "teamName": "Arizona Diamondbacks",
+          "abbreviation": "AZ",
+          "league": "National League",
+          "division": "National League West",
+          "value": 14.63,
+          "defensiveRating": 14
+        },
+        {
+          "rank": 27,
+          "teamId": 120,
+          "teamName": "Washington Nationals",
+          "abbreviation": "WSH",
+          "league": "National League",
+          "division": "National League East",
+          "value": 14.63,
+          "defensiveRating": 10
+        },
+        {
+          "rank": 28,
+          "teamId": 110,
+          "teamName": "Baltimore Orioles",
+          "abbreviation": "BAL",
+          "league": "American League",
+          "division": "American League East",
+          "value": 15.31,
+          "defensiveRating": 7
+        },
+        {
+          "rank": 29,
+          "teamId": 133,
+          "teamName": "Athletics",
+          "abbreviation": "ATH",
+          "league": "American League",
+          "division": "American League West",
+          "value": 15.53,
+          "defensiveRating": 3
+        },
+        {
+          "rank": 30,
+          "teamId": 115,
+          "teamName": "Colorado Rockies",
+          "abbreviation": "COL",
+          "league": "National League",
+          "division": "National League West",
+          "value": 17.02,
+          "defensiveRating": 0
+        }
+      ]
+    },
+    "singles": {
+      "name": "Singles Allowed",
+      "description": "Fewest singles allowed per game",
+      "sortOrder": "ascending",
+      "rankings": [
+        {
+          "rank": 1,
+          "teamId": 117,
+          "teamName": "Houston Astros",
+          "abbreviation": "HOU",
+          "league": "American League",
+          "division": "American League West",
+          "value": 4.74,
+          "defensiveRating": 100
+        },
+        {
+          "rank": 2,
+          "teamId": 113,
+          "teamName": "Cincinnati Reds",
+          "abbreviation": "CIN",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 4.8,
+          "defensiveRating": 97
+        },
+        {
+          "rank": 3,
+          "teamId": 134,
+          "teamName": "Pittsburgh Pirates",
+          "abbreviation": "PIT",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 4.84,
+          "defensiveRating": 93
+        },
+        {
+          "rank": 4,
+          "teamId": 147,
+          "teamName": "New York Yankees",
+          "abbreviation": "NYY",
+          "league": "American League",
+          "division": "American League East",
+          "value": 4.92,
+          "defensiveRating": 90
+        },
+        {
+          "rank": 5,
+          "teamId": 144,
+          "teamName": "Atlanta Braves",
+          "abbreviation": "ATL",
+          "league": "National League",
+          "division": "National League East",
+          "value": 4.96,
+          "defensiveRating": 86
+        },
+        {
+          "rank": 6,
+          "teamId": 141,
+          "teamName": "Toronto Blue Jays",
+          "abbreviation": "TOR",
+          "league": "American League",
+          "division": "American League East",
+          "value": 5.04,
+          "defensiveRating": 83
+        },
+        {
+          "rank": 7,
+          "teamId": 135,
+          "teamName": "San Diego Padres",
+          "abbreviation": "SD",
+          "league": "National League",
+          "division": "National League West",
+          "value": 5.08,
+          "defensiveRating": 79
+        },
+        {
+          "rank": 8,
+          "teamId": 139,
+          "teamName": "Tampa Bay Rays",
+          "abbreviation": "TB",
+          "league": "American League",
+          "division": "American League East",
+          "value": 5.12,
+          "defensiveRating": 76
+        },
+        {
+          "rank": 9,
+          "teamId": 118,
+          "teamName": "Kansas City Royals",
+          "abbreviation": "KC",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 5.16,
+          "defensiveRating": 72
+        },
+        {
+          "rank": 10,
+          "teamId": 109,
+          "teamName": "Arizona Diamondbacks",
+          "abbreviation": "AZ",
+          "league": "National League",
+          "division": "National League West",
+          "value": 5.17,
+          "defensiveRating": 69
+        },
+        {
+          "rank": 11,
+          "teamId": 140,
+          "teamName": "Texas Rangers",
+          "abbreviation": "TEX",
+          "league": "American League",
+          "division": "American League West",
+          "value": 5.18,
+          "defensiveRating": 66
+        },
+        {
+          "rank": 12,
+          "teamId": 158,
+          "teamName": "Milwaukee Brewers",
+          "abbreviation": "MIL",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 5.18,
+          "defensiveRating": 62
+        },
+        {
+          "rank": 13,
+          "teamId": 119,
+          "teamName": "Los Angeles Dodgers",
+          "abbreviation": "LAD",
+          "league": "National League",
+          "division": "National League West",
+          "value": 5.19,
+          "defensiveRating": 59
+        },
+        {
+          "rank": 14,
+          "teamId": 145,
+          "teamName": "Chicago White Sox",
+          "abbreviation": "CWS",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 5.27,
+          "defensiveRating": 55
+        },
+        {
+          "rank": 15,
+          "teamId": 137,
+          "teamName": "San Francisco Giants",
+          "abbreviation": "SF",
+          "league": "National League",
+          "division": "National League West",
+          "value": 5.33,
+          "defensiveRating": 52
+        },
+        {
+          "rank": 16,
+          "teamId": 114,
+          "teamName": "Cleveland Guardians",
+          "abbreviation": "CLE",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 5.44,
+          "defensiveRating": 48
+        },
+        {
+          "rank": 17,
+          "teamId": 121,
+          "teamName": "New York Mets",
+          "abbreviation": "NYM",
+          "league": "National League",
+          "division": "National League East",
+          "value": 5.45,
+          "defensiveRating": 45
+        },
+        {
+          "rank": 18,
+          "teamId": 116,
+          "teamName": "Detroit Tigers",
+          "abbreviation": "DET",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 5.47,
+          "defensiveRating": 41
+        },
+        {
+          "rank": 19,
+          "teamId": 133,
+          "teamName": "Athletics",
+          "abbreviation": "ATH",
+          "league": "American League",
+          "division": "American League West",
+          "value": 5.5,
+          "defensiveRating": 38
+        },
+        {
+          "rank": 20,
+          "teamId": 112,
+          "teamName": "Chicago Cubs",
+          "abbreviation": "CHC",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 5.52,
+          "defensiveRating": 34
+        },
+        {
+          "rank": 21,
+          "teamId": 146,
+          "teamName": "Miami Marlins",
+          "abbreviation": "MIA",
+          "league": "National League",
+          "division": "National League East",
+          "value": 5.52,
+          "defensiveRating": 31
+        },
+        {
+          "rank": 22,
+          "teamId": 143,
+          "teamName": "Philadelphia Phillies",
+          "abbreviation": "PHI",
+          "league": "National League",
+          "division": "National League East",
+          "value": 5.61,
+          "defensiveRating": 28
+        },
+        {
+          "rank": 23,
+          "teamId": 136,
+          "teamName": "Seattle Mariners",
+          "abbreviation": "SEA",
+          "league": "American League",
+          "division": "American League West",
+          "value": 5.65,
+          "defensiveRating": 24
+        },
+        {
+          "rank": 24,
+          "teamId": 142,
+          "teamName": "Minnesota Twins",
+          "abbreviation": "MIN",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 5.68,
+          "defensiveRating": 21
+        },
+        {
+          "rank": 25,
+          "teamId": 110,
+          "teamName": "Baltimore Orioles",
+          "abbreviation": "BAL",
+          "league": "American League",
+          "division": "American League East",
+          "value": 5.8,
+          "defensiveRating": 17
+        },
+        {
+          "rank": 26,
+          "teamId": 138,
+          "teamName": "St. Louis Cardinals",
+          "abbreviation": "STL",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 5.82,
+          "defensiveRating": 14
+        },
+        {
+          "rank": 27,
+          "teamId": 120,
+          "teamName": "Washington Nationals",
+          "abbreviation": "WSH",
+          "league": "National League",
+          "division": "National League East",
+          "value": 5.97,
+          "defensiveRating": 10
+        },
+        {
+          "rank": 28,
+          "teamId": 108,
+          "teamName": "Los Angeles Angels",
+          "abbreviation": "LAA",
+          "league": "American League",
+          "division": "American League West",
+          "value": 5.99,
+          "defensiveRating": 7
+        },
+        {
+          "rank": 29,
+          "teamId": 111,
+          "teamName": "Boston Red Sox",
+          "abbreviation": "BOS",
+          "league": "American League",
+          "division": "American League East",
+          "value": 6.02,
+          "defensiveRating": 3
+        },
+        {
+          "rank": 30,
+          "teamId": 115,
+          "teamName": "Colorado Rockies",
+          "abbreviation": "COL",
+          "league": "National League",
+          "division": "National League West",
+          "value": 6.68,
+          "defensiveRating": 0
+        }
+      ]
+    },
+    "strikeouts": {
+      "name": "Team Strikeouts",
+      "description": "Most strikeouts per game",
+      "sortOrder": "descending",
+      "rankings": [
+        {
+          "rank": 1,
+          "teamId": 117,
+          "teamName": "Houston Astros",
+          "abbreviation": "HOU",
+          "league": "American League",
+          "division": "American League West",
+          "value": 9.58,
+          "defensiveRating": 100
+        },
+        {
+          "rank": 2,
+          "teamId": 143,
+          "teamName": "Philadelphia Phillies",
+          "abbreviation": "PHI",
+          "league": "National League",
+          "division": "National League East",
+          "value": 9.34,
+          "defensiveRating": 97
+        },
+        {
+          "rank": 3,
+          "teamId": 144,
+          "teamName": "Atlanta Braves",
+          "abbreviation": "ATL",
+          "league": "National League",
+          "division": "National League East",
+          "value": 9.11,
+          "defensiveRating": 93
+        },
+        {
+          "rank": 4,
+          "teamId": 141,
+          "teamName": "Toronto Blue Jays",
+          "abbreviation": "TOR",
+          "league": "American League",
+          "division": "American League East",
+          "value": 8.94,
+          "defensiveRating": 90
+        },
+        {
+          "rank": 5,
+          "teamId": 147,
+          "teamName": "New York Yankees",
+          "abbreviation": "NYY",
+          "league": "American League",
+          "division": "American League East",
+          "value": 8.78,
+          "defensiveRating": 86
+        },
+        {
+          "rank": 6,
+          "teamId": 119,
+          "teamName": "Los Angeles Dodgers",
+          "abbreviation": "LAD",
+          "league": "National League",
+          "division": "National League West",
+          "value": 8.77,
+          "defensiveRating": 83
+        },
+        {
+          "rank": 7,
+          "teamId": 158,
+          "teamName": "Milwaukee Brewers",
+          "abbreviation": "MIL",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 8.66,
+          "defensiveRating": 79
+        },
+        {
+          "rank": 8,
+          "teamId": 116,
+          "teamName": "Detroit Tigers",
+          "abbreviation": "DET",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 8.57,
+          "defensiveRating": 76
+        },
+        {
+          "rank": 9,
+          "teamId": 121,
+          "teamName": "New York Mets",
+          "abbreviation": "NYM",
+          "league": "National League",
+          "division": "National League East",
+          "value": 8.54,
+          "defensiveRating": 72
+        },
+        {
+          "rank": 10,
+          "teamId": 142,
+          "teamName": "Minnesota Twins",
+          "abbreviation": "MIN",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 8.51,
+          "defensiveRating": 69
+        },
+        {
+          "rank": 11,
+          "teamId": 137,
+          "teamName": "San Francisco Giants",
+          "abbreviation": "SF",
+          "league": "National League",
+          "division": "National League West",
+          "value": 8.49,
+          "defensiveRating": 66
+        },
+        {
+          "rank": 12,
+          "teamId": 136,
+          "teamName": "Seattle Mariners",
+          "abbreviation": "SEA",
+          "league": "American League",
+          "division": "American League West",
+          "value": 8.46,
+          "defensiveRating": 62
+        },
+        {
+          "rank": 13,
+          "teamId": 135,
+          "teamName": "San Diego Padres",
+          "abbreviation": "SD",
+          "league": "National League",
+          "division": "National League West",
+          "value": 8.41,
+          "defensiveRating": 59
+        },
+        {
+          "rank": 14,
+          "teamId": 111,
+          "teamName": "Boston Red Sox",
+          "abbreviation": "BOS",
+          "league": "American League",
+          "division": "American League East",
+          "value": 8.4,
+          "defensiveRating": 55
+        },
+        {
+          "rank": 15,
+          "teamId": 114,
+          "teamName": "Cleveland Guardians",
+          "abbreviation": "CLE",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 8.37,
+          "defensiveRating": 52
+        },
+        {
+          "rank": 16,
+          "teamId": 109,
+          "teamName": "Arizona Diamondbacks",
+          "abbreviation": "AZ",
+          "league": "National League",
+          "division": "National League West",
+          "value": 8.35,
+          "defensiveRating": 48
+        },
+        {
+          "rank": 17,
+          "teamId": 139,
+          "teamName": "Tampa Bay Rays",
+          "abbreviation": "TB",
+          "league": "American League",
+          "division": "American League East",
+          "value": 8.29,
+          "defensiveRating": 45
+        },
+        {
+          "rank": 18,
+          "teamId": 110,
+          "teamName": "Baltimore Orioles",
+          "abbreviation": "BAL",
+          "league": "American League",
+          "division": "American League East",
+          "value": 8.18,
+          "defensiveRating": 41
+        },
+        {
+          "rank": 19,
+          "teamId": 113,
+          "teamName": "Cincinnati Reds",
+          "abbreviation": "CIN",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 8.16,
+          "defensiveRating": 38
+        },
+        {
+          "rank": 20,
+          "teamId": 118,
+          "teamName": "Kansas City Royals",
+          "abbreviation": "KC",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 8.1,
+          "defensiveRating": 34
+        },
+        {
+          "rank": 21,
+          "teamId": 140,
+          "teamName": "Texas Rangers",
+          "abbreviation": "TEX",
+          "league": "American League",
+          "division": "American League West",
+          "value": 8.08,
+          "defensiveRating": 31
+        },
+        {
+          "rank": 22,
+          "teamId": 133,
+          "teamName": "Athletics",
+          "abbreviation": "ATH",
+          "league": "American League",
+          "division": "American League West",
+          "value": 8.02,
+          "defensiveRating": 28
+        },
+        {
+          "rank": 23,
+          "teamId": 146,
+          "teamName": "Miami Marlins",
+          "abbreviation": "MIA",
+          "league": "National League",
+          "division": "National League East",
+          "value": 7.84,
+          "defensiveRating": 24
+        },
+        {
+          "rank": 24,
+          "teamId": 108,
+          "teamName": "Los Angeles Angels",
+          "abbreviation": "LAA",
+          "league": "American League",
+          "division": "American League West",
+          "value": 7.82,
+          "defensiveRating": 21
+        },
+        {
+          "rank": 25,
+          "teamId": 120,
+          "teamName": "Washington Nationals",
+          "abbreviation": "WSH",
+          "league": "National League",
+          "division": "National League East",
+          "value": 7.61,
+          "defensiveRating": 17
+        },
+        {
+          "rank": 26,
+          "teamId": 134,
+          "teamName": "Pittsburgh Pirates",
+          "abbreviation": "PIT",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 7.57,
+          "defensiveRating": 14
+        },
+        {
+          "rank": 27,
+          "teamId": 112,
+          "teamName": "Chicago Cubs",
+          "abbreviation": "CHC",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 7.45,
+          "defensiveRating": 10
+        },
+        {
+          "rank": 28,
+          "teamId": 138,
+          "teamName": "St. Louis Cardinals",
+          "abbreviation": "STL",
+          "league": "National League",
+          "division": "National League Central",
+          "value": 7.32,
+          "defensiveRating": 7
+        },
+        {
+          "rank": 29,
+          "teamId": 145,
+          "teamName": "Chicago White Sox",
+          "abbreviation": "CWS",
+          "league": "American League",
+          "division": "American League Central",
+          "value": 7.3,
+          "defensiveRating": 3
+        },
+        {
+          "rank": 30,
+          "teamId": 115,
+          "teamName": "Colorado Rockies",
+          "abbreviation": "COL",
+          "league": "National League",
+          "division": "National League West",
+          "value": 6.55,
+          "defensiveRating": 0
+        }
+      ]
+    }
+  },
+  "overallDefensiveRankings": [
+    {
+      "rank": 1,
+      "teamId": 140,
+      "teamName": "Texas Rangers",
+      "abbreviation": "TEX",
+      "league": "American League",
+      "division": "American League West",
+      "averageDefensiveRating": 85,
+      "defensiveTier": "Elite"
+    },
+    {
+      "rank": 2,
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "abbreviation": "SD",
+      "league": "National League",
+      "division": "National League West",
+      "averageDefensiveRating": 80,
+      "defensiveTier": "Elite"
+    },
+    {
+      "rank": 3,
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "abbreviation": "HOU",
+      "league": "American League",
+      "division": "American League West",
+      "averageDefensiveRating": 79,
+      "defensiveTier": "Good"
+    },
+    {
+      "rank": 4,
+      "teamId": 118,
+      "teamName": "Kansas City Royals",
+      "abbreviation": "KC",
+      "league": "American League",
+      "division": "American League Central",
+      "averageDefensiveRating": 75,
+      "defensiveTier": "Good"
+    },
+    {
+      "rank": 5,
+      "teamId": 134,
+      "teamName": "Pittsburgh Pirates",
+      "abbreviation": "PIT",
+      "league": "National League",
+      "division": "National League Central",
+      "averageDefensiveRating": 75,
+      "defensiveTier": "Good"
+    },
+    {
+      "rank": 6,
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "abbreviation": "MIL",
+      "league": "National League",
+      "division": "National League Central",
+      "averageDefensiveRating": 75,
+      "defensiveTier": "Good"
+    },
+    {
+      "rank": 7,
+      "teamId": 137,
+      "teamName": "San Francisco Giants",
+      "abbreviation": "SF",
+      "league": "National League",
+      "division": "National League West",
+      "averageDefensiveRating": 71,
+      "defensiveTier": "Good"
+    },
+    {
+      "rank": 8,
+      "teamId": 121,
+      "teamName": "New York Mets",
+      "abbreviation": "NYM",
+      "league": "National League",
+      "division": "National League East",
+      "averageDefensiveRating": 70,
+      "defensiveTier": "Good"
+    },
+    {
+      "rank": 9,
+      "teamId": 143,
+      "teamName": "Philadelphia Phillies",
+      "abbreviation": "PHI",
+      "league": "National League",
+      "division": "National League East",
+      "averageDefensiveRating": 65,
+      "defensiveTier": "Good"
+    },
+    {
+      "rank": 10,
+      "teamId": 116,
+      "teamName": "Detroit Tigers",
+      "abbreviation": "DET",
+      "league": "American League",
+      "division": "American League Central",
+      "averageDefensiveRating": 64,
+      "defensiveTier": "Average"
+    },
+    {
+      "rank": 11,
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "abbreviation": "NYY",
+      "league": "American League",
+      "division": "American League East",
+      "averageDefensiveRating": 63,
+      "defensiveTier": "Average"
+    },
+    {
+      "rank": 12,
+      "teamId": 113,
+      "teamName": "Cincinnati Reds",
+      "abbreviation": "CIN",
+      "league": "National League",
+      "division": "National League Central",
+      "averageDefensiveRating": 61,
+      "defensiveTier": "Average"
+    },
+    {
+      "rank": 13,
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "abbreviation": "TB",
+      "league": "American League",
+      "division": "American League East",
+      "averageDefensiveRating": 57,
+      "defensiveTier": "Average"
+    },
+    {
+      "rank": 14,
+      "teamId": 141,
+      "teamName": "Toronto Blue Jays",
+      "abbreviation": "TOR",
+      "league": "American League",
+      "division": "American League East",
+      "averageDefensiveRating": 57,
+      "defensiveTier": "Average"
+    },
+    {
+      "rank": 15,
+      "teamId": 144,
+      "teamName": "Atlanta Braves",
+      "abbreviation": "ATL",
+      "league": "National League",
+      "division": "National League East",
+      "averageDefensiveRating": 55,
+      "defensiveTier": "Average"
+    },
+    {
+      "rank": 16,
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "abbreviation": "BOS",
+      "league": "American League",
+      "division": "American League East",
+      "averageDefensiveRating": 50,
+      "defensiveTier": "Average"
+    },
+    {
+      "rank": 17,
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "abbreviation": "CLE",
+      "league": "American League",
+      "division": "American League Central",
+      "averageDefensiveRating": 49,
+      "defensiveTier": "Below Average"
+    },
+    {
+      "rank": 18,
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
+      "abbreviation": "MIN",
+      "league": "American League",
+      "division": "American League Central",
+      "averageDefensiveRating": 48,
+      "defensiveTier": "Below Average"
+    },
+    {
+      "rank": 19,
+      "teamId": 136,
+      "teamName": "Seattle Mariners",
+      "abbreviation": "SEA",
+      "league": "American League",
+      "division": "American League West",
+      "averageDefensiveRating": 45,
+      "defensiveTier": "Below Average"
+    },
+    {
+      "rank": 20,
+      "teamId": 112,
+      "teamName": "Chicago Cubs",
+      "abbreviation": "CHC",
+      "league": "National League",
+      "division": "National League Central",
+      "averageDefensiveRating": 44,
+      "defensiveTier": "Below Average"
+    },
+    {
+      "rank": 21,
+      "teamId": 119,
+      "teamName": "Los Angeles Dodgers",
+      "abbreviation": "LAD",
+      "league": "National League",
+      "division": "National League West",
+      "averageDefensiveRating": 38,
+      "defensiveTier": "Below Average"
+    },
+    {
+      "rank": 22,
+      "teamId": 138,
+      "teamName": "St. Louis Cardinals",
+      "abbreviation": "STL",
+      "league": "National League",
+      "division": "National League Central",
+      "averageDefensiveRating": 38,
+      "defensiveTier": "Below Average"
+    },
+    {
+      "rank": 23,
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "abbreviation": "CWS",
+      "league": "American League",
+      "division": "American League Central",
+      "averageDefensiveRating": 34,
+      "defensiveTier": "Poor"
+    },
+    {
+      "rank": 24,
+      "teamId": 146,
+      "teamName": "Miami Marlins",
+      "abbreviation": "MIA",
+      "league": "National League",
+      "division": "National League East",
+      "averageDefensiveRating": 34,
+      "defensiveTier": "Poor"
+    },
+    {
+      "rank": 25,
+      "teamId": 109,
+      "teamName": "Arizona Diamondbacks",
+      "abbreviation": "AZ",
+      "league": "National League",
+      "division": "National League West",
+      "averageDefensiveRating": 32,
+      "defensiveTier": "Poor"
+    },
+    {
+      "rank": 26,
+      "teamId": 110,
+      "teamName": "Baltimore Orioles",
+      "abbreviation": "BAL",
+      "league": "American League",
+      "division": "American League East",
+      "averageDefensiveRating": 16,
+      "defensiveTier": "Poor"
+    },
+    {
+      "rank": 27,
+      "teamId": 120,
+      "teamName": "Washington Nationals",
+      "abbreviation": "WSH",
+      "league": "National League",
+      "division": "National League East",
+      "averageDefensiveRating": 15,
+      "defensiveTier": "Poor"
+    },
+    {
+      "rank": 28,
+      "teamId": 108,
+      "teamName": "Los Angeles Angels",
+      "abbreviation": "LAA",
+      "league": "American League",
+      "division": "American League West",
+      "averageDefensiveRating": 12,
+      "defensiveTier": "Poor"
+    },
+    {
+      "rank": 29,
+      "teamId": 133,
+      "teamName": "Athletics",
+      "abbreviation": "ATH",
+      "league": "American League",
+      "division": "American League West",
+      "averageDefensiveRating": 12,
+      "defensiveTier": "Poor"
+    },
+    {
+      "rank": 30,
+      "teamId": 115,
+      "teamName": "Colorado Rockies",
+      "abbreviation": "COL",
+      "league": "National League",
+      "division": "National League West",
+      "averageDefensiveRating": 4,
+      "defensiveTier": "Poor"
+    }
+  ]
+}
