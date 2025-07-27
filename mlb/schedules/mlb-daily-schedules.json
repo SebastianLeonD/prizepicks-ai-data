@@ -1,487 +1,442 @@
 {
-  "lastUpdated": "2025-07-25T21:27:38.140Z",
-  "date": "2025/07/25",
+  "date": "2025-07-27",
+  "lastUpdated": "2025-07-27T04:32:32.015Z",
   "totalGames": 15,
-  "league": "MLB",
   "games": [
     {
-      "id": "dd959895-6a4f-45f8-a746-9c9b7999f236",
-      "scheduled": "2025-07-26T00:10:00+00:00",
-      "status": "scheduled",
-      "coverage": "full",
-      "gameNumber": 1,
-      "dayNight": "N",
-      "homeTeam": {
-        "id": "833a51a9-0d84-410f-bd77-da08c3e5e26e",
-        "name": "Royals",
-        "market": "Kansas City",
-        "probablePitcher": null
+      "gamePk": 776986,
+      "gameDate": "2025-07-27T17:35:00Z",
+      "status": {
+        "abstractGameState": "Preview",
+        "detailedState": "Scheduled",
+        "statusCode": "S"
       },
-      "awayTeam": {
-        "id": "80715d0d-0d2a-450f-a970-1b9a3b18c7e7",
-        "name": "Guardians",
-        "market": "Cleveland",
-        "probablePitcher": null
+      "teams": {
+        "away": {
+          "team": {
+            "id": 115,
+            "name": "Colorado Rockies"
+          }
+        },
+        "home": {
+          "team": {
+            "id": 110,
+            "name": "Baltimore Orioles"
+          }
+        }
       },
       "venue": {
-        "id": "6fca95c9-7f2c-4acb-a9f3-02ef96340d2a",
-        "name": "Kauffman Stadium",
-        "city": "Kansas City",
-        "state": "MO",
-        "surface": "grass"
+        "id": 2,
+        "name": "Oriole Park at Camden Yards"
       },
-      "broadcast": {
-        "network": "Apple TV+"
-      },
-      "weather": null,
-      "lastUpdated": "2025-07-25T21:27:38.133Z"
+      "doubleHeader": "N",
+      "gameNumber": 1
     },
     {
-      "id": "d25dafc6-f6bc-424e-a51c-7cbafb9e4fde",
-      "scheduled": "2025-07-26T02:15:00+00:00",
-      "status": "scheduled",
-      "coverage": "full",
-      "gameNumber": 1,
-      "dayNight": "N",
-      "homeTeam": {
-        "id": "a7723160-10b7-4277-a309-d8dd95a8ae65",
-        "name": "Giants",
-        "market": "San Francisco",
-        "probablePitcher": null
+      "gamePk": 776983,
+      "gameDate": "2025-07-27T17:35:00Z",
+      "status": {
+        "abstractGameState": "Preview",
+        "detailedState": "Scheduled",
+        "statusCode": "S"
       },
-      "awayTeam": {
-        "id": "f246a5e5-afdb-479c-9aaa-c68beeda7af6",
-        "name": "Mets",
-        "market": "New York",
-        "probablePitcher": null
+      "teams": {
+        "away": {
+          "team": {
+            "id": 119,
+            "name": "Los Angeles Dodgers"
+          }
+        },
+        "home": {
+          "team": {
+            "id": 111,
+            "name": "Boston Red Sox"
+          }
+        }
       },
       "venue": {
-        "id": "2d7542f5-7b80-49f7-9b24-c53ffdc75af6",
-        "name": "Oracle Park",
-        "city": "San Francisco",
-        "state": "CA",
-        "surface": "grass"
+        "id": 3,
+        "name": "Fenway Park"
       },
-      "broadcast": {
-        "network": "NBCS-BA"
-      },
-      "weather": null,
-      "lastUpdated": "2025-07-25T21:27:38.139Z"
+      "doubleHeader": "N",
+      "gameNumber": 1
     },
     {
-      "id": "02f3e3f7-f521-4ff6-96e8-3d8c67f3dd91",
-      "scheduled": "2025-07-25T20:10:00+00:00",
-      "status": "inprogress",
-      "coverage": "full",
-      "gameNumber": 1,
-      "dayNight": "D",
-      "homeTeam": {
-        "id": "dcfd5266-00ce-442c-bc09-264cd20cf455",
-        "name": "Brewers",
-        "market": "Milwaukee",
-        "probablePitcher": null
+      "gamePk": 776984,
+      "gameDate": "2025-07-27T17:35:00Z",
+      "status": {
+        "abstractGameState": "Preview",
+        "detailedState": "Scheduled",
+        "statusCode": "S"
       },
-      "awayTeam": {
-        "id": "03556285-bdbb-4576-a06d-42f71f46ddc5",
-        "name": "Marlins",
-        "market": "Miami",
-        "probablePitcher": null
+      "teams": {
+        "away": {
+          "team": {
+            "id": 109,
+            "name": "Arizona Diamondbacks"
+          }
+        },
+        "home": {
+          "team": {
+            "id": 134,
+            "name": "Pittsburgh Pirates"
+          }
+        }
       },
       "venue": {
-        "id": "3d13c8a7-283f-482b-ade1-441e25b6465d",
-        "name": "American Family Field",
-        "city": "Milwaukee",
-        "state": "WI",
-        "surface": "grass"
+        "id": 31,
+        "name": "PNC Park"
       },
-      "broadcast": {
-        "network": "FDSFL"
-      },
-      "weather": null,
-      "lastUpdated": "2025-07-25T21:27:38.139Z"
+      "doubleHeader": "N",
+      "gameNumber": 1
     },
     {
-      "id": "d37c269f-6795-451e-bb9a-90da3d426bf0",
-      "scheduled": "2025-07-25T23:40:00+00:00",
-      "status": "scheduled",
-      "coverage": "full",
-      "gameNumber": 1,
-      "dayNight": "N",
-      "homeTeam": {
-        "id": "47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8",
-        "name": "White Sox",
-        "market": "Chicago",
-        "probablePitcher": null
+      "gamePk": 776988,
+      "gameDate": "2025-07-27T17:35:00Z",
+      "status": {
+        "abstractGameState": "Preview",
+        "detailedState": "Scheduled",
+        "statusCode": "S"
       },
-      "awayTeam": {
-        "id": "55714da8-fcaf-4574-8443-59bfb511a524",
-        "name": "Cubs",
-        "market": "Chicago",
-        "probablePitcher": null
+      "teams": {
+        "away": {
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies"
+          }
+        },
+        "home": {
+          "team": {
+            "id": 147,
+            "name": "New York Yankees"
+          }
+        }
       },
       "venue": {
-        "id": "4a550fc1-c03d-4294-b63a-30ff197bedc4",
-        "name": "Rate Field",
-        "city": "Chicago",
-        "state": "IL",
-        "surface": "grass"
+        "id": 3313,
+        "name": "Yankee Stadium"
       },
-      "broadcast": {
-        "network": "CHSN"
-      },
-      "weather": null,
-      "lastUpdated": "2025-07-25T21:27:38.139Z"
+      "doubleHeader": "N",
+      "gameNumber": 1
     },
     {
-      "id": "7442fc42-d7c8-4c60-a3ae-4b2614aa35ba",
-      "scheduled": "2025-07-26T00:10:00+00:00",
-      "status": "scheduled",
-      "coverage": "full",
-      "gameNumber": 1,
-      "dayNight": "N",
-      "homeTeam": {
-        "id": "aa34e0ed-f342-4ec6-b774-c79b47b60e2d",
-        "name": "Twins",
-        "market": "Minnesota",
-        "probablePitcher": null
+      "gamePk": 776982,
+      "gameDate": "2025-07-27T17:40:00Z",
+      "status": {
+        "abstractGameState": "Preview",
+        "detailedState": "Scheduled",
+        "statusCode": "S"
       },
-      "awayTeam": {
-        "id": "d89bed32-3aee-4407-99e3-4103641b999a",
-        "name": "Nationals",
-        "market": "Washington",
-        "probablePitcher": null
+      "teams": {
+        "away": {
+          "team": {
+            "id": 139,
+            "name": "Tampa Bay Rays"
+          }
+        },
+        "home": {
+          "team": {
+            "id": 113,
+            "name": "Cincinnati Reds"
+          }
+        }
       },
       "venue": {
-        "id": "302f8dcd-eed6-4b83-8609-81548d51e955",
-        "name": "Target Field",
-        "city": "Minneapolis",
-        "state": "MN",
-        "surface": "grass"
+        "id": 2602,
+        "name": "Great American Ball Park"
       },
-      "broadcast": {
-        "network": "MLB Network"
-      },
-      "weather": null,
-      "lastUpdated": "2025-07-25T21:27:38.139Z"
+      "doubleHeader": "N",
+      "gameNumber": 1
     },
     {
-      "id": "43f573d1-90df-4553-83f6-cbbffae73516",
-      "scheduled": "2025-07-26T01:38:00+00:00",
-      "status": "scheduled",
-      "coverage": "full",
-      "gameNumber": 1,
-      "dayNight": "N",
-      "homeTeam": {
-        "id": "4f735188-37c8-473d-ae32-1f7e34ccf892",
-        "name": "Angels",
-        "market": "Los Angeles",
-        "probablePitcher": null
+      "gamePk": 776987,
+      "gameDate": "2025-07-27T17:40:00Z",
+      "status": {
+        "abstractGameState": "Preview",
+        "detailedState": "Scheduled",
+        "statusCode": "S"
       },
-      "awayTeam": {
-        "id": "43a39081-52b4-4f93-ad29-da7f329ea960",
-        "name": "Mariners",
-        "market": "Seattle",
-        "probablePitcher": null
+      "teams": {
+        "away": {
+          "team": {
+            "id": 141,
+            "name": "Toronto Blue Jays"
+          }
+        },
+        "home": {
+          "team": {
+            "id": 116,
+            "name": "Detroit Tigers"
+          }
+        }
       },
       "venue": {
-        "id": "60732da9-ad03-4feb-9a36-aee3e98c7a2b",
-        "name": "Angel Stadium",
-        "city": "Anaheim",
-        "state": "CA",
-        "surface": "grass"
+        "id": 2394,
+        "name": "Comerica Park"
       },
-      "broadcast": {
-        "network": "ROOT Sports NW"
-      },
-      "weather": null,
-      "lastUpdated": "2025-07-25T21:27:38.139Z"
+      "doubleHeader": "N",
+      "gameNumber": 1
     },
     {
-      "id": "382a95e2-cfcb-45f5-af0f-f224ccfeb338",
-      "scheduled": "2025-07-25T23:05:00+00:00",
-      "status": "scheduled",
-      "coverage": "full",
-      "gameNumber": 1,
-      "dayNight": "N",
-      "homeTeam": {
-        "id": "75729d34-bca7-4a0f-b3df-6f26c6ad3719",
-        "name": "Orioles",
-        "market": "Baltimore",
-        "probablePitcher": null
+      "gamePk": 776975,
+      "gameDate": "2025-07-27T18:10:00Z",
+      "status": {
+        "abstractGameState": "Preview",
+        "detailedState": "Scheduled",
+        "statusCode": "S"
       },
-      "awayTeam": {
-        "id": "29dd9a87-5bcc-4774-80c3-7f50d985068b",
-        "name": "Rockies",
-        "market": "Colorado",
-        "probablePitcher": null
+      "teams": {
+        "away": {
+          "team": {
+            "id": 114,
+            "name": "Cleveland Guardians"
+          }
+        },
+        "home": {
+          "team": {
+            "id": 118,
+            "name": "Kansas City Royals"
+          }
+        }
       },
       "venue": {
-        "id": "434aa63c-1049-4a54-a6bc-3790c7772ee1",
-        "name": "Oriole Park at Camden Yards",
-        "city": "Baltimore",
-        "state": "MD",
-        "surface": "grass"
+        "id": 7,
+        "name": "Kauffman Stadium"
       },
-      "broadcast": {
-        "network": "COLR"
-      },
-      "weather": null,
-      "lastUpdated": "2025-07-25T21:27:38.139Z"
+      "doubleHeader": "N",
+      "gameNumber": 1
     },
     {
-      "id": "5a5e0b1f-b5f3-45a0-927d-4f629131a2b4",
-      "scheduled": "2025-07-26T00:10:00+00:00",
-      "status": "scheduled",
-      "coverage": "full",
-      "gameNumber": 1,
-      "dayNight": "N",
-      "homeTeam": {
-        "id": "eb21dadd-8f10-4095-8bf3-dfb3b779f107",
-        "name": "Astros",
-        "market": "Houston",
-        "probablePitcher": null
+      "gamePk": 776976,
+      "gameDate": "2025-07-27T18:10:00Z",
+      "status": {
+        "abstractGameState": "Preview",
+        "detailedState": "Scheduled",
+        "statusCode": "S"
       },
-      "awayTeam": {
-        "id": "27a59d3b-ff7c-48ea-b016-4798f560f5e1",
-        "name": "Athletics",
-        "probablePitcher": null
+      "teams": {
+        "away": {
+          "team": {
+            "id": 133,
+            "name": "Athletics"
+          }
+        },
+        "home": {
+          "team": {
+            "id": 117,
+            "name": "Houston Astros"
+          }
+        }
       },
       "venue": {
-        "id": "f0600f04-1386-4c61-a412-804960c46cb1",
-        "name": "Daikin Park",
-        "city": "Houston",
-        "state": "TX",
-        "surface": "grass"
+        "id": 2392,
+        "name": "Daikin Park"
       },
-      "broadcast": {
-        "network": "NBCS-CA"
-      },
-      "weather": null,
-      "lastUpdated": "2025-07-25T21:27:38.139Z"
+      "doubleHeader": "N",
+      "gameNumber": 1
     },
     {
-      "id": "3194ae35-73fb-4daf-97ac-9d6d79393601",
-      "scheduled": "2025-07-25T23:10:00+00:00",
-      "status": "scheduled",
-      "coverage": "full",
-      "gameNumber": 1,
-      "dayNight": "N",
-      "homeTeam": {
-        "id": "575c19b7-4052-41c2-9f0a-1c5813d02f99",
-        "name": "Tigers",
-        "market": "Detroit",
-        "probablePitcher": null
+      "gamePk": 776979,
+      "gameDate": "2025-07-27T18:10:00Z",
+      "status": {
+        "abstractGameState": "Preview",
+        "detailedState": "Scheduled",
+        "statusCode": "S"
       },
-      "awayTeam": {
-        "id": "1d678440-b4b1-4954-9b39-70afb3ebbcfa",
-        "name": "Blue Jays",
-        "market": "Toronto",
-        "probablePitcher": null
+      "teams": {
+        "away": {
+          "team": {
+            "id": 120,
+            "name": "Washington Nationals"
+          }
+        },
+        "home": {
+          "team": {
+            "id": 142,
+            "name": "Minnesota Twins"
+          }
+        }
       },
       "venue": {
-        "id": "ef9a5eef-06c6-4963-ac70-7fd02c8c8d42",
-        "name": "Comerica Park",
-        "city": "Detroit",
-        "state": "MI",
-        "surface": "grass"
+        "id": 3312,
+        "name": "Target Field"
       },
-      "broadcast": {
-        "network": "SNET"
-      },
-      "weather": null,
-      "lastUpdated": "2025-07-25T21:27:38.139Z"
+      "doubleHeader": "N",
+      "gameNumber": 1
     },
     {
-      "id": "76af226e-15b6-46b1-a988-c2dc3650aa5c",
-      "scheduled": "2025-07-25T23:05:00+00:00",
-      "status": "scheduled",
-      "coverage": "full",
-      "gameNumber": 1,
-      "dayNight": "N",
-      "homeTeam": {
-        "id": "a09ec676-f887-43dc-bbb3-cf4bbaee9a18",
-        "name": "Yankees",
-        "market": "New York",
-        "probablePitcher": null
+      "gamePk": 776989,
+      "gameDate": "2025-07-27T18:10:00Z",
+      "status": {
+        "abstractGameState": "Preview",
+        "detailedState": "Scheduled",
+        "statusCode": "S"
       },
-      "awayTeam": {
-        "id": "2142e1ba-3b40-445c-b8bb-f1f8b1054220",
-        "name": "Phillies",
-        "market": "Philadelphia",
-        "probablePitcher": null
+      "teams": {
+        "away": {
+          "team": {
+            "id": 112,
+            "name": "Chicago Cubs"
+          }
+        },
+        "home": {
+          "team": {
+            "id": 145,
+            "name": "Chicago White Sox"
+          }
+        }
       },
       "venue": {
-        "id": "706e9828-6687-4ac8-a409-3fb972e8bae9",
-        "name": "Yankee Stadium",
-        "city": "Bronx",
-        "state": "NY",
-        "surface": "grass"
+        "id": 4,
+        "name": "Rate Field"
       },
-      "broadcast": {
-        "network": "Apple TV+"
-      },
-      "weather": null,
-      "lastUpdated": "2025-07-25T21:27:38.140Z"
+      "doubleHeader": "N",
+      "gameNumber": 1
     },
     {
-      "id": "c33951dc-201e-4fe2-9929-d7253d9677c5",
-      "scheduled": "2025-07-26T00:05:00+00:00",
-      "status": "scheduled",
-      "coverage": "full",
-      "gameNumber": 1,
-      "dayNight": "N",
-      "homeTeam": {
-        "id": "d99f919b-1534-4516-8e8a-9cd106c6d8cd",
-        "name": "Rangers",
-        "market": "Texas",
-        "probablePitcher": null
+      "gamePk": 776978,
+      "gameDate": "2025-07-27T18:10:00Z",
+      "status": {
+        "abstractGameState": "Preview",
+        "detailedState": "Scheduled",
+        "statusCode": "S"
       },
-      "awayTeam": {
-        "id": "12079497-e414-450a-8bf2-29f91de646bf",
-        "name": "Braves",
-        "market": "Atlanta",
-        "probablePitcher": null
+      "teams": {
+        "away": {
+          "team": {
+            "id": 146,
+            "name": "Miami Marlins"
+          }
+        },
+        "home": {
+          "team": {
+            "id": 158,
+            "name": "Milwaukee Brewers"
+          }
+        }
       },
       "venue": {
-        "id": "b4372592-9dac-4387-864b-dfc94dffd645",
-        "name": "Globe Life Field",
-        "city": "Arlington",
-        "state": "TX",
-        "surface": "turf"
+        "id": 32,
+        "name": "American Family Field"
       },
-      "broadcast": {
-        "network": "CW33"
-      },
-      "weather": null,
-      "lastUpdated": "2025-07-25T21:27:38.140Z"
+      "doubleHeader": "N",
+      "gameNumber": 1
     },
     {
-      "id": "e596627b-9a23-4aa6-a203-f83dedfc7fc6",
-      "scheduled": "2025-07-25T23:10:00+00:00",
-      "status": "scheduled",
-      "coverage": "full",
-      "gameNumber": 1,
-      "dayNight": "N",
-      "homeTeam": {
-        "id": "c874a065-c115-4e7d-b0f0-235584fb0e6f",
-        "name": "Reds",
-        "market": "Cincinnati",
-        "probablePitcher": null
+      "gamePk": 776980,
+      "gameDate": "2025-07-27T18:15:00Z",
+      "status": {
+        "abstractGameState": "Preview",
+        "detailedState": "Scheduled",
+        "statusCode": "S"
       },
-      "awayTeam": {
-        "id": "bdc11650-6f74-49c4-875e-778aeb7632d9",
-        "name": "Rays",
-        "market": "Tampa Bay",
-        "probablePitcher": null
+      "teams": {
+        "away": {
+          "team": {
+            "id": 135,
+            "name": "San Diego Padres"
+          }
+        },
+        "home": {
+          "team": {
+            "id": 138,
+            "name": "St. Louis Cardinals"
+          }
+        }
       },
       "venue": {
-        "id": "f102d8fb-de67-4b86-9053-8b55f578d45c",
-        "name": "Great American Ball Park",
-        "city": "Cincinnati",
-        "state": "OH",
-        "surface": "grass"
+        "id": 2889,
+        "name": "Busch Stadium"
       },
-      "broadcast": {
-        "network": "FDSSUN"
-      },
-      "weather": null,
-      "lastUpdated": "2025-07-25T21:27:38.140Z"
+      "doubleHeader": "N",
+      "gameNumber": 1
     },
     {
-      "id": "ff2e7d90-8fc5-422d-b154-2de49a4d3cad",
-      "scheduled": "2025-07-25T23:15:00+00:00",
-      "status": "scheduled",
-      "coverage": "full",
-      "gameNumber": 1,
-      "dayNight": "N",
-      "homeTeam": {
-        "id": "44671792-dc02-4fdd-a5ad-f5f17edaa9d7",
-        "name": "Cardinals",
-        "market": "St. Louis",
-        "probablePitcher": null
+      "gamePk": 776981,
+      "gameDate": "2025-07-27T18:35:00Z",
+      "status": {
+        "abstractGameState": "Preview",
+        "detailedState": "Scheduled",
+        "statusCode": "S"
       },
-      "awayTeam": {
-        "id": "d52d5339-cbdd-43f3-9dfa-a42fd588b9a3",
-        "name": "Padres",
-        "market": "San Diego",
-        "probablePitcher": null
+      "teams": {
+        "away": {
+          "team": {
+            "id": 144,
+            "name": "Atlanta Braves"
+          }
+        },
+        "home": {
+          "team": {
+            "id": 140,
+            "name": "Texas Rangers"
+          }
+        }
       },
       "venue": {
-        "id": "83cc591a-1096-4383-a6ca-e2bd6f8db629",
-        "name": "Busch Stadium",
-        "city": "St. Louis",
-        "state": "MO",
-        "surface": "grass"
+        "id": 5325,
+        "name": "Globe Life Field"
       },
-      "broadcast": {
-        "network": "FDSMW"
-      },
-      "weather": null,
-      "lastUpdated": "2025-07-25T21:27:38.140Z"
+      "doubleHeader": "N",
+      "gameNumber": 1
     },
     {
-      "id": "0381c56a-aa24-4d60-9159-bd7a57adfceb",
-      "scheduled": "2025-07-25T22:40:00+00:00",
-      "status": "scheduled",
-      "coverage": "full",
-      "gameNumber": 1,
-      "dayNight": "N",
-      "homeTeam": {
-        "id": "481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd",
-        "name": "Pirates",
-        "market": "Pittsburgh",
-        "probablePitcher": null
+      "gamePk": 776977,
+      "gameDate": "2025-07-27T20:07:00Z",
+      "status": {
+        "abstractGameState": "Preview",
+        "detailedState": "Scheduled",
+        "statusCode": "S"
       },
-      "awayTeam": {
-        "id": "25507be1-6a68-4267-bd82-e097d94b359b",
-        "name": "Diamondbacks",
-        "market": "Arizona",
-        "probablePitcher": null
+      "teams": {
+        "away": {
+          "team": {
+            "id": 136,
+            "name": "Seattle Mariners"
+          }
+        },
+        "home": {
+          "team": {
+            "id": 108,
+            "name": "Los Angeles Angels"
+          }
+        }
       },
       "venue": {
-        "id": "61314394-c8b8-411e-b891-ca41285d5362",
-        "name": "PNC Park",
-        "city": "Pittsburgh",
-        "state": "PA",
-        "surface": "grass"
+        "id": 1,
+        "name": "Angel Stadium"
       },
-      "broadcast": {
-        "network": "SportsNet PT"
-      },
-      "weather": null,
-      "lastUpdated": "2025-07-25T21:27:38.140Z"
+      "doubleHeader": "N",
+      "gameNumber": 1
     },
     {
-      "id": "9add5b6c-244c-433b-b89c-f03937d212c1",
-      "scheduled": "2025-07-25T23:10:00+00:00",
-      "status": "scheduled",
-      "coverage": "full",
-      "gameNumber": 1,
-      "dayNight": "N",
-      "homeTeam": {
-        "id": "93941372-eb4c-4c40-aced-fe3267174393",
-        "name": "Red Sox",
-        "market": "Boston",
-        "probablePitcher": null
+      "gamePk": 776974,
+      "gameDate": "2025-07-27T23:10:00Z",
+      "status": {
+        "abstractGameState": "Preview",
+        "detailedState": "Scheduled",
+        "statusCode": "S"
       },
-      "awayTeam": {
-        "id": "ef64da7f-cfaf-4300-87b0-9313386b977c",
-        "name": "Dodgers",
-        "market": "Los Angeles",
-        "probablePitcher": null
+      "teams": {
+        "away": {
+          "team": {
+            "id": 121,
+            "name": "New York Mets"
+          }
+        },
+        "home": {
+          "team": {
+            "id": 137,
+            "name": "San Francisco Giants"
+          }
+        }
       },
       "venue": {
-        "id": "b27b0dc5-c2c5-401d-b8b9-a6a2dbc225e5",
-        "name": "Fenway Park",
-        "city": "Boston",
-        "state": "MA",
-        "surface": "grass"
+        "id": 2395,
+        "name": "Oracle Park"
       },
-      "broadcast": {
-        "network": "SportsNet LA"
-      },
-      "weather": null,
-      "lastUpdated": "2025-07-25T21:27:38.140Z"
+      "doubleHeader": "N",
+      "gameNumber": 1
     }
   ]
 }
