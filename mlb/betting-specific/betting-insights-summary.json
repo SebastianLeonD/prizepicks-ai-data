@@ -1,0 +1,35 @@
+{
+  "lastUpdated": "2025-07-27T17:52:48.038Z",
+  "description": "Comprehensive betting insights for MLB props",
+  "keyFindings": {
+    "strongestCorrelations": [
+      {
+        "correlation": "Hits → Runs",
+        "strength": "48.7%",
+        "confidence": "Medium",
+        "bettingStrategy": "Use with caution",
+        "sampleSize": 1215
+      }
+    ],
+    "sharpMoneyGames": [],
+    "valueOpportunities": [],
+    "marketEfficiency": {
+      "efficiencyScore": "100.0%",
+      "assessment": "Highly Efficient",
+      "opportunities": "Limited value available",
+      "gamesWithDisagreement": 0,
+      "totalGames": 1
+    }
+  },
+  "bettingStrategies": {
+    "parlayRecommendations": [
+      {
+        "strategy": "No strong correlations identified",
+        "recommendation": "Focus on individual prop analysis"
+      }
+    ],
+    "contrarianPlays": [],
+    "sharpFollowing": []
+  },
+  "todaysTopPlays": []
+}
