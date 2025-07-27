@@ -1,0 +1,1608 @@
+{
+  "lastUpdated": "2025-07-27T17:38:18.174Z",
+  "season": "2025",
+  "totalProspects": 5395,
+  "description": "Top 100 MLB prospects ranked by potential and ETA",
+  "rankings": [
+    {
+      "rank": 1,
+      "playerId": 694212,
+      "fullName": "Samuel Basallo",
+      "age": 20,
+      "position": "Catcher",
+      "organization": {
+        "teamId": "110",
+        "teamName": "Baltimore Orioles",
+        "abbreviation": "BAL"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1.5 years",
+      "prospectScore": 130,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 2,
+      "playerId": 805811,
+      "fullName": "Bryce Eldridge",
+      "age": 20,
+      "position": "First Base",
+      "organization": {
+        "teamId": "137",
+        "teamName": "San Francisco Giants",
+        "abbreviation": "SF"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1.5 years",
+      "prospectScore": 130,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 3,
+      "playerId": 800311,
+      "fullName": "Didier Fuentes",
+      "age": 20,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "144",
+        "teamName": "Atlanta Braves",
+        "abbreviation": "ATL"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1.5 years",
+      "prospectScore": 130,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 4,
+      "playerId": 702674,
+      "fullName": "Caden Dana",
+      "age": 21,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "108",
+        "teamName": "Los Angeles Angels",
+        "abbreviation": "LAA"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 5,
+      "playerId": 691284,
+      "fullName": "Juan Corniel",
+      "age": 22,
+      "position": "Shortstop",
+      "organization": {
+        "teamId": "109",
+        "teamName": "Arizona Diamondbacks",
+        "abbreviation": "AZ"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 6,
+      "playerId": 801179,
+      "fullName": "Yu-Min Lin",
+      "age": 22,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "109",
+        "teamName": "Arizona Diamondbacks",
+        "abbreviation": "AZ"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 7,
+      "playerId": 691458,
+      "fullName": "Blaze Jordan",
+      "age": 22,
+      "position": "First Base",
+      "organization": {
+        "teamId": "111",
+        "teamName": "Boston Red Sox",
+        "abbreviation": "BOS"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 8,
+      "playerId": 691373,
+      "fullName": "Jhostynxon Garcia",
+      "age": 22,
+      "position": "Outfielder",
+      "organization": {
+        "teamId": "111",
+        "teamName": "Boston Red Sox",
+        "abbreviation": "BOS"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 9,
+      "playerId": 701649,
+      "fullName": "James Triantos",
+      "age": 22,
+      "position": "Second Base",
+      "organization": {
+        "teamId": "112",
+        "teamName": "Chicago Cubs",
+        "abbreviation": "CHC"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 10,
+      "playerId": 694208,
+      "fullName": "Moisés Ballesteros",
+      "age": 21,
+      "position": "Catcher",
+      "organization": {
+        "teamId": "112",
+        "teamName": "Chicago Cubs",
+        "abbreviation": "CHC"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 11,
+      "playerId": 695534,
+      "fullName": "Chase Petty",
+      "age": 22,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "113",
+        "teamName": "Cincinnati Reds",
+        "abbreviation": "CIN"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 12,
+      "playerId": 699302,
+      "fullName": "Héctor Rodríguez",
+      "age": 21,
+      "position": "Outfielder",
+      "organization": {
+        "teamId": "113",
+        "teamName": "Cincinnati Reds",
+        "abbreviation": "CIN"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 13,
+      "playerId": 701398,
+      "fullName": "Sal Stewart",
+      "age": 21,
+      "position": "Third Base",
+      "organization": {
+        "teamId": "113",
+        "teamName": "Cincinnati Reds",
+        "abbreviation": "CIN"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 14,
+      "playerId": 696135,
+      "fullName": "Kahlil Watson",
+      "age": 22,
+      "position": "Outfielder",
+      "organization": {
+        "teamId": "114",
+        "teamName": "Cleveland Guardians",
+        "abbreviation": "CLE"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 15,
+      "playerId": 691182,
+      "fullName": "Adael Amador",
+      "age": 22,
+      "position": "Second Base",
+      "organization": {
+        "teamId": "115",
+        "teamName": "Colorado Rockies",
+        "abbreviation": "COL"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 16,
+      "playerId": 695476,
+      "fullName": "Mason Albright",
+      "age": 22,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "115",
+        "teamName": "Colorado Rockies",
+        "abbreviation": "COL"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 17,
+      "playerId": 701678,
+      "fullName": "Hao-Yu  Lee",
+      "age": 22,
+      "position": "Second Base",
+      "organization": {
+        "teamId": "116",
+        "teamName": "Detroit Tigers",
+        "abbreviation": "DET"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 18,
+      "playerId": 695600,
+      "fullName": "Carter Jensen",
+      "age": 22,
+      "position": "Catcher",
+      "organization": {
+        "teamId": "118",
+        "teamName": "Kansas City Royals",
+        "abbreviation": "KC"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 19,
+      "playerId": 695653,
+      "fullName": "Noah Miller",
+      "age": 22,
+      "position": "Shortstop",
+      "organization": {
+        "teamId": "119",
+        "teamName": "Los Angeles Dodgers",
+        "abbreviation": "LAD"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 20,
+      "playerId": 703607,
+      "fullName": "Henry Bolte",
+      "age": 21,
+      "position": "Outfielder",
+      "organization": {
+        "teamId": "133",
+        "teamName": "Athletics",
+        "abbreviation": "ATH"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 21,
+      "playerId": 806960,
+      "fullName": "Luis Morales",
+      "age": 22,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "133",
+        "teamName": "Athletics",
+        "abbreviation": "ATH"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 22,
+      "playerId": 694034,
+      "fullName": "Mario Gomez",
+      "age": 22,
+      "position": "Catcher",
+      "organization": {
+        "teamId": "133",
+        "teamName": "Athletics",
+        "abbreviation": "ATH"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 23,
+      "playerId": 696149,
+      "fullName": "Bubba Chandler",
+      "age": 22,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "134",
+        "teamName": "Pittsburgh Pirates",
+        "abbreviation": "PIT"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 24,
+      "playerId": 695670,
+      "fullName": "Harry Ford",
+      "age": 22,
+      "position": "Catcher",
+      "organization": {
+        "teamId": "136",
+        "teamName": "Seattle Mariners",
+        "abbreviation": "SEA"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 25,
+      "playerId": 802139,
+      "fullName": "JJ Wetherholt",
+      "age": 22,
+      "position": "Shortstop",
+      "organization": {
+        "teamId": "138",
+        "teamName": "St. Louis Cardinals",
+        "abbreviation": "STL"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 26,
+      "playerId": 700246,
+      "fullName": "Carson Williams",
+      "age": 22,
+      "position": "Shortstop",
+      "organization": {
+        "teamId": "139",
+        "teamName": "Tampa Bay Rays",
+        "abbreviation": "TB"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 27,
+      "playerId": 807712,
+      "fullName": "Luke Keaschall",
+      "age": 22,
+      "position": "Second Base",
+      "organization": {
+        "teamId": "142",
+        "teamName": "Minnesota Twins",
+        "abbreviation": "MIN"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 28,
+      "playerId": 694397,
+      "fullName": "Marco Raya",
+      "age": 22,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "142",
+        "teamName": "Minnesota Twins",
+        "abbreviation": "MIN"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 29,
+      "playerId": 691725,
+      "fullName": "Andrew Painter",
+      "age": 22,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "143",
+        "teamName": "Philadelphia Phillies",
+        "abbreviation": "PHI"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 30,
+      "playerId": 702222,
+      "fullName": "Justin Crawford",
+      "age": 21,
+      "position": "Outfielder",
+      "organization": {
+        "teamId": "143",
+        "teamName": "Philadelphia Phillies",
+        "abbreviation": "PHI"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 31,
+      "playerId": 702275,
+      "fullName": "JR Ritchie",
+      "age": 22,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "144",
+        "teamName": "Atlanta Braves",
+        "abbreviation": "ATL"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 32,
+      "playerId": 702910,
+      "fullName": "Jhancarlos Lara",
+      "age": 22,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "144",
+        "teamName": "Atlanta Braves",
+        "abbreviation": "ATL"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 33,
+      "playerId": 805373,
+      "fullName": "Nacho Alvarez Jr.",
+      "age": 22,
+      "position": "Shortstop",
+      "organization": {
+        "teamId": "144",
+        "teamName": "Atlanta Braves",
+        "abbreviation": "ATL"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 34,
+      "playerId": 691277,
+      "fullName": "Deyvison De Los Santos",
+      "age": 22,
+      "position": "Third Base",
+      "organization": {
+        "teamId": "146",
+        "teamName": "Miami Marlins",
+        "abbreviation": "MIA"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 35,
+      "playerId": 691788,
+      "fullName": "Joe Mack",
+      "age": 22,
+      "position": "Catcher",
+      "organization": {
+        "teamId": "146",
+        "teamName": "Miami Marlins",
+        "abbreviation": "MIA"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 36,
+      "playerId": 691185,
+      "fullName": "Maximo Acosta",
+      "age": 22,
+      "position": "Shortstop",
+      "organization": {
+        "teamId": "146",
+        "teamName": "Miami Marlins",
+        "abbreviation": "MIA"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 37,
+      "playerId": 702281,
+      "fullName": "Robby Snelling",
+      "age": 21,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "146",
+        "teamName": "Miami Marlins",
+        "abbreviation": "MIA"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "1 years",
+      "prospectScore": 120,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 38,
+      "playerId": 686799,
+      "fullName": "Jack Kochanowicz",
+      "age": 24,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "108",
+        "teamName": "Los Angeles Angels",
+        "abbreviation": "LAA"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 39,
+      "playerId": 683177,
+      "fullName": "Jared Southard",
+      "age": 24,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "108",
+        "teamName": "Los Angeles Angels",
+        "abbreviation": "LAA"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 40,
+      "playerId": 683090,
+      "fullName": "Matthew Lugo",
+      "age": 24,
+      "position": "Outfielder",
+      "organization": {
+        "teamId": "108",
+        "teamName": "Los Angeles Angels",
+        "abbreviation": "LAA"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 41,
+      "playerId": 687272,
+      "fullName": "Tucker Flint",
+      "age": 24,
+      "position": "Outfielder",
+      "organization": {
+        "teamId": "108",
+        "teamName": "Los Angeles Angels",
+        "abbreviation": "LAA"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 42,
+      "playerId": 682989,
+      "fullName": "Victor Mederos",
+      "age": 24,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "108",
+        "teamName": "Los Angeles Angels",
+        "abbreviation": "LAA"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 43,
+      "playerId": 703185,
+      "fullName": "Nelson Rada",
+      "age": 19,
+      "position": "Outfielder",
+      "organization": {
+        "teamId": "108",
+        "teamName": "Los Angeles Angels",
+        "abbreviation": "LAA"
+      },
+      "currentLevel": "Double-A",
+      "eta": "2 years",
+      "prospectScore": 110,
+      "bettingRelevance": "Medium - Rising prospect"
+    },
+    {
+      "rank": 44,
+      "playerId": 691021,
+      "fullName": "A.J. Vukovich",
+      "age": 24,
+      "position": "Outfielder",
+      "organization": {
+        "teamId": "109",
+        "teamName": "Arizona Diamondbacks",
+        "abbreviation": "AZ"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 45,
+      "playerId": 801219,
+      "fullName": "Alfred Morillo",
+      "age": 23,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "109",
+        "teamName": "Arizona Diamondbacks",
+        "abbreviation": "AZ"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 46,
+      "playerId": 691009,
+      "fullName": "Dylan Ray",
+      "age": 24,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "109",
+        "teamName": "Arizona Diamondbacks",
+        "abbreviation": "AZ"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 47,
+      "playerId": 694492,
+      "fullName": "Hayden Durke",
+      "age": 23,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "109",
+        "teamName": "Arizona Diamondbacks",
+        "abbreviation": "AZ"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 48,
+      "playerId": 677565,
+      "fullName": "Kristian Robinson",
+      "age": 24,
+      "position": "Outfielder",
+      "organization": {
+        "teamId": "109",
+        "teamName": "Arizona Diamondbacks",
+        "abbreviation": "AZ"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 49,
+      "playerId": 801517,
+      "fullName": "Spencer Giesting",
+      "age": 24,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "109",
+        "teamName": "Arizona Diamondbacks",
+        "abbreviation": "AZ"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 50,
+      "playerId": 700270,
+      "fullName": "Yilber Díaz",
+      "age": 24,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "109",
+        "teamName": "Arizona Diamondbacks",
+        "abbreviation": "AZ"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 51,
+      "playerId": 800414,
+      "fullName": "Alfredo Velásquez",
+      "age": 20,
+      "position": "Second Base",
+      "organization": {
+        "teamId": "110",
+        "teamName": "Baltimore Orioles",
+        "abbreviation": "BAL"
+      },
+      "currentLevel": "Double-A",
+      "eta": "2 years",
+      "prospectScore": 110,
+      "bettingRelevance": "Medium - Rising prospect"
+    },
+    {
+      "rank": 52,
+      "playerId": 687721,
+      "fullName": "Cameron Weston",
+      "age": 24,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "110",
+        "teamName": "Baltimore Orioles",
+        "abbreviation": "BAL"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 53,
+      "playerId": 687637,
+      "fullName": "Dylan Beavers",
+      "age": 23,
+      "position": "Outfielder",
+      "organization": {
+        "teamId": "110",
+        "teamName": "Baltimore Orioles",
+        "abbreviation": "BAL"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 54,
+      "playerId": 686976,
+      "fullName": "Silas Ardoin",
+      "age": 24,
+      "position": "Catcher",
+      "organization": {
+        "teamId": "110",
+        "teamName": "Baltimore Orioles",
+        "abbreviation": "BAL"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 55,
+      "playerId": 800421,
+      "fullName": "Marvin Alcantara",
+      "age": 20,
+      "position": "Shortstop",
+      "organization": {
+        "teamId": "111",
+        "teamName": "Boston Red Sox",
+        "abbreviation": "BOS"
+      },
+      "currentLevel": "Double-A",
+      "eta": "2 years",
+      "prospectScore": 110,
+      "bettingRelevance": "Medium - Rising prospect"
+    },
+    {
+      "rank": 56,
+      "playerId": 692225,
+      "fullName": "Kristian Campbell",
+      "age": 23,
+      "position": "Second Base",
+      "organization": {
+        "teamId": "111",
+        "teamName": "Boston Red Sox",
+        "abbreviation": "BOS"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 57,
+      "playerId": 690986,
+      "fullName": "Kyle Harrison",
+      "age": 23,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "111",
+        "teamName": "Boston Red Sox",
+        "abbreviation": "BOS"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 58,
+      "playerId": 687093,
+      "fullName": "Vaughn Grissom",
+      "age": 24,
+      "position": "Second Base",
+      "organization": {
+        "teamId": "111",
+        "teamName": "Boston Red Sox",
+        "abbreviation": "BOS"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 59,
+      "playerId": 675085,
+      "fullName": "Jonathon Long",
+      "age": 23,
+      "position": "Third Base",
+      "organization": {
+        "teamId": "112",
+        "teamName": "Chicago Cubs",
+        "abbreviation": "CHC"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 60,
+      "playerId": 682634,
+      "fullName": "Kevin Alcántara",
+      "age": 23,
+      "position": "Outfielder",
+      "organization": {
+        "teamId": "112",
+        "teamName": "Chicago Cubs",
+        "abbreviation": "CHC"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 61,
+      "playerId": 681432,
+      "fullName": "Luke Little",
+      "age": 24,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "112",
+        "teamName": "Chicago Cubs",
+        "abbreviation": "CHC"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 62,
+      "playerId": 683357,
+      "fullName": "Owen Caissie",
+      "age": 23,
+      "position": "Outfielder",
+      "organization": {
+        "teamId": "112",
+        "teamName": "Chicago Cubs",
+        "abbreviation": "CHC"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 63,
+      "playerId": 687863,
+      "fullName": "Porter Hodge",
+      "age": 24,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "112",
+        "teamName": "Chicago Cubs",
+        "abbreviation": "CHC"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 64,
+      "playerId": 691739,
+      "fullName": "Will Sanders",
+      "age": 23,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "112",
+        "teamName": "Chicago Cubs",
+        "abbreviation": "CHC"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 65,
+      "playerId": 800473,
+      "fullName": "Jefferson Rojas",
+      "age": 20,
+      "position": "Shortstop",
+      "organization": {
+        "teamId": "112",
+        "teamName": "Chicago Cubs",
+        "abbreviation": "CHC"
+      },
+      "currentLevel": "Double-A",
+      "eta": "2 years",
+      "prospectScore": 110,
+      "bettingRelevance": "Medium - Rising prospect"
+    },
+    {
+      "rank": 66,
+      "playerId": 683175,
+      "fullName": "Connor Phillips",
+      "age": 24,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "113",
+        "teamName": "Cincinnati Reds",
+        "abbreviation": "CIN"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 67,
+      "playerId": 688609,
+      "fullName": "Hunter Parks",
+      "age": 24,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "113",
+        "teamName": "Cincinnati Reds",
+        "abbreviation": "CIN"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 68,
+      "playerId": 683742,
+      "fullName": "Jose Franco",
+      "age": 24,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "113",
+        "teamName": "Cincinnati Reds",
+        "abbreviation": "CIN"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 69,
+      "playerId": 678013,
+      "fullName": "Lenny Torres Jr.",
+      "age": 24,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "113",
+        "teamName": "Cincinnati Reds",
+        "abbreviation": "CIN"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 70,
+      "playerId": 682825,
+      "fullName": "Luis Mey",
+      "age": 24,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "113",
+        "teamName": "Cincinnati Reds",
+        "abbreviation": "CIN"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 71,
+      "playerId": 677956,
+      "fullName": "Rece Hinds",
+      "age": 24,
+      "position": "Outfielder",
+      "organization": {
+        "teamId": "113",
+        "teamName": "Cincinnati Reds",
+        "abbreviation": "CIN"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 72,
+      "playerId": 683104,
+      "fullName": "Trey Faltine",
+      "age": 24,
+      "position": "Second Base",
+      "organization": {
+        "teamId": "113",
+        "teamName": "Cincinnati Reds",
+        "abbreviation": "CIN"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 73,
+      "playerId": 687209,
+      "fullName": "Zach Maxwell",
+      "age": 24,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "113",
+        "teamName": "Cincinnati Reds",
+        "abbreviation": "CIN"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 74,
+      "playerId": 702253,
+      "fullName": "Cam Collier",
+      "age": 20,
+      "position": "Third Base",
+      "organization": {
+        "teamId": "113",
+        "teamName": "Cincinnati Reds",
+        "abbreviation": "CIN"
+      },
+      "currentLevel": "Double-A",
+      "eta": "2 years",
+      "prospectScore": 110,
+      "bettingRelevance": "Medium - Rising prospect"
+    },
+    {
+      "rank": 75,
+      "playerId": 692216,
+      "fullName": "C.J. Kayfus",
+      "age": 23,
+      "position": "First Base",
+      "organization": {
+        "teamId": "114",
+        "teamName": "Cleveland Guardians",
+        "abbreviation": "CLE"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 76,
+      "playerId": 686551,
+      "fullName": "Christian Cairo",
+      "age": 24,
+      "position": "Shortstop",
+      "organization": {
+        "teamId": "114",
+        "teamName": "Cleveland Guardians",
+        "abbreviation": "CLE"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 77,
+      "playerId": 682679,
+      "fullName": "Dayan Frias",
+      "age": 23,
+      "position": "Third Base",
+      "organization": {
+        "teamId": "114",
+        "teamName": "Cleveland Guardians",
+        "abbreviation": "CLE"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 78,
+      "playerId": 671655,
+      "fullName": "George Valera",
+      "age": 24,
+      "position": "Outfielder",
+      "organization": {
+        "teamId": "114",
+        "teamName": "Cleveland Guardians",
+        "abbreviation": "CLE"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 79,
+      "playerId": 678877,
+      "fullName": "Jhonkensy Noel",
+      "age": 24,
+      "position": "Outfielder",
+      "organization": {
+        "teamId": "114",
+        "teamName": "Cleveland Guardians",
+        "abbreviation": "CLE"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 80,
+      "playerId": 687627,
+      "fullName": "Kody Huff",
+      "age": 24,
+      "position": "Catcher",
+      "organization": {
+        "teamId": "114",
+        "teamName": "Cleveland Guardians",
+        "abbreviation": "CLE"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 81,
+      "playerId": 675455,
+      "fullName": "Milan Tolentino",
+      "age": 23,
+      "position": "Shortstop",
+      "organization": {
+        "teamId": "114",
+        "teamName": "Cleveland Guardians",
+        "abbreviation": "CLE"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 82,
+      "playerId": 800048,
+      "fullName": "Parker Messick",
+      "age": 24,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "114",
+        "teamName": "Cleveland Guardians",
+        "abbreviation": "CLE"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 83,
+      "playerId": 690984,
+      "fullName": "Petey Halpin",
+      "age": 23,
+      "position": "Outfielder",
+      "organization": {
+        "teamId": "114",
+        "teamName": "Cleveland Guardians",
+        "abbreviation": "CLE"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 84,
+      "playerId": 686798,
+      "fullName": "Yordys Valdes",
+      "age": 23,
+      "position": "Shortstop",
+      "organization": {
+        "teamId": "114",
+        "teamName": "Cleveland Guardians",
+        "abbreviation": "CLE"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 85,
+      "playerId": 683627,
+      "fullName": "Anthony Molina",
+      "age": 23,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "115",
+        "teamName": "Colorado Rockies",
+        "abbreviation": "COL"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 86,
+      "playerId": 678899,
+      "fullName": "Brayan Castillo",
+      "age": 24,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "115",
+        "teamName": "Colorado Rockies",
+        "abbreviation": "COL"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 87,
+      "playerId": 687223,
+      "fullName": "Carson Palmquist",
+      "age": 24,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "115",
+        "teamName": "Colorado Rockies",
+        "abbreviation": "COL"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 88,
+      "playerId": 691011,
+      "fullName": "Drew Romo",
+      "age": 23,
+      "position": "Catcher",
+      "organization": {
+        "teamId": "115",
+        "teamName": "Colorado Rockies",
+        "abbreviation": "COL"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 89,
+      "playerId": 687312,
+      "fullName": "Gabriel Hughes",
+      "age": 23,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "115",
+        "teamName": "Colorado Rockies",
+        "abbreviation": "COL"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 90,
+      "playerId": 691720,
+      "fullName": "Kyle Karros",
+      "age": 23,
+      "position": "Third Base",
+      "organization": {
+        "teamId": "115",
+        "teamName": "Colorado Rockies",
+        "abbreviation": "COL"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 91,
+      "playerId": 694514,
+      "fullName": "Sterlin Thompson",
+      "age": 24,
+      "position": "Outfield",
+      "organization": {
+        "teamId": "115",
+        "teamName": "Colorado Rockies",
+        "abbreviation": "COL"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 92,
+      "playerId": 691728,
+      "fullName": "Zac Veen",
+      "age": 23,
+      "position": "Outfielder",
+      "organization": {
+        "teamId": "115",
+        "teamName": "Colorado Rockies",
+        "abbreviation": "COL"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 93,
+      "playerId": 805427,
+      "fullName": "Drew Sommers",
+      "age": 24,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "116",
+        "teamName": "Detroit Tigers",
+        "abbreviation": "DET"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 94,
+      "playerId": 690291,
+      "fullName": "Jace Jung",
+      "age": 24,
+      "position": "Third Base",
+      "organization": {
+        "teamId": "116",
+        "teamName": "Detroit Tigers",
+        "abbreviation": "DET"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 95,
+      "playerId": 800522,
+      "fullName": "Josue Briceño",
+      "age": 20,
+      "position": "Catcher",
+      "organization": {
+        "teamId": "116",
+        "teamName": "Detroit Tigers",
+        "abbreviation": "DET"
+      },
+      "currentLevel": "Double-A",
+      "eta": "2 years",
+      "prospectScore": 110,
+      "bettingRelevance": "Medium - Rising prospect"
+    },
+    {
+      "rank": 96,
+      "playerId": 805808,
+      "fullName": "Kevin McGonigle",
+      "age": 20,
+      "position": "Shortstop",
+      "organization": {
+        "teamId": "116",
+        "teamName": "Detroit Tigers",
+        "abbreviation": "DET"
+      },
+      "currentLevel": "Double-A",
+      "eta": "2 years",
+      "prospectScore": 110,
+      "bettingRelevance": "Medium - Rising prospect"
+    },
+    {
+      "rank": 97,
+      "playerId": 703601,
+      "fullName": "Max Clark",
+      "age": 20,
+      "position": "Outfielder",
+      "organization": {
+        "teamId": "116",
+        "teamName": "Detroit Tigers",
+        "abbreviation": "DET"
+      },
+      "currentLevel": "Double-A",
+      "eta": "2 years",
+      "prospectScore": 110,
+      "bettingRelevance": "Medium - Rising prospect"
+    },
+    {
+      "rank": 98,
+      "playerId": 683145,
+      "fullName": "Colin Barber",
+      "age": 24,
+      "position": "Outfielder",
+      "organization": {
+        "teamId": "117",
+        "teamName": "Houston Astros",
+        "abbreviation": "HOU"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 99,
+      "playerId": 689200,
+      "fullName": "Jacob Melton",
+      "age": 24,
+      "position": "Outfielder",
+      "organization": {
+        "teamId": "117",
+        "teamName": "Houston Astros",
+        "abbreviation": "HOU"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    },
+    {
+      "rank": 100,
+      "playerId": 800067,
+      "fullName": "Jose Fleury",
+      "age": 23,
+      "position": "Pitcher",
+      "organization": {
+        "teamId": "117",
+        "teamName": "Houston Astros",
+        "abbreviation": "HOU"
+      },
+      "currentLevel": "Triple-A",
+      "eta": "0.5 years",
+      "prospectScore": 110,
+      "bettingRelevance": "High - Monitor for call-up"
+    }
+  ]
+}
