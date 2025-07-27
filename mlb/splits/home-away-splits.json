@@ -1,0 +1,1928 @@
+{
+  "lastUpdated": "2025-07-27T15:53:28.423Z",
+  "season": "2024-2025",
+  "totalTeams": 30,
+  "description": "Team performance splits between home and away games",
+  "splits": {
+    "108": {
+      "teamId": 108,
+      "teamName": "Los Angeles Angels",
+      "abbreviation": "LAA",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 320,
+          "hits": 602,
+          "doubles": 116,
+          "triples": 6,
+          "homeRuns": 91,
+          "rbi": 301,
+          "walks": 230,
+          "strikeouts": 706,
+          "avg": ".230",
+          "obp": ".302",
+          "slg": ".383"
+        },
+        "away": {
+          "games": 81,
+          "runs": 315,
+          "hits": 625,
+          "doubles": 111,
+          "triples": 9,
+          "homeRuns": 74,
+          "rbi": 295,
+          "walks": 252,
+          "strikeouts": 710,
+          "avg": ".228",
+          "obp": ".301",
+          "slg": ".357"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 32,
+          "losses": 49,
+          "era": "4.55",
+          "innings": "737.0",
+          "hits": 681,
+          "runs": 406,
+          "homeRuns": 106,
+          "walks": 313,
+          "strikeouts": 677,
+          "whip": "1.35"
+        },
+        "away": {
+          "games": 81,
+          "wins": 31,
+          "losses": 50,
+          "era": "4.56",
+          "innings": "694.0",
+          "hits": 647,
+          "runs": 391,
+          "homeRuns": 96,
+          "walks": 288,
+          "strikeouts": 575,
+          "whip": "1.35"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:13.211Z"
+    },
+    "109": {
+      "teamId": 109,
+      "teamName": "Arizona Diamondbacks",
+      "abbreviation": "AZ",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 457,
+          "hits": 747,
+          "doubles": 150,
+          "triples": 23,
+          "homeRuns": 93,
+          "rbi": 436,
+          "walks": 273,
+          "strikeouts": 578,
+          "avg": ".276",
+          "obp": ".347",
+          "slg": ".451"
+        },
+        "away": {
+          "games": 81,
+          "runs": 429,
+          "hits": 705,
+          "doubles": 121,
+          "triples": 14,
+          "homeRuns": 118,
+          "rbi": 409,
+          "walks": 296,
+          "strikeouts": 687,
+          "avg": ".251",
+          "obp": ".328",
+          "slg": ".429"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 44,
+          "losses": 37,
+          "era": "4.68",
+          "innings": "739.0",
+          "hits": 763,
+          "runs": 412,
+          "homeRuns": 87,
+          "walks": 249,
+          "strikeouts": 684,
+          "whip": "1.37"
+        },
+        "away": {
+          "games": 81,
+          "wins": 45,
+          "losses": 36,
+          "era": "4.56",
+          "innings": "704.1",
+          "hits": 705,
+          "runs": 376,
+          "homeRuns": 94,
+          "walks": 232,
+          "strikeouts": 629,
+          "whip": "1.33"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:13.819Z"
+    },
+    "110": {
+      "teamId": 110,
+      "teamName": "Baltimore Orioles",
+      "abbreviation": "BAL",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 375,
+          "hits": 676,
+          "doubles": 118,
+          "triples": 17,
+          "homeRuns": 112,
+          "rbi": 361,
+          "walks": 238,
+          "strikeouts": 653,
+          "avg": ".250",
+          "obp": ".315",
+          "slg": ".431"
+        },
+        "away": {
+          "games": 81,
+          "runs": 411,
+          "hits": 715,
+          "doubles": 144,
+          "triples": 16,
+          "homeRuns": 123,
+          "rbi": 398,
+          "walks": 251,
+          "strikeouts": 706,
+          "avg": ".250",
+          "obp": ".316",
+          "slg": ".440"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 44,
+          "losses": 37,
+          "era": "3.83",
+          "innings": "736.0",
+          "hits": 710,
+          "runs": 350,
+          "homeRuns": 90,
+          "walks": 228,
+          "strikeouts": 700,
+          "whip": "1.27"
+        },
+        "away": {
+          "games": 81,
+          "wins": 47,
+          "losses": 34,
+          "era": "4.07",
+          "innings": "706.0",
+          "hits": 593,
+          "runs": 349,
+          "homeRuns": 85,
+          "walks": 253,
+          "strikeouts": 680,
+          "whip": "1.20"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:14.434Z"
+    },
+    "111": {
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "abbreviation": "BOS",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 366,
+          "hits": 688,
+          "doubles": 175,
+          "triples": 11,
+          "homeRuns": 87,
+          "rbi": 353,
+          "walks": 240,
+          "strikeouts": 786,
+          "avg": ".253",
+          "obp": ".321",
+          "slg": ".422"
+        },
+        "away": {
+          "games": 81,
+          "runs": 385,
+          "hits": 716,
+          "doubles": 136,
+          "triples": 19,
+          "homeRuns": 107,
+          "rbi": 371,
+          "walks": 253,
+          "strikeouts": 784,
+          "avg": ".250",
+          "obp": ".317",
+          "slg": ".424"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 38,
+          "losses": 43,
+          "era": "4.14",
+          "innings": "744.0",
+          "hits": 712,
+          "runs": 397,
+          "homeRuns": 88,
+          "walks": 236,
+          "strikeouts": 671,
+          "whip": "1.27"
+        },
+        "away": {
+          "games": 81,
+          "wins": 43,
+          "losses": 38,
+          "era": "3.94",
+          "innings": "708.2",
+          "hits": 651,
+          "runs": 350,
+          "homeRuns": 101,
+          "walks": 225,
+          "strikeouts": 682,
+          "whip": "1.24"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:15.029Z"
+    },
+    "112": {
+      "teamId": 112,
+      "teamName": "Chicago Cubs",
+      "abbreviation": "CHC",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 319,
+          "hits": 586,
+          "doubles": 102,
+          "triples": 15,
+          "homeRuns": 78,
+          "rbi": 298,
+          "walks": 257,
+          "strikeouts": 673,
+          "avg": ".227",
+          "obp": ".302",
+          "slg": ".368"
+        },
+        "away": {
+          "games": 81,
+          "runs": 417,
+          "hits": 732,
+          "doubles": 151,
+          "triples": 14,
+          "homeRuns": 92,
+          "rbi": 398,
+          "walks": 289,
+          "strikeouts": 689,
+          "avg": ".256",
+          "obp": ".331",
+          "slg": ".415"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 44,
+          "losses": 37,
+          "era": "3.08",
+          "innings": "733.0",
+          "hits": 618,
+          "runs": 276,
+          "homeRuns": 75,
+          "walks": 229,
+          "strikeouts": 712,
+          "whip": "1.16"
+        },
+        "away": {
+          "games": 81,
+          "wins": 39,
+          "losses": 42,
+          "era": "4.52",
+          "innings": "699.1",
+          "hits": 684,
+          "runs": 393,
+          "homeRuns": 106,
+          "walks": 256,
+          "strikeouts": 636,
+          "whip": "1.34"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:15.666Z"
+    },
+    "113": {
+      "teamId": 113,
+      "teamName": "Cincinnati Reds",
+      "abbreviation": "CIN",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 357,
+          "hits": 605,
+          "doubles": 124,
+          "triples": 10,
+          "homeRuns": 101,
+          "rbi": 337,
+          "walks": 265,
+          "strikeouts": 708,
+          "avg": ".232",
+          "obp": ".311",
+          "slg": ".404"
+        },
+        "away": {
+          "games": 81,
+          "runs": 342,
+          "hits": 625,
+          "doubles": 133,
+          "triples": 19,
+          "homeRuns": 73,
+          "rbi": 326,
+          "walks": 231,
+          "strikeouts": 751,
+          "avg": ".230",
+          "obp": ".298",
+          "slg": ".373"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 39,
+          "losses": 42,
+          "era": "4.48",
+          "innings": "733.0",
+          "hits": 739,
+          "runs": 387,
+          "homeRuns": 113,
+          "walks": 246,
+          "strikeouts": 727,
+          "whip": "1.34"
+        },
+        "away": {
+          "games": 81,
+          "wins": 38,
+          "losses": 43,
+          "era": "3.68",
+          "innings": "695.0",
+          "hits": 563,
+          "runs": 307,
+          "homeRuns": 83,
+          "walks": 241,
+          "strikeouts": 643,
+          "whip": "1.16"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:16.276Z"
+    },
+    "114": {
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "abbreviation": "CLE",
+      "hitting": {
+        "home": {
+          "games": 80,
+          "runs": 374,
+          "hits": 630,
+          "doubles": 125,
+          "triples": 6,
+          "homeRuns": 99,
+          "rbi": 354,
+          "walks": 236,
+          "strikeouts": 588,
+          "avg": ".245",
+          "obp": ".315",
+          "slg": ".414"
+        },
+        "away": {
+          "games": 81,
+          "runs": 334,
+          "hits": 633,
+          "doubles": 120,
+          "triples": 12,
+          "homeRuns": 86,
+          "rbi": 316,
+          "walks": 230,
+          "strikeouts": 608,
+          "avg": ".231",
+          "obp": ".300",
+          "slg": ".378"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 80,
+          "wins": 50,
+          "losses": 30,
+          "era": "3.64",
+          "innings": "726.0",
+          "hits": 632,
+          "runs": 319,
+          "homeRuns": 87,
+          "walks": 247,
+          "strikeouts": 721,
+          "whip": "1.21"
+        },
+        "away": {
+          "games": 81,
+          "wins": 42,
+          "losses": 39,
+          "era": "3.56",
+          "innings": "702.0",
+          "hits": 592,
+          "runs": 302,
+          "homeRuns": 92,
+          "walks": 245,
+          "strikeouts": 689,
+          "whip": "1.19"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:16.872Z"
+    },
+    "115": {
+      "teamId": 115,
+      "teamName": "Colorado Rockies",
+      "abbreviation": "COL",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 396,
+          "hits": 729,
+          "doubles": 148,
+          "triples": 16,
+          "homeRuns": 95,
+          "rbi": 382,
+          "walks": 256,
+          "strikeouts": 753,
+          "avg": ".267",
+          "obp": ".331",
+          "slg": ".437"
+        },
+        "away": {
+          "games": 81,
+          "runs": 286,
+          "hits": 590,
+          "doubles": 129,
+          "triples": 9,
+          "homeRuns": 84,
+          "rbi": 273,
+          "walks": 197,
+          "strikeouts": 864,
+          "avg": ".217",
+          "obp": ".275",
+          "slg": ".364"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 37,
+          "losses": 44,
+          "era": "5.46",
+          "innings": "737.0",
+          "hits": 851,
+          "runs": 472,
+          "homeRuns": 111,
+          "walks": 277,
+          "strikeouts": 562,
+          "whip": "1.53"
+        },
+        "away": {
+          "games": 81,
+          "wins": 24,
+          "losses": 57,
+          "era": "5.48",
+          "innings": "689.2",
+          "hits": 753,
+          "runs": 457,
+          "homeRuns": 110,
+          "walks": 286,
+          "strikeouts": 556,
+          "whip": "1.51"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:17.498Z"
+    },
+    "116": {
+      "teamId": 116,
+      "teamName": "Detroit Tigers",
+      "abbreviation": "DET",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 331,
+          "hits": 615,
+          "doubles": 120,
+          "triples": 23,
+          "homeRuns": 80,
+          "rbi": 321,
+          "walks": 243,
+          "strikeouts": 675,
+          "avg": ".234",
+          "obp": ".303",
+          "slg": ".388"
+        },
+        "away": {
+          "games": 81,
+          "runs": 351,
+          "hits": 658,
+          "doubles": 124,
+          "triples": 24,
+          "homeRuns": 82,
+          "rbi": 335,
+          "walks": 233,
+          "strikeouts": 786,
+          "avg": ".234",
+          "obp": ".297",
+          "slg": ".383"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 43,
+          "losses": 38,
+          "era": "3.55",
+          "innings": "741.0",
+          "hits": 630,
+          "runs": 327,
+          "homeRuns": 77,
+          "walks": 203,
+          "strikeouts": 674,
+          "whip": "1.12"
+        },
+        "away": {
+          "games": 81,
+          "wins": 43,
+          "losses": 38,
+          "era": "3.68",
+          "innings": "706.0",
+          "hits": 635,
+          "runs": 315,
+          "homeRuns": 82,
+          "walks": 213,
+          "strikeouts": 680,
+          "whip": "1.20"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:18.092Z"
+    },
+    "117": {
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "abbreviation": "HOU",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 395,
+          "hits": 724,
+          "doubles": 139,
+          "triples": 9,
+          "homeRuns": 106,
+          "rbi": 374,
+          "walks": 228,
+          "strikeouts": 573,
+          "avg": ".267",
+          "obp": ".328",
+          "slg": ".442"
+        },
+        "away": {
+          "games": 80,
+          "runs": 345,
+          "hits": 724,
+          "doubles": 125,
+          "triples": 7,
+          "homeRuns": 84,
+          "rbi": 327,
+          "walks": 220,
+          "strikeouts": 603,
+          "avg": ".257",
+          "obp": ".317",
+          "slg": ".396"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 46,
+          "losses": 35,
+          "era": "3.61",
+          "innings": "738.0",
+          "hits": 629,
+          "runs": 321,
+          "homeRuns": 104,
+          "walks": 265,
+          "strikeouts": 780,
+          "whip": "1.21"
+        },
+        "away": {
+          "games": 80,
+          "wins": 42,
+          "losses": 38,
+          "era": "3.88",
+          "innings": "694.0",
+          "hits": 609,
+          "runs": 328,
+          "homeRuns": 79,
+          "walks": 279,
+          "strikeouts": 699,
+          "whip": "1.28"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:18.697Z"
+    },
+    "118": {
+      "teamId": 118,
+      "teamName": "Kansas City Royals",
+      "abbreviation": "KC",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 385,
+          "hits": 688,
+          "doubles": 142,
+          "triples": 26,
+          "homeRuns": 76,
+          "rbi": 370,
+          "walks": 228,
+          "strikeouts": 526,
+          "avg": ".260",
+          "obp": ".322",
+          "slg": ".420"
+        },
+        "away": {
+          "games": 81,
+          "runs": 350,
+          "hits": 655,
+          "doubles": 122,
+          "triples": 9,
+          "homeRuns": 94,
+          "rbi": 341,
+          "walks": 201,
+          "strikeouts": 635,
+          "avg": ".236",
+          "obp": ".291",
+          "slg": ".388"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 45,
+          "losses": 36,
+          "era": "4.02",
+          "innings": "729.0",
+          "hits": 694,
+          "runs": 347,
+          "homeRuns": 71,
+          "walks": 242,
+          "strikeouts": 680,
+          "whip": "1.28"
+        },
+        "away": {
+          "games": 81,
+          "wins": 41,
+          "losses": 40,
+          "era": "3.48",
+          "innings": "699.0",
+          "hits": 609,
+          "runs": 297,
+          "homeRuns": 75,
+          "walks": 230,
+          "strikeouts": 659,
+          "whip": "1.20"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:19.330Z"
+    },
+    "119": {
+      "teamId": 119,
+      "teamName": "Los Angeles Dodgers",
+      "abbreviation": "LAD",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 403,
+          "hits": 673,
+          "doubles": 125,
+          "triples": 10,
+          "homeRuns": 130,
+          "rbi": 394,
+          "walks": 289,
+          "strikeouts": 605,
+          "avg": ".254",
+          "obp": ".333",
+          "slg": ".456"
+        },
+        "away": {
+          "games": 81,
+          "runs": 439,
+          "hits": 750,
+          "doubles": 166,
+          "triples": 16,
+          "homeRuns": 103,
+          "rbi": 421,
+          "walks": 313,
+          "strikeouts": 731,
+          "avg": ".261",
+          "obp": ".336",
+          "slg": ".438"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 52,
+          "losses": 29,
+          "era": "3.64",
+          "innings": "740.0",
+          "hits": 629,
+          "runs": 334,
+          "homeRuns": 95,
+          "walks": 244,
+          "strikeouts": 728,
+          "whip": "1.18"
+        },
+        "away": {
+          "games": 81,
+          "wins": 46,
+          "losses": 35,
+          "era": "4.17",
+          "innings": "705.2",
+          "hits": 644,
+          "runs": 352,
+          "homeRuns": 103,
+          "walks": 257,
+          "strikeouts": 662,
+          "whip": "1.28"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:19.921Z"
+    },
+    "120": {
+      "teamId": 120,
+      "teamName": "Washington Nationals",
+      "abbreviation": "WSH",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 331,
+          "hits": 644,
+          "doubles": 111,
+          "triples": 8,
+          "homeRuns": 78,
+          "rbi": 313,
+          "walks": 229,
+          "strikeouts": 575,
+          "avg": ".244",
+          "obp": ".309",
+          "slg": ".381"
+        },
+        "away": {
+          "games": 81,
+          "runs": 329,
+          "hits": 662,
+          "doubles": 156,
+          "triples": 10,
+          "homeRuns": 57,
+          "rbi": 308,
+          "walks": 227,
+          "strikeouts": 645,
+          "avg": ".242",
+          "obp": ".308",
+          "slg": ".369"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 38,
+          "losses": 43,
+          "era": "3.87",
+          "innings": "741.0",
+          "hits": 716,
+          "runs": 373,
+          "homeRuns": 81,
+          "walks": 230,
+          "strikeouts": 679,
+          "whip": "1.28"
+        },
+        "away": {
+          "games": 81,
+          "wins": 33,
+          "losses": 48,
+          "era": "4.75",
+          "innings": "693.0",
+          "hits": 713,
+          "runs": 391,
+          "homeRuns": 87,
+          "walks": 243,
+          "strikeouts": 635,
+          "whip": "1.38"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:20.549Z"
+    },
+    "121": {
+      "teamId": 121,
+      "teamName": "New York Mets",
+      "abbreviation": "NYM",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 382,
+          "hits": 634,
+          "doubles": 136,
+          "triples": 8,
+          "homeRuns": 106,
+          "rbi": 372,
+          "walks": 292,
+          "strikeouts": 680,
+          "avg": ".238",
+          "obp": ".322",
+          "slg": ".414"
+        },
+        "away": {
+          "games": 81,
+          "runs": 386,
+          "hits": 723,
+          "doubles": 143,
+          "triples": 7,
+          "homeRuns": 101,
+          "rbi": 363,
+          "walks": 222,
+          "strikeouts": 702,
+          "avg": ".254",
+          "obp": ".316",
+          "slg": ".416"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 46,
+          "losses": 35,
+          "era": "3.57",
+          "innings": "744.0",
+          "hits": 594,
+          "runs": 334,
+          "homeRuns": 89,
+          "walks": 277,
+          "strikeouts": 765,
+          "whip": "1.17"
+        },
+        "away": {
+          "games": 81,
+          "wins": 43,
+          "losses": 38,
+          "era": "4.37",
+          "innings": "698.1",
+          "hits": 638,
+          "runs": 363,
+          "homeRuns": 76,
+          "walks": 309,
+          "strikeouts": 690,
+          "whip": "1.36"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:21.138Z"
+    },
+    "133": {
+      "teamId": 133,
+      "teamName": "Athletics",
+      "abbreviation": "ATH",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 323,
+          "hits": 617,
+          "doubles": 117,
+          "triples": 10,
+          "homeRuns": 86,
+          "rbi": 307,
+          "walks": 247,
+          "strikeouts": 701,
+          "avg": ".232",
+          "obp": ".300",
+          "slg": ".381"
+        },
+        "away": {
+          "games": 81,
+          "runs": 320,
+          "hits": 650,
+          "doubles": 123,
+          "triples": 9,
+          "homeRuns": 110,
+          "rbi": 312,
+          "walks": 246,
+          "strikeouts": 801,
+          "avg": ".234",
+          "obp": ".303",
+          "slg": ".404"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 38,
+          "losses": 43,
+          "era": "4.05",
+          "innings": "744.0",
+          "hits": 699,
+          "runs": 377,
+          "homeRuns": 70,
+          "walks": 276,
+          "strikeouts": 681,
+          "whip": "1.31"
+        },
+        "away": {
+          "games": 81,
+          "wins": 31,
+          "losses": 50,
+          "era": "4.72",
+          "innings": "692.2",
+          "hits": 686,
+          "runs": 387,
+          "homeRuns": 99,
+          "walks": 254,
+          "strikeouts": 582,
+          "whip": "1.36"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:03.357Z"
+    },
+    "134": {
+      "teamId": 134,
+      "teamName": "Pittsburgh Pirates",
+      "abbreviation": "PIT",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 343,
+          "hits": 638,
+          "doubles": 130,
+          "triples": 8,
+          "homeRuns": 79,
+          "rbi": 333,
+          "walks": 238,
+          "strikeouts": 692,
+          "avg": ".238",
+          "obp": ".306",
+          "slg": ".382"
+        },
+        "away": {
+          "games": 81,
+          "runs": 322,
+          "hits": 645,
+          "doubles": 106,
+          "triples": 9,
+          "homeRuns": 81,
+          "rbi": 310,
+          "walks": 247,
+          "strikeouts": 814,
+          "avg": ".230",
+          "obp": ".297",
+          "slg": ".361"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 39,
+          "losses": 42,
+          "era": "4.23",
+          "innings": "738.0",
+          "hits": 728,
+          "runs": 388,
+          "homeRuns": 84,
+          "walks": 269,
+          "strikeouts": 671,
+          "whip": "1.35"
+        },
+        "away": {
+          "games": 81,
+          "wins": 37,
+          "losses": 44,
+          "era": "4.07",
+          "innings": "700.2",
+          "hits": 641,
+          "runs": 351,
+          "homeRuns": 82,
+          "walks": 246,
+          "strikeouts": 685,
+          "whip": "1.27"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:03.964Z"
+    },
+    "135": {
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "abbreviation": "SD",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 356,
+          "hits": 669,
+          "doubles": 118,
+          "triples": 7,
+          "homeRuns": 111,
+          "rbi": 337,
+          "walks": 229,
+          "strikeouts": 531,
+          "avg": ".251",
+          "obp": ".316",
+          "slg": ".426"
+        },
+        "away": {
+          "games": 81,
+          "runs": 404,
+          "hits": 787,
+          "doubles": 141,
+          "triples": 11,
+          "homeRuns": 79,
+          "rbi": 389,
+          "walks": 229,
+          "strikeouts": 546,
+          "avg": ".275",
+          "obp": ".333",
+          "slg": ".414"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 45,
+          "losses": 36,
+          "era": "3.99",
+          "innings": "735.0",
+          "hits": 666,
+          "runs": 351,
+          "homeRuns": 96,
+          "walks": 211,
+          "strikeouts": 789,
+          "whip": "1.19"
+        },
+        "away": {
+          "games": 81,
+          "wins": 48,
+          "losses": 33,
+          "era": "3.72",
+          "innings": "704.1",
+          "hits": 630,
+          "runs": 318,
+          "homeRuns": 73,
+          "walks": 251,
+          "strikeouts": 664,
+          "whip": "1.25"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:04.567Z"
+    },
+    "136": {
+      "teamId": 136,
+      "teamName": "Seattle Mariners",
+      "abbreviation": "SEA",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 305,
+          "hits": 546,
+          "doubles": 98,
+          "triples": 5,
+          "homeRuns": 87,
+          "rbi": 293,
+          "walks": 298,
+          "strikeouts": 830,
+          "avg": ".214",
+          "obp": ".307",
+          "slg": ".358"
+        },
+        "away": {
+          "games": 81,
+          "runs": 371,
+          "hits": 649,
+          "doubles": 130,
+          "triples": 8,
+          "homeRuns": 98,
+          "rbi": 349,
+          "walks": 273,
+          "strikeouts": 795,
+          "avg": ".234",
+          "obp": ".315",
+          "slg": ".392"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 49,
+          "losses": 32,
+          "era": "2.85",
+          "innings": "739.0",
+          "hits": 555,
+          "runs": 256,
+          "homeRuns": 78,
+          "walks": 168,
+          "strikeouts": 795,
+          "whip": "0.98"
+        },
+        "away": {
+          "games": 81,
+          "wins": 36,
+          "losses": 45,
+          "era": "4.18",
+          "innings": "694.0",
+          "hits": 619,
+          "runs": 351,
+          "homeRuns": 105,
+          "walks": 201,
+          "strikeouts": 621,
+          "whip": "1.18"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:05.194Z"
+    },
+    "137": {
+      "teamId": 137,
+      "teamName": "San Francisco Giants",
+      "abbreviation": "SF",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 334,
+          "hits": 660,
+          "doubles": 156,
+          "triples": 17,
+          "homeRuns": 65,
+          "rbi": 318,
+          "walks": 227,
+          "strikeouts": 664,
+          "avg": ".245",
+          "obp": ".307",
+          "slg": ".388"
+        },
+        "away": {
+          "games": 81,
+          "runs": 359,
+          "hits": 643,
+          "doubles": 110,
+          "triples": 13,
+          "homeRuns": 112,
+          "rbi": 343,
+          "walks": 265,
+          "strikeouts": 788,
+          "avg": ".232",
+          "obp": ".304",
+          "slg": ".403"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 42,
+          "losses": 39,
+          "era": "3.82",
+          "innings": "740.0",
+          "hits": 674,
+          "runs": 337,
+          "homeRuns": 71,
+          "walks": 238,
+          "strikeouts": 705,
+          "whip": "1.23"
+        },
+        "away": {
+          "games": 81,
+          "wins": 38,
+          "losses": 43,
+          "era": "4.40",
+          "innings": "693.2",
+          "hits": 665,
+          "runs": 362,
+          "homeRuns": 82,
+          "walks": 288,
+          "strikeouts": 731,
+          "whip": "1.37"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:05.817Z"
+    },
+    "138": {
+      "teamId": 138,
+      "teamName": "St. Louis Cardinals",
+      "abbreviation": "STL",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 337,
+          "hits": 663,
+          "doubles": 121,
+          "triples": 13,
+          "homeRuns": 79,
+          "rbi": 321,
+          "walks": 235,
+          "strikeouts": 603,
+          "avg": ".249",
+          "obp": ".315",
+          "slg": ".393"
+        },
+        "away": {
+          "games": 81,
+          "runs": 335,
+          "hits": 700,
+          "doubles": 136,
+          "triples": 8,
+          "homeRuns": 86,
+          "rbi": 318,
+          "walks": 243,
+          "strikeouts": 715,
+          "avg": ".246",
+          "obp": ".309",
+          "slg": ".390"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 44,
+          "losses": 37,
+          "era": "3.91",
+          "innings": "734.0",
+          "hits": 686,
+          "runs": 346,
+          "homeRuns": 71,
+          "walks": 224,
+          "strikeouts": 656,
+          "whip": "1.24"
+        },
+        "away": {
+          "games": 81,
+          "wins": 39,
+          "losses": 42,
+          "era": "4.17",
+          "innings": "710.0",
+          "hits": 677,
+          "runs": 373,
+          "homeRuns": 103,
+          "walks": 230,
+          "strikeouts": 652,
+          "whip": "1.28"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:06.455Z"
+    },
+    "139": {
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "abbreviation": "TB",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 305,
+          "hits": 603,
+          "doubles": 117,
+          "triples": 15,
+          "homeRuns": 71,
+          "rbi": 285,
+          "walks": 242,
+          "strikeouts": 715,
+          "avg": ".229",
+          "obp": ".303",
+          "slg": ".366"
+        },
+        "away": {
+          "games": 81,
+          "runs": 299,
+          "hits": 638,
+          "doubles": 128,
+          "triples": 8,
+          "homeRuns": 76,
+          "rbi": 279,
+          "walks": 251,
+          "strikeouts": 770,
+          "avg": ".231",
+          "obp": ".301",
+          "slg": ".366"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 42,
+          "losses": 39,
+          "era": "3.63",
+          "innings": "744.0",
+          "hits": 638,
+          "runs": 326,
+          "homeRuns": 103,
+          "walks": 237,
+          "strikeouts": 750,
+          "whip": "1.18"
+        },
+        "away": {
+          "games": 81,
+          "wins": 38,
+          "losses": 43,
+          "era": "3.93",
+          "innings": "696.2",
+          "hits": 648,
+          "runs": 337,
+          "homeRuns": 93,
+          "walks": 208,
+          "strikeouts": 656,
+          "whip": "1.23"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:07.087Z"
+    },
+    "140": {
+      "teamId": 140,
+      "teamName": "Texas Rangers",
+      "abbreviation": "TEX",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 336,
+          "hits": 636,
+          "doubles": 118,
+          "triples": 10,
+          "homeRuns": 90,
+          "rbi": 324,
+          "walks": 258,
+          "strikeouts": 640,
+          "avg": ".239",
+          "obp": ".310",
+          "slg": ".393"
+        },
+        "away": {
+          "games": 81,
+          "runs": 347,
+          "hits": 666,
+          "doubles": 102,
+          "triples": 5,
+          "homeRuns": 86,
+          "rbi": 328,
+          "walks": 232,
+          "strikeouts": 644,
+          "avg": ".237",
+          "obp": ".301",
+          "slg": ".368"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 44,
+          "losses": 37,
+          "era": "3.63",
+          "innings": "738.0",
+          "hits": 604,
+          "runs": 315,
+          "homeRuns": 94,
+          "walks": 232,
+          "strikeouts": 733,
+          "whip": "1.13"
+        },
+        "away": {
+          "games": 81,
+          "wins": 34,
+          "losses": 47,
+          "era": "5.12",
+          "innings": "689.2",
+          "hits": 719,
+          "runs": 423,
+          "homeRuns": 104,
+          "walks": 298,
+          "strikeouts": 638,
+          "whip": "1.47"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:07.677Z"
+    },
+    "141": {
+      "teamId": 141,
+      "teamName": "Toronto Blue Jays",
+      "abbreviation": "TOR",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 334,
+          "hits": 646,
+          "doubles": 141,
+          "triples": 10,
+          "homeRuns": 80,
+          "rbi": 318,
+          "walks": 238,
+          "strikeouts": 598,
+          "avg": ".244",
+          "obp": ".314",
+          "slg": ".396"
+        },
+        "away": {
+          "games": 81,
+          "runs": 337,
+          "hits": 660,
+          "doubles": 139,
+          "triples": 16,
+          "homeRuns": 76,
+          "rbi": 322,
+          "walks": 272,
+          "strikeouts": 635,
+          "avg": ".239",
+          "obp": ".313",
+          "slg": ".383"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 39,
+          "losses": 42,
+          "era": "4.51",
+          "innings": "738.0",
+          "hits": 682,
+          "runs": 395,
+          "homeRuns": 100,
+          "walks": 239,
+          "strikeouts": 678,
+          "whip": "1.25"
+        },
+        "away": {
+          "games": 81,
+          "wins": 35,
+          "losses": 46,
+          "era": "4.06",
+          "innings": "689.1",
+          "hits": 634,
+          "runs": 348,
+          "homeRuns": 108,
+          "walks": 264,
+          "strikeouts": 636,
+          "whip": "1.30"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:08.300Z"
+    },
+    "142": {
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
+      "abbreviation": "MIN",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 389,
+          "hits": 696,
+          "doubles": 159,
+          "triples": 11,
+          "homeRuns": 102,
+          "rbi": 371,
+          "walks": 255,
+          "strikeouts": 628,
+          "avg": ".257",
+          "obp": ".328",
+          "slg": ".437"
+        },
+        "away": {
+          "games": 81,
+          "runs": 353,
+          "hits": 656,
+          "doubles": 150,
+          "triples": 12,
+          "homeRuns": 81,
+          "rbi": 331,
+          "walks": 218,
+          "strikeouts": 678,
+          "avg": ".236",
+          "obp": ".303",
+          "slg": ".385"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 43,
+          "losses": 38,
+          "era": "4.24",
+          "innings": "738.0",
+          "hits": 693,
+          "runs": 375,
+          "homeRuns": 100,
+          "walks": 226,
+          "strikeouts": 784,
+          "whip": "1.25"
+        },
+        "away": {
+          "games": 81,
+          "wins": 39,
+          "losses": 42,
+          "era": "4.28",
+          "innings": "702.1",
+          "hits": 640,
+          "runs": 360,
+          "homeRuns": 90,
+          "walks": 207,
+          "strikeouts": 716,
+          "whip": "1.21"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:08.904Z"
+    },
+    "143": {
+      "teamId": 143,
+      "teamName": "Philadelphia Phillies",
+      "abbreviation": "PHI",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 410,
+          "hits": 693,
+          "doubles": 129,
+          "triples": 10,
+          "homeRuns": 112,
+          "rbi": 389,
+          "walks": 277,
+          "strikeouts": 627,
+          "avg": ".258",
+          "obp": ".332",
+          "slg": ".438"
+        },
+        "away": {
+          "games": 81,
+          "runs": 374,
+          "hits": 730,
+          "doubles": 156,
+          "triples": 14,
+          "homeRuns": 86,
+          "rbi": 361,
+          "walks": 238,
+          "strikeouts": 743,
+          "avg": ".257",
+          "obp": ".319",
+          "slg": ".412"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 54,
+          "losses": 27,
+          "era": "3.55",
+          "innings": "742.0",
+          "hits": 662,
+          "runs": 322,
+          "homeRuns": 88,
+          "walks": 211,
+          "strikeouts": 730,
+          "whip": "1.18"
+        },
+        "away": {
+          "games": 81,
+          "wins": 41,
+          "losses": 40,
+          "era": "4.16",
+          "innings": "700.2",
+          "hits": 677,
+          "runs": 349,
+          "homeRuns": 93,
+          "walks": 233,
+          "strikeouts": 703,
+          "whip": "1.30"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:09.495Z"
+    },
+    "144": {
+      "teamId": 144,
+      "teamName": "Atlanta Braves",
+      "abbreviation": "ATL",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 316,
+          "hits": 649,
+          "doubles": 140,
+          "triples": 9,
+          "homeRuns": 87,
+          "rbi": 301,
+          "walks": 246,
+          "strikeouts": 721,
+          "avg": ".245",
+          "obp": ".313",
+          "slg": ".403"
+        },
+        "away": {
+          "games": 81,
+          "runs": 388,
+          "hits": 684,
+          "doubles": 133,
+          "triples": 6,
+          "homeRuns": 126,
+          "rbi": 373,
+          "walks": 239,
+          "strikeouts": 740,
+          "avg": ".241",
+          "obp": ".306",
+          "slg": ".426"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 46,
+          "losses": 35,
+          "era": "3.51",
+          "innings": "739.0",
+          "hits": 672,
+          "runs": 315,
+          "homeRuns": 75,
+          "walks": 229,
+          "strikeouts": 781,
+          "whip": "1.22"
+        },
+        "away": {
+          "games": 81,
+          "wins": 43,
+          "losses": 38,
+          "era": "3.46",
+          "innings": "704.1",
+          "hits": 605,
+          "runs": 292,
+          "homeRuns": 75,
+          "walks": 220,
+          "strikeouts": 772,
+          "whip": "1.17"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:10.147Z"
+    },
+    "145": {
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "abbreviation": "CWS",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 252,
+          "hits": 597,
+          "doubles": 115,
+          "triples": 5,
+          "homeRuns": 64,
+          "rbi": 237,
+          "walks": 194,
+          "strikeouts": 659,
+          "avg": ".225",
+          "obp": ".283",
+          "slg": ".344"
+        },
+        "away": {
+          "games": 81,
+          "runs": 255,
+          "hits": 590,
+          "doubles": 111,
+          "triples": 4,
+          "homeRuns": 69,
+          "rbi": 248,
+          "walks": 201,
+          "strikeouts": 744,
+          "avg": ".216",
+          "obp": ".273",
+          "slg": ".336"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 23,
+          "losses": 58,
+          "era": "4.32",
+          "innings": "739.0",
+          "hits": 709,
+          "runs": 386,
+          "homeRuns": 101,
+          "walks": 329,
+          "strikeouts": 705,
+          "whip": "1.40"
+        },
+        "away": {
+          "games": 81,
+          "wins": 18,
+          "losses": 63,
+          "era": "5.05",
+          "innings": "681.0",
+          "hits": 688,
+          "runs": 427,
+          "homeRuns": 100,
+          "walks": 314,
+          "strikeouts": 661,
+          "whip": "1.47"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:10.774Z"
+    },
+    "146": {
+      "teamId": 146,
+      "teamName": "Miami Marlins",
+      "abbreviation": "MIA",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 343,
+          "hits": 672,
+          "doubles": 122,
+          "triples": 11,
+          "homeRuns": 82,
+          "rbi": 332,
+          "walks": 225,
+          "strikeouts": 668,
+          "avg": ".246",
+          "obp": ".308",
+          "slg": ".389"
+        },
+        "away": {
+          "games": 81,
+          "runs": 294,
+          "hits": 675,
+          "doubles": 121,
+          "triples": 12,
+          "homeRuns": 68,
+          "rbi": 279,
+          "walks": 178,
+          "strikeouts": 742,
+          "avg": ".242",
+          "obp": ".292",
+          "slg": ".367"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 30,
+          "losses": 51,
+          "era": "5.37",
+          "innings": "751.0",
+          "hits": 797,
+          "runs": 489,
+          "homeRuns": 98,
+          "walks": 305,
+          "strikeouts": 717,
+          "whip": "1.47"
+        },
+        "away": {
+          "games": 81,
+          "wins": 32,
+          "losses": 49,
+          "era": "4.03",
+          "innings": "686.1",
+          "hits": 634,
+          "runs": 352,
+          "homeRuns": 97,
+          "walks": 251,
+          "strikeouts": 600,
+          "whip": "1.29"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:11.373Z"
+    },
+    "147": {
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "abbreviation": "NYY",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 389,
+          "hits": 641,
+          "doubles": 115,
+          "triples": 5,
+          "homeRuns": 118,
+          "rbi": 376,
+          "walks": 346,
+          "strikeouts": 643,
+          "avg": ".244",
+          "obp": ".334",
+          "slg": ".426"
+        },
+        "away": {
+          "games": 81,
+          "runs": 426,
+          "hits": 711,
+          "doubles": 128,
+          "triples": 10,
+          "homeRuns": 119,
+          "rbi": 406,
+          "walks": 326,
+          "strikeouts": 683,
+          "avg": ".252",
+          "obp": ".332",
+          "slg": ".431"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 44,
+          "losses": 37,
+          "era": "4.00",
+          "innings": "740.0",
+          "hits": 646,
+          "runs": 357,
+          "homeRuns": 108,
+          "walks": 263,
+          "strikeouts": 759,
+          "whip": "1.23"
+        },
+        "away": {
+          "games": 81,
+          "wins": 50,
+          "losses": 31,
+          "era": "3.47",
+          "innings": "712.2",
+          "hits": 626,
+          "runs": 311,
+          "homeRuns": 73,
+          "walks": 270,
+          "strikeouts": 698,
+          "whip": "1.26"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:11.978Z"
+    },
+    "158": {
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "abbreviation": "MIL",
+      "hitting": {
+        "home": {
+          "games": 81,
+          "runs": 367,
+          "hits": 617,
+          "doubles": 110,
+          "triples": 17,
+          "homeRuns": 91,
+          "rbi": 355,
+          "walks": 297,
+          "strikeouts": 760,
+          "avg": ".236",
+          "obp": ".318",
+          "slg": ".396"
+        },
+        "away": {
+          "games": 81,
+          "runs": 410,
+          "hits": 742,
+          "doubles": 139,
+          "triples": 16,
+          "homeRuns": 86,
+          "rbi": 387,
+          "walks": 300,
+          "strikeouts": 699,
+          "avg": ".260",
+          "obp": ".333",
+          "slg": ".410"
+        }
+      },
+      "pitching": {
+        "home": {
+          "games": 81,
+          "wins": 47,
+          "losses": 34,
+          "era": "3.60",
+          "innings": "738.0",
+          "hits": 630,
+          "runs": 323,
+          "homeRuns": 106,
+          "walks": 230,
+          "strikeouts": 744,
+          "whip": "1.17"
+        },
+        "away": {
+          "games": 81,
+          "wins": 46,
+          "losses": 35,
+          "era": "3.70",
+          "innings": "708.0",
+          "hits": 659,
+          "runs": 318,
+          "homeRuns": 90,
+          "walks": 264,
+          "strikeouts": 629,
+          "whip": "1.30"
+        }
+      },
+      "lastUpdated": "2025-07-27T15:53:12.575Z"
+    }
+  }
+}
