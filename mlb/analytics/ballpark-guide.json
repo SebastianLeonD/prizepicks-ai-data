@@ -1,0 +1,504 @@
+{
+  "lastUpdated": "2025-07-27T05:18:31.521Z",
+  "description": "Comprehensive ballpark factors and weather sensitivity guide",
+  "ballparks": {
+    "Coors Field": {
+      "team": "Colorado Rockies",
+      "city": "Denver, CO",
+      "elevation": 5200,
+      "coordinates": {
+        "lat": 39.7559,
+        "lon": -104.9942
+      },
+      "type": "extreme_hitter_friendly",
+      "dimensions": {
+        "leftField": 347,
+        "center": 415,
+        "rightField": 350,
+        "foulTerr": "large"
+      },
+      "factors": {
+        "hits": 1.15,
+        "homeRuns": 1.25,
+        "runs": 1.2,
+        "totalBases": 1.18,
+        "rbi": 1.12,
+        "singles": 1.1,
+        "walks": 1.05,
+        "strikeouts": 0.95,
+        "hitsRunsRbis": 1.16,
+        "pitcherStrikeouts": 0.92,
+        "hitsAllowed": 1.15,
+        "walksAllowed": 1.05,
+        "earnedRunsAllowed": 1.2,
+        "pitchingOuts": 0.95
+      },
+      "weatherSensitivity": {
+        "wind": "extreme",
+        "temperature": "high",
+        "humidity": "medium"
+      },
+      "notes": "Thin air at altitude makes balls carry 10% further. Even light wind has major impact.",
+      "propEffects": {
+        "strong_boost": [
+          "hits",
+          "homeRuns",
+          "runs",
+          "totalBases",
+          "rbi",
+          "singles",
+          "hitsRunsRbis",
+          "hitsAllowed",
+          "earnedRunsAllowed"
+        ],
+        "moderate_boost": [
+          "walks",
+          "walksAllowed"
+        ],
+        "slight_boost": [],
+        "neutral": [],
+        "slight_hurt": [],
+        "moderate_hurt": [
+          "strikeouts",
+          "pitcherStrikeouts",
+          "pitchingOuts"
+        ],
+        "strong_hurt": []
+      },
+      "weatherImpact": [
+        "wind: extreme",
+        "temperature: high",
+        "humidity: medium"
+      ],
+      "bettingNotes": [
+        "🎯 OVER home runs - 25% boost",
+        "🌪️ Weather critical - wind dramatically affects outcomes",
+        "⛰️ High altitude - thin air increases ball carry"
+      ]
+    },
+    "Great American Ball Park": {
+      "team": "Cincinnati Reds",
+      "city": "Cincinnati, OH",
+      "elevation": 550,
+      "coordinates": {
+        "lat": 39.0974,
+        "lon": -84.5061
+      },
+      "type": "hitter_friendly",
+      "dimensions": {
+        "leftField": 328,
+        "center": 404,
+        "rightField": 325,
+        "foulTerr": "small"
+      },
+      "factors": {
+        "hits": 1.08,
+        "homeRuns": 1.15,
+        "runs": 1.12,
+        "totalBases": 1.1,
+        "rbi": 1.08,
+        "singles": 1.05,
+        "walks": 1.02,
+        "strikeouts": 0.98,
+        "hitsRunsRbis": 1.09,
+        "pitcherStrikeouts": 0.97,
+        "hitsAllowed": 1.08,
+        "walksAllowed": 1.02,
+        "earnedRunsAllowed": 1.12,
+        "pitchingOuts": 0.98
+      },
+      "weatherSensitivity": {
+        "wind": "high",
+        "temperature": "medium",
+        "humidity": "high"
+      },
+      "notes": "Short dimensions to corners. Wind patterns from Ohio River create unpredictable conditions.",
+      "propEffects": {
+        "strong_boost": [
+          "homeRuns",
+          "runs",
+          "totalBases",
+          "earnedRunsAllowed"
+        ],
+        "moderate_boost": [
+          "hits",
+          "rbi",
+          "singles",
+          "hitsRunsRbis",
+          "hitsAllowed"
+        ],
+        "slight_boost": [
+          "walks",
+          "walksAllowed"
+        ],
+        "neutral": [],
+        "slight_hurt": [
+          "strikeouts",
+          "pitcherStrikeouts",
+          "pitchingOuts"
+        ],
+        "moderate_hurt": [],
+        "strong_hurt": []
+      },
+      "weatherImpact": [
+        "wind: high",
+        "temperature: medium",
+        "humidity: high"
+      ],
+      "bettingNotes": [
+        "🎯 OVER home runs - 15% boost"
+      ]
+    },
+    "Petco Park": {
+      "team": "San Diego Padres",
+      "city": "San Diego, CA",
+      "elevation": 62,
+      "coordinates": {
+        "lat": 32.7073,
+        "lon": -117.1566
+      },
+      "type": "extreme_pitcher_friendly",
+      "dimensions": {
+        "leftField": 334,
+        "center": 396,
+        "rightField": 322,
+        "foulTerr": "large"
+      },
+      "factors": {
+        "hits": 0.92,
+        "homeRuns": 0.82,
+        "runs": 0.88,
+        "totalBases": 0.9,
+        "rbi": 0.9,
+        "singles": 0.94,
+        "walks": 0.95,
+        "strikeouts": 1.05,
+        "hitsRunsRbis": 0.9,
+        "pitcherStrikeouts": 1.08,
+        "hitsAllowed": 0.92,
+        "walksAllowed": 0.95,
+        "earnedRunsAllowed": 0.88,
+        "pitchingOuts": 1.06
+      },
+      "weatherSensitivity": {
+        "wind": "low",
+        "temperature": "low",
+        "humidity": "medium"
+      },
+      "notes": "Marine layer and consistent offshore breeze suppress offense. Very predictable conditions.",
+      "propEffects": {
+        "strong_boost": [],
+        "moderate_boost": [
+          "strikeouts",
+          "pitcherStrikeouts",
+          "pitchingOuts"
+        ],
+        "slight_boost": [],
+        "neutral": [],
+        "slight_hurt": [],
+        "moderate_hurt": [
+          "hits",
+          "totalBases",
+          "rbi",
+          "singles",
+          "walks",
+          "hitsRunsRbis",
+          "hitsAllowed",
+          "walksAllowed"
+        ],
+        "strong_hurt": [
+          "homeRuns",
+          "runs",
+          "earnedRunsAllowed"
+        ]
+      },
+      "weatherImpact": [
+        "wind: low",
+        "temperature: low",
+        "humidity: medium"
+      ],
+      "bettingNotes": [
+        "🎯 UNDER home runs - 18% suppression"
+      ]
+    },
+    "Marlins Park": {
+      "team": "Miami Marlins",
+      "city": "Miami, FL",
+      "elevation": 10,
+      "coordinates": {
+        "lat": 25.7781,
+        "lon": -80.2197
+      },
+      "type": "pitcher_friendly",
+      "dimensions": {
+        "leftField": 344,
+        "center": 418,
+        "rightField": 335,
+        "foulTerr": "medium"
+      },
+      "factors": {
+        "hits": 0.95,
+        "homeRuns": 0.85,
+        "runs": 0.91,
+        "totalBases": 0.93,
+        "rbi": 0.93,
+        "singles": 0.96,
+        "walks": 0.97,
+        "strikeouts": 1.03,
+        "hitsRunsRbis": 0.93,
+        "pitcherStrikeouts": 1.05,
+        "hitsAllowed": 0.95,
+        "walksAllowed": 0.97,
+        "earnedRunsAllowed": 0.91,
+        "pitchingOuts": 1.04
+      },
+      "weatherSensitivity": {
+        "wind": "low",
+        "temperature": "none",
+        "humidity": "none"
+      },
+      "notes": "Retractable roof creates controlled environment. Weather only matters if roof is open.",
+      "propEffects": {
+        "strong_boost": [],
+        "moderate_boost": [
+          "pitcherStrikeouts"
+        ],
+        "slight_boost": [
+          "strikeouts",
+          "pitchingOuts"
+        ],
+        "neutral": [],
+        "slight_hurt": [
+          "singles",
+          "walks",
+          "walksAllowed"
+        ],
+        "moderate_hurt": [
+          "hits",
+          "runs",
+          "totalBases",
+          "rbi",
+          "hitsRunsRbis",
+          "hitsAllowed",
+          "earnedRunsAllowed"
+        ],
+        "strong_hurt": [
+          "homeRuns"
+        ]
+      },
+      "weatherImpact": [
+        "wind: low"
+      ],
+      "bettingNotes": [
+        "🎯 UNDER home runs - 15% suppression"
+      ]
+    },
+    "Fenway Park": {
+      "team": "Boston Red Sox",
+      "city": "Boston, MA",
+      "elevation": 21,
+      "coordinates": {
+        "lat": 42.3467,
+        "lon": -71.0972
+      },
+      "type": "unique_hitter_friendly",
+      "dimensions": {
+        "leftField": 310,
+        "center": 420,
+        "rightField": 302,
+        "foulTerr": "asymmetric"
+      },
+      "factors": {
+        "hits": 1.12,
+        "homeRuns": 1.08,
+        "runs": 1.1,
+        "totalBases": 1.15,
+        "rbi": 1.09,
+        "singles": 1.1,
+        "walks": 1.06,
+        "strikeouts": 0.96,
+        "hitsRunsRbis": 1.1,
+        "pitcherStrikeouts": 0.95,
+        "hitsAllowed": 1.12,
+        "walksAllowed": 1.06,
+        "earnedRunsAllowed": 1.1,
+        "pitchingOuts": 0.96
+      },
+      "weatherSensitivity": {
+        "wind": "extreme",
+        "temperature": "high",
+        "humidity": "medium"
+      },
+      "notes": "Green Monster creates unique dynamics. Wind direction determines if LF is easy or impossible.",
+      "propEffects": {
+        "strong_boost": [
+          "hits",
+          "runs",
+          "totalBases",
+          "singles",
+          "hitsRunsRbis",
+          "hitsAllowed",
+          "earnedRunsAllowed"
+        ],
+        "moderate_boost": [
+          "homeRuns",
+          "rbi",
+          "walks",
+          "walksAllowed"
+        ],
+        "slight_boost": [],
+        "neutral": [],
+        "slight_hurt": [
+          "strikeouts",
+          "pitchingOuts"
+        ],
+        "moderate_hurt": [
+          "pitcherStrikeouts"
+        ],
+        "strong_hurt": []
+      },
+      "weatherImpact": [
+        "wind: extreme",
+        "temperature: high",
+        "humidity: medium"
+      ],
+      "bettingNotes": [
+        "🌪️ Weather critical - wind dramatically affects outcomes"
+      ]
+    },
+    "Yankee Stadium": {
+      "team": "New York Yankees",
+      "city": "Bronx, NY",
+      "elevation": 55,
+      "coordinates": {
+        "lat": 40.8296,
+        "lon": -73.9262
+      },
+      "type": "righty_friendly",
+      "dimensions": {
+        "leftField": 318,
+        "center": 408,
+        "rightField": 314,
+        "foulTerr": "small"
+      },
+      "factors": {
+        "hits": 1.05,
+        "homeRuns": 1.18,
+        "runs": 1.08,
+        "totalBases": 1.12,
+        "rbi": 1.06,
+        "singles": 1.03,
+        "walks": 1.04,
+        "strikeouts": 0.97,
+        "hitsRunsRbis": 1.06,
+        "pitcherStrikeouts": 0.96,
+        "hitsAllowed": 1.05,
+        "walksAllowed": 1.04,
+        "earnedRunsAllowed": 1.08,
+        "pitchingOuts": 0.97
+      },
+      "weatherSensitivity": {
+        "wind": "high",
+        "temperature": "medium",
+        "humidity": "medium"
+      },
+      "notes": "Short porch in right field favors right-handed hitters significantly.",
+      "propEffects": {
+        "strong_boost": [
+          "homeRuns",
+          "totalBases"
+        ],
+        "moderate_boost": [
+          "hits",
+          "runs",
+          "rbi",
+          "hitsRunsRbis",
+          "hitsAllowed",
+          "earnedRunsAllowed"
+        ],
+        "slight_boost": [
+          "singles",
+          "walks",
+          "walksAllowed"
+        ],
+        "neutral": [],
+        "slight_hurt": [
+          "strikeouts",
+          "pitcherStrikeouts",
+          "pitchingOuts"
+        ],
+        "moderate_hurt": [],
+        "strong_hurt": []
+      },
+      "weatherImpact": [
+        "wind: high",
+        "temperature: medium",
+        "humidity: medium"
+      ],
+      "bettingNotes": [
+        "🎯 OVER home runs - 18% boost",
+        "⚾ Favors right-handed hitters significantly"
+      ]
+    }
+  },
+  "quickReference": {
+    "mostHitterFriendly": [
+      {
+        "name": "Coors Field",
+        "team": "Colorado Rockies",
+        "homeRunBoost": "+25%"
+      },
+      {
+        "name": "Great American Ball Park",
+        "team": "Cincinnati Reds",
+        "homeRunBoost": "+15%"
+      },
+      {
+        "name": "Yankee Stadium",
+        "team": "New York Yankees",
+        "homeRunBoost": "+18%"
+      }
+    ],
+    "mostPitcherFriendly": [
+      {
+        "name": "Petco Park",
+        "team": "San Diego Padres",
+        "homeRunSuppression": "-18%"
+      },
+      {
+        "name": "Marlins Park",
+        "team": "Miami Marlins",
+        "homeRunSuppression": "-15%"
+      }
+    ],
+    "weatherSensitive": [
+      {
+        "name": "Coors Field",
+        "team": "Colorado Rockies",
+        "sensitivity": "wind: extreme, temperature: high"
+      },
+      {
+        "name": "Fenway Park",
+        "team": "Boston Red Sox",
+        "sensitivity": "wind: extreme, temperature: high"
+      }
+    ],
+    "uniqueFactors": [
+      {
+        "name": "Coors Field",
+        "team": "Colorado Rockies",
+        "uniqueness": "Thin air at altitude makes balls carry 10% further. Even light wind has major impact."
+      },
+      {
+        "name": "Petco Park",
+        "team": "San Diego Padres",
+        "uniqueness": "Marine layer and consistent offshore breeze suppress offense. Very predictable conditions."
+      },
+      {
+        "name": "Fenway Park",
+        "team": "Boston Red Sox",
+        "uniqueness": "Green Monster creates unique dynamics. Wind direction determines if LF is easy or impossible."
+      }
+    ]
+  }
+}
