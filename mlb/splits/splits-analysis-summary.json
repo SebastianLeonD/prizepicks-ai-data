@@ -1,0 +1,162 @@
+{
+  "lastUpdated": "2025-07-27T15:53:27.712Z",
+  "season": "2024-2025",
+  "description": "Comprehensive split analysis for prop betting",
+  "keyInsights": {
+    "leftHeavyHitters": [
+      {
+        "player": "Henry Davis",
+        "team": "PIT",
+        "vsLefty": "0.754",
+        "vsRighty": "0.361",
+        "advantage": "39 point OPS boost"
+      },
+      {
+        "player": "Miguel Andujar",
+        "team": "ATH",
+        "vsLefty": "0.995",
+        "vsRighty": "0.628",
+        "advantage": "37 point OPS boost"
+      },
+      {
+        "player": "Ke'Bryan Hayes",
+        "team": "PIT",
+        "vsLefty": "0.852",
+        "vsRighty": "0.491",
+        "advantage": "36 point OPS boost"
+      },
+      {
+        "player": "Joey Bart",
+        "team": "PIT",
+        "vsLefty": "0.996",
+        "vsRighty": "0.730",
+        "advantage": "27 point OPS boost"
+      },
+      {
+        "player": "Jacob Wilson",
+        "team": "ATH",
+        "vsLefty": "0.818",
+        "vsRighty": "0.577",
+        "advantage": "24 point OPS boost"
+      },
+      {
+        "player": "Nick Gonzales",
+        "team": "PIT",
+        "vsLefty": "0.837",
+        "vsRighty": "0.665",
+        "advantage": "17 point OPS boost"
+      }
+    ],
+    "rightHeavyHitters": [
+      {
+        "player": "Liover Peguero",
+        "team": "PIT",
+        "vsLefty": "0.000",
+        "vsRighty": "0.555",
+        "advantage": "56 point OPS boost"
+      },
+      {
+        "player": "Spencer Horwitz",
+        "team": "PIT",
+        "vsLefty": "0.522",
+        "vsRighty": "0.864",
+        "advantage": "34 point OPS boost"
+      },
+      {
+        "player": "Gio Urshela",
+        "team": "ATH",
+        "vsLefty": "0.462",
+        "vsRighty": "0.701",
+        "advantage": "24 point OPS boost"
+      },
+      {
+        "player": "Isiah Kiner-Falefa",
+        "team": "PIT",
+        "vsLefty": "0.589",
+        "vsRighty": "0.717",
+        "advantage": "13 point OPS boost"
+      },
+      {
+        "player": "Oneil Cruz",
+        "team": "PIT",
+        "vsLefty": "0.686",
+        "vsRighty": "0.804",
+        "advantage": "12 point OPS boost"
+      },
+      {
+        "player": "Max Schuemann",
+        "team": "ATH",
+        "vsLefty": "0.540",
+        "vsRighty": "0.642",
+        "advantage": "10 point OPS boost"
+      }
+    ],
+    "homeAdvantageTeams": [
+      {
+        "team": "Colorado Rockies",
+        "homeOPS": "0.768",
+        "awayOPS": "0.639",
+        "advantage": "13 point boost at home"
+      },
+      {
+        "team": "Minnesota Twins",
+        "homeOPS": "0.765",
+        "awayOPS": "0.688",
+        "advantage": "8 point boost at home"
+      }
+    ],
+    "roadWarriorTeams": [
+      {
+        "team": "Chicago Cubs",
+        "homeOPS": "0.670",
+        "awayOPS": "0.746",
+        "advantage": "8 point boost on road"
+      },
+      {
+        "team": "Seattle Mariners",
+        "homeOPS": "0.665",
+        "awayOPS": "0.707",
+        "advantage": "4 point boost on road"
+      }
+    ],
+    "hotTeams": [
+      {
+        "team": "Seattle Mariners",
+        "trend": "Improving",
+        "peakMonth": "September"
+      },
+      {
+        "team": "Texas Rangers",
+        "trend": "Improving",
+        "peakMonth": "March"
+      }
+    ],
+    "coldTeams": [
+      {
+        "team": "Athletics",
+        "trend": "Declining",
+        "worstMonth": "April"
+      },
+      {
+        "team": "Pittsburgh Pirates",
+        "trend": "Declining",
+        "worstMonth": "April"
+      },
+      {
+        "team": "Toronto Blue Jays",
+        "trend": "Declining",
+        "worstMonth": "September"
+      },
+      {
+        "team": "Minnesota Twins",
+        "trend": "Declining",
+        "worstMonth": "September"
+      }
+    ]
+  },
+  "splitCategories": {
+    "leftRightSplits": 50,
+    "homeAwaySplits": 30,
+    "monthlySplits": 10
+  }
+}
