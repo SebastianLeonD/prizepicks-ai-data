@@ -1,0 +1,333 @@
+{
+  "date": "2025-07-27",
+  "lastUpdated": "2025-07-27T04:54:28.210Z",
+  "alerts": [
+    {
+      "type": "Recent Rematch",
+      "game": "Colorado Rockies @ Baltimore Orioles",
+      "alert": "Teams last played 0 days ago",
+      "seriesRecord": "1-1"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Austin Nola",
+      "game": "Colorado Rockies @ Baltimore Orioles",
+      "alert": "UNDER - Austin Nola averages 0 hits vs this opponent (0.75 overall)",
+      "trend": "struggles_vs_opponent"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Alex Jackson",
+      "game": "Colorado Rockies @ Baltimore Orioles",
+      "alert": "OVER - Alex Jackson averages 1.5 hits vs this opponent (0.58 overall)",
+      "trend": "crushes_opponent"
+    },
+    {
+      "type": "Recent Rematch",
+      "game": "Los Angeles Dodgers @ Boston Red Sox",
+      "alert": "Teams last played 0 days ago",
+      "seriesRecord": "1-1"
+    },
+    {
+      "type": "Recent Rematch",
+      "game": "Arizona Diamondbacks @ Pittsburgh Pirates",
+      "alert": "Teams last played 0 days ago",
+      "seriesRecord": "1-2"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Adrian Del Castillo",
+      "game": "Arizona Diamondbacks @ Pittsburgh Pirates",
+      "alert": "UNDER - Adrian Del Castillo averages 0.5 hits vs this opponent (1.2 overall)",
+      "trend": "struggles_vs_opponent"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Andrew Saalfrank",
+      "game": "Arizona Diamondbacks @ Pittsburgh Pirates",
+      "alert": "UNDER - Andrew Saalfrank averages 0 hits vs this opponent (1 overall)",
+      "trend": "struggles_vs_opponent"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Anthony DeSclafani",
+      "game": "Arizona Diamondbacks @ Pittsburgh Pirates",
+      "alert": "UNDER - Anthony DeSclafani averages 0 hits vs this opponent (2.38 overall)",
+      "trend": "struggles_vs_opponent"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Andrew Heaney",
+      "game": "Arizona Diamondbacks @ Pittsburgh Pirates",
+      "alert": "OVER - Andrew Heaney averages 8 hits vs this opponent (4.73 overall)",
+      "trend": "crushes_opponent"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Braxton Ashcraft",
+      "game": "Arizona Diamondbacks @ Pittsburgh Pirates",
+      "alert": "UNDER - Braxton Ashcraft averages 1 hits vs this opponent (1.71 overall)",
+      "trend": "struggles_vs_opponent"
+    },
+    {
+      "type": "Recent Rematch",
+      "game": "Philadelphia Phillies @ New York Yankees",
+      "alert": "Teams last played 0 days ago",
+      "seriesRecord": "2-0"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Alan Rangel",
+      "game": "Philadelphia Phillies @ New York Yankees",
+      "alert": "UNDER - Alan Rangel averages 0 hits vs this opponent (3 overall)",
+      "trend": "struggles_vs_opponent"
+    },
+    {
+      "type": "Recent Rematch",
+      "game": "Tampa Bay Rays @ Cincinnati Reds",
+      "alert": "Teams last played 0 days ago",
+      "seriesRecord": "0-2"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Bryan Baker",
+      "game": "Tampa Bay Rays @ Cincinnati Reds",
+      "alert": "UNDER - Bryan Baker averages 0 hits vs this opponent (0.8 overall)",
+      "trend": "struggles_vs_opponent"
+    },
+    {
+      "type": "Recent Rematch",
+      "game": "Toronto Blue Jays @ Detroit Tigers",
+      "alert": "Teams last played 0 days ago",
+      "seriesRecord": "3-0"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Braydon Fisher",
+      "game": "Toronto Blue Jays @ Detroit Tigers",
+      "alert": "OVER - Braydon Fisher averages 2 hits vs this opponent (0.8 overall)",
+      "trend": "crushes_opponent"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Brant Hurter",
+      "game": "Toronto Blue Jays @ Detroit Tigers",
+      "alert": "UNDER - Brant Hurter averages 0 hits vs this opponent (1.27 overall)",
+      "trend": "struggles_vs_opponent"
+    },
+    {
+      "type": "Recent Rematch",
+      "game": "Cleveland Guardians @ Kansas City Royals",
+      "alert": "Teams last played 0 days ago",
+      "seriesRecord": "1-2"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Angel Martínez",
+      "game": "Cleveland Guardians @ Kansas City Royals",
+      "alert": "OVER - Angel Martínez averages 1.67 hits vs this opponent (1.2 overall)",
+      "trend": "crushes_opponent"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Austin Hedges",
+      "game": "Cleveland Guardians @ Kansas City Royals",
+      "alert": "OVER - Austin Hedges averages 0.5 hits vs this opponent (0.33 overall)",
+      "trend": "crushes_opponent"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Cade Smith",
+      "game": "Cleveland Guardians @ Kansas City Royals",
+      "alert": "UNDER - Cade Smith averages 0.5 hits vs this opponent (0.73 overall)",
+      "trend": "struggles_vs_opponent"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Carlos Estévez",
+      "game": "Cleveland Guardians @ Kansas City Royals",
+      "alert": "UNDER - Carlos Estévez averages 0.33 hits vs this opponent (0.6 overall)",
+      "trend": "struggles_vs_opponent"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Freddy Fermin",
+      "game": "Cleveland Guardians @ Kansas City Royals",
+      "alert": "UNDER - Freddy Fermin averages 0.2 hits vs this opponent (0.53 overall)",
+      "trend": "struggles_vs_opponent"
+    },
+    {
+      "type": "Recent Rematch",
+      "game": "Athletics @ Houston Astros",
+      "alert": "Teams last played 0 days ago",
+      "seriesRecord": "5-3"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Carlos Cortes",
+      "game": "Athletics @ Houston Astros",
+      "alert": "OVER - Carlos Cortes averages 1.33 hits vs this opponent (1 overall)",
+      "trend": "crushes_opponent"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Colby Thomas",
+      "game": "Athletics @ Houston Astros",
+      "alert": "UNDER - Colby Thomas averages 0 hits vs this opponent (0.22 overall)",
+      "trend": "struggles_vs_opponent"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Brice Matthews",
+      "game": "Athletics @ Houston Astros",
+      "alert": "UNDER - Brice Matthews averages 0.33 hits vs this opponent (0.5 overall)",
+      "trend": "struggles_vs_opponent"
+    },
+    {
+      "type": "Recent Rematch",
+      "game": "Washington Nationals @ Minnesota Twins",
+      "alert": "Teams last played 0 days ago",
+      "seriesRecord": "1-1"
+    },
+    {
+      "type": "Recent Rematch",
+      "game": "Chicago Cubs @ Chicago White Sox",
+      "alert": "Teams last played 0 days ago",
+      "seriesRecord": "1-1"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Aaron Civale",
+      "game": "Chicago Cubs @ Chicago White Sox",
+      "alert": "UNDER - Aaron Civale averages 3 hits vs this opponent (4.77 overall)",
+      "trend": "struggles_vs_opponent"
+    },
+    {
+      "type": "Recent Rematch",
+      "game": "Miami Marlins @ Milwaukee Brewers",
+      "alert": "Teams last played 0 days ago",
+      "seriesRecord": "3-2"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Aaron Ashby",
+      "game": "Miami Marlins @ Milwaukee Brewers",
+      "alert": "UNDER - Aaron Ashby averages 0 hits vs this opponent (1.47 overall)",
+      "trend": "struggles_vs_opponent"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Anthony Seigler",
+      "game": "Miami Marlins @ Milwaukee Brewers",
+      "alert": "UNDER - Anthony Seigler averages 0 hits vs this opponent (0.36 overall)",
+      "trend": "struggles_vs_opponent"
+    },
+    {
+      "type": "Recent Rematch",
+      "game": "San Diego Padres @ St. Louis Cardinals",
+      "alert": "Teams last played 0 days ago",
+      "seriesRecord": "1-2"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Andre Granillo",
+      "game": "San Diego Padres @ St. Louis Cardinals",
+      "alert": "OVER - Andre Granillo averages 2 hits vs this opponent (1 overall)",
+      "trend": "crushes_opponent"
+    },
+    {
+      "type": "Recent Rematch",
+      "game": "Atlanta Braves @ Texas Rangers",
+      "alert": "Teams last played 0 days ago",
+      "seriesRecord": "0-2"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Dane Dunning",
+      "game": "Atlanta Braves @ Texas Rangers",
+      "alert": "UNDER - Dane Dunning averages 0 hits vs this opponent (1.5 overall)",
+      "trend": "struggles_vs_opponent"
+    },
+    {
+      "type": "Recent Rematch",
+      "game": "Seattle Mariners @ Los Angeles Angels",
+      "alert": "Teams last played 0 days ago",
+      "seriesRecord": "3-3"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Andrés Muñoz",
+      "game": "Seattle Mariners @ Los Angeles Angels",
+      "alert": "UNDER - Andrés Muñoz averages 0 hits vs this opponent (0.33 overall)",
+      "trend": "struggles_vs_opponent"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Ben Williamson",
+      "game": "Seattle Mariners @ Los Angeles Angels",
+      "alert": "UNDER - Ben Williamson averages 0 hits vs this opponent (1 overall)",
+      "trend": "struggles_vs_opponent"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Carlos Vargas",
+      "game": "Seattle Mariners @ Los Angeles Angels",
+      "alert": "UNDER - Carlos Vargas averages 1 hits vs this opponent (1.53 overall)",
+      "trend": "struggles_vs_opponent"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Carson Fulmer",
+      "game": "Seattle Mariners @ Los Angeles Angels",
+      "alert": "UNDER - Carson Fulmer averages 1 hits vs this opponent (1.33 overall)",
+      "trend": "struggles_vs_opponent"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Connor Brogdon",
+      "game": "Seattle Mariners @ Los Angeles Angels",
+      "alert": "UNDER - Connor Brogdon averages 0 hits vs this opponent (1 overall)",
+      "trend": "struggles_vs_opponent"
+    },
+    {
+      "type": "Player vs Opponent History",
+      "player": "Gustavo Campero",
+      "game": "Seattle Mariners @ Los Angeles Angels",
+      "alert": "OVER - Gustavo Campero averages 1 hits vs this opponent (0.27 overall)",
+      "trend": "crushes_opponent"
+    },
+    {
+      "type": "Recent Rematch",
+      "game": "New York Mets @ San Francisco Giants",
+      "alert": "Teams last played 0 days ago",
+      "seriesRecord": "2-0"
+    }
+  ],
+  "topOpportunities": [
+    {
+      "player": "Austin Nola",
+      "opportunity": "UNDER - Austin Nola averages 0 hits vs this opponent (0.75 overall)",
+      "confidence": "Medium"
+    },
+    {
+      "player": "Alex Jackson",
+      "opportunity": "OVER - Alex Jackson averages 1.5 hits vs this opponent (0.58 overall)",
+      "confidence": "High"
+    },
+    {
+      "player": "Adrian Del Castillo",
+      "opportunity": "UNDER - Adrian Del Castillo averages 0.5 hits vs this opponent (1.2 overall)",
+      "confidence": "Medium"
+    },
+    {
+      "player": "Andrew Saalfrank",
+      "opportunity": "UNDER - Andrew Saalfrank averages 0 hits vs this opponent (1 overall)",
+      "confidence": "Medium"
+    },
+    {
+      "player": "Anthony DeSclafani",
+      "opportunity": "UNDER - Anthony DeSclafani averages 0 hits vs this opponent (2.38 overall)",
+      "confidence": "Medium"
+    }
+  ]
+}
