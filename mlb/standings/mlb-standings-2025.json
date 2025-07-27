@@ -1,0 +1,488 @@
+{
+  "season": "2025",
+  "lastUpdated": "2025-07-27T04:32:33.616Z",
+  "leagues": {
+    "103": {
+      "divisions": {
+        "200": {
+          "teams": [
+            {
+              "id": 117,
+              "name": "Houston Astros",
+              "wins": 60,
+              "losses": 45,
+              "winningPercentage": ".571",
+              "leagueRank": "2",
+              "divisionRank": "1",
+              "sportRank": "7",
+              "gamesPlayed": 105,
+              "streak": "L3",
+              "runsScored": 455,
+              "runsAllowed": 410,
+              "runDifferential": 45
+            },
+            {
+              "id": 136,
+              "name": "Seattle Mariners",
+              "wins": 55,
+              "losses": 49,
+              "winningPercentage": ".529",
+              "leagueRank": "5",
+              "divisionRank": "2",
+              "sportRank": "11",
+              "gamesPlayed": 104,
+              "streak": "L1",
+              "runsScored": 476,
+              "runsAllowed": 458,
+              "runDifferential": 18
+            },
+            {
+              "id": 140,
+              "name": "Texas Rangers",
+              "wins": 55,
+              "losses": 50,
+              "winningPercentage": ".524",
+              "leagueRank": "7",
+              "divisionRank": "3",
+              "sportRank": "14",
+              "gamesPlayed": 105,
+              "streak": "W5",
+              "runsScored": 429,
+              "runsAllowed": 362,
+              "runDifferential": 67
+            },
+            {
+              "id": 108,
+              "name": "Los Angeles Angels",
+              "wins": 50,
+              "losses": 54,
+              "winningPercentage": ".481",
+              "leagueRank": "11",
+              "divisionRank": "4",
+              "sportRank": "22",
+              "gamesPlayed": 104,
+              "streak": "W1",
+              "runsScored": 452,
+              "runsAllowed": 518,
+              "runDifferential": -66
+            },
+            {
+              "id": 133,
+              "name": "Athletics",
+              "wins": 45,
+              "losses": 62,
+              "winningPercentage": ".421",
+              "leagueRank": "14",
+              "divisionRank": "5",
+              "sportRank": "26",
+              "gamesPlayed": 107,
+              "streak": "W3",
+              "runsScored": 463,
+              "runsAllowed": 590,
+              "runDifferential": -127
+            }
+          ]
+        },
+        "201": {
+          "teams": [
+            {
+              "id": 141,
+              "name": "Toronto Blue Jays",
+              "wins": 63,
+              "losses": 42,
+              "winningPercentage": ".600",
+              "leagueRank": "1",
+              "divisionRank": "1",
+              "sportRank": "1",
+              "gamesPlayed": 105,
+              "streak": "W4",
+              "runsScored": 497,
+              "runsAllowed": 449,
+              "runDifferential": 48
+            },
+            {
+              "id": 147,
+              "name": "New York Yankees",
+              "wins": 56,
+              "losses": 48,
+              "winningPercentage": ".538",
+              "leagueRank": "4",
+              "divisionRank": "2",
+              "sportRank": "9",
+              "gamesPlayed": 104,
+              "streak": "L3",
+              "runsScored": 539,
+              "runsAllowed": 445,
+              "runDifferential": 94
+            },
+            {
+              "id": 111,
+              "name": "Boston Red Sox",
+              "wins": 56,
+              "losses": 50,
+              "winningPercentage": ".528",
+              "leagueRank": "6",
+              "divisionRank": "3",
+              "sportRank": "12",
+              "gamesPlayed": 106,
+              "streak": "W1",
+              "runsScored": 516,
+              "runsAllowed": 463,
+              "runDifferential": 53
+            },
+            {
+              "id": 139,
+              "name": "Tampa Bay Rays",
+              "wins": 53,
+              "losses": 52,
+              "winningPercentage": ".505",
+              "leagueRank": "8",
+              "divisionRank": "4",
+              "sportRank": "17",
+              "gamesPlayed": 105,
+              "streak": "L3",
+              "runsScored": 487,
+              "runsAllowed": 432,
+              "runDifferential": 55
+            },
+            {
+              "id": 110,
+              "name": "Baltimore Orioles",
+              "wins": 46,
+              "losses": 58,
+              "winningPercentage": ".442",
+              "leagueRank": "13",
+              "divisionRank": "5",
+              "sportRank": "24",
+              "gamesPlayed": 104,
+              "streak": "W1",
+              "runsScored": 439,
+              "runsAllowed": 529,
+              "runDifferential": -90
+            }
+          ]
+        },
+        "202": {
+          "teams": [
+            {
+              "id": 116,
+              "name": "Detroit Tigers",
+              "wins": 60,
+              "losses": 46,
+              "winningPercentage": ".566",
+              "leagueRank": "3",
+              "divisionRank": "1",
+              "sportRank": "8",
+              "gamesPlayed": 106,
+              "streak": "L6",
+              "runsScored": 498,
+              "runsAllowed": 442,
+              "runDifferential": 56
+            },
+            {
+              "id": 114,
+              "name": "Cleveland Guardians",
+              "wins": 52,
+              "losses": 52,
+              "winningPercentage": ".500",
+              "leagueRank": "9",
+              "divisionRank": "2",
+              "sportRank": "18",
+              "gamesPlayed": 104,
+              "streak": "W1",
+              "runsScored": 402,
+              "runsAllowed": 437,
+              "runDifferential": -35
+            },
+            {
+              "id": 118,
+              "name": "Kansas City Royals",
+              "wins": 51,
+              "losses": 54,
+              "winningPercentage": ".486",
+              "leagueRank": "10",
+              "divisionRank": "3",
+              "sportRank": "20",
+              "gamesPlayed": 105,
+              "streak": "L1",
+              "runsScored": 372,
+              "runsAllowed": 394,
+              "runDifferential": -22
+            },
+            {
+              "id": 142,
+              "name": "Minnesota Twins",
+              "wins": 50,
+              "losses": 54,
+              "winningPercentage": ".481",
+              "leagueRank": "12",
+              "divisionRank": "4",
+              "sportRank": "23",
+              "gamesPlayed": 104,
+              "streak": "L1",
+              "runsScored": 438,
+              "runsAllowed": 452,
+              "runDifferential": -14
+            },
+            {
+              "id": 145,
+              "name": "Chicago White Sox",
+              "wins": 38,
+              "losses": 67,
+              "winningPercentage": ".362",
+              "leagueRank": "15",
+              "divisionRank": "5",
+              "sportRank": "29",
+              "gamesPlayed": 105,
+              "streak": "L1",
+              "runsScored": 394,
+              "runsAllowed": 464,
+              "runDifferential": -70
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "divisions": {
+        "203": {
+          "teams": [
+            {
+              "id": 119,
+              "name": "Los Angeles Dodgers",
+              "wins": 61,
+              "losses": 44,
+              "winningPercentage": ".581",
+              "leagueRank": "3",
+              "divisionRank": "1",
+              "sportRank": "4",
+              "gamesPlayed": 105,
+              "streak": "L1",
+              "runsScored": 553,
+              "runsAllowed": 486,
+              "runDifferential": 67
+            },
+            {
+              "id": 135,
+              "name": "San Diego Padres",
+              "wins": 56,
+              "losses": 49,
+              "winningPercentage": ".533",
+              "leagueRank": "6",
+              "divisionRank": "2",
+              "sportRank": "10",
+              "gamesPlayed": 105,
+              "streak": "W1",
+              "runsScored": 417,
+              "runsAllowed": 404,
+              "runDifferential": 13
+            },
+            {
+              "id": 137,
+              "name": "San Francisco Giants",
+              "wins": 54,
+              "losses": 51,
+              "winningPercentage": ".514",
+              "leagueRank": "8",
+              "divisionRank": "3",
+              "sportRank": "15",
+              "gamesPlayed": 105,
+              "streak": "L2",
+              "runsScored": 433,
+              "runsAllowed": 422,
+              "runDifferential": 11
+            },
+            {
+              "id": 109,
+              "name": "Arizona Diamondbacks",
+              "wins": 51,
+              "losses": 54,
+              "winningPercentage": ".486",
+              "leagueRank": "10",
+              "divisionRank": "4",
+              "sportRank": "19",
+              "gamesPlayed": 105,
+              "streak": "L1",
+              "runsScored": 523,
+              "runsAllowed": 510,
+              "runDifferential": 13
+            },
+            {
+              "id": 115,
+              "name": "Colorado Rockies",
+              "wins": 27,
+              "losses": 77,
+              "winningPercentage": ".260",
+              "leagueRank": "15",
+              "divisionRank": "5",
+              "sportRank": "30",
+              "gamesPlayed": 104,
+              "streak": "L1",
+              "runsScored": 375,
+              "runsAllowed": 639,
+              "runDifferential": -264
+            }
+          ]
+        },
+        "204": {
+          "teams": [
+            {
+              "id": 121,
+              "name": "New York Mets",
+              "wins": 61,
+              "losses": 44,
+              "winningPercentage": ".581",
+              "leagueRank": "4",
+              "divisionRank": "1",
+              "sportRank": "5",
+              "gamesPlayed": 105,
+              "streak": "W6",
+              "runsScored": 461,
+              "runsAllowed": 408,
+              "runDifferential": 53
+            },
+            {
+              "id": 143,
+              "name": "Philadelphia Phillies",
+              "wins": 60,
+              "losses": 44,
+              "winningPercentage": ".577",
+              "leagueRank": "5",
+              "divisionRank": "2",
+              "sportRank": "6",
+              "gamesPlayed": 104,
+              "streak": "W2",
+              "runsScored": 490,
+              "runsAllowed": 415,
+              "runDifferential": 75
+            },
+            {
+              "id": 146,
+              "name": "Miami Marlins",
+              "wins": 50,
+              "losses": 53,
+              "winningPercentage": ".485",
+              "leagueRank": "11",
+              "divisionRank": "3",
+              "sportRank": "21",
+              "gamesPlayed": 103,
+              "streak": "W4",
+              "runsScored": 443,
+              "runsAllowed": 490,
+              "runDifferential": -47
+            },
+            {
+              "id": 144,
+              "name": "Atlanta Braves",
+              "wins": 44,
+              "losses": 59,
+              "winningPercentage": ".427",
+              "leagueRank": "12",
+              "divisionRank": "4",
+              "sportRank": "25",
+              "gamesPlayed": 103,
+              "streak": "L4",
+              "runsScored": 426,
+              "runsAllowed": 442,
+              "runDifferential": -16
+            },
+            {
+              "id": 120,
+              "name": "Washington Nationals",
+              "wins": 42,
+              "losses": 62,
+              "winningPercentage": ".404",
+              "leagueRank": "14",
+              "divisionRank": "5",
+              "sportRank": "28",
+              "gamesPlayed": 104,
+              "streak": "W1",
+              "runsScored": 449,
+              "runsAllowed": 554,
+              "runDifferential": -105
+            }
+          ]
+        },
+        "205": {
+          "teams": [
+            {
+              "id": 112,
+              "name": "Chicago Cubs",
+              "wins": 61,
+              "losses": 43,
+              "winningPercentage": ".587",
+              "leagueRank": "1",
+              "divisionRank": "1",
+              "sportRank": "2",
+              "gamesPlayed": 104,
+              "streak": "W1",
+              "runsScored": 548,
+              "runsAllowed": 433,
+              "runDifferential": 115
+            },
+            {
+              "id": 158,
+              "name": "Milwaukee Brewers",
+              "wins": 61,
+              "losses": 43,
+              "winningPercentage": ".587",
+              "leagueRank": "2",
+              "divisionRank": "2",
+              "sportRank": "3",
+              "gamesPlayed": 104,
+              "streak": "L2",
+              "runsScored": 494,
+              "runsAllowed": 403,
+              "runDifferential": 91
+            },
+            {
+              "id": 113,
+              "name": "Cincinnati Reds",
+              "wins": 55,
+              "losses": 50,
+              "winningPercentage": ".524",
+              "leagueRank": "7",
+              "divisionRank": "3",
+              "sportRank": "13",
+              "gamesPlayed": 105,
+              "streak": "W3",
+              "runsScored": 483,
+              "runsAllowed": 439,
+              "runDifferential": 44
+            },
+            {
+              "id": 138,
+              "name": "St. Louis Cardinals",
+              "wins": 54,
+              "losses": 52,
+              "winningPercentage": ".509",
+              "leagueRank": "9",
+              "divisionRank": "4",
+              "sportRank": "16",
+              "gamesPlayed": 106,
+              "streak": "L1",
+              "runsScored": 474,
+              "runsAllowed": 475,
+              "runDifferential": -1
+            },
+            {
+              "id": 134,
+              "name": "Pittsburgh Pirates",
+              "wins": 43,
+              "losses": 62,
+              "winningPercentage": ".410",
+              "leagueRank": "13",
+              "divisionRank": "5",
+              "sportRank": "27",
+              "gamesPlayed": 105,
+              "streak": "W1",
+              "runsScored": 352,
+              "runsAllowed": 413,
+              "runDifferential": -61
+            }
+          ]
+        }
+      }
+    }
+  }
+}
