@@ -1,0 +1,93 @@
+{
+  "lastUpdated": "2025-07-27T16:48:57.908Z",
+  "season": "2025",
+  "description": "Advanced metrics summary for prop betting insights",
+  "keyInsights": {
+    "elitePowerHitters": [],
+    "contactMasters": [],
+    "plateDiscipLiners": [],
+    "eliteDefenses": [],
+    "errorProneTeams": [
+      {
+        "team": "Athletics",
+        "errorRate": "5.82%",
+        "totalErrors": 84
+      },
+      {
+        "team": "Pittsburgh Pirates",
+        "errorRate": "6.23%",
+        "totalErrors": 91
+      },
+      {
+        "team": "San Diego Padres",
+        "errorRate": "5.47%",
+        "totalErrors": 75
+      },
+      {
+        "team": "Seattle Mariners",
+        "errorRate": "5.76%",
+        "totalErrors": 79
+      },
+      {
+        "team": "San Francisco Giants",
+        "errorRate": "5.29%",
+        "totalErrors": 87
+      },
+      {
+        "team": "St. Louis Cardinals",
+        "errorRate": "4.69%",
+        "totalErrors": 75
+      },
+      {
+        "team": "Tampa Bay Rays",
+        "errorRate": "6.64%",
+        "totalErrors": 90
+      },
+      {
+        "team": "Texas Rangers",
+        "errorRate": "5.07%",
+        "totalErrors": 73
+      },
+      {
+        "team": "Toronto Blue Jays",
+        "errorRate": "6.36%",
+        "totalErrors": 92
+      },
+      {
+        "team": "Minnesota Twins",
+        "errorRate": "5.38%",
+        "totalErrors": 70
+      },
+      {
+        "team": "Philadelphia Phillies",
+        "errorRate": "5.48%",
+        "totalErrors": 85
+      },
+      {
+        "team": "Atlanta Braves",
+        "errorRate": "4.52%",
+        "totalErrors": 68
+      },
+      {
+        "team": "Chicago White Sox",
+        "errorRate": "6.59%",
+        "totalErrors": 90
+      },
+      {
+        "team": "Miami Marlins",
+        "errorRate": "7.55%",
+        "totalErrors": 117
+      },
+      {
+        "team": "New York Yankees",
+        "errorRate": "6.58%",
+        "totalErrors": 93
+      }
+    ]
+  },
+  "metricCategories": {
+    "statcastMetrics": 6,
+    "sabermetricsTeams": 15,
+    "defensiveTeams": 15
+  }
+}
